@@ -1,0 +1,254 @@
+ED_CODE,ED_NAME,ALLMAN,BANNON,HANSEN,PAYNE,RUTHERFORD,SMINK,WILKINSON,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+070,PERTH--WELLINGTON,0,6,12,9,79,1,67,"Mount Forest",001, ,2,0,0,176,339,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,19,26,66,0,53,"Mount Forest",002, ,3,0,0,170,337,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,2,3,13,12,48,0,25,"Mount Forest",003, ,0,1,0,104,267,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,13,6,17,2,22,"Mount Forest",004, ,0,0,0,63,178,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,2,0,4,3,19,0,21,"Wellington North",005s, ,0,1,0,50,103,"Birmingham Lodge",20071010
+070,PERTH--WELLINGTON,1,1,15,8,90,1,75,"Mount Forest",006, ,0,0,1,192,363,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,2,15,10,59,0,30,"Mount Forest",007, ,0,0,0,117,303,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,3,7,7,10,37,0,50,"Mount Forest",008, ,0,0,0,114,280,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,4,25,10,52,0,62,"Mount Forest",009, ,0,0,0,153,307,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,2,1,15,13,56,0,53,"Damascus",010, ,1,1,0,142,271,"Damascus Community Centre",20071010
+070,PERTH--WELLINGTON,1,2,20,9,39,0,60,"Clifford",011, ,1,0,0,132,267,"Clifford Community Centre",20071010
+070,PERTH--WELLINGTON,0,1,25,19,41,2,52,"Clifford",012, ,2,0,0,142,317,"Clifford Community Centre",20071010
+070,PERTH--WELLINGTON,1,3,15,15,64,2,50,"Clifford",013, ,1,0,0,151,355,"Clifford Community Centre",20071010
+070,PERTH--WELLINGTON,1,0,8,16,57,0,34,"Harriston",014, ,1,0,0,117,215,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,2,1,15,17,62,0,74,"Mount Forest",015, ,0,1,0,172,393,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,1,1,15,0,5,"Mount Forest",016s, ,1,0,0,23,84,"Saugeen Valley Nursing Home",20071010
+070,PERTH--WELLINGTON,0,2,22,14,64,1,48,"Mount Forest",017, ,0,0,0,151,346,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,4,8,14,39,0,80,"Mount Forest",018, ,1,0,0,147,329,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,7,11,30,95,2,99,"Harriston",019, ,0,0,0,244,463,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,1,1,17,18,103,0,68,"Harriston",020, ,0,1,0,209,408,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,2,4,19,5,56,1,63,"Mount Forest",021, ,0,0,0,150,425,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,11,20,25,86,0,63,"Mount Forest",022, ,1,0,0,207,476,"Mount Forest & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,1,14,19,63,0,59,"Harriston",023, ,2,0,1,159,301,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,0,0,2,0,9,0,12,"Harriston",024s, ,0,1,0,24,104,"Caressant Care Harriston",20071010
+070,PERTH--WELLINGTON,1,0,12,4,38,0,30,"Harriston",025, ,0,1,0,86,174,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,0,3,16,16,58,0,46,"Harriston",026, ,0,0,0,139,300,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,0,2,20,34,87,0,103,"Harriston",027, ,0,1,0,247,438,"Harriston & Minto Community Complex",20071010
+070,PERTH--WELLINGTON,2,3,22,35,104,0,62,"Damascus",028, ,1,1,0,230,521,"Damascus Community Centre",20071010
+070,PERTH--WELLINGTON,1,8,17,12,70,0,45,"Palmerston",029, ,0,0,0,153,344,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,12,17,73,0,39,"Arthur",030, ,0,0,0,144,376,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,1,5,9,18,87,0,32,"Arthur",031, ,1,0,0,153,302,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,2,0,16,14,61,0,50,"Palmerston",032, ,0,0,0,143,304,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,1,9,11,47,0,44,"Palmerston",033, ,0,0,0,113,239,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,4,10,16,41,1,43,"Palmerston",034, ,0,0,0,116,282,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,1,7,1,20,0,17,"Palmerston",035s, ,2,0,0,49,101,"Royal Terrace",20071010
+070,PERTH--WELLINGTON,1,2,34,13,123,4,64,"Arthur",036, ,0,0,0,241,462,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,0,2,23,10,85,0,56,"Arthur",037, ,0,0,0,176,371,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,1,4,4,3,24,3,4,"Arthur",038s, ,0,0,0,43,117,"Caressant Care Arthur",20071010
+070,PERTH--WELLINGTON,0,1,8,21,80,1,28,"Arthur",039, ,0,0,0,139,303,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,3,0,9,9,75,0,28,"Arthur",040, ,1,0,0,125,217,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,0,9,12,14,55,2,53,"Palmerston",041, ,1,0,0,146,367,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,4,19,19,55,1,51,"Palmerston",042, ,1,0,0,150,314,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,2,6,10,13,81,0,54,"Gowanstown",043, ,0,0,0,166,310,"Wallace Public School",20071010
+070,PERTH--WELLINGTON,1,2,12,14,56,1,82,"Palmerston",044, ,0,0,0,168,335,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,16,8,51,0,52,"Palmerston",045, ,0,0,0,130,307,"Palmerston & District Community Centre",20071010
+070,PERTH--WELLINGTON,1,2,18,16,71,0,23,"Moorefield",046, ,0,0,0,131,281,"Moorefield Community Centre",20071010
+070,PERTH--WELLINGTON,0,5,22,18,89,1,51,"Arthur",047, ,0,0,0,186,497,"Arthur & Area Community Centre",20071010
+070,PERTH--WELLINGTON,2,16,15,13,86,0,58,"Gowanstown",048, ,0,0,0,190,347,"Wallace Public School",20071010
+070,PERTH--WELLINGTON,0,4,19,22,89,0,79,"Moorefield",049, ,1,1,0,215,522,"Moorefield Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,3,14,76,0,28,"Drayton",050, ,1,2,0,124,232,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,1,4,48,19,158,0,71,"Alma",051, ,9,0,0,310,565,"Alma Public School",20071010
+070,PERTH--WELLINGTON,1,5,8,10,70,1,65,"Listowel",052, ,4,4,0,168,324,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,2,12,16,11,102,1,148,"Gowanstown",053, ,0,0,0,292,534,"Wallace Public School",20071010
+070,PERTH--WELLINGTON,1,3,11,11,76,1,44,"Drayton",054, ,0,0,0,147,254,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,1,9,19,16,119,1,60,"Drayton",055, ,3,0,0,228,451,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,0,0,14,11,96,0,29,"Drayton",056, ,0,0,0,150,370,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,2,6,9,17,80,0,67,"Atwood",057, ,1,0,0,182,348,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,1,5,17,9,96,0,95,"Listowel",058, ,0,0,2,225,475,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,5,10,14,80,1,109,"Listowel",059, ,0,2,0,221,411,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,1,3,14,15,92,0,74,"Listowel",060, ,0,0,0,199,350,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Listowel",061s, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Listowel",062s, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,0,1,13,15,52,0,77,"Listowel",063, ,9,0,0,167,326,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,1,7,18,13,47,3,66,"Listowel",064, ,3,0,0,158,312,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,2,10,11,40,1,43,"Listowel",065, ,0,0,0,107,298,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,2,4,18,15,61,1,97,"Listowel",066, ,0,0,0,198,378,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,1,1,15,14,59,0,54,"Listowel",067, ,0,0,0,144,321,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,0,12,2,19,0,21,"Listowel",068, ,3,0,0,57,217,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,1,1,2,18,0,26,"Listowel",069s, ,0,1,0,49,112,"Caressant Care Listowel",20071010
+070,PERTH--WELLINGTON,0,2,5,4,36,0,45,"Listowel",070, ,0,0,0,92,261,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Listowel",071s, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,0,2,7,6,58,0,51,"Listowel",072, ,0,0,0,124,288,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,3,12,15,71,0,93,"Listowel",073, ,0,0,0,194,382,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,1,1,15,11,80,0,96,"Listowel",074, ,0,1,0,205,354,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,3,13,5,40,0,45,"Listowel",075, ,4,0,0,110,211,"Parkview Gardens (Legion Auditorium)",20071010
+070,PERTH--WELLINGTON,0,3,13,8,74,0,48,"Moorefield",076, ,2,0,0,148,285,"Moorefield Community Centre",20071010
+070,PERTH--WELLINGTON,0,6,28,16,124,1,85,"Alma",077, ,8,3,0,271,490,"Alma Public School",20071010
+070,PERTH--WELLINGTON,1,3,8,4,52,0,36,"Atwood",078, ,0,0,0,104,258,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,0,7,14,10,59,0,42,"Moorefield",079, ,0,0,0,132,388,"Moorefield Community Centre",20071010
+070,PERTH--WELLINGTON,1,7,16,9,106,1,56,"Drayton",080, ,0,0,0,196,345,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,3,1,12,6,57,0,32,"Drayton",081, ,0,0,0,111,415,"Centre Peel Public School",20071010
+070,PERTH--WELLINGTON,1,3,19,10,91,0,74,"Atwood",082, ,0,0,0,198,344,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,2,2,32,14,93,1,128,"Atwood",083, ,1,1,0,274,467,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,2,3,8,7,67,1,49,"Atwood",084, ,2,0,0,139,261,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,7,6,17,0,20,"Drayton",085, ,0,0,0,50,125,"Centre Peel Public School",20071010
+070,PERTH--WELLINGTON,0,4,5,5,22,1,16,"Milverton",086, ,0,0,0,53,298,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,1,2,4,12,12,2,32,"Milverton",087, ,0,0,0,65,301,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,1,0,5,5,34,0,16,"Drayton",088, ,1,0,0,62,391,"Centre Peel Public School",20071010
+070,PERTH--WELLINGTON,1,4,12,10,43,0,62,"Atwood",089, ,0,1,0,133,300,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,17,17,53,0,80,"Atwood",090, ,0,1,0,171,461,"Elma Memorial Community Centre",20071010
+070,PERTH--WELLINGTON,2,0,7,3,36,0,69,"Milverton",091, ,1,0,0,118,280,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,1,0,9,9,14,0,35,"Milverton",092, ,0,0,0,68,290,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,0,0,4,7,45,0,46,"Milverton",093, ,0,0,0,102,556,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,3,9,14,14,84,0,103,"Bornholm",094, ,0,0,0,227,453,"Logan Municipal Office (Reformed Church)",20071010
+070,PERTH--WELLINGTON,4,2,6,14,45,0,61,"Milverton",095, ,0,0,0,132,291,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,0,1,1,0,9,1,12,"Milverton",096s, ,0,2,1,27,77,"Knollcrest Lodge",20071010
+070,PERTH--WELLINGTON,0,1,14,13,58,0,107,"Milverton",097, ,1,0,0,194,365,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,0,3,12,14,43,1,100,"Milverton",098, ,1,1,0,175,369,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,1,3,12,6,72,0,71,"Bornholm",099, ,0,0,0,165,290,"Logan Municipal Office (Reformed Church)",20071010
+070,PERTH--WELLINGTON,0,1,2,0,8,0,10,"Milverton",100s, ,0,0,0,21,49,"Country Meadows Retirement Home",20071010
+070,PERTH--WELLINGTON,0,4,8,9,15,1,25,"Milverton",101, ,1,0,0,63,301,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,0,2,9,2,18,0,50,"Bornholm",102, ,0,1,0,82,184,"Logan Municipal Office (Reformed Church)",20071010
+070,PERTH--WELLINGTON,3,17,22,16,48,0,123,"Rostock",103, ,0,0,0,229,390,"Rostock Community Hall",20071010
+070,PERTH--WELLINGTON,1,3,15,5,39,0,77,"Dublin",104, ,0,0,0,140,256,"Dublin Community Hall",20071010
+070,PERTH--WELLINGTON,0,7,3,4,20,0,48,"Mitchell",105, ,0,0,0,82,187,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,1,11,17,8,41,2,72,"Mitchell",106, ,0,0,0,152,341,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,1,1,4,1,17,"Mitchell",107s, ,0,0,1,25,47,"Mitchell Nursing Home",20071010
+070,PERTH--WELLINGTON,1,1,14,12,35,3,82,"Mitchell",108, ,0,1,0,149,342,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,4,6,2,23,0,41,"Mitchell",109, ,0,0,0,76,212,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,2,1,12,4,42,0,76,"Mitchell",110, ,1,0,0,138,261,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,1,14,10,16,0,52,"Mitchell",111, ,0,0,0,93,248,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,4,7,19,5,43,0,103,"Mitchell",112, ,0,0,0,181,389,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,1,8,15,7,48,0,90,"Mitchell",113, ,1,0,0,170,285,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,3,8,3,23,0,40,"Mitchell",113-1s, ,2,0,0,79,149,"Ritz Villa",20071010
+070,PERTH--WELLINGTON,1,5,14,3,30,0,98,"Mitchell",114, ,0,0,0,151,298,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,6,6,3,15,0,35,"Bornholm",115, ,0,0,0,65,133,"Logan Municipal Office (Reformed Church)",20071010
+070,PERTH--WELLINGTON,0,1,11,3,62,0,38,"Rostock",116, ,0,0,0,115,317,"Rostock Community Hall",20071010
+070,PERTH--WELLINGTON,2,3,18,16,72,0,93,"Perth East",117, ,3,0,0,207,438,"North Easthope Community Hall",20071010
+070,PERTH--WELLINGTON,3,7,9,9,39,1,84,"Dublin",118, ,1,0,0,153,341,"Dublin Community Hall",20071010
+070,PERTH--WELLINGTON,1,4,19,11,34,0,85,"Mitchell",119, ,0,1,0,155,299,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,0,7,30,9,34,2,86,"Mitchell",120, ,0,1,0,169,342,"Mitchell Arena & Community Centre",20071010
+070,PERTH--WELLINGTON,1,13,20,27,73,0,114,"Sebringville",121, ,1,0,0,249,447,"Sebringville Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,3,1,9,0,18,"Stratford",121-1s, ,0,1,1,33,89,"Hillside Manor",20071010
+070,PERTH--WELLINGTON,3,2,13,11,35,2,57,"Dublin",122, ,2,0,0,125,248,"Dublin Community Hall",20071010
+070,PERTH--WELLINGTON,3,10,26,20,52,2,76,"Fullarton",123, ,0,1,0,190,317,"Fullarton Hall",20071010
+070,PERTH--WELLINGTON,2,9,16,23,79,2,142,"Sebringville",124, ,0,1,0,274,495,"Sebringville Community Centre",20071010
+070,PERTH--WELLINGTON,0,7,21,13,66,1,91,"Sebringville",125, ,0,0,0,199,345,"Sebringville Community Centre",20071010
+070,PERTH--WELLINGTON,1,6,5,13,104,0,91,"Perth East",126, ,0,0,0,220,348,"North Easthope Community Hall",20071010
+070,PERTH--WELLINGTON,1,1,15,5,13,0,31,"Sebringville",127, ,2,0,0,68,207,"Sebringville Community Centre",20071010
+070,PERTH--WELLINGTON,0,0,8,7,28,0,80,"Stratford",128, ,0,0,0,123,209,"Avon Public School",20071010
+070,PERTH--WELLINGTON,0,6,12,7,33,0,104,"Stratford",129, ,2,0,0,164,321,"Avon Public School",20071010
+070,PERTH--WELLINGTON,2,2,13,4,26,0,53,"Stratford",130, ,0,0,0,100,195,"Avon Public School",20071010
+070,PERTH--WELLINGTON,1,2,21,8,20,2,97,"Stratford",131, ,0,0,0,151,266,"Avon Public School",20071010
+070,PERTH--WELLINGTON,1,2,22,18,42,0,143,"Stratford",132, ,1,0,0,229,410,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,2,14,17,17,0,145,"Stratford",133, ,0,0,0,195,338,"Avon Public School",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Stratford",134s, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,0,5,21,17,36,0,178,"Stratford",135, ,0,0,0,257,417,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,6,12,17,16,1,90,"Stratford",136, ,0,0,0,142,269,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,2,1,28,9,43,0,102,"Stratford",137, ,0,0,0,185,342,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,1,0,16,15,32,0,92,"Stratford",138, ,0,1,1,158,331,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,4,13,19,26,0,60,"Stratford",139, ,0,0,0,122,238,"Avon Public School",20071010
+070,PERTH--WELLINGTON,1,8,13,12,37,0,119,"Stratford",140, ,0,1,0,191,341,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,1,2,19,13,32,1,103,"Stratford",141, ,0,0,0,171,320,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,1,29,20,26,1,107,"Stratford",142, ,2,1,0,187,362,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,5,17,11,18,0,65,"Stratford",143, ,0,0,0,116,235,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,1,9,6,16,0,23,"Stratford",144, ,0,0,0,55,169,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,4,16,13,55,1,165,"Stratford",145, ,1,1,0,256,423,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,2,2,0,1,9,1,16,"Stratford",146s, ,0,1,0,32,57,"People Care Stratford Incorporated",20071010
+070,PERTH--WELLINGTON,0,1,12,11,21,0,43,"Stratford",147, ,1,0,0,89,229,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,2,7,26,16,49,0,92,"Stratford",148, ,0,0,0,192,372,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,1,0,13,17,9,1,37,"Stratford",149, ,0,0,0,78,176,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,1,0,7,4,29,0,63,"Stratford",150s, ,1,3,0,108,173,"Greenwood Court",20071010
+070,PERTH--WELLINGTON,0,1,11,3,17,0,50,"Stratford",151, ,0,0,0,82,201,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,0,11,9,37,0,80,"Stratford",152, ,0,0,0,137,314,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,1,2,12,22,38,2,108,"Stratford",153, ,1,0,0,186,302,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,1,1,23,15,13,0,36,"Stratford",154, ,1,0,0,90,218,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,1,2,19,34,19,0,93,"Stratford",155, ,0,0,0,168,271,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,0,0,8,19,58,1,168,"Stratford",156, ,0,1,0,255,394,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,0,1,17,16,31,0,122,"Stratford",157, ,0,1,0,188,311,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,2,0,6,15,38,1,116,"Stratford",158, ,0,0,0,178,370,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,2,2,26,9,49,1,116,"Stratford",159, ,0,0,0,205,371,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,0,2,19,5,39,0,65,"Stratford",160, ,1,0,0,131,307,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,0,4,21,8,50,0,151,"Stratford",161, ,0,0,0,234,435,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,2,2,15,12,43,1,114,"Stratford",162, ,0,0,0,189,396,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,0,4,19,3,35,0,82,"Stratford",163, ,0,1,0,144,334,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,2,0,15,4,10,0,63,"Stratford",164, ,1,1,1,97,251,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,1,2,24,12,40,0,100,"Stratford",165, ,0,0,0,179,384,"Bedford Public School",20071010
+070,PERTH--WELLINGTON,1,5,13,10,25,0,82,"Stratford",166, ,0,0,0,136,352,"Kiwanis Centre - City of Stratford",20071010
+070,PERTH--WELLINGTON,0,0,16,16,64,1,67,"Shakespeare",167, ,0,0,0,164,311,"Shakespeare & District Optimist Hall",20071010
+070,PERTH--WELLINGTON,3,1,17,6,76,0,115,"Shakespeare",168, ,0,0,0,218,398,"Shakespeare & District Optimist Hall",20071010
+070,PERTH--WELLINGTON,1,3,9,24,74,1,92,"Shakespeare",169, ,0,1,0,205,435,"Shakespeare & District Optimist Hall",20071010
+070,PERTH--WELLINGTON,2,9,21,13,79,3,113,"Fullarton",170, ,0,0,0,240,414,"Fullarton Hall",20071010
+070,PERTH--WELLINGTON,3,3,12,10,62,0,96,"St. Pauls",171, ,0,0,0,186,309,"Downie Optimist Hall",20071010
+070,PERTH--WELLINGTON,2,2,8,9,41,1,54,"St. Pauls",172, ,1,0,0,118,189,"Downie Optimist Hall",20071010
+070,PERTH--WELLINGTON,0,1,9,7,29,0,75,"Stratford",173, ,1,0,0,122,264,"The Salvation Army",20071010
+070,PERTH--WELLINGTON,1,16,6,50,0,138,0,"Stratford",174, ,0,1,0,212,379,"The Salvation Army",20071010
+070,PERTH--WELLINGTON,4,3,16,10,28,118,0,"Stratford",175, ,0,0,0,179,344,"The Salvation Army",20071010
+070,PERTH--WELLINGTON,0,2,5,9,21,0,51,"Stratford",176, ,0,0,0,88,172,"Hamlet Public School",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Stratford",177, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,2,5,24,4,39,1,86,"Stratford",178s, ,5,6,1,173,312,"Spruce Lodge Woodland Towers",20071010
+070,PERTH--WELLINGTON,1,8,31,21,35,0,78,"Stratford",179, ,2,0,0,176,392,"Hamlet Public School",20071010
+070,PERTH--WELLINGTON,1,1,22,13,50,1,139,"Stratford",180, ,2,0,0,229,410,"Hamlet Public School",20071010
+070,PERTH--WELLINGTON,......................COMBINED WITH POLL 184 ....................,,,,,,,"Stratford",181s, ,,,,,,"Stratford General Hospital",20071010
+070,PERTH--WELLINGTON,1,4,23,15,48,0,121,"Stratford",182, ,0,0,0,212,351,"Hamlet Public School",20071010
+070,PERTH--WELLINGTON,1,0,17,10,32,0,52,"Stratford",183, ,0,0,0,112,324,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,1,1,27,16,39,1,106,"Stratford",184, ,1,0,0,192,331,"Hamlet Public School",20071010
+070,PERTH--WELLINGTON,0,2,6,1,15,0,23,"Stratford",185s, ,3,0,0,50,90,"Cedarcroft Place Retirement Residence",20071010
+070,PERTH--WELLINGTON,1,0,17,30,16,0,110,"Stratford",186, ,0,0,0,174,300,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,4,18,23,20,1,70,"Stratford",187, ,0,0,0,136,265,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,0,14,6,30,1,80,"Stratford",188, ,0,0,0,131,335,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,2,17,16,18,1,57,"Stratford",189, ,0,0,0,111,292,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,1,3,31,13,31,0,77,"Stratford",190, ,0,0,0,156,326,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,5,29,6,33,1,92,"Stratford",191, ,0,1,2,169,350,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,0,0,12,7,5,2,36,"Stratford",192, ,0,0,0,62,146,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,2,3,19,6,28,0,80,"Stratford",193, ,0,1,2,141,350,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,2,1,22,13,20,0,64,"Stratford",194, ,2,0,0,124,267,"Army Navy & Air Force Veterans Unit 261",20071010
+070,PERTH--WELLINGTON,1,5,28,16,42,1,74,"Stratford",195, ,1,0,0,168,334,"Shakespeare Public School",20071010
+070,PERTH--WELLINGTON,0,5,25,15,44,1,109,"Stratford",196, ,1,0,0,200,396,"Shakespeare Public School",20071010
+070,PERTH--WELLINGTON,1,2,13,13,6,2,45,"Stratford",197, ,1,0,0,83,192,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,0,2,39,23,30,0,79,"Stratford",198, ,1,0,0,174,360,"Shakespeare Public School",20071010
+070,PERTH--WELLINGTON,0,2,0,1,17,0,28,"Stratford",199s, ,1,1,0,50,54,"Anne Hathaway Residence",20071010
+070,PERTH--WELLINGTON,0,1,16,19,20,0,46,"Stratford",200, ,1,0,0,103,237,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,2,1,16,18,13,1,49,"Stratford",201, ,0,0,0,100,226,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,0,1,30,7,22,0,65,"Stratford",202, ,1,0,0,126,332,"Shakespeare Public School",20071010
+070,PERTH--WELLINGTON,0,1,20,13,28,1,55,"Stratford",203, ,0,0,0,118,273,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,1,3,20,8,15,0,36,"Stratford",204, ,0,0,0,83,245,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,2,1,23,11,23,0,49,"Stratford",205, ,1,0,0,110,293,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,2,4,35,5,29,0,75,"Stratford",206, ,0,0,0,150,302,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,1,5,39,7,26,0,76,"Stratford",207, ,1,0,0,155,310,"Romeo Public School",20071010
+070,PERTH--WELLINGTON,2,0,25,11,29,0,49,"Stratford",208, ,1,0,0,117,295,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,2,2,12,4,14,0,42,"Stratford",209, ,0,0,0,76,251,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,0,3,26,6,25,2,28,"Stratford",210, ,0,0,0,90,245,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,0,1,18,4,15,1,46,"Stratford",211, ,0,0,0,85,240,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,0,4,18,3,12,0,44,"Stratford",212, ,1,0,0,82,250,"Anne Hathaway Public School",20071010
+070,PERTH--WELLINGTON,2,0,19,11,89,2,79,"Shakespeare",213, ,0,0,0,202,357,"Shakespeare & District Optimist Hall",20071010
+070,PERTH--WELLINGTON,1,6,7,14,56,0,80,"Shakespeare",214, ,0,0,0,164,323,"Shakespeare & District Optimist Hall",20071010
+070,PERTH--WELLINGTON,1,6,36,36,94,4,95,"St. Marys",215, ,0,0,0,272,507,"South Perth Centennial Public School",20071010
+070,PERTH--WELLINGTON,4,7,19,6,82,1,110,"St. Pauls",216, ,0,0,1,230,374,"Downie Optimist Hall",20071010
+070,PERTH--WELLINGTON,1,3,14,11,46,0,86,"St. Pauls",217, ,0,4,0,165,333,"Downie Optimist Hall",20071010
+070,PERTH--WELLINGTON,2,2,12,9,63,0,88,"St. Marys",218, ,0,0,0,176,336,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,1,2,0,13,0,16,"St. Marys",219s, ,0,0,0,32,81,"Wildwood Care Centre",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"St. Marys",220s, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,1,2,6,11,30,0,57,"St. Marys",221, ,0,0,0,107,203,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,1,0,24,12,32,0,70,"St. Marys",222, ,1,0,0,140,255,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,1,6,18,20,35,0,61,"St. Marys",223, ,0,0,0,141,279,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,2,6,16,22,3,65,"St. Marys",224, ,0,0,0,114,248,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,1,3,2,25,1,37,"St. Marys",225s, ,1,0,0,70,147,"Kingsway Lodge",20071010
+070,PERTH--WELLINGTON,1,1,9,13,50,1,89,"St. Marys",226, ,0,0,0,164,310,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,1,5,23,31,73,2,99,"St. Marys",227, ,1,2,0,237,433,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,3,4,30,19,70,1,77,"St. Marys",228, ,1,1,0,206,377,"South Perth Centennial Public School",20071010
+070,PERTH--WELLINGTON,1,1,26,16,57,3,69,"St. Marys",229, ,1,0,0,174,317,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,2,1,16,15,30,0,51,"St. Marys",230, ,1,0,0,116,254,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,0,10,25,48,1,88,"St. Marys",231, ,0,0,0,172,304,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,1,13,9,31,2,49,"St. Marys",232, ,1,0,0,106,263,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,1,17,18,22,2,59,"St. Marys",233, ,3,0,0,122,292,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,1,1,13,13,53,4,119,"St. Marys",234, ,1,1,0,206,361,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,1,0,16,11,35,0,78,"St. Marys",235, ,0,0,0,141,319,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,0,17,13,56,5,112,"St. Marys",236, ,0,0,0,203,413,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,0,4,20,11,56,5,71,"St. Marys",237, ,0,0,0,167,308,"Community Centre St. Marys",20071010
+070,PERTH--WELLINGTON,..........................NO POLL HELD........................,,,,,,,"Stratford",400, ,0,0,0,0,0,"",20071010
+070,PERTH--WELLINGTON,0,0,23,2,5,0,23,"Stratford",401, ,0,0,0,53,96,"45 Buckingham Drive",20071010
+070,PERTH--WELLINGTON,1,0,12,4,13,0,47,"Stratford",402, ,0,0,0,77,136,"25 Kappele Circle",20071010
+070,PERTH--WELLINGTON,2,9,74,49,244,0,624,"Stratford",Advanced Polls /  ADV001, ,1,2,0,1005,0,"Returning Office / Bureau du directeur du scrutin",20071010
+070,PERTH--WELLINGTON,0,1,8,11,62,1,76,"Milverton",Advanced Polls /  ADV002, ,0,0,0,159,0,"Perth East Recreation Complex-Milverton",20071010
+070,PERTH--WELLINGTON,2,5,34,17,164,1,184,"Listowel",Advanced Polls /  ADV003, ,1,1,0,409,0,"Avon Lighting",20071010
+070,PERTH--WELLINGTON,0,5,36,24,141,1,245,"St. Marys",Advanced Polls /  ADV004, ,3,0,0,455,0,"Lind Sportsplex and Curling Club",20071010
+070,PERTH--WELLINGTON,0,3,19,20,116,1,75,"Arthur",Advanced Polls /  ADV005, ,0,0,0,234,0,"St. John Parish Centre",20071010
+070,PERTH--WELLINGTON,0,4,19,18,107,0,115,"Palmerston",Advanced Polls /  ADV006, ,0,0,0,263,0,"St. Paul's Anglican Church",20071010
+070,PERTH--WELLINGTON,2,3,20,19,128,0,106,"Drayton",Advanced Polls /  ADV007, ,0,1,0,279,0,"Peel Maryborough Drayton Arena Complex",20071010
+070,PERTH--WELLINGTON,1,14,98,82,246,2,626,"Stratford",Advanced Polls /  ADV008, ,2,8,0,1079,0,"Festival Marketplace",20071010
+070,PERTH--WELLINGTON,1,4,37,34,222,0,153,"Mount Forest",Advanced Polls /  ADV009, ,0,0,0,451,0,"Mount Forest United Church",20071010
+070,PERTH--WELLINGTON,1,8,21,19,119,0,217,"Mitchell",Advanced Polls /  ADV010, ,1,1,0,387,0,"Smyth Shoe Store",20071010
+TOTALS:, ,217,776,3912,3051,12338,399,18096, , , , , , , , , , 

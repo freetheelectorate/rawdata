@@ -1,0 +1,319 @@
+ED_CODE,ED_NAME,GHOSH,MONSTER,SHINER,SUTHERLAND,THOMAS,ZETTERLUND,ZIMMER,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+101,WILLOWDALE,7,0,42,1,2,2,47,"Toronto",001A, ,0,1,0,102,262,"Highland Junior High School",20071010
+101,WILLOWDALE,10,0,33,0,2,2,41,"Toronto",001B, ,0,1,0,89,216,"Highland Junior High School",20071010
+101,WILLOWDALE,6,1,16,1,2,4,54,"Toronto",002s, ,0,0,2,86,180,"Gibson Long Term Care Centre",20071010
+101,WILLOWDALE,25,2,63,0,1,3,79,"Toronto",003, ,0,0,0,173,415,"Cliffwood Public School",20071010
+101,WILLOWDALE,4,4,36,0,2,8,54,"Toronto",004A, ,1,0,0,109,272,"Cliffwood Public School",20071010
+101,WILLOWDALE,9,0,29,1,2,9,35,"Toronto",004B, ,0,1,0,86,217,"Cliffwood Public School",20071010
+101,WILLOWDALE,14,0,35,1,2,5,73,"Toronto",005A, ,2,1,0,133,283,"Cliffwood Public School",20071010
+101,WILLOWDALE,7,0,32,1,0,5,53,"Toronto",005B, ,0,1,0,99,209,"Cliffwood Public School",20071010
+101,WILLOWDALE,11,2,28,0,4,6,60,"Toronto",006A, ,0,1,0,112,282,"Highland Junior High School",20071010
+101,WILLOWDALE,14,1,23,0,2,3,35,"Toronto",006B, ,0,1,1,80,203,"Highland Junior High School",20071010
+101,WILLOWDALE,23,4,60,0,3,13,76,"Toronto",007, ,0,1,0,180,459,"Highland Junior High School",20071010
+101,WILLOWDALE,26,0,94,1,4,11,73,"Toronto",008, ,1,2,0,212,461,"Highland Junior High School",20071010
+101,WILLOWDALE,10,0,43,2,1,5,72,"Toronto",009A, ,1,0,0,134,287,"Steelesview Public School",20071010
+101,WILLOWDALE,16,0,36,0,1,5,51,"Toronto",009B, ,0,1,0,110,237,"Steelesview Public School",20071010
+101,WILLOWDALE,5,0,20,0,1,1,16,"Toronto",010-1s, ,0,1,0,44,67,"Gibson Retirement Residence",20071010
+101,WILLOWDALE,5,0,63,0,2,7,42,"Toronto",010A, ,0,3,0,122,314,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,1,1,49,0,2,7,36,"Toronto",010B, ,0,0,0,96,249,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,4,1,29,0,0,12,39,"Toronto",011A, ,0,0,0,85,221,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,7,0,63,0,0,6,65,"Toronto",011B, ,1,0,0,142,346,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,9,0,50,0,1,5,62,"Toronto",012A, ,0,0,0,127,228,"Cliffwood Public School",20071010
+101,WILLOWDALE,7,0,88,0,0,3,83,"Toronto",012B, ,1,0,0,182,321,"Cliffwood Public School",20071010
+101,WILLOWDALE,17,3,46,0,2,14,70,"Toronto",013A, ,0,1,0,153,299,"Highland Junior High School",20071010
+101,WILLOWDALE,11,1,30,0,2,14,50,"Toronto",013B, ,0,0,0,108,243,"Highland Junior High School",20071010
+101,WILLOWDALE,6,1,110,0,2,8,104,"Toronto",014, ,0,1,0,232,450,"Steelesview Public School",20071010
+101,WILLOWDALE,11,2,69,1,1,12,102,"Toronto",015, ,1,0,0,199,444,"Steelesview Public School",20071010
+101,WILLOWDALE,12,2,46,0,0,5,56,"Toronto",016, ,1,1,0,123,324,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,7,0,65,0,1,7,72,"Toronto",017, ,0,2,0,154,343,"Cresthaven Public School",20071010
+101,WILLOWDALE,17,4,81,0,0,14,88,"Toronto",018, ,0,1,0,205,460,"A.Y. Jackson Secondary School",20071010
+101,WILLOWDALE,10,0,64,0,1,12,88,"Toronto",019, ,1,0,0,176,422,"Cresthaven Public School",20071010
+101,WILLOWDALE,13,2,31,0,2,1,40,"Toronto",020, ,0,0,0,89,288,"Hillmount Public School",20071010
+101,WILLOWDALE,12,1,42,0,0,12,47,"Toronto",021A, ,0,1,0,115,245,"Hillmount Public School",20071010
+101,WILLOWDALE,6,2,55,1,2,5,50,"Toronto",021B, ,0,0,0,121,306,"Hillmount Public School",20071010
+101,WILLOWDALE,6,2,47,0,0,7,35,"Toronto",022A, ,0,0,0,97,219,"Brebeuf College School",20071010
+101,WILLOWDALE,4,1,51,0,0,10,59,"Toronto",022B, ,0,0,0,125,270,"Brebeuf College School",20071010
+101,WILLOWDALE,3,1,45,0,1,6,39,"Toronto",023A, ,0,0,0,95,227,"Brebeuf College School",20071010
+101,WILLOWDALE,8,4,52,0,0,6,40,"Toronto",023B, ,0,0,0,110,263,"Brebeuf College School",20071010
+101,WILLOWDALE,9,3,113,0,2,5,77,"Toronto",024, ,2,1,0,212,512,"Steelesview Public School",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",025, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,10,3,80,1,2,8,64,"Toronto",026, ,2,1,0,171,422,"Pineway Public School",20071010
+101,WILLOWDALE,15,2,48,0,0,7,77,"Toronto",027, ,1,1,0,151,394,"Cresthaven Public School",20071010
+101,WILLOWDALE,25,1,46,0,2,8,92,"Toronto",028, ,1,2,0,177,352,"Cresthaven Public School",20071010
+101,WILLOWDALE,11,1,70,0,2,7,92,"Toronto",029, ,2,1,0,186,441,"Cresthaven Public School",20071010
+101,WILLOWDALE,16,2,36,0,0,4,47,"Toronto",030A, ,1,0,0,106,278,"Cresthaven Public School",20071010
+101,WILLOWDALE,8,1,25,0,2,5,43,"Toronto",030B, ,0,1,0,85,231,"Cresthaven Public School",20071010
+101,WILLOWDALE,17,0,31,0,0,14,80,"Toronto",031A, ,1,1,0,144,282,"Hillmount Public School",20071010
+101,WILLOWDALE,17,1,25,0,2,6,58,"Toronto",031B, ,0,0,1,110,238,"Hillmount Public School",20071010
+101,WILLOWDALE,11,2,35,0,5,13,79,"Toronto",032, ,3,1,0,149,360,"Lillian Public School",20071010
+101,WILLOWDALE,12,1,69,0,2,8,86,"Toronto",033, ,4,1,0,183,380,"Lillian Public School",20071010
+101,WILLOWDALE,7,0,31,0,0,3,48,"Toronto",034A, ,1,0,0,90,247,"Brebeuf College School",20071010
+101,WILLOWDALE,11,1,39,0,0,9,60,"Toronto",034B, ,0,0,0,120,259,"Brebeuf College School",20071010
+101,WILLOWDALE,8,0,31,0,1,3,52,"Toronto",035A, ,0,0,0,95,271,"Willowdale Pentecostal Church",20071010
+101,WILLOWDALE,11,0,38,0,2,7,51,"Toronto",035B, ,1,1,0,111,331,"Willowdale Pentecostal Church",20071010
+101,WILLOWDALE,3,2,61,0,0,5,48,"Toronto",036A, ,0,0,0,119,290,"St. Joseph's Convent",20071010
+101,WILLOWDALE,4,8,51,0,1,4,62,"Toronto",036B, ,0,1,0,131,250,"St. Joseph's Convent",20071010
+101,WILLOWDALE,10,0,41,0,0,5,62,"Toronto",037A, ,0,0,0,118,255,"Lester B. Pearson Public School",20071010
+101,WILLOWDALE,3,1,31,1,0,5,55,"Toronto",037B, ,0,3,0,99,219,"Lester B. Pearson Public School",20071010
+101,WILLOWDALE,18,2,93,1,0,11,84,"Toronto",038, ,3,0,0,212,386,"Pineway Public School",20071010
+101,WILLOWDALE,22,2,61,0,3,3,84,"Toronto",039, ,4,2,1,182,449,"Immanuel Baptist Church",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",040, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,26,1,34,0,1,11,128,"Toronto",041, ,1,2,0,204,409,"Lillian Public School",20071010
+101,WILLOWDALE,7,0,41,0,1,7,45,"Toronto",042A, ,0,0,0,101,218,"Brebeuf College School",20071010
+101,WILLOWDALE,10,0,38,0,1,7,50,"Toronto",042B, ,0,0,1,107,261,"Brebeuf College School",20071010
+101,WILLOWDALE,14,2,63,0,4,7,104,"Toronto",043, ,1,0,0,195,399,"Willowdale Pentecostal Church",20071010
+101,WILLOWDALE,5,0,11,1,4,3,12,"Toronto",044s, ,0,0,0,36,175,"Extendicare Bayview",20071010
+101,WILLOWDALE,6,0,46,0,0,9,53,"Toronto",045A, ,0,0,0,114,248,"Pineway Public School",20071010
+101,WILLOWDALE,8,0,28,0,0,5,27,"Toronto",045B, ,1,0,0,69,199,"Pineway Public School",20071010
+101,WILLOWDALE,12,1,28,0,1,3,36,"Toronto",046, ,0,0,0,81,203,"Tri-Congregational Church",20071010
+101,WILLOWDALE,15,0,61,2,2,10,98,"Toronto",047, ,0,0,0,188,421,"Tri-Congregational Church",20071010
+101,WILLOWDALE,22,0,38,1,3,14,69,"Toronto",048, ,2,0,0,149,380,"Tri-Congregational Church",20071010
+101,WILLOWDALE,1,0,37,0,1,4,29,"Toronto",049A, ,2,1,0,75,230,"Wellspring Worship Centre",20071010
+101,WILLOWDALE,0,2,36,0,0,6,51,"Toronto",049B, ,0,3,0,98,264,"Wellspring Worship Centre",20071010
+101,WILLOWDALE,7,0,54,1,0,8,83,"Toronto",050, ,2,1,0,156,384,"Wellspring Worship Centre",20071010
+101,WILLOWDALE,13,1,50,0,0,8,60,"Toronto",051A, ,0,0,0,132,271,"J.D. Griffin Adolescent Centre",20071010
+101,WILLOWDALE,3,0,23,0,0,3,45,"Toronto",051B, ,0,0,1,75,225,"J.D. Griffin Adolescent Centre",20071010
+101,WILLOWDALE,2,0,40,0,0,6,55,"Toronto",052A, ,2,1,0,106,243,"Willowdale Pentecostal Church",20071010
+101,WILLOWDALE,6,0,48,0,1,7,29,"Toronto",052B, ,0,0,0,91,210,"Willowdale Pentecostal Church",20071010
+101,WILLOWDALE,9,0,30,0,2,5,45,"Toronto",053A, ,0,0,0,91,213,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,6,0,56,0,1,3,47,"Toronto",053B, ,0,0,0,113,243,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,1,0,41,0,2,9,49,"Toronto",054A, ,0,0,0,102,220,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,8,0,49,0,3,9,68,"Toronto",054B, ,0,1,0,138,291,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,13,2,77,2,1,16,109,"Toronto",055, ,0,0,0,220,460,"The Prestige School",20071010
+101,WILLOWDALE,6,1,10,2,2,2,48,"Toronto",056, ,2,0,0,73,227,"Tri-Congregational Church",20071010
+101,WILLOWDALE,18,1,31,0,5,5,67,"Toronto",057A, ,1,0,0,128,324,"Royal Academia",20071010
+101,WILLOWDALE,12,1,26,0,4,3,68,"Toronto",057B, ,3,0,0,117,307,"Royal Academia",20071010
+101,WILLOWDALE,21,4,64,0,1,9,105,"Toronto",058, ,1,1,0,206,474,"J.D. Griffin Adolescent Centre",20071010
+101,WILLOWDALE,10,0,14,2,4,1,49,"Toronto",059s, ,0,0,0,80,272,"Cummer Lodge Home for the Aged",20071010
+101,WILLOWDALE,7,1,75,3,0,13,81,"Toronto",060, ,1,0,0,181,449,"Finch Public School",20071010
+101,WILLOWDALE,10,2,59,0,2,7,63,"Toronto",061, ,0,2,1,146,351,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,23,3,96,1,3,11,100,"Toronto",062, ,0,3,0,240,470,"J.D. Griffin Adolescent Centre",20071010
+101,WILLOWDALE,15,0,49,1,1,12,87,"Toronto",063, ,0,0,0,165,453,"Finch Public School",20071010
+101,WILLOWDALE,2,0,6,2,0,2,27,"Toronto",064s, ,0,0,0,39,108,"Carefree Lodge",20071010
+101,WILLOWDALE,15,1,88,0,1,11,84,"Toronto",065, ,0,3,0,203,396,"Forest Grove United Church",20071010
+101,WILLOWDALE,17,1,100,0,0,11,90,"Toronto",066, ,0,0,0,219,397,"The Prestige School",20071010
+101,WILLOWDALE,22,0,49,0,2,8,77,"Toronto",067, ,0,0,0,158,377,"Royal Academia",20071010
+101,WILLOWDALE,17,1,73,0,3,14,80,"Toronto",068, ,1,0,0,189,469,"St. Antoine Daniel Catholic School",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",069, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,16,1,30,1,1,12,73,"Toronto",071, ,1,0,0,135,369,"Willowdale Baptist Church",20071010
+101,WILLOWDALE,11,4,50,2,0,6,43,"Toronto",072, ,0,0,0,116,371,"Willowdale Baptist Church",20071010
+101,WILLOWDALE,13,1,65,0,1,10,78,"Toronto",073, ,0,2,0,170,470,"Finch Public School",20071010
+101,WILLOWDALE,10,1,55,0,0,13,63,"Toronto",074, ,0,0,0,142,408,"Finch Public School",20071010
+101,WILLOWDALE,8,2,99,0,0,11,74,"Toronto",075, ,0,0,0,194,450,"Beth Tikvah Synagogue",20071010
+101,WILLOWDALE,11,0,95,0,1,8,71,"Toronto",076, ,2,0,0,188,378,"Bayview Middle School",20071010
+101,WILLOWDALE,3,0,94,0,0,19,108,"Toronto",077, ,0,1,0,225,395,"Forest Grove United Church",20071010
+101,WILLOWDALE,25,2,71,0,2,14,114,"Toronto",078, ,0,1,0,229,441,"St. Antoine Daniel Catholic School",20071010
+101,WILLOWDALE,6,1,56,1,1,10,98,"Toronto",079, ,0,1,0,174,433,"St. Antoine Daniel Catholic School",20071010
+101,WILLOWDALE,22,0,37,0,0,6,75,"Toronto",080, ,0,0,0,140,343,"Edithvale Community Centre",20071010
+101,WILLOWDALE,9,1,31,0,2,9,95,"Toronto",081, ,0,0,0,147,430,"McKee Public School",20071010
+101,WILLOWDALE,4,0,17,0,0,4,50,"Toronto",082, ,0,0,0,75,243,"McKee Public School",20071010
+101,WILLOWDALE,17,1,13,0,1,0,32,"Toronto",083, ,0,0,0,64,294,"Beth Tikvah Synagogue",20071010
+101,WILLOWDALE,16,0,57,0,1,12,75,"Toronto",084, ,1,0,0,162,417,"Beth Tikvah Synagogue",20071010
+101,WILLOWDALE,10,1,74,0,2,13,100,"Toronto",085, ,1,0,0,201,425,"Beth Tikvah Synagogue",20071010
+101,WILLOWDALE,6,1,102,0,0,16,117,"Toronto",086, ,1,0,1,244,438,"Bayview Middle School",20071010
+101,WILLOWDALE,6,2,95,0,2,16,104,"Toronto",087, ,0,0,0,225,459,"Bayview Middle School",20071010
+101,WILLOWDALE,23,0,32,1,3,10,46,"Toronto",088, ,1,0,1,117,357,"Royal Academia",20071010
+101,WILLOWDALE,14,1,45,0,1,4,56,"Toronto",089, ,5,2,0,128,365,"St. Antoine Daniel Catholic School",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",090, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,22,0,63,0,0,17,91,"Toronto",091, ,0,1,0,194,367,"St. Antoine Daniel Catholic School",20071010
+101,WILLOWDALE,11,0,68,0,1,21,88,"Toronto",092, ,1,0,0,190,365,"Yorkview Public School",20071010
+101,WILLOWDALE,15,1,66,0,0,13,71,"Toronto",093, ,0,0,0,166,386,"Edithvale Community Centre",20071010
+101,WILLOWDALE,18,3,42,0,0,11,62,"Toronto",094, ,1,1,0,138,310,"Edithvale Community Centre",20071010
+101,WILLOWDALE,14,1,50,0,2,17,65,"Toronto",095, ,0,0,0,149,374,"St. Edward the Confessor Church",20071010
+101,WILLOWDALE,9,0,30,1,0,5,57,"Toronto",096, ,0,1,0,103,337,"Sommerset Way",20071010
+101,WILLOWDALE,11,1,40,0,1,15,50,"Toronto",097, ,1,3,0,122,393,"Grandview Tower",20071010
+101,WILLOWDALE,12,0,38,1,0,20,78,"Toronto",098, ,1,2,0,152,369,"McKee Public School",20071010
+101,WILLOWDALE,9,1,47,0,0,17,80,"Toronto",099, ,1,0,0,155,441,"Beth Tikvah Synagogue",20071010
+101,WILLOWDALE,11,0,62,0,1,7,66,"Toronto",100, ,0,0,0,147,446,"Hollywood Public School",20071010
+101,WILLOWDALE,6,0,69,0,3,3,84,"Toronto",101, ,1,0,0,166,403,"Hollywood Public School",20071010
+101,WILLOWDALE,11,1,75,0,1,17,85,"Toronto",102, ,3,1,0,194,381,"Bayview Middle School",20071010
+101,WILLOWDALE,3,1,64,0,0,8,81,"Toronto",103, ,1,0,0,158,318,"Elkhorn Public School",20071010
+101,WILLOWDALE,8,0,50,0,1,4,37,"Toronto",104A, ,5,0,0,105,289,"Elkhorn Public School",20071010
+101,WILLOWDALE,3,0,38,0,0,2,41,"Toronto",104B, ,0,0,0,84,227,"Elkhorn Public School",20071010
+101,WILLOWDALE,11,0,47,0,0,11,76,"Toronto",105, ,0,0,0,145,336,"Yorkview Public School",20071010
+101,WILLOWDALE,30,4,62,2,1,13,74,"Toronto",106, ,0,0,0,186,400,"Yorkview Public School",20071010
+101,WILLOWDALE,24,5,77,0,0,13,84,"Toronto",107, ,3,0,0,206,357,"Churchill Public School",20071010
+101,WILLOWDALE,18,1,63,0,1,14,79,"Toronto",108, ,2,0,2,180,379,"Edithvale Community Centre",20071010
+101,WILLOWDALE,5,3,57,0,1,13,70,"Toronto",109, ,1,0,0,150,326,"St. Edward the Confessor Church",20071010
+101,WILLOWDALE,10,1,45,0,0,8,78,"Toronto",110, ,0,1,0,143,293,"McKee Public School",20071010
+101,WILLOWDALE,21,1,58,2,3,13,94,"Toronto",111, ,1,0,0,193,413,"Spring Garden Baptist Church",20071010
+101,WILLOWDALE,7,2,42,2,4,9,75,"Toronto",112, ,0,0,0,141,400,"Hollywood Public School",20071010
+101,WILLOWDALE,10,4,91,0,2,13,77,"Toronto",113, ,0,1,0,198,437,"Hollywood Public School",20071010
+101,WILLOWDALE,12,1,42,0,0,10,84,"Toronto",114, ,0,1,0,150,471,"St. Gabriel's Catholic Church",20071010
+101,WILLOWDALE,14,1,107,0,0,16,78,"Toronto",115, ,0,0,0,216,435,"Elkhorn Public School",20071010
+101,WILLOWDALE,15,1,31,0,5,9,50,"Toronto",116, ,0,0,0,111,237,"Elkhorn Public School",20071010
+101,WILLOWDALE,5,3,50,1,0,6,57,"Toronto",117, ,1,1,0,124,327,"Elkhorn Public School",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",118, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,14,0,37,0,4,6,25,"Toronto",119, ,1,0,0,87,226,"Yorkview Public School",20071010
+101,WILLOWDALE,26,2,64,2,2,11,86,"Toronto",120, ,2,1,0,196,414,"Yorkview Public School",20071010
+101,WILLOWDALE,30,1,64,1,1,26,127,"Toronto",121, ,0,0,1,251,450,"Churchill Public School",20071010
+101,WILLOWDALE,8,1,41,0,1,16,87,"Toronto",122, ,1,2,0,157,419,"Spring Garden Baptist Church",20071010
+101,WILLOWDALE,11,0,49,0,1,12,74,"Toronto",123, ,1,0,0,148,362,"Hollywood Public School",20071010
+101,WILLOWDALE,8,2,53,1,0,11,62,"Toronto",124, ,1,0,0,138,349,"St. Elizabeth of Hungary",20071010
+101,WILLOWDALE,13,0,73,0,5,9,52,"Toronto",125, ,0,3,0,155,375,"St. Elizabeth of Hungary",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",126, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,5,2,38,0,1,9,57,"Toronto",127, ,3,0,0,115,325,"North York (Chinese) Baptist Church",20071010
+101,WILLOWDALE,12,0,66,0,3,17,62,"Toronto",128, ,0,1,0,161,365,"North York (Chinese) Baptist Church",20071010
+101,WILLOWDALE,16,0,89,1,2,20,102,"Toronto",129, ,0,2,0,232,445,"Churchill Public School",20071010
+101,WILLOWDALE,11,5,51,0,0,17,69,"Toronto",130, ,4,0,0,157,336,"Willowdale Lawn Bowling Club",20071010
+101,WILLOWDALE,16,1,56,0,1,13,93,"Toronto",131, ,0,0,0,180,441,"Spring Garden Baptist Church",20071010
+101,WILLOWDALE,12,0,24,0,1,6,38,"Toronto",132, ,1,1,0,83,229,"Spring Garden Baptist Church",20071010
+101,WILLOWDALE,7,0,30,0,1,6,71,"Toronto",133, ,0,1,0,116,286,"St. Elizabeth of Hungary",20071010
+101,WILLOWDALE,14,1,39,0,0,11,71,"Toronto",134, ,0,0,0,136,330,"St. Elizabeth of Hungary",20071010
+101,WILLOWDALE,11,0,46,0,1,9,50,"Toronto",135, ,0,0,0,117,288,"St. Elizabeth of Hungary",20071010
+101,WILLOWDALE,13,1,89,0,0,24,81,"Toronto",136, ,1,0,0,209,367,"Churchill Public School",20071010
+101,WILLOWDALE,12,1,62,1,1,21,96,"Toronto",137, ,0,0,0,194,390,"St. Edward Catholic School",20071010
+101,WILLOWDALE,23,5,61,8,0,18,79,"Toronto",138, ,7,3,0,204,392,"Willowdale Lawn Bowling Club",20071010
+101,WILLOWDALE,16,2,55,0,2,20,65,"Toronto",139, ,0,0,1,161,320,"Avondale Public School",20071010
+101,WILLOWDALE,18,0,48,0,3,15,85,"Toronto",140, ,2,1,0,172,345,"Avondale Public School",20071010
+101,WILLOWDALE,18,0,81,0,0,25,111,"Toronto",141, ,0,1,0,236,417,"St. Edward Catholic School",20071010
+101,WILLOWDALE,3,1,22,0,0,0,28,"Toronto",141-1s, ,2,1,0,57,103,"Lansing Retirement Residences",20071010
+101,WILLOWDALE,12,0,70,1,0,16,76,"Toronto",142, ,1,0,0,176,320,"Lansing United Church",20071010
+101,WILLOWDALE,14,2,50,0,2,24,76,"Toronto",143, ,0,0,0,168,337,"Lansing United Church",20071010
+101,WILLOWDALE,9,2,66,1,0,20,64,"Toronto",144, ,0,0,0,162,325,"Lansing United Church",20071010
+101,WILLOWDALE,4,0,30,0,0,4,35,"Toronto",145, ,2,0,1,76,192,"Avondale Public School",20071010
+101,WILLOWDALE,5,3,19,0,0,2,25,"Toronto",146, ,0,0,0,54,155,"Townhouses of Toronto Centre",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",147, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,10,0,39,0,1,14,75,"Toronto",148, ,0,0,0,139,274,"Townhouses of Toronto Centre",20071010
+101,WILLOWDALE,16,2,35,0,3,10,91,"Toronto",149, ,0,0,0,157,287,"Townhouses of Toronto Centre",20071010
+101,WILLOWDALE,16,1,43,0,2,15,40,"Toronto",150, ,1,2,0,120,272,"Avondale Public School",20071010
+101,WILLOWDALE,26,1,56,1,3,19,89,"Toronto",151, ,1,1,0,197,375,"Cameron Public School",20071010
+101,WILLOWDALE,14,1,71,0,0,18,67,"Toronto",152, ,1,1,0,173,277,"Cameron Public School",20071010
+101,WILLOWDALE,22,0,76,2,2,19,99,"Toronto",153, ,1,0,0,221,435,"Lansing United Church",20071010
+101,WILLOWDALE,15,0,18,0,1,9,38,"Toronto",154, ,0,0,0,81,190,"Avondale Public School",20071010
+101,WILLOWDALE,13,4,98,0,0,30,109,"Toronto",155, ,0,0,0,254,399,"Cameron Public School",20071010
+101,WILLOWDALE,30,2,67,3,5,4,120,"Toronto",400, ,8,2,0,241,383,"Cliffwood Manor",20071010
+101,WILLOWDALE,9,0,34,1,1,6,74,"Toronto",401, ,5,1,0,131,328,"Vantage Recreation Centre",20071010
+101,WILLOWDALE,11,0,45,0,1,12,78,"Toronto",402, ,3,1,0,151,259,"Vantage Recreation Centre",20071010
+101,WILLOWDALE,13,1,91,0,1,7,79,"Toronto",403, ,0,0,0,192,347,"Gates of Bayview",20071010
+101,WILLOWDALE,9,0,66,0,1,8,58,"Toronto",404, ,1,0,0,143,235,"Gates of Bayview",20071010
+101,WILLOWDALE,6,2,17,1,0,1,14,"Toronto",405, ,0,1,0,42,87,"Hillmount Public School",20071010
+101,WILLOWDALE,9,1,98,0,0,9,77,"Toronto",406, ,0,0,0,194,327,"Gates of Bayview",20071010
+101,WILLOWDALE,3,0,85,2,4,8,71,"Toronto",407, ,2,1,0,176,361,"The Excellence",20071010
+101,WILLOWDALE,3,2,118,1,1,1,47,"Toronto",408, ,1,1,0,175,279,"The Excellence",20071010
+101,WILLOWDALE,3,0,117,1,2,6,63,"Toronto",409, ,4,2,0,198,319,"Skymark Place Recreation Centre",20071010
+101,WILLOWDALE,7,0,87,0,2,7,135,"Toronto",410, ,1,0,0,239,406,"Skymark Place Recreation Centre",20071010
+101,WILLOWDALE,6,7,82,2,3,4,71,"Toronto",411, ,4,0,0,179,278,"Seneca Towers",20071010
+101,WILLOWDALE,17,1,16,0,3,16,28,"Toronto",412, ,0,0,1,82,139,"Seneca College Student Residences",20071010
+101,WILLOWDALE,19,0,32,0,0,8,56,"Toronto",413, ,2,0,0,117,212,"Bayview Towers",20071010
+101,WILLOWDALE,11,0,36,0,1,8,32,"Toronto",414, ,0,0,0,88,125,"Bayview Towers",20071010
+101,WILLOWDALE,15,0,9,0,3,3,43,"Toronto",415, ,0,0,0,73,173,"Immanuel Baptist Church",20071010
+101,WILLOWDALE,13,0,5,0,4,3,48,"Toronto",416, ,1,1,0,75,198,"Immanuel Baptist Church",20071010
+101,WILLOWDALE,28,0,38,1,3,18,77,"Toronto",417, ,3,0,0,168,375,"Wedgewood Place Apartment",20071010
+101,WILLOWDALE,0,44,12,0,1,10,71,"Toronto",418, ,10,0,0,148,232,"Bayview Towers",20071010
+101,WILLOWDALE,12,1,21,0,2,7,37,"Toronto",419, ,0,1,0,81,204,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,10,4,35,0,1,6,45,"Toronto",420, ,3,0,0,104,207,"Bayview Towers",20071010
+101,WILLOWDALE,6,0,6,0,2,6,14,"Toronto",421, ,0,0,0,34,123,"J.D. Griffin Adolescent Centre",20071010
+101,WILLOWDALE,11,2,53,2,1,7,70,"Toronto",422, ,2,3,0,151,226,"Willowdale Manor",20071010
+101,WILLOWDALE,12,0,46,0,5,6,33,"Toronto",423, ,0,1,1,104,237,"Blessed Trinity Catholic School",20071010
+101,WILLOWDALE,8,5,103,0,0,2,67,"Toronto",424, ,3,3,0,191,308,"Palace Gate",20071010
+101,WILLOWDALE,14,2,35,1,1,13,67,"Toronto",425, ,2,0,0,135,230,"Turnbury Court",20071010
+101,WILLOWDALE,6,0,17,1,1,6,44,"Toronto",426, ,0,0,0,75,182,"Place Nouveau I",20071010
+101,WILLOWDALE,15,2,39,1,1,5,63,"Toronto",427, ,0,1,0,127,243,"Place Nouveau II",20071010
+101,WILLOWDALE,7,0,38,0,1,4,35,"Toronto",428A, ,2,0,0,87,218,"Vogue Condominiums",20071010
+101,WILLOWDALE,10,1,27,0,4,8,46,"Toronto",428B, ,0,0,0,96,228,"Vogue Condominiums",20071010
+101,WILLOWDALE,8,1,16,0,1,6,34,"Toronto",429, ,0,0,0,66,150,"The Park Lane I",20071010
+101,WILLOWDALE,1,1,17,0,2,5,31,"Toronto",430, ,0,0,0,57,151,"The Park Lane I",20071010
+101,WILLOWDALE,2,0,10,0,0,6,35,"Toronto",431, ,0,0,0,53,147,"Park Palace Shared Facility",20071010
+101,WILLOWDALE,2,1,13,0,0,3,24,"Toronto",432, ,0,0,0,43,132,"Park Palace Shared Facility",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",433, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,6,2,13,0,0,1,21,"Toronto",434, ,0,1,0,44,133,"Park Palace Shared Facility",20071010
+101,WILLOWDALE,8,2,44,1,4,5,72,"Toronto",435, ,0,1,0,137,342,"The Paramount",20071010
+101,WILLOWDALE,15,3,31,0,2,6,82,"Toronto",436, ,0,2,0,141,271,"The Chicago",20071010
+101,WILLOWDALE,15,0,25,0,1,8,43,"Toronto",437A, ,1,0,0,93,189,"The Galleria",20071010
+101,WILLOWDALE,9,0,23,0,1,12,68,"Toronto",437B, ,1,0,1,115,209,"The Galleria",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",438, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,12,1,19,0,4,18,85,"Toronto",439, ,0,0,3,142,292,"Sonata",20071010
+101,WILLOWDALE,12,1,27,1,3,7,48,"Toronto",440A, ,0,0,0,99,245,"Symphony Square Condominium Building",20071010
+101,WILLOWDALE,16,0,30,0,1,6,41,"Toronto",440B, ,0,1,0,95,273,"Symphony Square Condominium Building",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",441, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,14,0,35,0,0,8,68,"Toronto",442, ,0,0,0,125,270,"The Dynasty",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",443, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",444, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,19,0,42,0,4,13,89,"Toronto",445, ,14,0,0,181,379,"Princess Place",20071010
+101,WILLOWDALE,16,1,34,1,2,10,83,"Toronto",446, ,0,1,0,148,359,"Princess Place",20071010
+101,WILLOWDALE,5,0,24,0,3,9,40,"Toronto",447, ,0,0,0,81,147,"Monaco",20071010
+101,WILLOWDALE,21,0,46,1,3,9,82,"Toronto",448, ,3,0,0,165,378,"Sommerset Way",20071010
+101,WILLOWDALE,21,0,33,0,1,7,63,"Toronto",449, ,1,0,0,126,293,"Monet",20071010
+101,WILLOWDALE,14,1,104,0,3,9,144,"Toronto",450, ,0,3,0,278,469,"Skyview Apartments",20071010
+101,WILLOWDALE,10,3,46,0,1,5,75,"Toronto",451, ,2,1,0,143,378,"The Royal Arms",20071010
+101,WILLOWDALE,10,2,61,1,4,7,72,"Toronto",452, ,7,4,0,168,255,"The Kempford Apartments",20071010
+101,WILLOWDALE,9,2,35,1,1,5,69,"Toronto",453, ,1,2,0,125,391,"Triomphe Phase I",20071010
+101,WILLOWDALE,12,0,37,0,4,15,73,"Toronto",454, ,0,2,0,143,367,"Grande Triomphe",20071010
+101,WILLOWDALE,21,1,30,0,2,10,70,"Toronto",455, ,2,0,0,136,412,"Triomphe Phase I",20071010
+101,WILLOWDALE,2,3,18,0,1,6,44,"Toronto",456, ,0,0,0,74,209,"Marquis at Northtown",20071010
+101,WILLOWDALE,7,4,21,0,4,4,55,"Toronto",457, ,4,0,0,99,237,"The Parkside Apartments",20071010
+101,WILLOWDALE,15,0,25,0,4,9,63,"Toronto",458, ,0,2,0,118,207,"Grandview Tower",20071010
+101,WILLOWDALE,7,1,21,1,1,1,26,"Toronto",459, ,0,0,0,58,141,"St. Edward the Confessor Church",20071010
+101,WILLOWDALE,31,2,65,0,2,19,84,"Toronto",460, ,1,1,0,205,408,"St. Edward the Confessor Church",20071010
+101,WILLOWDALE,10,1,55,1,1,12,86,"Toronto",461, ,1,2,0,169,359,"Majestic II",20071010
+101,WILLOWDALE,5,1,27,0,1,6,59,"Toronto",462, ,0,0,0,99,231,"Imperial II",20071010
+101,WILLOWDALE,12,2,21,0,2,13,58,"Toronto",463, ,0,1,0,109,258,"Imperial I",20071010
+101,WILLOWDALE,19,0,17,4,2,7,64,"Toronto",464, ,1,2,0,116,328,"Kingsdale",20071010
+101,WILLOWDALE,10,2,14,0,2,4,54,"Toronto",465A, ,0,0,0,86,225,"Majestic I",20071010
+101,WILLOWDALE,8,0,25,1,1,3,29,"Toronto",465B, ,4,0,0,71,216,"Majestic I",20071010
+101,WILLOWDALE,6,0,37,0,0,4,36,"Toronto",466, ,0,0,0,83,156,"The Arrendale",20071010
+101,WILLOWDALE,5,0,26,0,3,6,36,"Toronto",467, ,0,0,0,76,118,"The Arrendale",20071010
+101,WILLOWDALE,10,0,17,0,1,4,35,"Toronto",468, ,0,0,0,67,226,"St. Gabriel's Catholic Church",20071010
+101,WILLOWDALE,16,2,69,2,5,28,113,"Toronto",469, ,0,2,0,237,400,"Peninsula Place",20071010
+101,WILLOWDALE,8,0,53,0,4,4,84,"Toronto",470, ,3,7,0,163,265,"Beecroft Manor",20071010
+101,WILLOWDALE,7,1,66,0,1,7,80,"Toronto",471, ,0,0,1,163,371,"Royal Pinnacle",20071010
+101,WILLOWDALE,4,0,35,1,2,9,51,"Toronto",472, ,0,2,0,104,378,"The Pinnacle",20071010
+101,WILLOWDALE,13,1,41,0,0,4,73,"Toronto",473, ,0,0,0,132,283,"21 Hillcrest Avenue",20071010
+101,WILLOWDALE,8,0,42,0,4,14,58,"Toronto",474, ,0,1,0,127,301,"The Empress Plaza I",20071010
+101,WILLOWDALE,12,0,37,1,2,11,58,"Toronto",475, ,0,0,0,121,312,"Empress Plaza II",20071010
+101,WILLOWDALE,18,0,57,1,0,6,127,"Toronto",476, ,2,1,0,212,430,"The Boulevard",20071010
+101,WILLOWDALE,6,0,31,0,2,7,44,"Toronto",477, ,0,1,0,91,259,"Hollywood Plaza",20071010
+101,WILLOWDALE,2,0,23,1,1,5,40,"Toronto",478, ,0,0,0,72,164,"2 Clairtrell Road",20071010
+101,WILLOWDALE,7,0,13,0,1,4,48,"Toronto",479, ,0,0,0,73,133,"1 Clairtrell Road",20071010
+101,WILLOWDALE,11,0,35,3,2,8,60,"Toronto",480, ,0,0,0,119,234,"The Rockefeller",20071010
+101,WILLOWDALE,11,0,28,0,1,11,29,"Toronto",481, ,0,0,0,80,150,"The Chelsea",20071010
+101,WILLOWDALE,6,0,82,1,2,6,70,"Toronto",482, ,0,2,0,169,215,"Amica at Bayview",20071010
+101,WILLOWDALE,10,0,38,2,1,9,53,"Toronto",483, ,0,0,0,113,308,"Liberty Club",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",484, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,11,0,26,0,1,3,32,"Toronto",485, ,0,0,0,73,133,"The Arrendale",20071010
+101,WILLOWDALE,5,1,46,0,0,6,45,"Toronto",486, ,1,0,0,104,258,"Liberty Club",20071010
+101,WILLOWDALE,9,1,22,0,0,11,18,"Toronto",487, ,0,1,0,62,158,"North York (Chinese) Baptist Church",20071010
+101,WILLOWDALE,16,0,45,1,1,12,83,"Toronto",488, ,0,0,0,158,303,"Broadway One",20071010
+101,WILLOWDALE,13,1,86,0,1,7,98,"Toronto",489, ,2,1,2,211,353,"Manhattan Place",20071010
+101,WILLOWDALE,11,1,40,0,0,20,61,"Toronto",490, ,0,0,0,133,247,"The Prelude",20071010
+101,WILLOWDALE,16,1,42,0,2,19,79,"Toronto",491, ,0,1,1,161,305,"Broadway Two",20071010
+101,WILLOWDALE,15,1,37,0,7,8,53,"Toronto",492, ,0,1,0,122,291,"Ultima Towers North",20071010
+101,WILLOWDALE,11,0,55,0,8,21,63,"Toronto",493, ,0,1,0,159,307,"Ultima Towers South",20071010
+101,WILLOWDALE,19,1,67,1,8,11,88,"Toronto",494, ,1,1,0,197,406,"Residences of Madison Centre",20071010
+101,WILLOWDALE,10,3,37,0,0,5,46,"Toronto",495, ,0,0,0,101,234,"Hollywood Plaza",20071010
+101,WILLOWDALE,22,3,49,0,5,23,61,"Toronto",496, ,0,0,0,163,406,"Platinum Towers",20071010
+101,WILLOWDALE,9,0,26,0,1,6,42,"Toronto",497A, ,1,0,0,85,216,"Rodeo Walk",20071010
+101,WILLOWDALE,5,1,34,1,0,10,46,"Toronto",497B, ,0,0,0,97,251,"Rodeo Walk",20071010
+101,WILLOWDALE,..........................NO POLL HELD........................,,,,,,,"Toronto",498, ,0,0,0,0,0,"",20071010
+101,WILLOWDALE,17,0,43,0,0,17,80,"Toronto",499, ,1,2,0,160,367,"6 Forest Laneway",20071010
+101,WILLOWDALE,15,2,117,0,4,10,90,"Toronto",500, ,1,1,0,240,402,"Atrium II",20071010
+101,WILLOWDALE,18,0,82,0,1,5,84,"Toronto",501, ,0,1,0,191,319,"The Pavilion",20071010
+101,WILLOWDALE,14,0,39,0,0,6,60,"Toronto",502, ,0,1,0,120,208,"Pavilion Del Sol",20071010
+101,WILLOWDALE,10,0,57,0,5,8,67,"Toronto",503, ,0,1,0,148,324,"The Empire",20071010
+101,WILLOWDALE,15,0,44,0,3,25,77,"Toronto",504, ,2,1,0,167,371,"Liberty Club",20071010
+101,WILLOWDALE,15,3,54,0,3,10,90,"Toronto",505, ,0,3,0,178,403,"Liberty Club",20071010
+101,WILLOWDALE,13,0,95,0,1,8,101,"Toronto",506, ,2,0,0,220,323,"Atrium I",20071010
+101,WILLOWDALE,15,1,33,0,1,13,70,"Toronto",507, ,1,1,0,135,382,"6 Forest Laneway",20071010
+101,WILLOWDALE,21,1,25,1,3,15,61,"Toronto",508, ,0,2,0,129,294,"6 Forest Laneway",20071010
+101,WILLOWDALE,14,1,30,0,2,10,73,"Toronto",509, ,5,0,0,135,291,"Radiance at Minto Gardens",20071010
+101,WILLOWDALE,14,0,26,0,0,3,59,"Toronto",510, ,1,1,1,105,218,"Cosmo",20071010
+101,WILLOWDALE,9,0,20,0,3,12,43,"Toronto",511, ,0,0,0,87,190,"Cosmo",20071010
+101,WILLOWDALE,1,0,16,0,0,3,16,"Toronto",512, ,3,0,0,39,75,"Avondale Public School",20071010
+101,WILLOWDALE,8,2,30,0,3,11,73,"Toronto",513, ,1,0,0,128,239,"Residence of Avondale",20071010
+101,WILLOWDALE,22,1,27,0,5,8,72,"Toronto",514, ,0,0,0,135,260,"Residence of Avondale",20071010
+101,WILLOWDALE,3,0,4,0,0,1,7,"Toronto",515, ,0,0,0,15,33,"Avondale Public School",20071010
+101,WILLOWDALE,7,0,44,0,2,8,63,"Toronto",516, ,1,0,0,125,243,"Spectrum Tower II",20071010
+101,WILLOWDALE,12,1,22,0,0,3,40,"Toronto",517, ,1,1,0,80,181,"Mansions of Avondale",20071010
+101,WILLOWDALE,28,1,36,0,2,13,49,"Toronto",518, ,0,0,0,129,437,"Cameron Public School",20071010
+101,WILLOWDALE,17,0,33,0,2,15,87,"Toronto",519, ,0,1,0,155,312,"Spectrum Tower I",20071010
+101,WILLOWDALE,8,0,12,0,1,3,32,"Toronto",520, ,1,0,0,57,151,"Mansions of Avondale",20071010
+101,WILLOWDALE,13,1,51,0,0,9,86,"Toronto",521, ,0,0,0,160,400,"Skymark Centre at Avondale",20071010
+101,WILLOWDALE,18,0,71,0,1,11,74,"Toronto",522, ,1,1,0,177,422,"Skymark Centre at Avondale",20071010
+101,WILLOWDALE,6,1,13,1,1,7,39,"Toronto",523, ,0,0,1,69,127,"Meridian Residences Phase I",20071010
+101,WILLOWDALE,36,5,256,1,6,33,298,"Toronto",Advanced Polls /  ADV001, ,2,9,0,646,0,"Returning Office / Bureau du directeur du scrutin",20071010
+101,WILLOWDALE,73,6,363,2,6,59,565,"Toronto",Advanced Polls /  ADV002, ,2,2,1,1079,0,"Mitchell Field Community Centre",20071010
+101,WILLOWDALE,51,5,440,2,5,42,512,"Toronto",Advanced Polls /  ADV003, ,4,6,0,1067,0,"Cummer Park Community Centre",20071010
+101,WILLOWDALE,47,3,200,3,1,50,261,"Toronto",Advanced Polls /  ADV004, ,2,2,1,570,0,"Edithvale Community Centre",20071010
+101,WILLOWDALE,32,7,263,0,8,46,286,"Toronto",Advanced Polls /  ADV005, ,4,3,0,649,0,"St. Elizabeth of Hungary",20071010
+TOTALS:, ,3699,370,15558,119,477,2960,21166, , , , , , , , , , 

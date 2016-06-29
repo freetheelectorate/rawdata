@@ -1,0 +1,319 @@
+ED_CODE,ED_NAME,CIOPPA,DAGENAIS,LARTER,MEILLEUR,POOLE,POULIN,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+065,OTTAWA--VANIER,0,37,1,100,21,82,"Ottawa",001, ,0,0,0,241,406,"École élémentaire catholique La Vérendrye",20071010
+065,OTTAWA--VANIER,3,16,4,92,28,69,"Ottawa",002, ,0,1,1,214,393,"Thomas D'Arcy McGee Catholic School",20071010
+065,OTTAWA--VANIER,0,14,2,131,21,80,"Ottawa",003, ,0,0,0,248,404,"Robert Hopkins Public School",20071010
+065,OTTAWA--VANIER,8,33,0,126,26,68,"Ottawa",004, ,0,1,0,262,423,"Robert Hopkins Public School",20071010
+065,OTTAWA--VANIER,3,15,0,92,32,65,"Ottawa",005, ,0,0,0,207,330,"École élémentaire catholique La Vérendrye",20071010
+065,OTTAWA--VANIER,4,25,3,105,14,94,"Ottawa",006, ,1,0,0,246,428,"École élémentaire catholique La Vérendrye",20071010
+065,OTTAWA--VANIER,1,21,0,69,33,53,"Ottawa",007, ,0,0,0,177,402,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,2,24,1,130,24,73,"Ottawa",008, ,0,3,0,257,379,"Robert Hopkins Public School",20071010
+065,OTTAWA--VANIER,1,18,0,116,23,71,"Ottawa",009, ,0,0,0,229,369,"Robert Hopkins Public School",20071010
+065,OTTAWA--VANIER,2,29,2,108,14,78,"Ottawa",010, ,1,0,0,234,393,"École élémentaire catholique La Vérendrye",20071010
+065,OTTAWA--VANIER,3,16,0,91,10,56,"Ottawa",011, ,1,1,0,178,304,"École élémentaire publique Séraphin-Marion",20071010
+065,OTTAWA--VANIER,0,7,0,64,26,74,"Ottawa",012, ,0,0,0,171,347,"Rockcliffe Park Public School",20071010
+065,OTTAWA--VANIER,4,27,0,86,29,85,"Ottawa",013, ,0,0,2,233,428,"Thomas D'Arcy McGee Catholic School",20071010
+065,OTTAWA--VANIER,0,37,2,91,20,77,"Ottawa",014, ,1,0,0,228,371,"Thomas D'Arcy McGee Catholic School",20071010
+065,OTTAWA--VANIER,1,10,0,69,7,45,"Ottawa",015, ,0,2,0,134,219,"École élémentaire publique Séraphin-Marion",20071010
+065,OTTAWA--VANIER,7,35,1,83,18,56,"Ottawa",016, ,0,1,0,201,385,"École élémentaire publique Séraphin-Marion",20071010
+065,OTTAWA--VANIER,3,24,0,76,11,38,"Ottawa",017, ,0,0,0,152,311,"École élémentaire publique Séraphin-Marion",20071010
+065,OTTAWA--VANIER,1,39,0,105,29,48,"Ottawa",018, ,0,0,0,222,372,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,1,23,0,86,28,72,"Ottawa",019, ,0,0,0,210,356,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,3,25,0,90,15,36,"Ottawa",020, ,0,1,0,170,372,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,0,16,2,46,12,17,"Ottawa",021, ,0,0,0,93,207,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,..........................NO POLL HELD........................,,,,,,"Ottawa",022, ,0,0,0,0,0,"",20071010
+065,OTTAWA--VANIER,0,23,3,42,10,30,"Ottawa",023, ,0,0,0,108,347,"CFB Rockcliffe",20071010
+065,OTTAWA--VANIER,3,15,2,90,16,64,"Ottawa",024, ,0,0,0,190,360,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,6,26,0,71,9,55,"Ottawa",025, ,2,0,0,169,370,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,1,3,0,29,6,16,"Ottawa",026, ,0,0,0,55,103,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,4,23,2,55,10,29,"Ottawa",027, ,0,0,0,123,357,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,4,16,0,108,15,46,"Ottawa",028, ,0,0,1,190,379,"École élémentaire publique Séraphin-Marion",20071010
+065,OTTAWA--VANIER,1,4,0,67,24,61,"Ottawa",029, ,0,1,0,158,353,"Rockcliffe Park Public School",20071010
+065,OTTAWA--VANIER,0,6,0,77,28,45,"Ottawa",030, ,1,0,0,157,306,"Rockcliffe Park Public School",20071010
+065,OTTAWA--VANIER,0,18,0,102,24,72,"Ottawa",031, ,0,1,0,217,365,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,0,38,0,70,14,21,"Ottawa",032, ,2,0,0,145,419,"Manor Park Public School",20071010
+065,OTTAWA--VANIER,1,15,1,47,7,14,"Ottawa",033, ,0,0,0,85,198,"CFB Rockcliffe",20071010
+065,OTTAWA--VANIER,1,10,2,42,7,8,"Ottawa",034, ,0,0,0,70,243,"CFB Rockcliffe",20071010
+065,OTTAWA--VANIER,0,2,1,25,0,1,"Ottawa",035s, ,0,0,0,29,67,"Manoir Marochel",20071010
+065,OTTAWA--VANIER,1,4,1,39,0,8,"Ottawa",036s, ,0,2,0,55,238,"Laurier Manor",20071010
+065,OTTAWA--VANIER,2,7,3,36,1,17,"Ottawa",037s, ,0,1,0,67,108,"Rothwell Heights Lodge",20071010
+065,OTTAWA--VANIER,4,5,1,105,21,64,"Ottawa",038, ,0,0,0,200,347,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,1,21,0,83,14,68,"Ottawa",039, ,0,0,0,187,370,"Le Phare Elementary School",20071010
+065,OTTAWA--VANIER,1,9,0,82,13,20,"Ottawa",040, ,0,0,0,125,240,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,0,10,2,25,14,18,"Ottawa",041, ,0,0,0,69,235,"CFB Rockcliffe",20071010
+065,OTTAWA--VANIER,1,10,0,54,20,30,"Ottawa",042, ,1,1,0,117,262,"Brittany Park Recreation Center",20071010
+065,OTTAWA--VANIER,2,12,1,59,17,22,"Ottawa",043, ,0,0,0,113,280,"CFB Rockcliffe",20071010
+065,OTTAWA--VANIER,1,3,0,39,1,6,"Ottawa",043-1s, ,0,1,0,51,123,"CSLD Montfort",20071010
+065,OTTAWA--VANIER,0,4,0,63,3,14,"Ottawa",044, ,0,0,0,84,156,"Coopérative d'habitation Desloges",20071010
+065,OTTAWA--VANIER,4,21,1,53,15,28,"Ottawa",045, ,1,1,1,125,271,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,3,13,2,78,13,29,"Ottawa",046, ,0,0,0,138,415,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,0,15,1,45,6,24,"Ottawa",047, ,0,0,0,91,263,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,3,12,1,51,2,20,"Ottawa",048, ,0,0,0,89,242,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,0,14,0,57,17,65,"Ottawa",049, ,0,0,0,153,309,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,0,0,0,48,0,0,"Ottawa",050s, ,1,1,0,50,78,"Mont St-Joseph",20071010
+065,OTTAWA--VANIER,0,22,0,51,14,40,"Ottawa",051, ,1,0,0,128,260,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,1,25,0,94,41,45,"Ottawa",052, ,0,0,0,206,381,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,0,19,0,62,25,34,"Ottawa",053, ,0,0,0,140,288,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,1,22,1,46,14,11,"Ottawa",054, ,0,0,0,95,248,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,3,10,1,43,7,25,"Ottawa",055, ,0,0,0,89,233,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,1,11,0,30,7,15,"Ottawa",056, ,2,0,0,66,185,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,0,3,2,61,0,5,"Ottawa",057s, ,1,0,0,72,159,"Centre d'accueil Champlain",20071010
+065,OTTAWA--VANIER,1,0,0,6,0,1,"Ottawa",058s, ,0,0,0,8,23,"Duford Residence",20071010
+065,OTTAWA--VANIER,1,12,2,68,10,37,"Ottawa",059, ,0,0,0,130,272,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,0,21,1,74,18,39,"Ottawa",060, ,0,0,0,153,249,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,0,19,1,96,22,40,"Ottawa",061, ,1,0,0,179,331,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,0,4,0,22,1,14,"Ottawa",062, ,0,0,0,41,118,"Queen Elizabeth Public School",20071010
+065,OTTAWA--VANIER,1,6,1,126,2,7,"Ottawa",063s, ,1,0,0,144,179,"Heritage Manor",20071010
+065,OTTAWA--VANIER,2,15,0,36,5,13,"Ottawa",064, ,0,0,0,71,236,"Queen Elizabeth Public School",20071010
+065,OTTAWA--VANIER,0,20,1,114,11,39,"Ottawa",065, ,0,0,0,185,432,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,0,5,0,5,0,1,"Ottawa",066, ,0,0,0,11,39,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,0,30,0,61,24,39,"Ottawa",067, ,0,2,0,156,311,"Stanley Park Field House",20071010
+065,OTTAWA--VANIER,1,27,1,77,26,23,"Ottawa",068, ,0,0,0,155,347,"Stanley Park Field House",20071010
+065,OTTAWA--VANIER,0,28,0,66,25,36,"Ottawa",069, ,0,0,0,155,318,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,2,23,1,66,46,32,"Ottawa",070, ,0,0,0,170,331,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,1,32,0,41,22,19,"Ottawa",071, ,0,0,0,115,286,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,..........................NO POLL HELD........................,,,,,,"Ottawa",072, ,0,0,0,0,0,"",20071010
+065,OTTAWA--VANIER,0,20,0,45,22,36,"Ottawa",073, ,0,0,0,123,260,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,0,43,3,44,38,20,"Ottawa",074, ,0,0,1,149,277,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,0,11,1,48,9,13,"Ottawa",075, ,1,0,1,84,229,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,0,12,0,42,25,14,"Ottawa",076, ,0,0,0,93,238,"St. Brigid Catholic School",20071010
+065,OTTAWA--VANIER,0,19,1,30,11,7,"Ottawa",077, ,0,0,0,68,186,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,1,17,0,36,12,24,"Ottawa",078, ,0,0,0,90,265,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,0,5,0,35,14,12,"Ottawa",079, ,0,1,0,67,211,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,0,0,1,10,0,0,"Ottawa",080s, ,0,0,0,11,14,"Residence Mon Plaisir",20071010
+065,OTTAWA--VANIER,0,21,2,44,4,19,"Ottawa",081, ,0,0,0,90,228,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,0,12,2,43,9,17,"Ottawa",082, ,0,0,0,83,227,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,1,23,0,53,21,27,"Ottawa",083, ,0,0,0,125,267,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,1,16,0,47,9,13,"Ottawa",084, ,0,0,0,86,217,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,0,16,0,32,10,23,"Ottawa",085, ,0,0,0,81,263,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,0,11,0,58,11,29,"Ottawa",086, ,1,0,0,110,239,"Centre Communautaire Richelieu-Vanier",20071010
+065,OTTAWA--VANIER,1,7,1,43,7,12,"Ottawa",087, ,0,0,0,71,229,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,0,0,0,85,0,1,"Ottawa",088s, ,2,0,0,88,114,"Maison de la Sagesse",20071010
+065,OTTAWA--VANIER,1,19,2,138,12,46,"Ottawa",089, ,0,0,0,218,390,"St. Laurent Complex",20071010
+065,OTTAWA--VANIER,0,11,2,53,8,32,"Ottawa",090, ,0,0,1,107,339,"Queen Elizabeth Public School",20071010
+065,OTTAWA--VANIER,2,16,1,68,12,41,"Ottawa",091, ,0,0,0,140,361,"Queen Elizabeth Public School",20071010
+065,OTTAWA--VANIER,0,16,1,73,9,37,"Ottawa",092, ,1,0,0,137,392,"Our Lady of Mount Carmel School",20071010
+065,OTTAWA--VANIER,0,17,0,121,9,54,"Ottawa",093, ,2,1,0,204,458,"Collège catholique Samuel-Genest",20071010
+065,OTTAWA--VANIER,8,25,0,25,22,71,"Ottawa",094, ,0,0,0,151,469,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,0,9,0,32,2,12,"Ottawa",095, ,0,0,0,55,100,"Cyrville Community Centre",20071010
+065,OTTAWA--VANIER,0,4,1,25,2,12,"Ottawa",096s, ,0,0,0,44,74,"Governor Walk Retirement Home",20071010
+065,OTTAWA--VANIER,0,25,0,64,38,24,"Ottawa",097, ,0,1,0,152,260,"Stanley Park Field House",20071010
+065,OTTAWA--VANIER,0,3,0,45,5,13,"Ottawa",098s, ,0,0,2,68,186,"Gary G. Armstrong",20071010
+065,OTTAWA--VANIER,0,20,0,53,12,22,"Ottawa",099, ,0,0,0,107,233,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,0,4,1,20,2,16,"Ottawa",100s, ,0,0,0,43,62,"The Edinburgh",20071010
+065,OTTAWA--VANIER,0,9,0,50,1,33,"Ottawa",101s, ,0,0,1,94,126,"New Edinburgh Square",20071010
+065,OTTAWA--VANIER,1,14,0,51,18,14,"Ottawa",102, ,0,0,0,98,212,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,1,16,0,40,12,17,"Ottawa",103, ,0,0,0,86,178,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,0,21,1,49,13,23,"Ottawa",104, ,1,0,0,108,230,"École élémentaire publique Le Trillium",20071010
+065,OTTAWA--VANIER,0,11,0,31,4,16,"Ottawa",105, ,0,0,0,62,182,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,0,10,1,56,8,14,"Ottawa",106, ,0,0,1,90,225,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,1,18,0,30,7,11,"Ottawa",107, ,0,0,0,67,225,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,0,4,0,26,5,9,"Ottawa",108, ,0,0,0,44,164,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,1,11,0,39,9,12,"Ottawa",109, ,0,0,0,72,183,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,0,2,1,22,1,4,"Ottawa",110s, ,2,0,0,32,51,"Fatima Manor",20071010
+065,OTTAWA--VANIER,0,9,1,35,5,17,"Ottawa",111, ,0,0,0,67,197,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,1,9,1,31,9,14,"Ottawa",112, ,0,0,0,65,166,"Centre Francophone de Vanier",20071010
+065,OTTAWA--VANIER,0,5,0,39,10,10,"Ottawa",113, ,1,0,0,65,212,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,1,15,1,32,7,10,"Ottawa",114, ,1,0,0,67,235,"Église Notre-Dame-de-lourdes",20071010
+065,OTTAWA--VANIER,1,15,0,41,2,11,"Ottawa",115, ,0,0,0,70,237,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,2,12,0,68,9,25,"Ottawa",116, ,0,0,0,116,288,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,0,12,0,56,11,24,"Ottawa",117, ,0,0,0,103,267,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,1,6,0,53,5,12,"Ottawa",118, ,0,0,0,77,271,"St. Laurent Complex",20071010
+065,OTTAWA--VANIER,0,22,1,51,8,42,"Ottawa",119, ,0,0,0,124,278,"St. Laurent Complex",20071010
+065,OTTAWA--VANIER,0,6,1,39,4,29,"Ottawa",120, ,0,0,0,79,171,"Our Lady of Mount Carmel School",20071010
+065,OTTAWA--VANIER,3,15,1,93,15,49,"Ottawa",121, ,0,1,0,177,393,"Our Lady of Mount Carmel School",20071010
+065,OTTAWA--VANIER,2,16,1,58,5,26,"Ottawa",122, ,0,0,0,108,368,"Our Lady of Mount Carmel School",20071010
+065,OTTAWA--VANIER,2,21,1,128,21,58,"Ottawa",123, ,1,0,0,232,398,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,0,17,0,117,10,39,"Ottawa",124, ,1,0,0,184,365,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,2,25,2,135,10,87,"Ottawa",125, ,0,1,0,262,402,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,3,22,0,95,13,53,"Ottawa",126, ,0,0,0,186,373,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,0,3,1,23,1,13,"Ottawa",127s, ,1,0,0,42,54,"Camilla Gardens",20071010
+065,OTTAWA--VANIER,0,25,1,97,28,37,"Ottawa",128, ,0,0,1,189,427,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,34,0,53,19,18,"Ottawa",129, ,0,0,0,124,275,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,25,2,69,21,23,"Ottawa",130, ,2,0,0,142,302,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,1,41,1,64,19,16,"Ottawa",131, ,1,0,0,143,286,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,3,11,0,87,21,20,"Ottawa",132, ,0,0,0,142,286,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,1,31,0,48,34,16,"Ottawa",133, ,0,0,0,130,279,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,28,0,53,13,14,"Ottawa",134, ,0,2,0,110,220,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,10,22,0,57,17,32,"Ottawa",135, ,0,0,0,138,302,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,23,1,62,13,14,"Ottawa",136, ,0,1,0,114,274,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,1,14,0,52,8,16,"Ottawa",137, ,0,0,0,91,240,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,4,16,1,36,4,17,"Ottawa",138, ,0,1,0,79,216,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,1,10,4,28,3,7,"Ottawa",139, ,0,0,0,53,209,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,0,10,1,20,2,5,"Ottawa",140, ,3,0,0,41,169,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,0,15,1,32,5,20,"Ottawa",141, ,0,1,0,74,221,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,0,11,0,29,6,15,"Ottawa",142, ,0,0,0,61,188,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,3,19,0,38,7,23,"Ottawa",143, ,2,1,0,93,319,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,1,13,4,59,7,33,"Ottawa",144, ,0,0,0,117,295,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,1,6,1,61,8,14,"Ottawa",145, ,2,2,0,95,252,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,3,14,0,64,2,27,"Ottawa",146, ,0,0,0,110,390,"Our Lady of Mount Carmel School",20071010
+065,OTTAWA--VANIER,0,39,1,133,15,24,"Ottawa",147, ,0,0,0,212,609,"Knights of Columbus",20071010
+065,OTTAWA--VANIER,2,11,0,106,12,58,"Ottawa",148, ,0,0,0,189,372,"Carson Grove Elementary School",20071010
+065,OTTAWA--VANIER,1,2,1,39,0,5,"Ottawa",149s, ,0,0,0,48,59,"Ogilvie Villa",20071010
+065,OTTAWA--VANIER,8,10,0,37,5,17,"Ottawa",150, ,0,1,0,78,206,"Cyrville Community Centre",20071010
+065,OTTAWA--VANIER,0,21,0,54,9,28,"Ottawa",151, ,0,0,0,112,264,"Cyrville Community Centre",20071010
+065,OTTAWA--VANIER,2,16,1,67,20,44,"Ottawa",152, ,0,0,0,150,369,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,1,6,0,47,13,17,"Ottawa",153, ,0,0,0,84,172,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,1,1,0,106,1,2,"Ottawa",154s, ,1,0,0,112,126,"Les Soeurs de la Charité",20071010
+065,OTTAWA--VANIER,0,5,0,29,1,9,"Ottawa",155s, ,0,0,2,46,137,"Villa Marguerite",20071010
+065,OTTAWA--VANIER,1,26,1,73,22,16,"Ottawa",156, ,0,0,0,139,287,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,30,0,49,10,13,"Ottawa",157, ,0,0,1,103,195,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,1,4,0,19,0,2,"Ottawa",158s, ,0,0,0,26,38,"Manoir Belanger",20071010
+065,OTTAWA--VANIER,1,35,1,63,22,16,"Ottawa",159, ,1,0,0,139,302,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,20,1,63,31,18,"Ottawa",160, ,2,1,0,136,268,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,14,0,21,9,8,"Ottawa",161, ,1,2,3,58,149,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,27,0,40,17,20,"Ottawa",162, ,0,0,0,104,348,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,1,16,2,57,22,24,"Ottawa",163, ,1,0,0,123,269,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,17,2,36,15,7,"Ottawa",164, ,1,0,0,78,241,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,21,0,27,13,7,"Ottawa",165, ,0,0,0,68,224,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,1,21,1,39,7,9,"Ottawa",166, ,1,0,0,79,311,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,1,18,1,32,11,6,"Ottawa",167, ,0,0,0,69,245,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,2,19,1,22,1,6,"Ottawa",168, ,0,0,0,51,207,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,15,0,56,0,18,"Ottawa",169s, ,3,0,0,92,136,"Jardins Rideau Gardens",20071010
+065,OTTAWA--VANIER,1,15,1,45,14,4,"Ottawa",170, ,0,0,0,80,201,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,1,35,0,35,21,12,"Ottawa",171, ,0,0,0,104,246,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,34,0,58,27,16,"Ottawa",172, ,1,0,0,136,268,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,30,0,44,30,17,"Ottawa",173, ,0,0,0,121,266,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,17,0,43,27,10,"Ottawa",174, ,0,1,0,98,267,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,0,5,1,44,2,16,"Ottawa",175s, ,0,2,0,70,110,"Rideau Place on-the-River",20071010
+065,OTTAWA--VANIER,2,19,0,46,16,16,"Ottawa",176, ,0,0,0,99,279,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,2,6,0,42,1,22,"Ottawa",177s, ,0,2,1,76,127,"Edgewood Care Centre",20071010
+065,OTTAWA--VANIER,0,14,1,19,2,2,"Ottawa",178, ,0,0,0,38,154,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,0,8,2,61,3,20,"Ottawa",179, ,3,0,0,97,290,"St. Mary's Home",20071010
+065,OTTAWA--VANIER,0,14,0,26,6,13,"Ottawa",180, ,0,0,0,59,214,"St. Mary's Home",20071010
+065,OTTAWA--VANIER,1,15,3,48,12,16,"Ottawa",181, ,1,0,0,96,289,"St. Mary's Home",20071010
+065,OTTAWA--VANIER,1,25,2,83,14,28,"Ottawa",182, ,0,0,0,153,379,"Robert E. Wilson Public School",20071010
+065,OTTAWA--VANIER,0,15,1,88,12,34,"Ottawa",183, ,1,0,0,151,385,"Queen Mary Street Public School",20071010
+065,OTTAWA--VANIER,1,24,2,86,9,35,"Ottawa",184, ,1,0,0,158,364,"Queen Mary Street Public School",20071010
+065,OTTAWA--VANIER,6,16,0,87,9,59,"Ottawa",185, ,0,0,0,177,411,"Cyrville Community Centre",20071010
+065,OTTAWA--VANIER,3,32,0,70,10,43,"Ottawa",186, ,0,0,0,158,351,"Cyrville Community Centre",20071010
+065,OTTAWA--VANIER,1,16,0,77,5,50,"Ottawa",187, ,1,1,0,151,294,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,1,13,1,80,4,42,"Ottawa",188, ,0,0,1,142,372,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,1,16,2,52,15,19,"Ottawa",189, ,0,0,0,105,286,"Centre Communautaire Routhier",20071010
+065,OTTAWA--VANIER,0,15,0,34,18,15,"Ottawa",190, ,0,0,0,82,213,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,1,1,20,0,2,"Ottawa",191s, ,1,0,0,25,39,"Manoir Gallien",20071010
+065,OTTAWA--VANIER,0,20,1,30,15,12,"Ottawa",192, ,0,0,0,78,187,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,21,1,83,23,30,"Ottawa",193, ,0,1,0,159,413,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,33,0,25,4,6,"Ottawa",194, ,1,0,2,71,199,"Centre de service Guigues",20071010
+065,OTTAWA--VANIER,0,36,0,70,25,23,"Ottawa",195, ,1,1,0,156,211,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,1,34,0,52,25,12,"Ottawa",196, ,0,0,1,125,164,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,15,14,2,31,15,12,"Ottawa",197, ,0,0,0,89,170,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,36,0,42,22,14,"Ottawa",198, ,1,0,0,115,350,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,26,0,31,19,10,"Ottawa",199, ,0,0,0,86,203,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,20,1,23,8,11,"Ottawa",200, ,0,0,0,63,206,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,0,1,21,4,7,"Ottawa",201s, ,0,0,0,33,42,"Sandy Hill Retirement Residence",20071010
+065,OTTAWA--VANIER,2,18,0,28,10,12,"Ottawa",202, ,2,0,0,72,217,"York Street Public School",20071010
+065,OTTAWA--VANIER,0,30,0,44,15,21,"Ottawa",203, ,0,0,0,110,227,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,7,20,0,34,11,17,"Ottawa",204, ,1,0,0,90,155,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,0,19,0,42,18,23,"Ottawa",205, ,1,0,0,103,263,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,2,32,0,49,15,13,"Ottawa",206, ,0,0,0,111,251,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,0,17,0,44,16,18,"Ottawa",207, ,1,1,0,97,267,"Centre Pauline-Charron",20071010
+065,OTTAWA--VANIER,2,29,0,75,31,28,"Ottawa",208, ,0,2,1,168,336,"Éducation permanente",20071010
+065,OTTAWA--VANIER,2,16,0,61,15,16,"Ottawa",209, ,1,0,0,111,272,"Éducation permanente",20071010
+065,OTTAWA--VANIER,3,16,0,55,21,35,"Ottawa",210, ,2,1,0,133,311,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,0,30,0,66,38,30,"Ottawa",211, ,1,0,0,165,371,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,1,12,0,60,21,25,"Ottawa",212, ,0,0,0,119,319,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,1,20,1,41,5,18,"Ottawa",213, ,0,0,1,87,294,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,2,10,1,48,2,23,"Ottawa",214, ,0,0,0,86,354,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,2,6,0,72,9,22,"Ottawa",215, ,0,0,0,111,363,"Overbrook Community Centre",20071010
+065,OTTAWA--VANIER,0,9,1,41,6,28,"Ottawa",216, ,0,0,0,85,273,"Queen Mary Street Public School",20071010
+065,OTTAWA--VANIER,3,21,0,92,5,31,"Ottawa",217, ,1,0,0,153,463,"Knights of Columbus",20071010
+065,OTTAWA--VANIER,3,18,1,76,13,74,"Ottawa",218, ,0,0,0,185,407,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,3,20,1,111,19,45,"Ottawa",219, ,1,0,0,200,423,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,2,24,1,92,8,72,"Ottawa",220, ,1,0,0,200,431,"Calvary Pentecostal Church",20071010
+065,OTTAWA--VANIER,5,24,1,105,13,71,"Ottawa",221, ,1,2,0,222,467,"John Paul II Catholic Secondary School",20071010
+065,OTTAWA--VANIER,1,26,1,121,15,62,"Ottawa",222, ,0,0,0,226,510,"Calvary Pentecostal Church",20071010
+065,OTTAWA--VANIER,0,76,2,141,54,59,"Ottawa",223, ,0,1,0,333,640,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,1,44,0,56,27,10,"Ottawa",224, ,0,1,0,139,255,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,0,33,0,42,9,12,"Ottawa",225, ,0,0,0,96,141,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,1,16,1,21,16,4,"Ottawa",226, ,0,0,0,59,158,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,2,23,3,43,12,3,"Ottawa",227, ,2,0,0,88,207,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,1,50,2,61,16,10,"Ottawa",228, ,0,0,0,140,287,"École élémentaire publique Francojeunesse",20071010
+065,OTTAWA--VANIER,0,33,0,55,20,16,"Ottawa",229, ,2,1,0,127,375,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,0,31,1,47,36,14,"Ottawa",230, ,0,0,0,129,276,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,1,27,2,49,31,18,"Ottawa",231, ,0,0,0,128,246,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,4,36,0,52,28,7,"Ottawa",232, ,0,1,0,128,257,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,0,34,0,68,41,23,"Ottawa",233, ,0,2,0,168,297,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,0,48,0,59,24,24,"Ottawa",234, ,0,0,0,155,278,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,2,18,0,62,25,35,"Ottawa",235, ,3,0,0,145,292,"Éducation permanente",20071010
+065,OTTAWA--VANIER,1,8,0,31,2,7,"Ottawa",236, ,2,1,0,52,232,"Éducation permanente",20071010
+065,OTTAWA--VANIER,1,17,1,70,25,20,"Ottawa",237, ,1,0,0,135,506,"Éducation permanente",20071010
+065,OTTAWA--VANIER,1,5,2,38,0,8,"Ottawa",238, ,1,0,0,55,167,"Queen Mary Street Public School",20071010
+065,OTTAWA--VANIER,2,7,1,54,4,23,"Ottawa",239, ,2,0,0,93,347,"Calvary Pentecostal Church",20071010
+065,OTTAWA--VANIER,3,21,0,77,9,55,"Ottawa",240, ,1,0,0,166,390,"Calvary Pentecostal Church",20071010
+065,OTTAWA--VANIER,..........................NO POLL HELD........................,,,,,,"Ottawa",241, ,0,0,0,0,0,"",20071010
+065,OTTAWA--VANIER,0,66,0,132,37,43,"Ottawa",242A, ,1,2,0,281,646,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,1,64,3,92,24,26,"Ottawa",242B, ,1,0,0,211,626,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,0,42,0,24,32,11,"Ottawa",243, ,0,1,0,110,283,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,0,54,1,69,21,23,"Ottawa",244, ,1,2,0,171,359,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,2,25,0,45,15,13,"Ottawa",245, ,0,0,0,100,218,"Viscount Alexander Public School",20071010
+065,OTTAWA--VANIER,1,28,0,35,24,8,"Ottawa",246, ,0,0,0,96,181,"Sandy Hill Community Centre",20071010
+065,OTTAWA--VANIER,1,7,1,51,1,11,"Ottawa",247s, ,0,0,1,73,96,"Silver Heights",20071010
+065,OTTAWA--VANIER,0,24,0,54,4,9,"Ottawa",248, ,0,0,1,92,309,"Viscount Alexander Public School",20071010
+065,OTTAWA--VANIER,0,25,1,40,12,26,"Ottawa",249, ,0,1,0,105,275,"Viscount Alexander Public School",20071010
+065,OTTAWA--VANIER,1,13,1,53,19,24,"Ottawa",250, ,1,0,1,113,230,"Éducation permanente",20071010
+065,OTTAWA--VANIER,0,23,0,76,12,37,"Ottawa",251, ,0,0,1,149,375,"Calvary Pentecostal Church",20071010
+065,OTTAWA--VANIER,0,22,6,52,11,6,"Ottawa",252, ,0,0,0,97,224,"Viscount Alexander Public School",20071010
+065,OTTAWA--VANIER,0,13,0,21,6,11,"Ottawa",253, ,0,0,1,52,216,"St. Mary's Home",20071010
+065,OTTAWA--VANIER,1,6,1,24,5,10,"Ottawa",254, ,0,0,0,47,187,"Viscount Alexander Public School",20071010
+065,OTTAWA--VANIER,0,3,1,31,4,27,"Ottawa",400, ,0,0,0,66,226,"Thomas D'Arcy McGee Catholic School",20071010
+065,OTTAWA--VANIER,1,9,0,45,6,19,"Ottawa",401, ,0,0,0,80,122,"The Parkside",20071010
+065,OTTAWA--VANIER,1,22,2,69,3,50,"Ottawa",402, ,0,0,0,147,201,"North Ridge",20071010
+065,OTTAWA--VANIER,3,21,2,65,10,33,"Ottawa",403, ,1,0,0,135,281,"Concorde Apartments",20071010
+065,OTTAWA--VANIER,8,53,3,201,16,128,"Ottawa",404, ,3,2,0,414,555,"Crosswind Apartments",20071010
+065,OTTAWA--VANIER,1,7,1,37,2,3,"Ottawa",405, ,0,0,0,51,131,"St-Laurent Building",20071010
+065,OTTAWA--VANIER,1,21,0,25,4,9,"Ottawa",406, ,0,0,0,60,145,"Brittany Apartments",20071010
+065,OTTAWA--VANIER,1,15,2,47,5,20,"Ottawa",407, ,1,0,0,91,149,"Brittany Apartments",20071010
+065,OTTAWA--VANIER,2,7,2,36,20,8,"Ottawa",408, ,2,0,0,77,151,"248 Brittany Drive",20071010
+065,OTTAWA--VANIER,1,22,0,68,9,25,"Ottawa",409, ,0,0,0,125,310,"Brittany Park Recreation Center",20071010
+065,OTTAWA--VANIER,2,24,0,121,4,23,"Ottawa",410, ,3,0,0,177,252,"Thomson Residences",20071010
+065,OTTAWA--VANIER,0,17,0,73,7,27,"Ottawa",411, ,1,0,0,125,197,"Montfort Manor Apartments",20071010
+065,OTTAWA--VANIER,0,23,0,75,3,17,"Ottawa",412, ,0,1,0,119,199,"Hermitage Apartments",20071010
+065,OTTAWA--VANIER,4,23,0,154,7,76,"Ottawa",413, ,1,0,0,265,380,"Las Brisas",20071010
+065,OTTAWA--VANIER,1,23,3,92,17,44,"Ottawa",414, ,0,1,0,181,252,"Champlain Towers",20071010
+065,OTTAWA--VANIER,0,15,1,53,6,15,"Ottawa",415, ,0,3,0,93,140,"Mario De Giovanni Co-operative",20071010
+065,OTTAWA--VANIER,2,30,0,210,27,69,"Ottawa",416, ,0,3,0,341,489,"Highland - Party Room",20071010
+065,OTTAWA--VANIER,4,11,1,157,9,52,"Ottawa",417, ,1,0,0,235,300,"Le Parc Apartments",20071010
+065,OTTAWA--VANIER,0,31,0,147,9,34,"Ottawa",418, ,0,0,0,221,294,"Brittany Place",20071010
+065,OTTAWA--VANIER,1,17,0,41,10,25,"Ottawa",419, ,0,0,0,94,133,"Rockfield Arms Apartments",20071010
+065,OTTAWA--VANIER,2,12,4,110,4,21,"Ottawa",420, ,0,0,0,153,212,"Place Montfort",20071010
+065,OTTAWA--VANIER,2,19,0,112,17,42,"Ottawa",421, ,0,0,0,192,283,"La Renaissance",20071010
+065,OTTAWA--VANIER,1,8,2,101,3,22,"Ottawa",422, ,3,2,0,142,195,"Green Valley Terrace",20071010
+065,OTTAWA--VANIER,0,6,1,109,6,31,"Ottawa",423, ,1,0,0,154,197,"Place Lafontaine",20071010
+065,OTTAWA--VANIER,0,31,0,121,10,23,"Ottawa",424, ,0,0,0,185,271,"Château Janeville",20071010
+065,OTTAWA--VANIER,2,16,3,107,1,30,"Ottawa",425, ,1,2,0,162,225,"Social Club 800",20071010
+065,OTTAWA--VANIER,1,18,0,76,11,40,"Ottawa",426, ,0,0,0,146,202,"The Seignory",20071010
+065,OTTAWA--VANIER,1,32,0,144,15,51,"Ottawa",427, ,2,0,0,245,342,"Watergate Apartments",20071010
+065,OTTAWA--VANIER,1,15,2,26,3,4,"Ottawa",428, ,1,1,0,53,101,"Victoria Manor Apartments",20071010
+065,OTTAWA--VANIER,0,4,0,12,3,5,"Ottawa",430, ,0,0,0,24,141,"St. Laurent Complex",20071010
+065,OTTAWA--VANIER,3,22,1,56,9,24,"Ottawa",431, ,0,0,0,115,188,"Ogilvie Towers",20071010
+065,OTTAWA--VANIER,1,8,0,47,4,14,"Ottawa",432, ,0,0,0,74,137,"Gatineau View & Rideau Falls - Party Room",20071010
+065,OTTAWA--VANIER,0,13,2,48,13,13,"Ottawa",433, ,2,0,0,91,143,"Gatineau View & Rideau Falls - Party Room",20071010
+065,OTTAWA--VANIER,1,21,0,58,9,11,"Ottawa",434, ,0,0,0,100,242,"Place Anglesia",20071010
+065,OTTAWA--VANIER,0,13,1,65,15,28,"Ottawa",435, ,1,1,0,124,176,"160 Chapel Street",20071010
+065,OTTAWA--VANIER,0,8,2,26,2,5,"Ottawa",436, ,1,1,0,45,103,"MacDonald Manor 1",20071010
+065,OTTAWA--VANIER,2,13,1,27,3,8,"Ottawa",437, ,2,0,0,56,103,"MacDonald Manor 1",20071010
+065,OTTAWA--VANIER,4,21,1,114,4,19,"Ottawa",438, ,5,3,0,171,215,"Charlotte Place Social Club",20071010
+065,OTTAWA--VANIER,0,16,1,70,9,36,"Ottawa",439, ,0,2,0,134,216,"Rio Vista Apartments",20071010
+065,OTTAWA--VANIER,1,23,1,20,16,7,"Ottawa",440, ,0,0,0,68,95,"450 Daly Avenue",20071010
+065,OTTAWA--VANIER,1,12,3,89,6,26,"Ottawa",441, ,1,0,0,138,215,"Château Vanier - Tower B - Party Room",20071010
+065,OTTAWA--VANIER,2,16,1,96,6,29,"Ottawa",442, ,1,0,0,151,236,"Château Vanier - Tower B - Party Room",20071010
+065,OTTAWA--VANIER,3,16,1,102,7,26,"Ottawa",443, ,1,0,0,156,229,"Château Vanier - Tower B - Party Room",20071010
+065,OTTAWA--VANIER,1,14,2,72,5,14,"Ottawa",444, ,0,2,0,110,226,"Château Donald",20071010
+065,OTTAWA--VANIER,1,13,2,24,2,19,"Ottawa",445, ,1,0,0,62,117,"Donald Court",20071010
+065,OTTAWA--VANIER,0,19,2,28,3,10,"Ottawa",446, ,0,0,0,62,277,"Knights of Columbus",20071010
+065,OTTAWA--VANIER,1,17,1,35,7,12,"Ottawa",447, ,0,0,0,73,319,"Knights of Columbus",20071010
+065,OTTAWA--VANIER,3,17,1,26,4,13,"Ottawa",448, ,0,0,1,65,117,"1400 Appleton Drive",20071010
+065,OTTAWA--VANIER,1,37,1,58,26,19,"Ottawa",449, ,0,1,0,143,233,"383 Cumberland Street",20071010
+065,OTTAWA--VANIER,1,11,1,51,9,37,"Ottawa",450, ,0,0,0,110,154,"Place St-George",20071010
+065,OTTAWA--VANIER,0,8,1,17,3,3,"Ottawa",451, ,0,0,0,32,76,"Queen Mary Court",20071010
+065,OTTAWA--VANIER,1,10,2,78,4,19,"Ottawa",452, ,1,1,2,118,202,"Cyrville Towers",20071010
+065,OTTAWA--VANIER,......................COMBINED WITH POLL 223 ....................,,,,,,"Ottawa",453, ,,,,,,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,1,10,1,40,2,17,"Ottawa",454, ,0,0,0,71,109,"Sandringham Apartments",20071010
+065,OTTAWA--VANIER,0,8,0,45,3,16,"Ottawa",455, ,0,0,0,72,121,"50 Laurier Street",20071010
+065,OTTAWA--VANIER,8,112,1,599,98,341,"Ottawa",Advanced Polls /  ADV001, ,3,4,0,1166,0,"Returning Office / Bureau du directeur du scrutin",20071010
+065,OTTAWA--VANIER,7,50,7,573,102,220,"Ottawa",Advanced Polls /  ADV002, ,1,0,0,960,0,"Chevaliers de Colomb",20071010
+065,OTTAWA--VANIER,3,51,7,281,69,109,"Ottawa",Advanced Polls /  ADV003, ,1,0,0,521,0,"Patro d'Ottawa",20071010
+065,OTTAWA--VANIER,2,120,1,251,43,83,"Ottawa",Advanced Polls /  ADV004, ,2,0,1,503,0,"Église Sacré-coeur",20071010
+065,OTTAWA--VANIER,3,73,1,267,46,163,"Ottawa",Advanced Polls /  ADV005, ,1,1,0,555,0,"Mackay United Church of Canada",20071010
+065,OTTAWA--VANIER,2,27,2,212,49,130,"Ottawa",Advanced Polls /  ADV006, ,0,1,0,423,0,"Knights of Columbus",20071010
+TOTALS:, ,396,6049,255,20954,4293,9169, , , , , , , , , , 

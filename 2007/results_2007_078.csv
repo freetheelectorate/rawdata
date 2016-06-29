@@ -1,0 +1,275 @@
+ED_CODE,ED_NAME,BAILEY,DI COCCO,MILLITT,VAN BODEGOM,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+078,SARNIA--LAMBTON,62,77,32,19,"Camlachie",001, ,0,0,0,190,329,"Aberarder Central Public Elementary School",20071010
+078,SARNIA--LAMBTON,90,88,40,22,"Camlachie",002, ,0,1,0,241,454,"Aberarder Central Public Elementary School",20071010
+078,SARNIA--LAMBTON,87,64,33,15,"Camlachie",003, ,1,3,0,203,358,"Errol Village Public School",20071010
+078,SARNIA--LAMBTON,65,37,34,13,"Camlachie",004, ,1,0,0,150,344,"Errol Village Public School",20071010
+078,SARNIA--LAMBTON,136,68,32,23,"Camlachie",005, ,0,1,0,260,412,"Aberarder Central Public Elementary School",20071010
+078,SARNIA--LAMBTON,81,78,34,16,"Sarnia",006, ,0,0,0,209,381,"Christ Lutheran Church",20071010
+078,SARNIA--LAMBTON,94,83,50,18,"Brights Grove",007, ,0,0,0,245,365,"St. Michael Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,72,70,40,9,"Brights Grove",008, ,1,3,0,195,310,"Brights Grove School",20071010
+078,SARNIA--LAMBTON,76,50,48,13,"Brights Grove",009, ,2,0,1,190,348,"Brights Grove School",20071010
+078,SARNIA--LAMBTON,33,28,44,7,"Brights Grove",010, ,0,1,0,113,223,"Brights Grove School",20071010
+078,SARNIA--LAMBTON,49,60,34,9,"Brights Grove",011, ,0,0,0,152,279,"Brights Grove School",20071010
+078,SARNIA--LAMBTON,81,69,26,17,"Brights Grove",012, ,1,0,0,194,349,"Brights Grove School",20071010
+078,SARNIA--LAMBTON,88,52,24,11,"Brights Grove",013, ,1,0,0,176,308,"St. Michael Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,71,69,27,14,"Camlachie",014, ,0,1,0,182,348,"Errol Village Public School",20071010
+078,SARNIA--LAMBTON,94,68,38,13,"Camlachie",015, ,1,0,0,214,351,"Errol Village Public School",20071010
+078,SARNIA--LAMBTON,83,67,30,17,"Sarnia",016, ,0,1,0,198,356,"Lakeroad Public School",20071010
+078,SARNIA--LAMBTON,87,63,18,19,"Sarnia",017, ,0,0,2,189,364,"Gregory A. Hogan Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,84,65,18,12,"Sarnia",018, ,0,0,0,179,319,"Redeemer Christian Reformed Church",20071010
+078,SARNIA--LAMBTON,69,72,28,17,"Sarnia",019, ,0,1,0,187,350,"Redeemer Christian Reformed Church",20071010
+078,SARNIA--LAMBTON,88,78,27,16,"Sarnia",020, ,0,0,1,210,357,"Christ Lutheran Church",20071010
+078,SARNIA--LAMBTON,96,54,28,13,"Camlachie",021, ,1,0,0,192,366,"Errol Village Public School",20071010
+078,SARNIA--LAMBTON,45,65,39,17,"Point Edward",022, ,4,0,0,170,301,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,85,77,55,13,"Point Edward",023, ,0,0,1,231,430,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,78,73,36,9,"Sarnia",024, ,0,0,0,196,317,"Kinsmen Community Centre",20071010
+078,SARNIA--LAMBTON,47,41,80,12,"Sarnia",025, ,1,1,0,182,329,"Kinsmen Community Centre",20071010
+078,SARNIA--LAMBTON,53,54,64,12,"Sarnia",026, ,0,1,0,184,341,"Kinsmen Community Centre",20071010
+078,SARNIA--LAMBTON,67,61,49,12,"Sarnia",027, ,1,1,0,191,347,"Church of Christ",20071010
+078,SARNIA--LAMBTON,77,64,67,10,"Sarnia",028, ,0,2,0,220,369,"Church of Christ",20071010
+078,SARNIA--LAMBTON,61,54,47,17,"Sarnia",029, ,0,0,0,179,318,"Kinsmen Community Centre",20071010
+078,SARNIA--LAMBTON,94,72,52,20,"Sarnia",030, ,0,2,0,240,407,"Lakeroad Public School",20071010
+078,SARNIA--LAMBTON,73,66,49,13,"Sarnia",031, ,1,2,0,204,357,"Lakeroad Public School",20071010
+078,SARNIA--LAMBTON,49,71,60,11,"Sarnia",032, ,0,0,2,193,356,"Lakeroad Public School",20071010
+078,SARNIA--LAMBTON,57,72,51,14,"Sarnia",033, ,0,0,0,194,363,"Lakeroad Public School",20071010
+078,SARNIA--LAMBTON,90,93,53,11,"Sarnia",034, ,1,1,0,249,469,"Cathcart Boulevard Public School",20071010
+078,SARNIA--LAMBTON,80,56,53,11,"Sarnia",035, ,1,1,1,203,383,"Gregory A. Hogan Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,109,77,40,20,"Sarnia",036, ,1,2,0,249,456,"Cathcart Boulevard Public School",20071010
+078,SARNIA--LAMBTON,110,114,22,17,"Sarnia",037, ,0,2,0,265,453,"Gregory A. Hogan Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,120,67,34,21,"Sarnia",038, ,0,0,0,242,425,"Gregory A. Hogan Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,10,13,5,1,"Sarnia",039s, ,0,0,2,31,88,"Sumac Lodge",20071010
+078,SARNIA--LAMBTON,115,51,42,10,"Sarnia",040, ,1,3,0,222,418,"Redeemer Christian Reformed Church",20071010
+078,SARNIA--LAMBTON,145,58,30,15,"Sarnia",041, ,0,3,0,251,412,"Christ Lutheran Church",20071010
+078,SARNIA--LAMBTON,97,86,56,18,"Brights Grove",042, ,1,0,0,258,470,"St. Michael Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,51,52,25,4,"Brights Grove",043A, ,0,1,0,133,220,"St. Michael Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,61,66,12,5,"Brights Grove",043B, ,0,0,0,144,264,"St. Michael Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,46,44,48,9,"Point Edward",044, ,1,1,0,149,277,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,69,45,69,17,"Point Edward",045, ,0,0,0,200,346,"Bridgeview Elementary School",20071010
+078,SARNIA--LAMBTON,55,49,58,11,"Point Edward",046, ,3,0,0,176,253,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,62,55,111,10,"Point Edward",047, ,0,0,0,238,398,"Bridgeview Elementary School",20071010
+078,SARNIA--LAMBTON,33,33,27,7,"Sarnia",048A, ,1,0,0,101,248,"Dunlop United Church",20071010
+078,SARNIA--LAMBTON,36,44,40,4,"Sarnia",048B, ,1,0,2,127,289,"Dunlop United Church",20071010
+078,SARNIA--LAMBTON,49,71,49,17,"Point Edward",049, ,0,0,0,186,347,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,69,75,45,17,"Point Edward",050, ,1,0,0,207,398,"Point Edward Community Hall",20071010
+078,SARNIA--LAMBTON,73,84,43,11,"Sarnia",051, ,0,0,0,211,368,"Church of Christ",20071010
+078,SARNIA--LAMBTON,55,87,43,15,"Sarnia",052, ,1,1,0,202,366,"Dunlop United Church",20071010
+078,SARNIA--LAMBTON,64,69,55,5,"Sarnia",053, ,2,0,0,195,347,"Church of Christ",20071010
+078,SARNIA--LAMBTON,66,53,72,21,"Sarnia",054, ,0,1,0,213,359,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,81,49,50,5,"Sarnia",055, ,1,0,0,186,351,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,67,77,62,7,"Sarnia",056, ,3,0,0,216,387,"Errol Road Public School",20071010
+078,SARNIA--LAMBTON,86,77,57,14,"Sarnia",057, ,1,1,0,236,404,"Errol Road Public School",20071010
+078,SARNIA--LAMBTON,71,73,58,15,"Sarnia",058, ,0,0,0,217,389,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,49,49,29,3,"Sarnia",059, ,0,0,0,130,228,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,15,10,6,4,"Sarnia",060s, ,0,0,0,35,73,"Twin Lake Terrace",20071010
+078,SARNIA--LAMBTON,17,12,9,1,"Sarnia",061s, ,1,0,0,40,109,"Trillium Villa Nursing Home",20071010
+078,SARNIA--LAMBTON,39,35,12,3,"Sarnia",062s, ,0,1,0,90,119,"Fairwinds Lodge",20071010
+078,SARNIA--LAMBTON,47,58,24,15,"Sarnia",063, ,0,0,0,144,263,"Cathcart Boulevard Public School",20071010
+078,SARNIA--LAMBTON,43,76,39,11,"Sarnia",064, ,0,0,0,169,347,"Huron Baptist Church",20071010
+078,SARNIA--LAMBTON,87,92,57,9,"Sarnia",065, ,0,2,0,247,413,"Huron Baptist Church",20071010
+078,SARNIA--LAMBTON,98,87,57,15,"Sarnia",066, ,2,0,0,259,429,"Huron Baptist Church",20071010
+078,SARNIA--LAMBTON,85,72,37,7,"Sarnia",067, ,1,0,0,202,376,"St. Christopher Catholic Secondary School",20071010
+078,SARNIA--LAMBTON,67,40,41,15,"Point Edward",068, ,1,0,0,164,315,"Bridgeview Elementary School",20071010
+078,SARNIA--LAMBTON,27,26,39,7,"Sarnia",069, ,0,1,0,100,242,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,26,27,37,7,"Sarnia",070, ,0,0,0,97,225,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,29,30,34,10,"Sarnia",071, ,0,1,0,104,238,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,35,28,39,10,"Sarnia",072, ,0,0,0,112,249,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,14,17,40,10,"Sarnia",073, ,0,0,0,81,235,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,29,45,57,4,"Sarnia",074, ,1,0,0,136,325,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,40,36,56,12,"Sarnia",075, ,1,0,0,145,321,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,26,30,29,5,"Sarnia",076, ,0,0,0,90,322,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,23,31,47,6,"Sarnia",077, ,0,0,1,108,230,"Parker Street United Church",20071010
+078,SARNIA--LAMBTON,33,34,57,9,"Sarnia",078, ,0,0,0,133,318,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,33,32,23,13,"Sarnia",079, ,0,0,0,101,200,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,17,25,47,5,"Sarnia",080, ,0,0,0,94,239,"Dunlop United Church",20071010
+078,SARNIA--LAMBTON,33,33,52,10,"Sarnia",081, ,0,1,0,129,277,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,21,50,54,8,"Sarnia",082, ,2,0,1,136,291,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,75,54,61,12,"Sarnia",083, ,2,0,0,204,349,"Dunlop United Church",20071010
+078,SARNIA--LAMBTON,20,30,42,3,"Sarnia",084, ,1,0,0,96,230,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,16,15,13,0,"Sarnia",085s, ,0,2,0,46,63,"Marquis East",20071010
+078,SARNIA--LAMBTON,38,47,53,8,"Sarnia",086, ,0,0,0,146,339,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,31,48,49,15,"Sarnia",087, ,1,2,0,146,332,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,14,25,18,4,"Sarnia",088, ,0,0,0,61,186,"St. Peter Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,55,45,57,8,"Sarnia",089, ,1,2,0,168,304,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,11,15,4,1,"Sarnia",090s, ,0,0,1,32,47,"Rosewood Manor",20071010
+078,SARNIA--LAMBTON,12,22,37,1,"Sarnia",091, ,0,0,0,72,221,"High Park Public School",20071010
+078,SARNIA--LAMBTON,23,35,25,5,"Sarnia",092, ,2,0,0,90,264,"High Park Public School",20071010
+078,SARNIA--LAMBTON,68,85,76,12,"Sarnia",093, ,0,1,0,242,399,"Rosedale Public Elementary School",20071010
+078,SARNIA--LAMBTON,43,30,51,7,"Sarnia",094, ,0,0,0,131,263,"High Park Public School",20071010
+078,SARNIA--LAMBTON,55,38,51,7,"Sarnia",095, ,1,0,0,152,331,"High Park Public School",20071010
+078,SARNIA--LAMBTON,37,29,49,11,"Sarnia",096, ,0,0,0,126,291,"High Park Public School",20071010
+078,SARNIA--LAMBTON,63,46,40,3,"Sarnia",097, ,0,1,0,153,286,"High Park Public School",20071010
+078,SARNIA--LAMBTON,23,27,35,3,"Sarnia",098, ,0,0,0,88,243,"Bluewater Baptist Church",20071010
+078,SARNIA--LAMBTON,48,43,35,10,"Sarnia",099, ,1,0,0,137,277,"High Park Public School",20071010
+078,SARNIA--LAMBTON,39,48,21,3,"Sarnia",100A, ,0,0,0,111,237,"Huron Baptist Church",20071010
+078,SARNIA--LAMBTON,34,40,30,10,"Sarnia",100B, ,1,0,0,115,240,"Huron Baptist Church",20071010
+078,SARNIA--LAMBTON,41,25,29,4,"Sarnia",101, ,0,0,0,99,209,"Sarnia Christian School",20071010
+078,SARNIA--LAMBTON,55,42,31,6,"Sarnia",102, ,1,0,0,135,286,"Sarnia Christian School",20071010
+078,SARNIA--LAMBTON,46,26,29,3,"Sarnia",104, ,0,0,0,104,212,"London Road West United Church",20071010
+078,SARNIA--LAMBTON,34,21,19,1,"Sarnia",105, ,0,0,0,75,131,"London Road West United Church",20071010
+078,SARNIA--LAMBTON,126,94,76,15,"Sarnia",106, ,3,3,0,317,438,"Bluewater Adult Leisure Living",20071010
+078,SARNIA--LAMBTON,93,60,69,11,"Sarnia",107, ,0,1,0,234,443,"London Road West United Church",20071010
+078,SARNIA--LAMBTON,2,15,29,2,"Sarnia",108, ,0,0,0,48,204,"Sarnia City Hall",20071010
+078,SARNIA--LAMBTON,21,13,6,1,"Sarnia",109s, ,0,1,1,43,84,"Residence on the St. Clair",20071010
+078,SARNIA--LAMBTON,47,51,40,11,"Sarnia",110, ,0,1,0,150,388,"Sarnia City Hall",20071010
+078,SARNIA--LAMBTON,13,8,23,7,"Sarnia",111, ,0,0,1,52,178,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,11,22,22,6,"Sarnia",112, ,0,0,0,61,205,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,22,24,10,4,"Sarnia",113s, ,0,0,3,63,116,"Vision 74 Nursing Home",20071010
+078,SARNIA--LAMBTON,14,17,31,1,"Sarnia",114, ,0,0,0,63,184,"Sarnia City Hall",20071010
+078,SARNIA--LAMBTON,39,27,48,7,"Sarnia",115, ,0,1,0,122,285,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,31,31,32,9,"Sarnia",116, ,0,0,0,103,238,"Sarnia City Hall",20071010
+078,SARNIA--LAMBTON,15,16,51,4,"Sarnia",117, ,0,2,0,88,262,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,36,18,36,10,"Sarnia",118, ,0,0,0,100,272,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,51,38,46,11,"Sarnia",119, ,3,0,0,149,322,"Hanna Memorial Public School",20071010
+078,SARNIA--LAMBTON,29,27,59,8,"Sarnia",120, ,1,0,0,124,295,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,3,2,6,2,"Sarnia",121s, ,1,0,0,14,15,"Bluewater Health - Mitton Street Site",20071010
+078,SARNIA--LAMBTON,25,22,81,8,"Sarnia",122, ,1,0,0,137,317,"St. Paul's United Church",20071010
+078,SARNIA--LAMBTON,13,28,38,8,"Sarnia",123, ,1,0,0,88,200,"Hanna Memorial Public School",20071010
+078,SARNIA--LAMBTON,26,29,76,8,"Sarnia",124, ,0,0,0,139,281,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,28,21,51,7,"Sarnia",125, ,0,0,0,107,254,"Sarnia Evangelical Missionary Church",20071010
+078,SARNIA--LAMBTON,28,28,34,12,"Sarnia",126, ,2,0,7,111,256,"Hanna Memorial Public School",20071010
+078,SARNIA--LAMBTON,20,17,46,7,"Sarnia",127, ,0,0,0,90,213,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,5,13,52,4,"Sarnia",128, ,1,0,0,75,204,"Hanna Memorial Public School",20071010
+078,SARNIA--LAMBTON,41,41,61,10,"Sarnia",129, ,0,0,2,155,307,"Sarnia Evangelical Missionary Church",20071010
+078,SARNIA--LAMBTON,22,21,8,3,"Sarnia",130s, ,0,0,0,54,105,"Bluewater Health - Norman Street Site",20071010
+078,SARNIA--LAMBTON,39,35,61,9,"Sarnia",131, ,0,0,0,144,310,"Sarnia Evangelical Missionary Church",20071010
+078,SARNIA--LAMBTON,20,35,55,4,"Sarnia",132, ,1,0,0,115,245,"St. Patrick Catholic High School",20071010
+078,SARNIA--LAMBTON,12,10,13,3,"Sarnia",133, ,1,1,0,40,135,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,20,22,43,9,"Sarnia",134, ,0,0,0,94,200,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,34,32,45,2,"Sarnia",135, ,0,1,0,114,272,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,29,49,67,12,"Sarnia",136, ,1,1,0,159,318,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,32,21,45,3,"Sarnia",137, ,0,0,0,101,209,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,24,27,40,9,"Sarnia",138, ,0,0,0,100,255,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,9,17,36,0,"Sarnia",139, ,0,0,0,62,242,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,33,36,66,7,"Sarnia",140, ,1,1,0,144,306,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,48,37,59,7,"Sarnia",141, ,2,0,0,153,346,"St. Therese Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,49,43,89,6,"Sarnia",142, ,0,0,0,187,361,"Lansdowne Public School",20071010
+078,SARNIA--LAMBTON,48,21,39,7,"Sarnia",143, ,0,0,0,115,250,"Queen Elizabeth II Public School - Sarnia",20071010
+078,SARNIA--LAMBTON,53,75,49,10,"Sarnia",144, ,0,0,1,188,371,"Queen Elizabeth II Public School - Sarnia",20071010
+078,SARNIA--LAMBTON,33,22,36,5,"Sarnia",145, ,1,1,0,98,195,"Lansdowne Public School",20071010
+078,SARNIA--LAMBTON,29,20,34,8,"Sarnia",146, ,1,0,0,92,187,"Queen Elizabeth II Public School - Sarnia",20071010
+078,SARNIA--LAMBTON,32,25,63,3,"Sarnia",147, ,2,1,0,126,263,"Queen Elizabeth II Public School - Sarnia",20071010
+078,SARNIA--LAMBTON,23,50,54,5,"Sarnia",148, ,0,0,0,132,301,"Bluewater Baptist Church",20071010
+078,SARNIA--LAMBTON,21,26,45,4,"Sarnia",149, ,0,0,0,96,300,"Sarnia-Lambton Guide-Scout Centre",20071010
+078,SARNIA--LAMBTON,50,63,73,14,"Sarnia",150, ,0,0,0,200,411,"Bluewater Baptist Church",20071010
+078,SARNIA--LAMBTON,26,29,48,5,"Sarnia",151, ,0,0,0,108,275,"Bluewater Baptist Church",20071010
+078,SARNIA--LAMBTON,9,22,7,3,"Sarnia",152s, ,0,1,0,42,106,"Afton Park Place",20071010
+078,SARNIA--LAMBTON,51,37,82,5,"Sarnia",153, ,1,0,0,176,362,"Sarnia-Lambton Guide-Scout Centre",20071010
+078,SARNIA--LAMBTON,47,45,47,9,"Sarnia",154, ,0,0,0,148,354,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,72,63,57,1,"Sarnia",155, ,0,0,0,193,386,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,78,43,80,11,"Sarnia",156, ,0,0,0,212,443,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,18,19,11,5,"Sarnia",157, ,0,0,0,53,191,"YMCA of Sarnia - Lambton",20071010
+078,SARNIA--LAMBTON,89,78,56,9,"Sarnia",158, ,0,1,0,233,475,"YMCA of Sarnia - Lambton",20071010
+078,SARNIA--LAMBTON,65,40,44,9,"Sarnia",159, ,3,0,0,161,345,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,69,51,54,8,"Sarnia",160, ,2,0,0,184,412,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,56,51,57,9,"Sarnia",161, ,1,0,0,174,384,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,47,14,26,3,"Sarnia",162, ,0,1,0,91,196,"Community of Christ Church",20071010
+078,SARNIA--LAMBTON,152,64,43,13,"Sarnia",163, ,1,0,0,273,463,"Confederation Central Public School",20071010
+078,SARNIA--LAMBTON,111,48,48,15,"Sarnia",164, ,1,0,0,223,463,"Confederation Central Public School",20071010
+078,SARNIA--LAMBTON,6,14,29,4,"Sarnia",165, ,0,0,0,53,194,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,10,15,55,5,"Sarnia",166, ,0,0,0,85,238,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,32,20,52,2,"Sarnia",167, ,0,0,0,106,311,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,19,15,50,4,"Sarnia",168, ,0,0,0,88,282,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,17,25,66,7,"Sarnia",169, ,0,0,0,115,298,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,21,34,67,5,"Sarnia",170, ,1,0,0,128,298,"Sarnia Evangelical Missionary Church",20071010
+078,SARNIA--LAMBTON,12,23,37,3,"Sarnia",171, ,0,0,0,75,207,"Sarnia Evangelical Missionary Church",20071010
+078,SARNIA--LAMBTON,12,15,4,1,"Sarnia",172s, ,1,1,0,34,70,"Marshall Gowland Manor",20071010
+078,SARNIA--LAMBTON,10,21,42,3,"Sarnia",173, ,0,0,0,76,238,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,8,13,26,1,"Sarnia",174, ,0,0,0,48,212,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,14,11,11,1,"Sarnia",175, ,0,0,0,37,178,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,7,12,13,4,"Sarnia",176, ,0,0,0,36,186,"St. Margaret Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,49,41,53,6,"Sarnia",177, ,0,0,0,149,365,"Lansdowne Public School",20071010
+078,SARNIA--LAMBTON,46,19,69,2,"Sarnia",178, ,0,0,0,136,334,"Sarnia-Lambton Guide-Scout Centre",20071010
+078,SARNIA--LAMBTON,26,38,52,8,"Sarnia",179, ,0,0,0,124,292,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,68,68,50,14,"Sarnia",180, ,2,0,0,202,381,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,39,47,35,4,"Sarnia",181, ,1,0,0,126,318,"Sarnia-Lambton Guide-Scout Centre",20071010
+078,SARNIA--LAMBTON,7,12,7,4,"Sarnia",182, ,0,0,0,30,145,"Community of Christ Church",20071010
+078,SARNIA--LAMBTON,45,26,43,3,"Sarnia",183, ,0,0,0,117,266,"Community of Christ Church",20071010
+078,SARNIA--LAMBTON,35,38,57,3,"Sarnia",184, ,0,0,1,134,299,"Community of Christ Church",20071010
+078,SARNIA--LAMBTON,99,43,36,10,"Wyoming",185, ,0,0,0,188,304,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,111,77,28,18,"Wyoming",186, ,1,0,0,235,347,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,117,56,24,14,"Wyoming",187, ,1,1,0,213,402,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,113,86,31,10,"Wyoming",188, ,1,0,1,242,439,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,27,19,37,7,"Sarnia",189, ,0,0,0,90,265,"Devine Street Public School",20071010
+078,SARNIA--LAMBTON,47,51,70,8,"Sarnia",190, ,0,2,0,178,415,"Lansdowne Public School",20071010
+078,SARNIA--LAMBTON,83,24,42,5,"Wyoming",191, ,0,0,4,158,307,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,83,65,31,9,"Wyoming",192, ,2,1,0,191,367,"South Plympton/Wyoming Public Elementary School",20071010
+078,SARNIA--LAMBTON,5,36,81,4,"Sarnia",193, ,1,0,0,127,506,"Maawn Doosh Gumig Community Centre",20071010
+078,SARNIA--LAMBTON,109,40,34,15,"Petrolia",194, ,1,0,0,199,347,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,41,25,35,9,"Corunna",195, ,0,0,0,110,230,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,24,25,16,1,"Corunna",196s, ,1,1,0,68,84,"Thompson Gardens",20071010
+078,SARNIA--LAMBTON,42,18,35,9,"Corunna",197, ,0,0,0,104,262,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,..........................NO POLL HELD........................,,,,"Corunna",198, ,0,0,0,0,0,"",20071010
+078,SARNIA--LAMBTON,73,45,49,8,"Corunna",199, ,0,0,0,175,349,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,94,42,37,6,"Sarnia",200, ,0,1,0,180,355,"Confederation Central Public School",20071010
+078,SARNIA--LAMBTON,41,23,8,3,"Petrolia",201s, ,1,1,0,77,147,"Lambton Meadowview Villa",20071010
+078,SARNIA--LAMBTON,64,29,15,16,"Petrolia",202, ,0,0,0,124,269,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,88,36,18,7,"Petrolia",203, ,0,0,0,149,246,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,67,36,30,5,"Petrolia",204, ,3,0,0,141,252,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,108,34,20,5,"Petrolia",205, ,5,0,0,172,319,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,36,17,22,6,"Petrolia",206, ,0,0,0,81,192,"Queen Elizabeth II Public School",20071010
+078,SARNIA--LAMBTON,74,19,45,8,"Petrolia",207, ,0,0,0,146,325,"Hillcrest Public School",20071010
+078,SARNIA--LAMBTON,53,44,43,10,"Corunna",208, ,0,0,0,150,338,"Sir John Moore Community School",20071010
+078,SARNIA--LAMBTON,72,36,46,6,"Corunna",209, ,1,1,2,164,383,"Sir John Moore Community School",20071010
+078,SARNIA--LAMBTON,59,45,41,6,"Corunna",210, ,0,0,0,151,321,"Sir John Moore Community School",20071010
+078,SARNIA--LAMBTON,57,36,57,10,"Corunna",211, ,0,0,0,160,341,"Sir John Moore Community School",20071010
+078,SARNIA--LAMBTON,60,27,60,4,"Corunna",212, ,0,1,0,152,325,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,111,63,53,14,"Corunna",213, ,0,0,0,241,471,"St. Joseph Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,78,47,53,10,"Corunna",214, ,0,0,0,188,380,"St. Joseph Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,49,20,34,2,"Corunna",215, ,0,0,0,105,195,"St. Joseph Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,59,24,33,9,"Corunna",216A, ,0,0,0,125,256,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,55,37,34,5,"Corunna",216B, ,2,0,0,133,291,"Colonel Cameron Public School",20071010
+078,SARNIA--LAMBTON,41,32,24,5,"Corunna",217, ,0,0,0,102,182,"St. Joseph Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,86,38,30,11,"Petrolia",218, ,1,1,0,167,321,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,77,45,38,2,"Petrolia",219, ,0,0,0,162,299,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,86,37,30,15,"Petrolia",220, ,2,0,0,170,361,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,85,46,45,7,"Petrolia",221, ,0,0,0,183,366,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,20,7,4,0,"Petrolia",222s, ,0,1,0,32,39,"Albany Community Living Centre",20071010
+078,SARNIA--LAMBTON,4,2,0,0,"Petrolia",223s, ,0,0,0,6,10,"Bluewater Health - Cee Site",20071010
+078,SARNIA--LAMBTON,52,37,27,7,"Petrolia",224, ,0,0,0,123,260,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,21,19,5,1,"Petrolia",225s, ,1,2,0,49,117,"Fiddick's Nursing Home",20071010
+078,SARNIA--LAMBTON,66,40,39,2,"Petrolia",226, ,0,0,0,147,294,"Hillcrest Public School",20071010
+078,SARNIA--LAMBTON,98,54,28,5,"Corunna",227, ,1,1,0,187,361,"Sir John Moore Community School",20071010
+078,SARNIA--LAMBTON,85,44,34,9,"Petrolia",228, ,0,0,0,172,394,"Lambton Central Collegiate Vocational Institute",20071010
+078,SARNIA--LAMBTON,80,60,19,10,"Petrolia",229, ,0,0,0,169,312,"Hillcrest Public School",20071010
+078,SARNIA--LAMBTON,112,62,43,17,"Petrolia",230, ,0,0,0,234,445,"Hillcrest Public School",20071010
+078,SARNIA--LAMBTON,88,33,34,4,"Mooretown",231, ,0,0,0,159,300,"Mooretown-Courtright Public School",20071010
+078,SARNIA--LAMBTON,103,37,25,8,"Brigden",232, ,0,0,0,173,311,"Brigden Public School",20071010
+078,SARNIA--LAMBTON,79,34,31,5,"Mooretown",233, ,0,0,0,149,233,"Mooretown-Courtright Public School",20071010
+078,SARNIA--LAMBTON,63,19,39,6,"Courtright",234, ,2,0,2,131,289,"Courtright Community Hall",20071010
+078,SARNIA--LAMBTON,57,48,34,0,"Courtright",235, ,0,0,0,139,313,"Courtright Community Hall",20071010
+078,SARNIA--LAMBTON,59,11,20,7,"Brigden",236, ,2,0,0,99,253,"Brigden Public School",20071010
+078,SARNIA--LAMBTON,77,43,42,7,"Brigden",237, ,0,1,0,170,318,"Brigden Public School",20071010
+078,SARNIA--LAMBTON,118,39,38,6,"Oil Springs",238, ,1,0,0,202,360,"Oil Springs Fire Hall",20071010
+078,SARNIA--LAMBTON,57,20,34,2,"Courtright",239, ,1,0,0,114,214,"Courtright Community Hall",20071010
+078,SARNIA--LAMBTON,86,39,42,8,"Brigden",240, ,0,0,0,175,319,"Brigden Public School",20071010
+078,SARNIA--LAMBTON,82,32,25,3,"Oil Springs",241, ,0,0,0,142,269,"Oil Springs Fire Hall",20071010
+078,SARNIA--LAMBTON,101,42,24,5,"Oil Springs",242, ,0,0,0,172,255,"Oil Springs Fire Hall",20071010
+078,SARNIA--LAMBTON,105,51,30,8,"Oil Springs",243, ,0,1,0,195,370,"Oil Springs Fire Hall",20071010
+078,SARNIA--LAMBTON,78,58,29,6,"Sombra",244, ,0,0,1,172,293,"Sombra Community Hall",20071010
+078,SARNIA--LAMBTON,78,47,39,14,"Wilkesport",245, ,1,0,0,179,352,"Wilkesport Community Centre",20071010
+078,SARNIA--LAMBTON,86,49,27,2,"Wilkesport",246, ,0,0,0,164,343,"Wilkesport Community Centre",20071010
+078,SARNIA--LAMBTON,54,47,38,12,"Sombra",247, ,0,0,0,151,249,"Sombra Community Hall",20071010
+078,SARNIA--LAMBTON,56,34,22,6,"Sombra",248, ,1,2,0,121,238,"Sombra Community Hall",20071010
+078,SARNIA--LAMBTON,92,53,20,9,"Port Lambton",249, ,1,2,0,177,301,"Sacred Heart Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,59,63,27,4,"Port Lambton",250, ,0,1,0,154,299,"Sacred Heart Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,63,52,20,8,"Wilkesport",251, ,2,0,0,145,291,"Wilkesport Community Centre",20071010
+078,SARNIA--LAMBTON,69,47,22,7,"Port Lambton",252, ,0,0,0,145,254,"Sacred Heart Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,72,55,24,8,"Port Lambton",253, ,0,0,0,159,288,"Sacred Heart Catholic Elementary School",20071010
+078,SARNIA--LAMBTON,82,65,50,9,"Sarnia",400, ,1,2,0,209,316,"Pier One Hundred",20071010
+078,SARNIA--LAMBTON,87,57,27,6,"Sarnia",401, ,1,0,0,178,233,"1295 Sandy Lane - Marina Park Place",20071010
+078,SARNIA--LAMBTON,50,50,30,4,"Sarnia",402, ,0,1,0,135,215,"1285 Sandy Lane - Marina Park Place",20071010
+078,SARNIA--LAMBTON,30,24,24,5,"Sarnia",403, ,0,1,0,84,126,"Fairway Towers",20071010
+078,SARNIA--LAMBTON,38,35,19,9,"Sarnia",404, ,1,0,0,102,155,"Royal Oak Towers",20071010
+078,SARNIA--LAMBTON,39,24,28,3,"Sarnia",405, ,1,2,0,97,132,"Centennial Park Place",20071010
+078,SARNIA--LAMBTON,27,31,16,5,"Sarnia",406, ,1,0,0,80,116,"Northgate Manor",20071010
+078,SARNIA--LAMBTON,42,37,38,3,"Sarnia",407, ,2,0,1,123,176,"Northgate Towers",20071010
+078,SARNIA--LAMBTON,27,36,29,8,"Sarnia",408, ,0,0,0,100,233,"Kenwick Place",20071010
+078,SARNIA--LAMBTON,24,17,12,7,"Sarnia",409, ,0,0,0,60,125,"Seaway Centre",20071010
+078,SARNIA--LAMBTON,48,30,34,8,"Sarnia",410, ,0,3,0,123,156,"Sandpiper Apartments",20071010
+078,SARNIA--LAMBTON,550,450,370,84,"Sarnia",Advanced Polls /  ADV001, ,3,3,0,1460,0,"Returning Office / Bureau du directeur du scrutin",20071010
+078,SARNIA--LAMBTON,498,403,313,55,"Sarnia",Advanced Polls /  ADV002, ,4,3,2,1278,0,"Clearwater Community Centre",20071010
+078,SARNIA--LAMBTON,170,95,96,20,"Corunna",Advanced Polls /  ADV003, ,0,0,0,381,0,"Royal Canadian Legion Branch 447",20071010
+078,SARNIA--LAMBTON,53,22,9,1,"Wilkesport",Advanced Polls /  ADV004, ,0,1,0,86,0,"Wilkesport Community Centre",20071010
+078,SARNIA--LAMBTON,343,169,60,15,"Petrolia",Advanced Polls /  ADV005, ,2,0,0,589,0,"The Co-operators Plaza",20071010
+078,SARNIA--LAMBTON,115,78,53,20,"Camlachie",Advanced Polls /  ADV006, ,5,1,1,273,0,"Camlachie Fire Hall",20071010
+TOTALS:, ,16145,12443,11349,2376, , , , , , , , , , 

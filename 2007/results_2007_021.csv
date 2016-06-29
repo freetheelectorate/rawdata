@@ -1,0 +1,258 @@
+ED_CODE,ED_NAME,FEHR,JAMES,KELLY,MONTEITH,PETERS,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+021,ELGIN--MIDDLESEX--LONDON,72,24,31,2,80,"Thorndale",001, ,2,0,0,211,407,"Plover Mills Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,79,30,26,0,78,"Thorndale",002, ,1,3,0,217,382,"Plover Mills Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,107,27,37,2,118,"Thorndale",003, ,0,1,0,292,552,"Thorndale Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,43,27,31,4,57,"Thorndale",004, ,0,1,0,163,321,"Thorndale Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,32,29,4,68,"Thorndale",005, ,0,0,0,209,430,"Leesboro Central Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,22,13,4,66,"Thorndale",006, ,0,1,0,168,347,"Leesboro Central Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,63,20,23,1,78,"Dorchester",007, ,0,1,0,186,365,"North Dorchester Optimist Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,19,16,1,62,"Dorchester",008, ,0,0,0,160,379,"North Dorchester Optimist Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,44,19,2,109,"Dorchester",009, ,0,2,0,234,452,"North Dorchester Optimist Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,56,28,21,1,71,"Dorchester",010, ,0,0,0,177,356,"North Dorchester Optimist Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,73,7,14,0,95,"Dorchester",011, ,1,0,0,190,373,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,64,32,20,2,70,"Dorchester",012, ,0,0,0,188,386,"North Dorchester Optimist Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,40,14,9,2,91,"Dorchester",013, ,0,0,0,156,275,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,52,22,18,1,95,"Dorchester",014, ,0,1,0,189,363,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,73,23,17,0,88,"Dorchester",015, ,0,0,0,201,367,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,12,10,1,50,"Dorchester",016, ,1,0,0,111,268,"Dorchester Legion Branch 513",20071010
+021,ELGIN--MIDDLESEX--LONDON,75,30,18,0,114,"Dorchester",017, ,1,1,0,239,446,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,30,10,0,69,"Dorchester",018, ,0,1,1,159,334,"Dorchester Legion Branch 513",20071010
+021,ELGIN--MIDDLESEX--LONDON,80,21,24,1,161,"Dorchester",019, ,1,0,0,288,564,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,75,18,15,1,102,"Dorchester",020, ,0,1,0,212,448,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,90,28,27,1,93,"Putnam",021, ,0,0,0,239,475,"Putnam Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,40,7,7,0,75,"Dorchester",022, ,1,0,0,130,221,"Dorchester Legion Branch 513",20071010
+021,ELGIN--MIDDLESEX--LONDON,91,25,28,4,113,"Harrietsville",023, ,0,0,0,261,534,"I.O.O.F. Hall Hope Lodge #69",20071010
+021,ELGIN--MIDDLESEX--LONDON,57,11,17,0,54,"London",024, ,0,2,0,141,267,"A.E. Duffield Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,29,14,5,144,"London",025, ,0,0,0,268,445,"A.E. Duffield Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,19,10,0,64,"London",026, ,0,0,0,142,306,"A.E. Duffield Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,24,31,1,109,"London",027, ,0,0,0,241,433,"A.E. Duffield Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,15,31,14,1,64,"London",028, ,4,0,0,129,327,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,36,47,22,3,87,"London",029, ,3,0,0,198,420,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,27,41,17,1,100,"London",030, ,2,0,0,188,393,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,19,16,0,89,"London",031, ,0,1,0,157,369,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,30,15,2,31,"London",032, ,2,0,0,98,251,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,49,10,0,85,"London",033, ,1,2,0,184,419,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,30,29,14,1,83,"London",034, ,4,0,1,162,384,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,30,14,14,1,50,"Belmont",035, ,0,0,0,109,219,"H.U.B.",20071010
+021,ELGIN--MIDDLESEX--LONDON,78,10,15,3,97,"London",036, ,2,1,0,206,420,"Lambeth United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,60,19,25,5,132,"London",037, ,1,0,1,243,410,"Lambeth United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,56,17,16,1,111,"London",038, ,0,0,0,201,360,"M.B. McEachren Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,78,30,15,3,118,"London",039, ,0,0,0,244,427,"M.B. McEachren Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,30,21,0,126,"London",041, ,0,0,0,235,417,"Ashwood Manor",20071010
+021,ELGIN--MIDDLESEX--LONDON,121,9,29,1,105,"London",042, ,1,0,0,266,499,"M.B. McEachren Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,18,12,2,70,"London",043, ,7,1,0,159,417,"Loblaws Wonderland Market",20071010
+021,ELGIN--MIDDLESEX--LONDON,55,22,11,1,55,"London",044, ,0,0,0,144,350,"Christ Church (Anglican) Glanworth",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,18,20,0,92,"Belmont",045, ,0,0,0,188,353,"H.U.B.",20071010
+021,ELGIN--MIDDLESEX--LONDON,46,18,21,1,85,"Belmont",046, ,1,0,0,172,344,"H.U.B.",20071010
+021,ELGIN--MIDDLESEX--LONDON,51,13,18,0,99,"Belmont",047, ,0,0,0,181,276,"Belmont Arena & Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,43,11,18,2,60,"Harrietsville",048, ,1,0,0,135,299,"I.O.O.F. Hall Hope Lodge #69",20071010
+021,ELGIN--MIDDLESEX--LONDON,54,23,19,3,94,"London",049, ,0,1,0,194,387,"Christ Church (Anglican) Glanworth",20071010
+021,ELGIN--MIDDLESEX--LONDON,50,15,16,0,87,"Belmont",050, ,0,0,0,168,300,"Belmont Arena & Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,42,20,15,2,72,"Belmont",051, ,0,0,0,151,305,"Belmont Arena & Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,77,29,17,3,115,"Springfield",052, ,0,1,2,244,452,"South Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,27,13,7,0,78,"St. Thomas",053, ,0,0,0,125,218,"Kettle Creek Conservation Authority",20071010
+021,ELGIN--MIDDLESEX--LONDON,96,18,27,1,83,"Belmont",054, ,3,0,0,228,390,"South Dorchester Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,35,10,7,0,23,"Springfield",055, ,0,0,0,75,177,"South Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,14,10,1,70,"Talbotville",056, ,1,0,0,158,306,"Talbotville United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,55,6,16,0,61,"St. Thomas",057, ,0,0,0,138,235,"Kettle Creek Conservation Authority",20071010
+021,ELGIN--MIDDLESEX--LONDON,70,21,19,2,80,"Springfield",058, ,0,0,0,192,376,"Springfield Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,72,13,13,3,30,"Corinth",059, ,0,0,0,131,225,"Community of Christ Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,63,24,17,2,37,"Corinth",060, ,0,0,0,143,341,"Community of Christ Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,27,17,2,136,"Talbotville",061, ,1,0,0,259,422,"Talbotville United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,34,28,12,2,70,"St. Thomas",062, ,0,0,0,146,274,"Free Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,64,16,22,3,130,"St. Thomas",063, ,0,1,0,236,414,"Free Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,46,11,13,0,88,"St. Thomas",064, ,0,0,0,158,269,"Free Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,63,34,16,2,101,"St. Thomas",065, ,0,0,0,216,475,"Free Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,27,28,18,2,115,"St. Thomas",066, ,0,2,0,192,438,"Monsignor Morrison",20071010
+021,ELGIN--MIDDLESEX--LONDON,40,23,17,5,109,"St. Thomas",067, ,0,0,0,194,392,"Lockes Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,70,27,15,0,91,"St. Thomas",068, ,1,1,0,205,420,"Valleyview Home for the Aged",20071010
+021,ELGIN--MIDDLESEX--LONDON,47,25,25,0,109,"St. Thomas",069, ,2,0,0,208,382,"Monsignor Morrison",20071010
+021,ELGIN--MIDDLESEX--LONDON,23,15,9,0,101,"St. Thomas",070, ,2,0,0,150,347,"Monsignor Morrison",20071010
+021,ELGIN--MIDDLESEX--LONDON,42,23,16,0,111,"St. Thomas",071, ,0,0,0,192,397,"Lockes Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,4,13,2,2,18,"St. Thomas",072, ,0,0,0,39,190,"Lockes Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,72,25,14,1,95,"St. Thomas",073, ,1,1,0,209,451,"Valleyview Home for the Aged",20071010
+021,ELGIN--MIDDLESEX--LONDON,13,21,6,1,38,"St. Thomas",074, ,2,0,0,81,265,"Lockes Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,10,3,1,1,37,"St. Thomas",075s, ,0,0,0,52,131,"Valleyview Home for the Aged",20071010
+021,ELGIN--MIDDLESEX--LONDON,51,21,12,2,108,"St. Thomas",076, ,0,0,0,194,472,"Valleyview Home for the Aged",20071010
+021,ELGIN--MIDDLESEX--LONDON,44,15,17,1,56,"St. Thomas",077, ,0,0,0,133,258,"New Sarum Diner",20071010
+021,ELGIN--MIDDLESEX--LONDON,119,27,13,0,85,"Aylmer",078, ,3,0,0,247,513,"East Elgin Community Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,78,8,8,0,54,"Aylmer",079, ,3,1,0,152,347,"Summers Corners Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,65,16,8,0,40,"Springfield",080, ,0,0,0,129,393,"Springfield Elementary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,16,12,2,41,"Straffordville",081, ,0,1,0,148,307,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,88,19,10,0,55,"Straffordville",082, ,0,0,0,172,388,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,28,12,1,70,"Shedden",083, ,1,0,0,160,354,"Southwold Keystone Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,81,26,21,0,109,"Shedden",084, ,0,0,0,237,462,"Southwold Keystone Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,7,2,0,2,13,"St. Thomas",085s, ,2,0,0,26,88,"Elgin Manor",20071010
+021,ELGIN--MIDDLESEX--LONDON,31,15,22,1,70,"St. Thomas",086, ,1,0,9,149,304,"Knox Presbyterian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,60,12,11,3,120,"St. Thomas",087, ,6,0,0,212,353,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,25,6,10,3,60,"St. Thomas",088, ,0,0,0,104,218,"First United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,14,7,6,0,60,"St. Thomas",089, ,5,0,1,93,179,"First United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,16,10,4,2,61,"St. Thomas",091, ,1,0,0,94,260,"First United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,19,9,0,0,51,"St. Thomas",092s, ,0,0,0,79,98,"Metcalfe Gardens",20071010
+021,ELGIN--MIDDLESEX--LONDON,11,12,10,3,65,"St. Thomas",093, ,0,0,0,101,232,"Knox Presbyterian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,10,15,9,1,40,"St. Thomas",094, ,2,0,0,77,236,"First United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,35,18,12,2,84,"St. Thomas",096, ,3,0,0,154,418,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,16,16,13,0,50,"St. Thomas",097, ,0,0,0,95,230,"Knox Presbyterian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,10,10,1,1,29,"St. Thomas",098, ,0,0,0,51,147,"First United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,39,20,13,2,64,"St. Thomas",099, ,2,0,1,141,297,"Knox Presbyterian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,16,6,6,1,36,"St. Thomas",100, ,0,0,0,65,179,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,15,15,5,1,58,"St. Thomas",102, ,0,0,0,94,232,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,14,14,1,63,"St. Thomas",103, ,4,0,0,114,229,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,19,7,15,3,53,"St. Thomas",104, ,0,0,0,97,257,"Central United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,29,23,20,3,94,"St. Thomas",105, ,0,0,0,169,347,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,8,9,3,0,46,"St. Thomas",106, ,0,0,0,66,207,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,21,18,7,4,54,"St. Thomas",107, ,0,0,0,104,257,"Central United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,22,17,7,1,42,"St. Thomas",108, ,3,1,0,93,222,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,35,24,16,1,81,"St. Thomas",109, ,1,1,0,159,324,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,24,14,4,0,39,"St. Thomas",110, ,0,0,0,81,268,"St. Thomas Community Timken Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,12,14,0,36,"St. Thomas",111, ,0,0,0,80,226,"St. John's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,33,28,13,1,85,"St. Thomas",112, ,1,0,0,161,332,"Gospel Fellowship Chapel",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,18,12,1,55,"St. Thomas",113, ,0,0,0,104,274,"Grace United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,28,17,14,2,69,"St. Thomas",114, ,0,0,0,130,321,"St. Thomas Community Timken Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,8,14,0,50,"St. Thomas",115, ,0,0,0,90,277,"St. Thomas Community Timken Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,27,8,2,42,"St. Thomas",116, ,1,0,0,98,261,"Grace United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,22,13,6,3,69,"St. Thomas",117, ,0,0,0,113,270,"St. Hilda's - St. Luke's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,30,22,13,5,59,"St. Thomas",118, ,0,0,0,129,235,"Gospel Fellowship Chapel",20071010
+021,ELGIN--MIDDLESEX--LONDON,26,15,10,1,70,"St. Thomas",119, ,0,0,0,122,338,"Grace United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,34,9,10,2,75,"St. Thomas",120, ,1,0,0,131,280,"Gospel Fellowship Chapel",20071010
+021,ELGIN--MIDDLESEX--LONDON,28,18,9,2,67,"St. Thomas",121, ,0,0,0,124,320,"Grace United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,3,0,0,0,5,"St. Thomas",122s, ,2,1,0,11,43,"St. Thomas Elgin General Hospital",20071010
+021,ELGIN--MIDDLESEX--LONDON,47,31,28,1,116,"St. Thomas",123, ,0,0,1,224,488,"St. Thomas Community Timken Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,19,14,11,2,55,"St. Thomas",124, ,2,0,0,103,266,"St. Hilda's - St. Luke's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,24,13,5,1,71,"St. Thomas",125, ,0,0,0,114,304,"Elgin Court Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,41,27,15,2,58,"St. Thomas",126, ,0,0,0,143,396,"St. Thomas Community Timken Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,18,9,1,120,"St. Thomas",127, ,2,0,0,212,423,"St. Thomas Seniors Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,36,28,11,2,73,"St. Thomas",128, ,0,0,0,150,371,"Eastwood Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,9,1,0,0,8,"St. Thomas",129s, ,1,0,0,19,59,"Caressant Care",20071010
+021,ELGIN--MIDDLESEX--LONDON,25,8,4,1,73,"St. Thomas",130, ,0,0,0,111,255,"St. Thomas Seniors Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,76,10,15,3,118,"St. Thomas",131, ,0,0,0,222,373,"St. Thomas Seniors Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,30,11,3,1,49,"St. Thomas",132, ,0,0,0,94,218,"Eastwood Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,29,22,3,2,92,"St. Thomas",133, ,0,0,0,148,342,"St. Thomas Community Christian School",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,15,4,1,56,"St. Thomas",134, ,2,0,0,96,249,"Eastwood Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,21,18,7,1,65,"St. Thomas",135, ,4,0,0,116,281,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,25,19,20,4,70,"St. Thomas",136, ,0,0,0,138,314,"Grace United Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,15,2,1,3,45,"St. Thomas",137s, ,0,1,0,67,154,"Caressant Care",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,23,9,1,98,"St. Thomas",138, ,1,0,1,170,368,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,59,27,13,3,135,"St. Thomas",139, ,0,1,0,238,441,"St. Thomas Community Christian School",20071010
+021,ELGIN--MIDDLESEX--LONDON,45,17,1,4,72,"St. Thomas",140, ,1,1,0,141,254,"Eastwood Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,17,11,0,84,"St. Thomas",141, ,8,2,0,154,321,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,61,21,12,3,105,"St. Thomas",142, ,0,1,0,203,380,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,46,17,11,3,100,"St. Thomas",143, ,5,0,0,182,431,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,20,12,3,102,"St. Thomas",144, ,0,0,1,196,383,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,15,5,1,97,"St. Thomas",145, ,2,0,0,152,325,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,95,14,26,2,114,"St. Thomas",146, ,1,0,0,252,479,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,44,16,12,0,110,"St. Thomas",147, ,1,0,0,183,382,"St. Thomas Christian Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,51,15,12,2,136,"St. Thomas",148, ,0,0,0,216,386,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,81,24,17,1,101,"St. Thomas",149, ,7,1,2,234,422,"New Sarum Diner",20071010
+021,ELGIN--MIDDLESEX--LONDON,6,2,0,1,9,"Aylmer",150s, ,0,0,0,18,59,"Chateau Gardens Nursing Home",20071010
+021,ELGIN--MIDDLESEX--LONDON,75,10,2,3,47,"Aylmer",151, ,0,0,0,137,276,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,55,7,5,0,48,"Aylmer",152, ,0,3,0,118,234,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,70,21,21,0,55,"Aylmer",153, ,0,0,0,167,356,"East Elgin Community Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,75,15,16,3,75,"Aylmer",154, ,0,0,0,184,327,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,47,10,13,0,79,"Aylmer",155, ,1,1,0,151,284,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,50,9,4,0,68,"Aylmer",156, ,4,1,0,136,323,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,33,11,4,1,38,"Aylmer",157, ,0,0,0,87,218,"East Elgin Community Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,60,10,6,1,100,"Aylmer",158, ,1,0,0,178,332,"Aylmer Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,6,2,1,33,"Aylmer",159, ,0,0,0,79,235,"East Elgin Community Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,68,12,8,1,60,"Aylmer",160, ,1,0,0,150,285,"Aylmer Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,5,8,1,42,"Aylmer",161, ,0,0,0,88,197,"Aylmer Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,72,16,12,1,68,"Aylmer",162, ,0,0,0,169,364,"Bradley Street Church of God",20071010
+021,ELGIN--MIDDLESEX--LONDON,47,7,3,1,32,"Aylmer",163, ,0,0,0,90,308,"Bradley Street Church of God",20071010
+021,ELGIN--MIDDLESEX--LONDON,50,16,17,3,54,"Aylmer",164, ,1,0,0,141,285,"Aylmer Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,29,13,11,2,34,"Aylmer",165, ,0,1,0,90,259,"Aylmer Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,46,15,6,0,35,"Aylmer",167, ,0,2,0,104,252,"Terrace Lodge",20071010
+021,ELGIN--MIDDLESEX--LONDON,39,10,6,0,26,"Aylmer",168, ,0,0,0,81,185,"Bradley Street Church of God",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,25,9,0,43,"Aylmer",169, ,0,0,0,135,288,"Terrace Lodge",20071010
+021,ELGIN--MIDDLESEX--LONDON,7,3,1,1,15,"Aylmer",169-1s, ,0,0,0,27,94,"Terrace Lodge",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,34,10,2,82,"Straffordville",170, ,0,0,1,191,428,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,74,25,14,4,115,"St. Thomas",171, ,0,0,0,232,390,"Elgin Manor",20071010
+021,ELGIN--MIDDLESEX--LONDON,50,23,12,2,97,"St. Thomas",172, ,0,0,0,184,336,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,33,22,8,0,66,"St. Thomas",173, ,0,0,1,130,241,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,14,16,4,0,45,"St. Thomas",174, ,0,0,0,79,203,"St. Thomas Memorial Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,......................COMBINED WITH POLL 193 ....................,,,,,"St. Thomas",175s, ,,,,,,"Regional Mental Health Care - St. Thomas",20071010
+021,ELGIN--MIDDLESEX--LONDON,88,19,19,1,171,"St. Thomas",176, ,1,1,1,301,578,"Elgin County Administrative Building",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,12,11,2,140,"St. Thomas",177, ,1,3,0,231,376,"St. Hilda's - St. Luke's Anglican Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,73,31,18,2,141,"St. Thomas",178, ,0,0,0,265,484,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,27,12,1,133,"St. Thomas",179, ,0,0,0,222,450,"Elgin Court Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,24,23,11,1,71,"St. Thomas",180, ,0,0,0,130,320,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,41,24,13,1,121,"St. Thomas",181, ,0,0,0,200,432,"Elgin Court Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,17,11,1,138,"St. Thomas",182, ,0,1,0,217,407,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,54,29,14,1,137,"St. Thomas",183A, ,0,0,0,235,462,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,62,33,23,3,93,"St. Thomas",183B, ,0,1,2,217,451,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,55,27,12,0,139,"St. Thomas",184, ,0,0,0,233,425,"Fellowship Christian Reformed Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,64,9,17,2,108,"St. Thomas",185, ,0,0,0,200,371,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,54,12,9,0,50,"Aylmer",186, ,0,0,0,125,226,"Jaffa Environmental Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,116,21,15,3,62,"Aylmer",187, ,0,0,0,217,473,"Summers Corners Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,65,8,6,0,46,"Straffordville",188, ,0,0,1,126,322,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,59,15,11,3,39,"Straffordville",189, ,1,1,0,129,311,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,23,14,0,0,47,"Shedden",190, ,0,0,2,86,155,"Southwold Keystone Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,31,16,6,0,70,"Fingal",191, ,0,1,0,124,269,"Warren Masonic Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,21,22,4,155,"St. Thomas",192, ,0,0,0,251,423,"Sunridge Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,61,20,18,6,137,"St. Thomas",193, ,0,1,0,243,413,"Elgin County Administrative Building",20071010
+021,ELGIN--MIDDLESEX--LONDON,81,33,26,0,138,"Sparta",194, ,1,0,0,279,490,"Sparta Forge & Anvil",20071010
+021,ELGIN--MIDDLESEX--LONDON,73,14,9,1,51,"Aylmer",195, ,0,1,0,149,328,"Jaffa Environmental Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,110,22,8,5,52,"Aylmer",196, ,0,0,0,197,536,"Malahide Fire Hall #1",20071010
+021,ELGIN--MIDDLESEX--LONDON,42,12,9,1,109,"Dutton",197, ,0,0,0,173,372,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,45,17,12,3,72,"Shedden",198, ,0,0,0,149,256,"Southwold Keystone Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,57,13,15,3,92,"Fingal",199, ,0,0,0,180,343,"Warren Masonic Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,20,16,0,77,"St. Thomas",200, ,0,0,1,162,336,"Sunridge Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,11,23,4,97,"St. Thomas",201, ,1,1,0,185,323,"Sunridge Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,53,11,10,1,33,"Vienna",202, ,1,0,0,109,411,"Vienna Lions Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,63,22,14,0,53,"Vienna",203, ,0,2,0,154,343,"Vienna Lions Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,39,16,0,86,"Dutton",204, ,2,0,0,180,387,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,13,24,3,79,"Port Stanley",205, ,0,0,0,156,301,"Port Stanley Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,26,13,10,0,76,"Port Stanley",206, ,0,1,0,126,262,"Port Stanley Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,33,18,22,0,75,"Port Stanley",207, ,0,0,0,148,303,"Port Stanley Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,2,0,3,1,14,"Port Stanley",208s, ,5,0,0,25,59,"Extendicare - Port Stanley",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,18,31,2,80,"Port Stanley",209, ,0,0,0,168,334,"Port Stanley Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,61,12,21,0,88,"Port Stanley",210, ,0,0,0,182,345,"Port Stanley Arena",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,20,19,2,67,"Sparta",211, ,0,1,0,146,236,"Sparta Forge & Anvil",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,18,12,1,73,"Aylmer",212, ,0,0,0,141,296,"Jaffa Environmental Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,78,20,4,0,50,"Aylmer",213, ,0,0,0,152,294,"Malahide Fire Hall #1",20071010
+021,ELGIN--MIDDLESEX--LONDON,27,16,1,0,64,"Dutton",214, ,0,0,0,108,233,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,8,3,0,1,8,"Dutton",214-1s, ,1,1,0,22,56,"Bobier Villa",20071010
+021,ELGIN--MIDDLESEX--LONDON,60,30,13,3,101,"Dutton",216, ,2,0,0,209,442,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,31,14,9,0,41,"Fingal",217, ,0,0,0,95,209,"Warren Masonic Hall",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,7,24,0,90,"Port Stanley",218, ,0,0,0,153,260,"Port Stanley Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,5,20,3,61,"Port Stanley",219, ,2,0,1,124,241,"Port Stanley Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,31,12,13,0,32,"Port Stanley",220, ,3,0,0,91,210,"Port Stanley Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,30,9,18,0,89,"Port Stanley",221, ,4,0,1,151,283,"Port Stanley Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,21,9,17,0,76,"Port Burwell",222, ,0,0,0,123,289,"Port Burwell Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,44,38,17,0,76,"Port Burwell",223, ,0,0,0,175,315,"Port Burwell Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,19,10,1,44,"Port Burwell",224, ,0,0,1,123,259,"Port Burwell Public School",20071010
+021,ELGIN--MIDDLESEX--LONDON,37,14,7,1,49,"West Lorne",226, ,0,0,0,108,245,"West Elgin Legion Branch #221",20071010
+021,ELGIN--MIDDLESEX--LONDON,68,19,18,0,88,"Dutton",227, ,0,1,0,194,396,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,75,18,18,5,96,"Wardsville",228, ,0,0,0,212,369,"Beattie Haven Retirement Community",20071010
+021,ELGIN--MIDDLESEX--LONDON,24,12,10,5,64,"West Lorne",229, ,0,0,0,115,232,"West Elgin Legion Branch #221",20071010
+021,ELGIN--MIDDLESEX--LONDON,15,13,12,0,69,"West Lorne",230, ,1,0,0,110,227,"West Elgin Legion Branch #221",20071010
+021,ELGIN--MIDDLESEX--LONDON,47,25,11,0,86,"West Lorne",231, ,0,0,0,169,360,"West Elgin Legion Branch #221",20071010
+021,ELGIN--MIDDLESEX--LONDON,18,8,5,0,51,"West Lorne",232, ,0,0,0,82,212,"West Elgin Secondary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,53,19,11,0,92,"Dutton",233, ,0,0,0,175,348,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,36,22,12,2,67,"West Lorne",234, ,1,0,1,141,284,"West Elgin Secondary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,25,10,5,0,53,"Rodney",235, ,0,0,0,93,228,"West Elgin Recreation Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,38,23,18,1,57,"Rodney",236, ,0,1,0,138,298,"West Elgin Recreation Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,38,25,14,1,63,"Rodney",237, ,6,0,0,147,313,"West Elgin Recreation Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,25,15,0,121,"West Lorne",238, ,1,0,0,210,426,"West Elgin Secondary School",20071010
+021,ELGIN--MIDDLESEX--LONDON,48,18,14,3,77,"Rodney",239, ,0,0,0,160,335,"West Elgin Recreation Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,49,22,17,1,78,"Rodney",240, ,0,0,0,167,335,"West Elgin Recreation Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,36,12,13,1,55,"London",400, ,0,1,0,118,188,"Westmount Estates I",20071010
+021,ELGIN--MIDDLESEX--LONDON,32,14,9,2,45,"London",401, ,0,1,2,105,137,"Westmount Estates II",20071010
+021,ELGIN--MIDDLESEX--LONDON,10,13,6,3,48,"St. Thomas",402, ,3,0,0,83,158,"Emerson Place",20071010
+021,ELGIN--MIDDLESEX--LONDON,13,15,5,1,33,"St. Thomas",403, ,0,1,0,68,138,"Grand Central Place Tower 2",20071010
+021,ELGIN--MIDDLESEX--LONDON,10,9,4,0,30,"St. Thomas",404, ,1,1,0,55,106,"Grand Central Place Tower 1",20071010
+021,ELGIN--MIDDLESEX--LONDON,26,8,8,0,49,"St. Thomas",405, ,2,0,0,93,129,"Sunset Towers",20071010
+021,ELGIN--MIDDLESEX--LONDON,16,11,5,1,28,"St. Thomas",406, ,2,0,0,63,98,"200 Chestnut Street",20071010
+021,ELGIN--MIDDLESEX--LONDON,7,8,4,0,35,"London",407, ,1,0,0,55,218,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,7,18,3,0,35,"London",408, ,1,0,0,64,220,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,315,77,54,8,555,"St. Thomas",Advanced Polls /  ADV001, ,3,1,1,1014,0,"Returning Office / Bureau du directeur du scrutin",20071010
+021,ELGIN--MIDDLESEX--LONDON,61,22,10,0,103,"Dutton",Advanced Polls /  ADV002, ,0,0,0,196,0,"Dutton-Dunwich Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,68,13,25,0,131,"Port Stanley",Advanced Polls /  ADV003, ,0,1,0,238,0,"Port Stanley Royal Canadian Legion",20071010
+021,ELGIN--MIDDLESEX--LONDON,277,39,25,3,307,"St. Thomas",Advanced Polls /  ADV004, ,2,0,0,653,0,"Faith Baptist Church",20071010
+021,ELGIN--MIDDLESEX--LONDON,262,20,22,2,176,"Aylmer",Advanced Polls /  ADV005, ,2,1,0,485,0,"East Elgin Community Complex",20071010
+021,ELGIN--MIDDLESEX--LONDON,52,10,10,1,97,"Belmont",Advanced Polls /  ADV006, ,0,0,0,170,0,"Belmont Arena & Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,146,19,37,2,138,"Dorchester",Advanced Polls /  ADV007, ,0,0,0,342,0,"Dorchester Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,58,17,7,0,40,"Thorndale",Advanced Polls /  ADV008, ,0,0,0,122,0,"Thorndale Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,68,21,4,0,60,"Straffordville",Advanced Polls /  ADV009, ,0,0,0,153,0,"Bayham Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,69,24,38,1,161,"London",Advanced Polls /  ADV010, ,1,0,0,294,0,"South London Community Centre",20071010
+021,ELGIN--MIDDLESEX--LONDON,41,21,6,1,92,"Rodney",Advanced Polls /  ADV011, ,1,0,0,162,0,"West Elgin Recreation Centre",20071010
+TOTALS:, ,12460,4643,3363,353,20085, , , , , , , , , , 

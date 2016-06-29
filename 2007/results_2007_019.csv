@@ -1,0 +1,233 @@
+ED_CODE,ED_NAME,DAVIES,O'TOOLE,ROBINSON,SOMERVILLE,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+019,DURHAM,33,73,18,90,"Zephyr",001, ,2,0,0,216,387,"Zephyr Hall",20071010
+019,DURHAM,52,141,20,83,"Leaskdale",002, ,0,1,0,297,590,"St. Paul's Leaskdale Presbyterian Church",20071010
+019,DURHAM,19,134,25,71,"Port Perry",003, ,0,0,0,249,492,"Scugog Island Community Hall",20071010
+019,DURHAM,23,106,24,67,"Zephyr",005, ,1,2,0,223,359,"Zephyr Hall",20071010
+019,DURHAM,22,84,19,66,"Leaskdale",006, ,2,0,0,193,412,"St. Paul's Leaskdale Presbyterian Church",20071010
+019,DURHAM,12,120,20,107,"Greenbank",007, ,1,0,0,260,514,"Greenbank Public School",20071010
+019,DURHAM,19,115,30,56,"Port Perry",008, ,1,1,0,222,487,"Scugog Island Community Hall",20071010
+019,DURHAM,28,103,52,62,"Caesarea",009, ,0,1,0,246,461,"Caesarea Community Hall",20071010
+019,DURHAM,22,151,18,59,"Caesarea",010, ,1,0,0,251,495,"Caesarea Community Hall",20071010
+019,DURHAM,29,121,32,73,"Nestleton",011, ,3,0,0,258,513,"Nestleton Community Centre",20071010
+019,DURHAM,15,93,15,61,"Sandford",012, ,0,0,0,184,361,"Sandford Community Centre",20071010
+019,DURHAM,30,126,20,87,"Greenbank",013, ,0,0,0,263,471,"Greenbank Public School",20071010
+019,DURHAM,29,109,35,109,"Greenbank",014, ,0,1,0,283,487,"Greenbank Public School",20071010
+019,DURHAM,17,124,26,71,"Port Perry",015, ,0,0,0,238,504,"Scugog Island Community Hall",20071010
+019,DURHAM,27,144,15,75,"Sandford",016, ,6,0,0,267,458,"Sandford Community Centre",20071010
+019,DURHAM,29,134,19,89,"Port Perry",017, ,0,2,1,274,538,"S.A. Cawker Public School",20071010
+019,DURHAM,18,101,17,82,"Port Perry",018, ,0,0,0,218,479,"Scugog Island Community Hall",20071010
+019,DURHAM,17,152,37,71,"Nestleton",019, ,2,0,0,279,525,"Nestleton Community Centre",20071010
+019,DURHAM,36,96,17,73,"Sandford",020, ,2,1,0,225,416,"Sandford Community Centre",20071010
+019,DURHAM,24,99,13,61,"Uxbridge",021A, ,0,0,0,197,373,"Sacred Heart Catholic Church",20071010
+019,DURHAM,27,89,18,77,"Uxbridge",021B, ,0,0,0,211,389,"Sacred Heart Catholic Church",20071010
+019,DURHAM,32,90,17,93,"Uxbridge",022, ,2,0,0,234,466,"Sacred Heart Catholic Church",20071010
+019,DURHAM,19,91,12,77,"Uxbridge",023, ,1,0,0,200,366,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,16,91,17,96,"Uxbridge",024, ,3,0,0,223,421,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,13,99,10,92,"Port Perry",025, ,0,0,0,214,363,"The Centre in Canterbury Common",20071010
+019,DURHAM,7,57,28,40,"Port Perry",026, ,1,0,0,133,283,"S.A. Cawker Public School",20071010
+019,DURHAM,18,79,17,66,"Port Perry",027, ,0,0,0,180,340,"S.A. Cawker Public School",20071010
+019,DURHAM,6,26,5,21,"Port Perry",028s, ,0,1,0,59,131,"Community Nursing Home",20071010
+019,DURHAM,1,32,6,37,"Port Perry",029s, ,0,2,0,78,108,"Westshore Village",20071010
+019,DURHAM,9,124,7,98,"Port Perry",030, ,3,0,0,241,328,"The Centre in Canterbury Common",20071010
+019,DURHAM,12,72,5,51,"Port Perry",031, ,1,1,0,142,297,"S.A. Cawker Public School",20071010
+019,DURHAM,11,42,18,41,"Port Perry",032, ,0,1,0,113,242,"Latcham Centre",20071010
+019,DURHAM,26,97,27,33,"Blackstock",033, ,1,0,1,185,334,"Blackstock Recreation Centre",20071010
+019,DURHAM,23,128,35,63,"Blackstock",034, ,0,0,0,249,489,"Blackstock Recreation Centre",20071010
+019,DURHAM,32,97,25,82,"Uxbridge",035, ,1,0,0,237,444,"Uxbridge Community Centre",20071010
+019,DURHAM,29,102,31,71,"Uxbridge",036, ,0,0,0,233,433,"Uxbridge Community Centre",20071010
+019,DURHAM,29,93,15,104,"Uxbridge",037, ,1,0,0,242,412,"Uxbridge Community Centre",20071010
+019,DURHAM,31,116,16,76,"Uxbridge",038, ,1,1,0,241,416,"Uxbridge Baptist Church",20071010
+019,DURHAM,30,76,23,64,"Uxbridge",039, ,0,0,0,193,328,"Uxbridge Community Centre",20071010
+019,DURHAM,22,85,27,73,"Uxbridge",040, ,1,0,0,208,451,"Uxbridge Community Centre",20071010
+019,DURHAM,30,77,20,87,"Uxbridge",041, ,0,0,0,214,374,"Uxbridge Baptist Church",20071010
+019,DURHAM,..........................NO POLL HELD........................,,,,"Uxbridge",042s, ,0,0,0,0,0,"",20071010
+019,DURHAM,24,40,13,41,"Uxbridge",043, ,0,0,0,118,284,"Sacred Heart Catholic Church",20071010
+019,DURHAM,23,54,18,65,"Uxbridge",044, ,0,0,0,160,356,"Uxbridge Library - Lower Level",20071010
+019,DURHAM,21,141,23,88,"Uxbridge",045, ,1,2,1,277,502,"Uxbridge Library - Lower Level",20071010
+019,DURHAM,13,38,21,50,"Uxbridge",046, ,1,0,0,123,266,"Uxbridge Library - Lower Level",20071010
+019,DURHAM,27,57,26,62,"Uxbridge",047, ,1,1,1,175,335,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,36,83,23,61,"Uxbridge",048, ,1,0,0,204,352,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,2,13,12,11,"Uxbridge",049s, ,0,1,0,39,101,"Reachview Village",20071010
+019,DURHAM,16,48,16,73,"Uxbridge",050, ,0,1,0,154,291,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,15,92,19,66,"Uxbridge",051, ,1,1,0,194,416,"Uxbridge Senior Citizens Centre",20071010
+019,DURHAM,22,83,18,77,"Uxbridge",052, ,0,0,0,200,408,"Sacred Heart Catholic Church",20071010
+019,DURHAM,41,135,18,106,"Port Perry",053, ,0,0,0,300,558,"Scugog Arena - Meeting Rooms",20071010
+019,DURHAM,13,103,16,73,"Port Perry",054A, ,0,0,2,207,370,"Good Shepherd Catholic School",20071010
+019,DURHAM,10,68,12,86,"Port Perry",054B, ,0,1,0,177,326,"Good Shepherd Catholic School",20071010
+019,DURHAM,13,105,12,67,"Port Perry",055, ,0,0,0,197,374,"Good Shepherd Catholic School",20071010
+019,DURHAM,..........................NO POLL HELD........................,,,,"Port Perry",056s, ,0,0,0,0,0,"",20071010
+019,DURHAM,12,74,14,69,"Port Perry",057, ,2,0,0,171,377,"Good Shepherd Catholic School",20071010
+019,DURHAM,19,82,19,63,"Port Perry",058, ,0,0,0,183,389,"Immaculate Conception Catholic Church",20071010
+019,DURHAM,18,67,17,80,"Port Perry",059, ,0,0,0,182,354,"Immaculate Conception Catholic Church",20071010
+019,DURHAM,15,83,28,76,"Port Perry",060, ,3,1,0,206,398,"Immaculate Conception Catholic Church",20071010
+019,DURHAM,10,59,13,61,"Port Perry",061, ,1,0,1,145,341,"Good Shepherd Catholic School",20071010
+019,DURHAM,22,100,19,55,"Port Perry",062, ,1,3,0,200,379,"Latcham Centre",20071010
+019,DURHAM,13,108,24,70,"Port Perry",063, ,0,0,0,215,417,"Immaculate Conception Catholic Church",20071010
+019,DURHAM,12,73,14,47,"Port Perry",064, ,0,0,0,146,293,"Latcham Centre",20071010
+019,DURHAM,22,139,13,56,"Blackstock",065, ,0,0,0,230,433,"Blackstock Recreation Centre",20071010
+019,DURHAM,31,99,13,84,"Uxbridge",066, ,0,1,0,228,492,"Uxbridge Community Centre",20071010
+019,DURHAM,19,77,20,53,"Port Perry",067, ,0,0,0,169,371,"Hope Christian Reformed Church of Port Perry",20071010
+019,DURHAM,22,93,19,93,"Port Perry",068, ,0,0,1,228,408,"Hope Christian Reformed Church of Port Perry",20071010
+019,DURHAM,17,78,15,46,"Blackstock",069, ,0,0,0,156,313,"Blackstock Recreation Centre",20071010
+019,DURHAM,23,125,31,67,"Enniskillen",070, ,0,0,0,246,452,"Enniskillen Public School",20071010
+019,DURHAM,31,143,35,50,"Kendal",071, ,1,0,0,260,435,"Kendal Community Centre",20071010
+019,DURHAM,30,132,20,86,"Goodwood",072, ,0,0,0,268,505,"Goodwood Community Centre",20071010
+019,DURHAM,25,95,11,70,"Goodwood",073, ,0,0,1,202,372,"Goodwood Community Centre",20071010
+019,DURHAM,35,102,36,78,"Port Perry",074, ,0,0,1,252,457,"Scugog Arena - Meeting Rooms",20071010
+019,DURHAM,15,125,19,65,"Port Perry",075, ,0,0,0,224,449,"Hope Christian Reformed Church of Port Perry",20071010
+019,DURHAM,14,111,15,50,"Tyrone",076, ,0,0,0,190,339,"Tyrone Community Centre",20071010
+019,DURHAM,16,109,16,52,"Orono",077, ,1,1,1,196,389,"Kirby Public School",20071010
+019,DURHAM,29,82,11,71,"Uxbridge",078, ,0,0,0,193,436,"Sacred Heart Catholic Church",20071010
+019,DURHAM,15,134,32,57,"Enniskillen",079, ,0,0,0,238,436,"Enniskillen Public School",20071010
+019,DURHAM,28,179,32,90,"Enniskillen",080, ,3,1,0,333,565,"Enniskillen Public School",20071010
+019,DURHAM,28,107,29,53,"Kendal",081, ,1,0,0,218,370,"Kendal Community Centre",20071010
+019,DURHAM,17,104,17,83,"Goodwood",082, ,1,1,1,224,399,"Goodwood Community Centre",20071010
+019,DURHAM,24,86,20,52,"Uxbridge",083, ,0,0,0,182,441,"Sacred Heart Catholic Church",20071010
+019,DURHAM,19,99,26,58,"Tyrone",084, ,0,0,0,202,387,"Tyrone Community Centre",20071010
+019,DURHAM,14,117,18,40,"Orono",085, ,0,0,1,190,348,"Kirby Public School",20071010
+019,DURHAM,20,101,44,54,"Orono",086, ,0,0,0,219,425,"Orono United Church",20071010
+019,DURHAM,22,72,22,31,"Kendal",087, ,0,0,0,147,275,"Kendal Community Centre",20071010
+019,DURHAM,25,118,19,62,"Kendal",088, ,1,0,0,225,381,"Kendal Community Centre",20071010
+019,DURHAM,29,107,16,69,"Goodwood",089, ,0,1,0,222,434,"Goodwood Community Centre",20071010
+019,DURHAM,11,81,19,68,"Hampton",090, ,1,0,0,180,347,"Hampton United Church",20071010
+019,DURHAM,27,162,39,78,"Hampton",091, ,0,0,0,306,530,"Hampton United Church",20071010
+019,DURHAM,18,130,24,57,"Hampton",092, ,1,0,0,230,464,"Hampton United Church",20071010
+019,DURHAM,14,101,32,47,"Orono",093, ,0,1,0,195,359,"Durham County Senior Citizens Lodge",20071010
+019,DURHAM,20,89,29,56,"Orono",094, ,0,1,0,195,367,"Orono United Church",20071010
+019,DURHAM,17,116,17,52,"Hampton",095, ,0,0,0,202,403,"Zion United Church",20071010
+019,DURHAM,26,121,25,65,"Hampton",096, ,1,0,0,238,458,"Hampton United Church",20071010
+019,DURHAM,10,83,22,27,"Bowmanville",097, ,0,0,0,142,294,"Knox Christian Elementary School",20071010
+019,DURHAM,9,99,25,40,"Orono",098, ,0,0,0,173,324,"Durham County Senior Citizens Lodge",20071010
+019,DURHAM,20,126,33,57,"Newcastle",099, ,2,1,0,239,470,"Brownsdale Community Centre",20071010
+019,DURHAM,5,87,26,26,"Newcastle",100, ,0,0,0,144,280,"Brownsdale Community Centre",20071010
+019,DURHAM,25,103,23,52,"Newtonville",101, ,2,0,0,205,460,"Newtonville Community Hall",20071010
+019,DURHAM,23,117,21,52,"Hampton",102, ,1,0,0,214,480,"Zion United Church",20071010
+019,DURHAM,14,82,50,52,"Hampton",103, ,0,0,0,198,381,"Zion United Church",20071010
+019,DURHAM,17,100,18,52,"Courtice",104, ,1,0,0,188,392,"Faith United Church",20071010
+019,DURHAM,11,96,38,43,"Bowmanville",105, ,0,0,0,188,320,"Knox Christian Elementary School",20071010
+019,DURHAM,5,64,20,44,"Bowmanville",106, ,0,0,0,133,316,"Knox Christian Elementary School",20071010
+019,DURHAM,14,62,34,68,"Bowmanville",107, ,0,0,0,178,409,"St. Elizabeth Catholic Elementary School",20071010
+019,DURHAM,17,75,18,46,"Bowmanville",108, ,0,0,0,156,357,"St. Elizabeth Catholic Elementary School",20071010
+019,DURHAM,12,61,25,60,"Bowmanville",109, ,0,0,0,158,351,"St. Stephen's Secondary High School",20071010
+019,DURHAM,15,77,25,69,"Bowmanville",110, ,0,0,0,186,366,"St. Elizabeth Catholic Elementary School",20071010
+019,DURHAM,15,59,16,36,"Bowmanville",111, ,0,0,0,126,324,"Harold Longworth Public School",20071010
+019,DURHAM,15,89,22,64,"Bowmanville",112, ,0,0,0,190,379,"St. Elizabeth Catholic Elementary School",20071010
+019,DURHAM,10,56,28,45,"Bowmanville",113, ,0,0,0,139,356,"Harold Longworth Public School",20071010
+019,DURHAM,5,64,19,40,"Bowmanville",114, ,1,0,0,129,335,"Harold Longworth Public School",20071010
+019,DURHAM,18,77,29,67,"Bowmanville",115, ,0,0,0,191,438,"Harold Longworth Public School",20071010
+019,DURHAM,14,70,26,44,"Bowmanville",116, ,0,0,0,154,422,"St. Stephen's Secondary High School",20071010
+019,DURHAM,9,76,27,49,"Bowmanville",117, ,0,0,0,161,393,"St. Stephen's Secondary High School",20071010
+019,DURHAM,23,95,24,44,"Bowmanville",118, ,0,2,0,188,444,"St. Stephen's Secondary High School",20071010
+019,DURHAM,20,84,27,89,"Bowmanville",119, ,1,0,0,221,392,"John M. James Public School",20071010
+019,DURHAM,7,72,37,62,"Bowmanville",120, ,0,0,0,178,441,"Harold Longworth Public School",20071010
+019,DURHAM,15,87,30,62,"Bowmanville",121, ,1,1,0,196,420,"John M. James Public School",20071010
+019,DURHAM,11,47,16,41,"Bowmanville",122, ,0,0,0,115,245,"Harold Longworth Public School",20071010
+019,DURHAM,13,87,17,45,"Bowmanville",123, ,0,0,0,162,360,"John M. James Public School",20071010
+019,DURHAM,23,130,29,79,"Bowmanville",124, ,10,2,0,273,598,"John M. James Public School",20071010
+019,DURHAM,1,12,5,7,"Newcastle",125s, ,0,4,0,29,80,"Fosterbrook Long Term Care Facility",20071010
+019,DURHAM,12,78,26,56,"Newcastle",126, ,0,0,0,172,331,"Newcastle United Church",20071010
+019,DURHAM,14,104,26,52,"Newcastle",127, ,0,3,0,199,440,"Newcastle Community Hall",20071010
+019,DURHAM,15,108,39,84,"Newcastle",128, ,0,1,0,247,476,"Newcastle Community Hall",20071010
+019,DURHAM,14,77,27,79,"Newcastle",129, ,0,0,0,197,389,"Newcastle Community Hall",20071010
+019,DURHAM,34,89,19,56,"Newcastle",130, ,2,0,0,200,368,"Newcastle Public School",20071010
+019,DURHAM,14,65,17,45,"Newtonville",131, ,1,0,0,142,260,"Newtonville Community Hall",20071010
+019,DURHAM,11,111,29,60,"Courtice",132, ,2,0,0,213,420,"S.T. Worden Public School",20071010
+019,DURHAM,14,84,35,56,"Courtice",133, ,0,0,0,189,446,"S.T. Worden Public School",20071010
+019,DURHAM,17,85,39,76,"Courtice",134, ,0,0,1,218,443,"S.T. Worden Public School",20071010
+019,DURHAM,15,66,26,63,"Courtice",135, ,0,0,1,171,405,"S.T. Worden Public School",20071010
+019,DURHAM,7,20,5,30,"Courtice",136s, ,0,0,0,62,97,"White Cliffe Retirement Residence",20071010
+019,DURHAM,16,110,38,80,"Courtice",137, ,0,0,0,244,447,"Courtice Community Complex",20071010
+019,DURHAM,25,78,29,71,"Courtice",138, ,0,0,0,203,435,"Courtice Community Complex",20071010
+019,DURHAM,17,74,25,76,"Courtice",139, ,0,0,0,192,376,"Courtice Community Complex",20071010
+019,DURHAM,15,93,28,83,"Courtice",140, ,0,0,0,219,447,"Courtice Community Complex",20071010
+019,DURHAM,15,82,22,64,"Courtice",141, ,0,1,0,184,405,"Dr. Emily Stowe Public School",20071010
+019,DURHAM,8,77,22,47,"Courtice",142, ,0,0,0,154,390,"Courtice Community Complex",20071010
+019,DURHAM,17,76,27,53,"Courtice",143, ,0,0,0,173,437,"Courtice Community Complex",20071010
+019,DURHAM,9,88,36,63,"Courtice",144, ,0,1,1,198,377,"Dr. Emily Stowe Public School",20071010
+019,DURHAM,15,60,22,38,"Courtice",145, ,1,0,0,136,343,"Lydia Trull Public School",20071010
+019,DURHAM,14,80,27,33,"Courtice",146, ,2,0,0,156,340,"Courtice North Public School",20071010
+019,DURHAM,17,76,18,43,"Courtice",147, ,0,0,0,154,331,"Lydia Trull Public School",20071010
+019,DURHAM,8,49,14,35,"Courtice",148, ,0,0,0,106,216,"Courtice North Public School",20071010
+019,DURHAM,20,53,23,52,"Courtice",149, ,0,0,0,148,343,"Lydia Trull Public School",20071010
+019,DURHAM,19,67,28,61,"Courtice",150, ,2,0,0,177,388,"Courtice North Public School",20071010
+019,DURHAM,10,72,19,46,"Courtice",151, ,2,0,0,149,329,"Lydia Trull Public School",20071010
+019,DURHAM,15,68,30,62,"Courtice",152, ,1,0,0,176,344,"Courtice North Public School",20071010
+019,DURHAM,14,78,27,90,"Courtice",153, ,0,0,0,209,425,"Good Shepherd Catholic Elementary School",20071010
+019,DURHAM,7,117,26,43,"Courtice",154, ,3,0,0,196,396,"Good Shepherd Catholic Elementary School",20071010
+019,DURHAM,12,70,20,57,"Courtice",155, ,1,1,0,161,338,"Faith United Church",20071010
+019,DURHAM,13,65,22,53,"Bowmanville",156, ,1,1,0,155,349,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,7,57,32,40,"Bowmanville",157, ,0,0,0,136,266,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,8,123,18,44,"Bowmanville",158, ,0,0,0,193,355,"Knox Christian Elementary School",20071010
+019,DURHAM,7,75,15,63,"Bowmanville",159, ,0,0,0,160,347,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,18,64,3,48,"Bowmanville",160, ,1,0,0,134,293,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,1,12,2,3,"Bowmanville",161s, ,0,0,0,18,36,"Kingsway Arms at Clarington Centre",20071010
+019,DURHAM,6,73,19,32,"Bowmanville",162, ,0,0,1,131,268,"Dr. Ross Tilley Public School",20071010
+019,DURHAM,9,49,17,35,"Bowmanville",163, ,1,1,0,112,259,"Dr. Ross Tilley Public School",20071010
+019,DURHAM,11,47,23,27,"Bowmanville",164, ,0,0,0,108,302,"Dr. Ross Tilley Public School",20071010
+019,DURHAM,10,84,29,58,"Bowmanville",165, ,0,0,0,181,397,"Dr. Ross Tilley Public School",20071010
+019,DURHAM,13,87,17,42,"Bowmanville",166, ,0,0,0,159,367,"Knox Christian Elementary School",20071010
+019,DURHAM,15,63,29,53,"Bowmanville",167, ,0,0,0,160,352,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,11,80,21,43,"Bowmanville",168, ,0,0,0,155,391,"Waverley Public School",20071010
+019,DURHAM,12,113,24,60,"Bowmanville",169, ,0,0,0,209,458,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,18,86,29,61,"Bowmanville",170, ,0,0,0,194,379,"Baseline Community Centre",20071010
+019,DURHAM,11,85,28,31,"Bowmanville",171, ,0,0,0,155,365,"Garnet B. Rickard Recreation Complex",20071010
+019,DURHAM,14,103,34,61,"Bowmanville",172, ,0,0,0,212,425,"Waverley Public School",20071010
+019,DURHAM,2,16,10,10,"Bowmanville",173s, ,1,0,1,40,67,"Marnwood Lifecare Centre",20071010
+019,DURHAM,10,55,24,31,"Bowmanville",174, ,1,0,0,121,337,"St. Stephen's Secondary High School",20071010
+019,DURHAM,7,53,18,35,"Bowmanville",175, ,0,0,0,113,258,"Trinity United Church",20071010
+019,DURHAM,8,49,10,16,"Bowmanville",176, ,1,0,0,84,241,"Trinity United Church",20071010
+019,DURHAM,22,102,13,42,"Bowmanville",177, ,0,0,0,179,347,"Clarington Beech Centre",20071010
+019,DURHAM,30,93,22,81,"Bowmanville",178, ,0,2,0,228,412,"Clarington Beech Centre",20071010
+019,DURHAM,5,6,4,5,"Bowmanville",179s, ,0,2,0,22,23,"York House",20071010
+019,DURHAM,7,69,22,43,"Bowmanville",180, ,2,0,0,143,322,"Clarington Beech Centre",20071010
+019,DURHAM,21,94,26,67,"Bowmanville",181, ,1,0,1,210,432,"Waverley Public School",20071010
+019,DURHAM,22,50,28,26,"Bowmanville",182, ,0,0,0,126,296,"Trinity United Church",20071010
+019,DURHAM,15,67,29,24,"Bowmanville",183, ,0,0,1,136,321,"Ontario Street Public School",20071010
+019,DURHAM,9,41,12,47,"Bowmanville",184, ,1,0,0,110,271,"Vincent Massey Public School",20071010
+019,DURHAM,13,57,18,50,"Bowmanville",185, ,0,0,0,138,362,"St. Stephen's Secondary High School",20071010
+019,DURHAM,19,70,36,40,"Bowmanville",186, ,0,0,0,165,347,"Ontario Street Public School",20071010
+019,DURHAM,0,4,5,4,"Bowmanville",187s, ,0,0,0,13,20,"Lakeridge Health Bowmanville Division",20071010
+019,DURHAM,9,72,22,35,"Bowmanville",188, ,0,0,0,138,320,"Trinity United Church",20071010
+019,DURHAM,14,76,34,53,"Bowmanville",189, ,1,0,0,178,378,"Ontario Street Public School",20071010
+019,DURHAM,15,81,19,63,"Bowmanville",190, ,0,0,0,178,360,"Vincent Massey Public School",20071010
+019,DURHAM,7,80,18,87,"Bowmanville",191, ,0,1,0,193,398,"John M. James Public School",20071010
+019,DURHAM,5,38,8,11,"Bowmanville",192s, ,0,1,0,63,171,"Strathaven Lifecare Retirement Centre",20071010
+019,DURHAM,13,71,20,49,"Bowmanville",193, ,1,0,0,154,369,"Vincent Massey Public School",20071010
+019,DURHAM,16,80,36,64,"Bowmanville",194, ,0,0,0,196,444,"John M. James Public School",20071010
+019,DURHAM,9,101,27,57,"Bowmanville",195, ,1,0,0,195,408,"Vincent Massey Public School",20071010
+019,DURHAM,8,105,31,80,"Newcastle",196, ,0,1,0,225,367,"Wheelhouse Recreation Centre",20071010
+019,DURHAM,13,118,21,113,"Newcastle",197, ,1,1,0,267,391,"Wheelhouse Recreation Centre",20071010
+019,DURHAM,3,108,20,60,"Newcastle",198, ,3,0,0,194,303,"Wheelhouse Recreation Centre",20071010
+019,DURHAM,9,121,29,79,"Newcastle",199, ,0,1,0,239,350,"Wheelhouse Recreation Centre",20071010
+019,DURHAM,14,79,37,50,"Newcastle",200, ,2,1,0,183,369,"St. Francis of Assisi Separate School",20071010
+019,DURHAM,22,109,36,76,"Newcastle",201, ,1,0,0,244,467,"St. Francis of Assisi Separate School",20071010
+019,DURHAM,19,108,35,50,"Newcastle",202, ,0,0,0,212,441,"St. Francis of Assisi Separate School",20071010
+019,DURHAM,15,107,34,63,"Newcastle",203, ,0,0,1,220,425,"Newcastle United Church",20071010
+019,DURHAM,15,85,16,79,"Newcastle",204, ,2,0,0,197,363,"Newcastle Public School",20071010
+019,DURHAM,20,119,23,107,"Newcastle",205, ,0,0,0,269,540,"Newcastle Public School",20071010
+019,DURHAM,12,83,24,50,"Courtice",206, ,1,1,0,171,416,"Mother Teresa Catholic Elementary School",20071010
+019,DURHAM,14,91,34,69,"Courtice",207, ,1,0,0,209,443,"Mother Teresa Catholic Elementary School",20071010
+019,DURHAM,13,70,36,65,"Courtice",208, ,2,1,0,187,392,"Mother Teresa Catholic Elementary School",20071010
+019,DURHAM,15,63,37,53,"Courtice",209, ,0,0,0,168,434,"Dr. G.J. MacGillivray Public School",20071010
+019,DURHAM,13,80,37,67,"Courtice",210, ,6,0,0,203,478,"South Courtice Arena",20071010
+019,DURHAM,25,91,19,100,"Courtice",211, ,1,0,0,236,425,"Dr. G.J. MacGillivray Public School",20071010
+019,DURHAM,28,123,34,79,"Courtice",212, ,0,0,0,264,482,"Mother Teresa Catholic Elementary School",20071010
+019,DURHAM,20,82,23,55,"Courtice",213, ,0,0,0,180,380,"Dr. Emily Stowe Public School",20071010
+019,DURHAM,15,112,20,97,"Courtice",214, ,0,0,0,244,468,"Dr. G.J. MacGillivray Public School",20071010
+019,DURHAM,11,75,31,59,"Courtice",215, ,0,0,0,176,385,"Dr. Emily Stowe Public School",20071010
+019,DURHAM,16,79,24,40,"Courtice",216, ,1,0,0,160,404,"Ebenezer United Church",20071010
+019,DURHAM,24,59,25,63,"Courtice",217, ,0,0,0,171,348,"Good Shepherd Catholic Elementary School",20071010
+019,DURHAM,5,88,14,38,"Courtice",218, ,0,0,0,145,327,"Good Shepherd Catholic Elementary School",20071010
+019,DURHAM,9,90,13,37,"Courtice",219, ,0,0,0,149,309,"Ebenezer United Church",20071010
+019,DURHAM,11,68,20,42,"Bowmanville",220, ,0,0,0,141,367,"Bowmanville Indoor Soccer/Lacrosse Bowl",20071010
+019,DURHAM,19,97,28,80,"Bowmanville",221, ,0,0,0,224,497,"Baseline Community Centre",20071010
+019,DURHAM,16,84,35,67,"Bowmanville",222, ,0,0,0,202,407,"Baseline Community Centre",20071010
+019,DURHAM,19,81,39,49,"Bowmanville",223, ,0,0,0,188,441,"Baseline Community Centre",20071010
+019,DURHAM,17,72,14,34,"Bowmanville",224, ,0,0,0,137,267,"Bowmanville Indoor Soccer/Lacrosse Bowl",20071010
+019,DURHAM,13,110,40,92,"Courtice",225, ,6,0,1,262,524,"South Courtice Arena",20071010
+019,DURHAM,5,48,16,39,"Bowmanville",400, ,0,1,0,109,159,"145 Liberty Properties Incorporated",20071010
+019,DURHAM,102,952,191,615,"Bowmanville",Advanced Polls /  ADV001, ,3,2,5,1870,0,"Returning Office / Bureau du directeur du scrutin",20071010
+019,DURHAM,44,341,82,234,"Courtice",Advanced Polls /  ADV002, ,1,0,0,702,0,"Faith United Church",20071010
+019,DURHAM,50,325,44,275,"Port Perry",Advanced Polls /  ADV003, ,0,0,0,694,0,"Scugog Arena - Meeting Rooms",20071010
+019,DURHAM,77,380,57,269,"Uxbridge",Advanced Polls /  ADV004, ,2,3,1,789,0,"Uxbridge Library - Lower Level",20071010
+TOTALS:, ,4053,21515,5521,14730, , , , , , , , , , 

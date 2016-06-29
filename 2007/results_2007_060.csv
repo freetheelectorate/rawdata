@@ -1,0 +1,255 @@
+ED_CODE,ED_NAME,BYERS,CRAWFORD,FLYNN,SCHAFFER,TOTEDA,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+060,OAKVILLE,86,21,98,15,3,"Oakville",001, ,0,0,0,223,500,"St. Luke Separate School",20071010
+060,OAKVILLE,80,5,138,12,1,"Oakville",002, ,0,0,0,236,575,"St. Marguerite d'Youville",20071010
+060,OAKVILLE,75,15,137,18,0,"Oakville",003, ,0,0,0,245,462,"St. Luke Separate School",20071010
+060,OAKVILLE,82,6,85,11,2,"Oakville",004, ,2,0,0,188,416,"St. Marguerite d'Youville",20071010
+060,OAKVILLE,100,9,97,16,0,"Oakville",005, ,4,1,0,227,479,"St. Marguerite d'Youville",20071010
+060,OAKVILLE,78,14,114,9,1,"Oakville",006, ,1,0,0,217,447,"St. Luke Separate School",20071010
+060,OAKVILLE,47,18,116,3,1,"Oakville",007, ,0,0,0,185,398,"St. Luke Separate School",20071010
+060,OAKVILLE,109,19,150,11,1,"Oakville",008, ,1,0,0,291,541,"St. Luke Separate School",20071010
+060,OAKVILLE,53,13,98,14,0,"Oakville",009, ,0,0,0,178,367,"St. Luke Separate School",20071010
+060,OAKVILLE,76,13,156,21,4,"Oakville",010, ,0,1,0,271,477,"John Knox Christian School",20071010
+060,OAKVILLE,96,12,129,11,1,"Oakville",011, ,0,0,0,249,521,"John Knox Christian School",20071010
+060,OAKVILLE,96,11,145,9,1,"Oakville",012, ,1,0,0,263,481,"John Knox Christian School",20071010
+060,OAKVILLE,68,6,77,13,2,"Oakville",013, ,1,2,0,169,403,"Iroquois Ridge Community Centre",20071010
+060,OAKVILLE,62,7,77,12,1,"Oakville",014, ,0,1,0,160,346,"Iroquois Ridge Community Centre",20071010
+060,OAKVILLE,85,9,125,4,0,"Oakville",015, ,0,0,0,223,430,"Iroquois Ridge Community Centre",20071010
+060,OAKVILLE,101,8,113,19,1,"Oakville",016, ,0,0,0,242,387,"St. Marguerite d'Youville",20071010
+060,OAKVILLE,87,4,105,18,0,"Oakville",017, ,2,0,0,216,388,"St. Marguerite d'Youville",20071010
+060,OAKVILLE,86,4,124,13,1,"Oakville",018, ,0,0,0,228,429,"Holy Family School",20071010
+060,OAKVILLE,65,13,94,12,0,"Oakville",019, ,0,0,0,184,395,"John Knox Christian School",20071010
+060,OAKVILLE,44,8,99,3,2,"Oakville",020, ,0,1,0,157,400,"Iroquois Ridge Community Centre",20071010
+060,OAKVILLE,97,3,110,12,2,"Oakville",021, ,0,0,0,224,422,"Iroquois Ridge High School",20071010
+060,OAKVILLE,71,11,88,19,0,"Oakville",022, ,1,0,0,190,388,"Iroquois Ridge High School",20071010
+060,OAKVILLE,76,6,116,19,0,"Oakville",023, ,1,0,0,218,441,"Iroquois Ridge High School",20071010
+060,OAKVILLE,51,16,96,20,4,"Oakville",024, ,0,0,0,187,361,"Iroquois Ridge High School",20071010
+060,OAKVILLE,86,8,129,15,1,"Oakville",025, ,1,0,1,241,443,"Iroquois Ridge High School",20071010
+060,OAKVILLE,82,19,121,25,2,"Oakville",026, ,1,0,0,250,435,"Holy Family School",20071010
+060,OAKVILLE,61,17,93,14,2,"Oakville",027, ,4,0,0,191,396,"John Knox Christian School",20071010
+060,OAKVILLE,116,4,95,15,0,"Oakville",028, ,0,0,0,230,461,"Oakville Trafalgar High School",20071010
+060,OAKVILLE,96,10,132,26,0,"Oakville",029, ,2,2,0,268,439,"Chisholm Public School",20071010
+060,OAKVILLE,106,10,118,13,0,"Oakville",030, ,0,1,0,248,455,"Chisholm Public School",20071010
+060,OAKVILLE,100,6,144,20,1,"Oakville",031, ,0,2,0,273,412,"Chisholm Public School",20071010
+060,OAKVILLE,133,10,103,12,0,"Oakville",032, ,0,0,0,258,454,"Chisholm Public School",20071010
+060,OAKVILLE,81,16,140,14,0,"Oakville",033, ,0,1,0,252,503,"Iroquois Ridge High School",20071010
+060,OAKVILLE,31,23,56,4,0,"Oakville",034, ,0,0,0,114,238,"Sheridan Public School",20071010
+060,OAKVILLE,69,18,104,10,1,"Oakville",035, ,0,0,0,202,382,"Sheridan Public School",20071010
+060,OAKVILLE,74,8,117,19,3,"Oakville",036, ,0,0,2,223,441,"Holy Family School",20071010
+060,OAKVILLE,83,9,116,24,2,"Oakville",037, ,0,0,0,234,427,"Falgarwood Public School",20071010
+060,OAKVILLE,89,12,98,14,4,"Oakville",038, ,0,0,1,218,400,"Holy Family School",20071010
+060,OAKVILLE,84,20,91,21,1,"Oakville",039, ,0,0,0,217,384,"Falgarwood Public School",20071010
+060,OAKVILLE,96,12,142,21,1,"Oakville",040, ,0,1,0,273,422,"Falgarwood Public School",20071010
+060,OAKVILLE,92,7,99,20,0,"Oakville",041, ,0,1,0,219,377,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,77,10,97,16,0,"Oakville",042, ,1,0,0,201,375,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,120,3,107,16,3,"Oakville",043, ,0,0,0,249,406,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,100,3,96,19,4,"Oakville",044, ,0,0,0,222,375,"Chisholm Public School",20071010
+060,OAKVILLE,94,5,99,14,2,"Oakville",045, ,1,0,0,215,409,"Chisholm Public School",20071010
+060,OAKVILLE,54,5,73,8,0,"Oakville",046, ,0,0,0,140,315,"Munn's Public School",20071010
+060,OAKVILLE,40,12,104,16,2,"Oakville",047, ,0,0,0,174,368,"St. Simon's Anglican Church",20071010
+060,OAKVILLE,109,4,127,20,0,"Oakville",048, ,0,0,0,260,456,"Sheridan Public School",20071010
+060,OAKVILLE,61,24,92,15,1,"Oakville",049, ,1,0,0,194,355,"Sheridan Public School",20071010
+060,OAKVILLE,43,21,59,32,0,"Oakville",050, ,0,0,0,155,365,"Falgarwood Public School",20071010
+060,OAKVILLE,24,12,41,12,1,"Oakville",051, ,0,1,0,91,260,"Falgarwood Public School",20071010
+060,OAKVILLE,68,9,99,9,1,"Oakville",052, ,0,0,0,186,326,"Oakville Trafalgar High School",20071010
+060,OAKVILLE,90,13,101,14,1,"Oakville",053, ,0,0,0,219,381,"Oakville Trafalgar High School",20071010
+060,OAKVILLE,112,14,92,19,2,"Oakville",054, ,0,0,0,239,443,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,104,1,94,27,2,"Oakville",055, ,0,0,0,228,368,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,34,20,79,18,0,"Oakville",056, ,1,0,0,152,299,"Munn's Public School",20071010
+060,OAKVILLE,52,11,102,16,4,"Oakville",057, ,0,1,0,186,380,"Munn's Public School",20071010
+060,OAKVILLE,11,13,24,13,1,"Oakville",058, ,0,0,0,62,159,"Sheridan Institute of Technology",20071010
+060,OAKVILLE,55,29,115,16,2,"Oakville",059, ,0,0,0,217,429,"White Oaks Secondary School",20071010
+060,OAKVILLE,24,14,48,15,1,"Oakville",060, ,0,0,1,103,235,"St. Simon's Anglican Church",20071010
+060,OAKVILLE,58,23,60,23,0,"Oakville",061, ,0,0,0,164,355,"St. Simon's Anglican Church",20071010
+060,OAKVILLE,107,16,107,29,4,"Oakville",062, ,2,0,0,265,456,"Linbrook Public School",20071010
+060,OAKVILLE,91,4,88,23,0,"Oakville",063, ,0,0,0,206,371,"Linbrook Public School",20071010
+060,OAKVILLE,104,7,85,18,0,"Oakville",064, ,0,0,0,214,376,"St. Vincent's Separate School",20071010
+060,OAKVILLE,119,5,125,13,0,"Oakville",065, ,1,0,0,263,468,"Oakville Trafalgar High School",20071010
+060,OAKVILLE,94,1,44,10,1,"Oakville",066, ,0,0,0,150,333,"St. Cuthbert's Anglican Church",20071010
+060,OAKVILLE,47,21,64,23,1,"Oakville",067, ,2,1,0,159,347,"Munn's Public School",20071010
+060,OAKVILLE,29,18,64,23,0,"Oakville",068, ,0,0,0,134,273,"Munn's Public School",20071010
+060,OAKVILLE,58,25,65,23,1,"Oakville",069, ,3,1,0,176,377,"Sunningdale Public School",20071010
+060,OAKVILLE,61,13,81,24,0,"Oakville",070, ,0,0,0,179,421,"Sunningdale Public School",20071010
+060,OAKVILLE,53,13,73,10,3,"Oakville",071, ,0,0,0,152,345,"White Oaks Secondary School",20071010
+060,OAKVILLE,53,18,93,18,1,"Oakville",072, ,0,0,0,183,403,"White Oaks Secondary School",20071010
+060,OAKVILLE,73,26,113,25,1,"Oakville",073, ,2,0,0,240,430,"Lorne Skuce Public School",20071010
+060,OAKVILLE,36,12,66,13,2,"Oakville",074, ,1,0,0,130,287,"Lorne Skuce Public School",20071010
+060,OAKVILLE,24,1,32,5,0,"Oakville",075s, ,0,1,0,63,79,"Queen's Avenue Retirement Residence",20071010
+060,OAKVILLE,32,9,37,20,0,"Oakville",076, ,0,0,0,98,257,"Lorne Skuce Public School",20071010
+060,OAKVILLE,75,9,115,20,3,"Oakville",077, ,0,0,0,222,364,"Brantwood Public School",20071010
+060,OAKVILLE,79,1,76,20,0,"Oakville",078, ,1,0,0,177,335,"St. Vincent's Separate School",20071010
+060,OAKVILLE,98,2,84,22,0,"Oakville",079, ,1,0,1,208,347,"St. Vincent's Separate School",20071010
+060,OAKVILLE,75,14,143,15,3,"Oakville",080, ,1,0,0,251,432,"Sunningdale Public School",20071010
+060,OAKVILLE,56,26,121,24,1,"Oakville",081, ,0,1,0,229,409,"Sunningdale Public School",20071010
+060,OAKVILLE,64,25,100,22,3,"Oakville",082, ,0,0,8,222,347,"Sunningdale Public School",20071010
+060,OAKVILLE,61,16,75,23,1,"Oakville",083, ,2,0,0,178,348,"Lorne Skuce Public School",20071010
+060,OAKVILLE,66,12,80,14,1,"Oakville",084, ,1,2,0,176,375,"Lorne Skuce Public School",20071010
+060,OAKVILLE,5,1,7,0,0,"Oakville",085, ,0,0,0,13,36,"Linbrook Public School",20071010
+060,OAKVILLE,10,2,9,0,0,"Oakville",086s, ,0,0,0,21,47,"Sunrise Assisted Living",20071010
+060,OAKVILLE,40,9,58,10,2,"Oakville",087, ,0,0,0,119,241,"Linbrook Public School",20071010
+060,OAKVILLE,4,0,4,0,0,"Oakville",088s, ,1,0,0,9,18,"Halton Healthcare Services Corporation - Oakville",20071010
+060,OAKVILLE,10,1,15,0,0,"Oakville",089s, ,0,0,0,26,60,"Wyndham Manor",20071010
+060,OAKVILLE,70,8,92,25,0,"Oakville",090, ,0,1,0,196,371,"Brantwood Public School",20071010
+060,OAKVILLE,73,13,107,30,0,"Oakville",091, ,0,2,1,226,392,"Brantwood Public School",20071010
+060,OAKVILLE,52,9,81,12,0,"Oakville",092, ,0,0,1,155,278,"New Central Public School",20071010
+060,OAKVILLE,128,4,95,14,0,"Oakville",093, ,0,0,0,241,398,"New Central Public School",20071010
+060,OAKVILLE,109,4,50,14,1,"Oakville",094, ,0,0,0,178,365,"New Central Public School",20071010
+060,OAKVILLE,79,3,125,14,1,"Oakville",095, ,1,0,0,223,447,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,89,9,142,8,0,"Oakville",096, ,0,1,0,249,407,"St. Matthew School",20071010
+060,OAKVILLE,50,9,77,12,0,"Oakville",097, ,0,0,0,148,270,"Abbey Lane Public School",20071010
+060,OAKVILLE,42,11,72,9,0,"Oakville",098, ,0,1,0,135,316,"Abbey Lane Public School",20071010
+060,OAKVILLE,19,11,68,10,0,"Oakville",099, ,0,0,0,108,299,"Abbey Lane Public School",20071010
+060,OAKVILLE,60,3,54,8,1,"Oakville",100, ,1,0,0,127,247,"Abbey Lane Public School",20071010
+060,OAKVILLE,40,10,63,15,3,"Oakville",101, ,0,1,0,132,320,"École Sainte-Marie",20071010
+060,OAKVILLE,13,8,26,8,1,"Oakville",102, ,0,0,0,56,154,"Oakwood Public School",20071010
+060,OAKVILLE,15,8,30,9,1,"Oakville",103, ,0,0,0,63,202,"Oakwood Public School",20071010
+060,OAKVILLE,21,12,49,12,2,"Oakville",104, ,0,0,0,96,226,"Oakwood Public School",20071010
+060,OAKVILLE,67,21,136,28,4,"Oakville",105, ,1,1,0,258,413,"Oakwood Public School",20071010
+060,OAKVILLE,30,21,50,7,0,"Oakville",106, ,2,0,0,110,240,"Oakwood Public School",20071010
+060,OAKVILLE,23,16,31,9,0,"Oakville",107, ,0,0,0,79,215,"Oakwood Public School",20071010
+060,OAKVILLE,34,12,49,13,0,"Oakville",108, ,0,0,0,108,257,"Lions Foundation of Canada",20071010
+060,OAKVILLE,35,9,39,15,1,"Oakville",109, ,1,0,0,100,200,"Lions Foundation of Canada",20071010
+060,OAKVILLE,51,11,68,24,0,"Oakville",110, ,0,0,0,154,290,"Lions Foundation of Canada",20071010
+060,OAKVILLE,57,15,62,12,0,"Oakville",111, ,1,0,8,155,323,"Lions Foundation of Canada",20071010
+060,OAKVILLE,......................COMBINED WITH POLL 111 ....................,,,,,"Oakville",112s, ,,,,,,"Trafalgar Lodge Retirement Residence",20071010
+060,OAKVILLE,14,1,18,2,0,"Oakville",113s, ,1,1,0,37,52,"Churchill Place",20071010
+060,OAKVILLE,23,12,42,7,1,"Oakville",114, ,0,1,0,86,204,"New Central Public School",20071010
+060,OAKVILLE,5,5,32,4,0,"Oakville",115s, ,0,0,0,46,63,"Howard Caine Apartments",20071010
+060,OAKVILLE,35,1,43,3,1,"Oakville",116, ,1,0,0,84,153,"St. Jude Anglican Church",20071010
+060,OAKVILLE,58,7,62,20,1,"Oakville",117, ,0,1,0,149,258,"St. Jude Anglican Church",20071010
+060,OAKVILLE,85,3,68,18,1,"Oakville",118, ,0,0,0,175,301,"St. Jude Anglican Church",20071010
+060,OAKVILLE,6,1,21,1,2,"Oakville",119, ,0,0,0,31,72,"Abbey Park High School",20071010
+060,OAKVILLE,53,6,91,13,2,"Oakville",120, ,0,0,0,165,300,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,94,9,117,14,0,"Oakville",121, ,0,0,0,234,453,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,77,19,128,17,4,"Oakville",122, ,0,1,0,246,434,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,44,5,46,7,0,"Oakville",123s, ,1,1,0,104,120,"Delmanor Glen Abbey",20071010
+060,OAKVILLE,93,13,157,25,0,"Oakville",124, ,0,0,0,288,490,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,56,7,73,12,2,"Oakville",125, ,0,0,0,150,272,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,91,20,98,16,3,"Oakville",126, ,1,0,0,229,382,"St. Matthew School",20071010
+060,OAKVILLE,71,12,110,27,0,"Oakville",127, ,0,0,0,220,411,"St. Matthew School",20071010
+060,OAKVILLE,81,8,140,16,0,"Oakville",128, ,0,0,0,245,435,"St. Matthew School",20071010
+060,OAKVILLE,72,12,123,23,1,"Oakville",129, ,1,0,0,232,370,"Abbey Lane Public School",20071010
+060,OAKVILLE,53,24,88,17,4,"Oakville",130, ,1,0,0,187,352,"Pine Grove Public School",20071010
+060,OAKVILLE,54,17,136,10,3,"Oakville",131, ,2,1,0,223,447,"St. James Separate School",20071010
+060,OAKVILLE,19,19,70,9,2,"Oakville",132, ,2,0,0,121,319,"École Sainte-Marie",20071010
+060,OAKVILLE,28,10,74,18,3,"Oakville",133, ,1,1,0,135,262,"École Sainte-Marie",20071010
+060,OAKVILLE,17,13,47,5,1,"Oakville",134, ,1,0,1,85,220,"École Sainte-Marie",20071010
+060,OAKVILLE,24,16,54,28,0,"Oakville",135, ,1,0,0,123,243,"Oakville Arena - The Pine Room",20071010
+060,OAKVILLE,0,0,1,0,0,"Oakville",136s, ,0,0,0,1,59,"Oaklands Regional Centre",20071010
+060,OAKVILLE,31,4,55,10,1,"Oakville",137, ,0,1,0,102,200,"Oakville Arena - The Pine Room",20071010
+060,OAKVILLE,37,9,57,8,0,"Oakville",138, ,0,0,0,111,211,"Lions Foundation of Canada",20071010
+060,OAKVILLE,32,16,52,8,0,"Oakville",139, ,0,0,0,108,234,"Oakville Arena - The Pine Room",20071010
+060,OAKVILLE,32,3,34,6,0,"Oakville",140s, ,0,1,0,76,102,"The Kensington Senior Residence",20071010
+060,OAKVILLE,91,4,78,17,0,"Oakville",141, ,0,0,0,190,373,"Oakville Arena - The Pine Room",20071010
+060,OAKVILLE,46,5,50,9,0,"Oakville",142, ,0,0,0,110,193,"St. Jude Anglican Church",20071010
+060,OAKVILLE,74,10,105,16,0,"Oakville",143, ,0,1,0,206,409,"Heritage Glen Public School",20071010
+060,OAKVILLE,31,6,46,5,0,"Oakville",144, ,0,0,0,88,213,"Abbey Park High School",20071010
+060,OAKVILLE,27,9,21,8,3,"Oakville",145, ,0,0,0,68,143,"St. Ignatius of Loyola Secondary School",20071010
+060,OAKVILLE,72,12,120,13,0,"Oakville",146, ,2,1,0,220,402,"Abbey Park High School",20071010
+060,OAKVILLE,72,16,110,15,0,"Oakville",147, ,0,1,0,214,406,"Pilgrim Wood Public School",20071010
+060,OAKVILLE,70,10,129,18,1,"Oakville",148, ,1,0,0,229,432,"Pilgrim Wood Public School",20071010
+060,OAKVILLE,85,12,139,18,0,"Oakville",149, ,2,0,0,256,420,"St. Matthew School",20071010
+060,OAKVILLE,69,10,107,28,3,"Oakville",150, ,0,0,0,217,372,"St. Matthew School",20071010
+060,OAKVILLE,56,17,80,14,1,"Oakville",151, ,0,0,0,168,372,"Pine Grove Public School",20071010
+060,OAKVILLE,47,25,67,24,3,"Oakville",152, ,0,1,0,167,374,"W.H. Morden Public School",20071010
+060,OAKVILLE,45,12,78,13,4,"Oakville",153, ,1,1,0,154,306,"W.H. Morden Public School",20071010
+060,OAKVILLE,54,13,85,19,2,"Oakville",154, ,1,0,0,174,330,"W.H. Morden Public School",20071010
+060,OAKVILLE,54,13,65,19,3,"Oakville",155, ,2,1,0,157,312,"St. James Separate School",20071010
+060,OAKVILLE,74,16,74,19,0,"Oakville",156, ,0,0,0,183,340,"Oakville Arena - The Pine Room",20071010
+060,OAKVILLE,39,8,98,22,3,"Oakville",157, ,1,0,0,171,350,"Heritage Glen Public School",20071010
+060,OAKVILLE,87,12,93,13,1,"Oakville",158, ,0,0,0,206,391,"Heritage Glen Public School",20071010
+060,OAKVILLE,97,17,117,11,7,"Oakville",159, ,1,1,0,251,466,"Heritage Glen Public School",20071010
+060,OAKVILLE,87,13,117,11,0,"Oakville",160, ,1,0,0,229,413,"Heritage Glen Public School",20071010
+060,OAKVILLE,113,5,140,18,0,"Oakville",161, ,0,0,0,276,480,"St. Bernadette Catholic School",20071010
+060,OAKVILLE,80,12,124,16,0,"Oakville",162, ,1,0,0,233,511,"Abbey Park High School",20071010
+060,OAKVILLE,80,8,209,17,3,"Oakville",163, ,1,1,1,320,546,"Abbey Park High School",20071010
+060,OAKVILLE,60,17,136,12,0,"Oakville",164, ,0,0,0,225,426,"St. Bernadette Catholic School",20071010
+060,OAKVILLE,29,11,42,10,0,"Oakville",165, ,0,3,0,95,293,"St. Bernadette Catholic School",20071010
+060,OAKVILLE,74,9,123,15,2,"Oakville",166, ,0,2,0,225,437,"Pilgrim Wood Public School",20071010
+060,OAKVILLE,74,11,71,13,1,"Oakville",167, ,1,0,0,171,337,"Brookdale Public School",20071010
+060,OAKVILLE,48,19,110,13,3,"Oakville",168, ,0,3,0,196,370,"Brookdale Public School",20071010
+060,OAKVILLE,60,24,117,26,1,"Oakville",169, ,0,0,0,228,394,"Pine Grove Public School",20071010
+060,OAKVILLE,65,11,83,22,1,"Oakville",170, ,0,0,0,182,344,"Pine Grove Public School",20071010
+060,OAKVILLE,46,16,71,11,0,"Oakville",171, ,0,0,1,145,285,"St. Bernadette Catholic School",20071010
+060,OAKVILLE,51,17,89,22,0,"Oakville",172, ,0,0,0,179,430,"Brookdale Public School",20071010
+060,OAKVILLE,65,19,82,19,1,"Oakville",173, ,0,0,0,186,391,"St. Joseph's Separate School",20071010
+060,OAKVILLE,77,9,93,12,0,"Oakville",174, ,2,1,0,194,397,"St. Joseph's Separate School",20071010
+060,OAKVILLE,70,12,115,14,3,"Oakville",175, ,0,0,0,214,437,"St. Joseph's Separate School",20071010
+060,OAKVILLE,82,11,101,23,1,"Oakville",176, ,0,0,0,218,380,"Thomas A. Blakelock Secondary Centre",20071010
+060,OAKVILLE,92,8,76,14,3,"Oakville",177, ,0,2,1,196,398,"Thomas A. Blakelock Secondary Centre",20071010
+060,OAKVILLE,74,17,99,25,0,"Oakville",178, ,1,0,0,216,390,"Gladys Speers Public School",20071010
+060,OAKVILLE,41,15,65,17,0,"Oakville",179, ,0,0,0,138,340,"St. Joseph's Separate School",20071010
+060,OAKVILLE,6,2,18,0,0,"Oakville",180, ,0,0,0,26,177,"St. Hilda's Anglican Church",20071010
+060,OAKVILLE,13,4,41,1,0,"Oakville",181s, ,0,1,0,60,98,"Vistamere Retirement Residence",20071010
+060,OAKVILLE,39,11,100,16,0,"Oakville",182, ,0,1,0,167,362,"St. Joseph's Separate School",20071010
+060,OAKVILLE,85,10,99,18,1,"Oakville",183, ,1,0,0,214,362,"John Colborne Seniors Centre",20071010
+060,OAKVILLE,68,10,88,18,0,"Oakville",184, ,2,0,0,186,395,"Thomas A. Blakelock Secondary Centre",20071010
+060,OAKVILLE,88,7,115,17,1,"Oakville",185, ,1,0,0,229,443,"Heritage Glen Public School",20071010
+060,OAKVILLE,77,16,122,21,2,"Oakville",186, ,0,0,0,238,448,"St. Dominic's Separate School",20071010
+060,OAKVILLE,57,8,109,12,1,"Oakville",187, ,1,0,0,188,388,"Gladys Speers Public School",20071010
+060,OAKVILLE,86,17,90,19,2,"Oakville",188, ,1,1,0,216,377,"Gladys Speers Public School",20071010
+060,OAKVILLE,47,20,118,19,3,"Oakville",189, ,0,0,0,207,362,"Gladys Speers Public School",20071010
+060,OAKVILLE,50,12,112,14,0,"Oakville",190, ,2,0,0,190,420,"Gladys Speers Public School",20071010
+060,OAKVILLE,81,21,105,22,2,"Oakville",191, ,0,0,0,231,432,"St. Hilda's Anglican Church",20071010
+060,OAKVILLE,81,17,116,22,0,"Oakville",192, ,0,0,0,236,406,"John Colborne Seniors Centre",20071010
+060,OAKVILLE,90,6,130,15,1,"Oakville",193, ,0,0,0,242,426,"John Colborne Seniors Centre",20071010
+060,OAKVILLE,56,18,124,15,0,"Oakville",194, ,1,0,0,214,357,"Gladys Speers Public School",20071010
+060,OAKVILLE,86,20,111,23,0,"Oakville",195, ,0,0,0,240,428,"St. Dominic's Separate School",20071010
+060,OAKVILLE,54,8,126,28,0,"Oakville",196, ,1,0,0,217,407,"St. Hilda's Anglican Church",20071010
+060,OAKVILLE,48,20,113,8,1,"Oakville",197s, ,2,1,1,194,278,"Oakville Senior Citizens Residence",20071010
+060,OAKVILLE,56,6,131,6,1,"Oakville",198, ,0,0,0,200,368,"St. Hilda's Anglican Church",20071010
+060,OAKVILLE,50,8,81,13,1,"Oakville",199, ,0,3,0,156,301,"John Colborne Seniors Centre",20071010
+060,OAKVILLE,65,11,74,17,2,"Oakville",200, ,1,0,0,170,325,"John Colborne Seniors Centre",20071010
+060,OAKVILLE,79,8,115,15,2,"Oakville",201, ,0,0,2,221,408,"Church of the Nazarene",20071010
+060,OAKVILLE,80,15,130,21,1,"Oakville",202, ,0,0,0,247,462,"St. Dominic's Separate School",20071010
+060,OAKVILLE,28,17,47,14,1,"Oakville",203, ,0,0,0,107,211,"St. Dominic's Separate School",20071010
+060,OAKVILLE,70,19,112,23,0,"Oakville",204, ,0,0,0,224,375,"St. Dominic's Separate School",20071010
+060,OAKVILLE,51,13,72,17,2,"Oakville",205, ,0,0,0,155,298,"Eastview Public School",20071010
+060,OAKVILLE,30,5,43,7,0,"Oakville",206, ,0,0,0,85,232,"Walton Memorial United Church",20071010
+060,OAKVILLE,49,7,39,16,0,"Oakville",207, ,0,0,0,111,276,"Eastview Public School",20071010
+060,OAKVILLE,40,18,50,9,0,"Oakville",208, ,0,0,0,117,245,"Eastview Public School",20071010
+060,OAKVILLE,29,7,47,4,0,"Oakville",209, ,0,0,0,87,217,"Eastview Public School",20071010
+060,OAKVILLE,53,12,102,10,0,"Oakville",210, ,0,0,0,177,380,"St. Dominic's Separate School",20071010
+060,OAKVILLE,66,15,121,14,0,"Oakville",211, ,0,0,0,216,408,"Walton Memorial United Church",20071010
+060,OAKVILLE,76,10,122,16,0,"Oakville",212, ,0,1,0,225,422,"Walton Memorial United Church",20071010
+060,OAKVILLE,70,8,109,20,1,"Oakville",213, ,0,0,1,209,340,"Sovereign House",20071010
+060,OAKVILLE,36,13,48,11,0,"Oakville",214, ,0,1,0,109,209,"Church of the Nazarene",20071010
+060,OAKVILLE,35,4,39,4,1,"Oakville",215, ,6,0,0,89,241,"St. Dominic's Separate School",20071010
+060,OAKVILLE,67,6,76,7,0,"Oakville",216, ,0,0,0,156,344,"Church of the Nazarene",20071010
+060,OAKVILLE,64,14,130,25,1,"Oakville",217, ,0,0,0,234,427,"Walton Memorial United Church",20071010
+060,OAKVILLE,101,2,83,25,1,"Oakville",218, ,0,0,0,212,405,"Sovereign House",20071010
+060,OAKVILLE,43,7,53,7,0,"Oakville",219, ,0,0,0,110,306,"Church of the Nazarene",20071010
+060,OAKVILLE,65,6,87,8,1,"Oakville",220, ,0,0,0,167,376,"Walton Memorial United Church",20071010
+060,OAKVILLE,74,14,95,22,1,"Oakville",221, ,0,1,0,207,421,"Walton Memorial United Church",20071010
+060,OAKVILLE,66,5,70,12,0,"Oakville",222, ,1,0,0,154,352,"Sovereign House",20071010
+060,OAKVILLE,61,12,125,13,3,"Oakville",400, ,0,2,0,216,288,"1359 White Oaks Boulevard - The Oaks",20071010
+060,OAKVILLE,13,9,32,15,0,"Oakville",401, ,0,0,0,69,245,"White Oaks Secondary School",20071010
+060,OAKVILLE,23,14,34,16,1,"Oakville",402, ,1,0,0,89,180,"1260 Marlborough Court - Wallace Pines Apartments",20071010
+060,OAKVILLE,19,8,35,15,0,"Oakville",403, ,0,0,1,78,220,"White Oaks Secondary School",20071010
+060,OAKVILLE,24,13,38,13,0,"Oakville",404, ,0,0,0,88,173,"1300 Marlborough Court - The Villas",20071010
+060,OAKVILLE,35,10,55,3,0,"Oakville",405, ,1,1,0,105,138,"1240 Marlborough Court - Sovereign II",20071010
+060,OAKVILLE,27,4,48,7,1,"Oakville",406, ,1,0,0,88,124,"1230 Marlborough Court",20071010
+060,OAKVILLE,37,47,64,15,2,"Oakville",407, ,0,2,0,167,300,"1230 White Oaks Boulevard",20071010
+060,OAKVILLE,14,4,24,10,0,"Oakville",408, ,0,0,0,52,129,"White Oaks Secondary School",20071010
+060,OAKVILLE,15,9,35,8,0,"Oakville",409, ,0,0,0,67,131,"1130 Queens Avenue",20071010
+060,OAKVILLE,84,16,135,16,1,"Oakville",410, ,0,0,1,253,406,"40 Old Mill Road",20071010
+060,OAKVILLE,9,13,45,7,0,"Oakville",411, ,0,0,0,74,171,"1160 Dorval Drive",20071010
+060,OAKVILLE,7,17,38,3,1,"Oakville",412, ,0,0,0,66,154,"1160 Dorval Drive",20071010
+060,OAKVILLE,21,24,26,10,1,"Oakville",413, ,0,0,0,82,160,"30 Speers Road",20071010
+060,OAKVILLE,14,17,26,10,2,"Oakville",414, ,0,0,0,69,141,"205 Queen Mary Drive",20071010
+060,OAKVILLE,28,9,36,17,1,"Oakville",415, ,1,0,0,92,146,"199 Queen Mary Drive",20071010
+060,OAKVILLE,47,3,71,4,0,"Oakville",416, ,1,0,0,126,211,"Pilgrim Wood Public School",20071010
+060,OAKVILLE,13,10,34,3,3,"Oakville",417, ,0,0,0,63,134,"350 Kerr Street",20071010
+060,OAKVILLE,29,21,98,11,1,"Oakville",418, ,1,4,0,165,241,"Halton Community Housing Corporation",20071010
+060,OAKVILLE,6,12,41,5,0,"Oakville",419, ,3,0,0,67,164,"2021 Merchants Gate",20071010
+060,OAKVILLE,27,7,43,19,0,"Oakville",420, ,0,0,0,96,152,"1450 Glen Abbey Gate",20071010
+060,OAKVILLE,87,11,129,7,1,"Oakville",421, ,1,0,0,236,322,"2175 Marine Drive",20071010
+060,OAKVILLE,69,4,88,8,0,"Oakville",422, ,1,1,0,171,254,"2180 Marine Drive",20071010
+060,OAKVILLE,52,14,106,6,2,"Oakville",423, ,1,1,0,182,268,"2511 Lakeshore Road West - Bronte Harbour Club",20071010
+060,OAKVILLE,27,12,48,9,2,"Oakville",424, ,1,2,0,101,149,"2263 Marine Drive",20071010
+060,OAKVILLE,33,11,46,4,2,"Oakville",425, ,0,0,0,96,132,"Sir Richard Towers",20071010
+060,OAKVILLE,49,10,50,14,0,"Oakville",426, ,0,0,0,123,193,"2220 Marine Drive",20071010
+060,OAKVILLE,86,3,80,4,2,"Oakville",427, ,0,1,0,176,247,"2180 Marine Drive",20071010
+060,OAKVILLE,527,62,826,98,4,"Oakville",Advanced Polls /  ADV001, ,2,2,0,1521,0,"Returning Office / Bureau du directeur du scrutin",20071010
+060,OAKVILLE,580,72,718,107,6,"Oakville",Advanced Polls /  ADV002, ,3,2,0,1488,0,"Oakville Place Mall",20071010
+060,OAKVILLE,737,133,1028,139,15,"Oakville",Advanced Polls /  ADV003, ,5,1,0,2058,0,"Hopedale Mall",20071010
+TOTALS:, ,16659,3091,23761,3916,279, , , , , , , , , , 

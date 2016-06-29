@@ -1,0 +1,278 @@
+ED_CODE,ED_NAME,CROZIER,FRACASSI,GRIMA,KNIAZIEW,PARENT,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+022,ESSEX,94,9,16,55,1,"Lakeshore",001, ,3,0,0,178,416,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,40,3,3,17,4,"Lakeshore",002, ,0,0,0,67,221,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,69,9,20,31,2,"Lakeshore",003, ,1,0,0,132,439,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,87,11,17,52,3,"Lakeshore",004, ,0,0,0,170,393,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,35,5,73,16,0,"Lakeshore",005, ,2,2,0,133,279,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,93,7,17,49,5,"Lakeshore",006, ,0,0,0,171,343,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,79,3,12,22,0,"Lakeshore",007, ,0,1,0,117,285,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,69,11,14,47,1,"Emeryville",008, ,0,0,0,142,368,"Lakeshore Discovery School",20071010
+022,ESSEX,75,12,20,44,3,"Emeryville",009, ,0,0,0,154,404,"Lakeshore Discovery School",20071010
+022,ESSEX,93,9,17,50,4,"Emeryville",010, ,1,0,0,174,405,"Lakeshore Discovery School",20071010
+022,ESSEX,52,7,8,40,0,"Emeryville",011, ,1,1,0,109,257,"Lakeshore Discovery School",20071010
+022,ESSEX,41,5,47,22,0,"Emeryville",012, ,1,1,0,117,261,"St. William Catholic School",20071010
+022,ESSEX,40,6,13,17,0,"Emeryville",013, ,1,0,0,77,220,"St. William Catholic School",20071010
+022,ESSEX,66,8,24,28,2,"Belle River",014, ,0,0,0,128,360,"École Pavillon des Jeunes",20071010
+022,ESSEX,45,9,46,20,1,"Belle River",015, ,0,0,0,121,274,"École Pavillon des Jeunes",20071010
+022,ESSEX,49,4,21,16,0,"Belle River",016, ,0,0,0,90,263,"Belle River United Church",20071010
+022,ESSEX,60,8,59,28,1,"Belle River",017, ,0,1,0,157,310,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,86,4,48,20,1,"Belle River",018, ,0,1,0,160,378,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,..........................NO POLL HELD........................,,,,,"Belle River",019, ,0,0,0,0,0,"",20071010
+022,ESSEX,58,13,19,26,2,"St. Joachim",020, ,1,0,0,119,256,"St. Jean Baptiste Hall",20071010
+022,ESSEX,77,10,35,37,0,"Stoney Point",021, ,0,1,0,160,337,"Our Lady of Annunciation School",20071010
+022,ESSEX,27,4,34,37,0,"Stoney Point",022, ,0,0,0,102,251,"Our Lady of Annunciation School",20071010
+022,ESSEX,4,0,1,4,1,"Lakeshore",023s, ,0,0,0,10,31,"Chez Nous Lodge",20071010
+022,ESSEX,67,8,30,34,0,"Stoney Point",024, ,0,0,0,139,299,"Our Lady of Annunciation School",20071010
+022,ESSEX,52,5,43,22,0,"Stoney Point",025, ,1,0,0,123,298,"Our Lady of Annunciation School",20071010
+022,ESSEX,109,4,27,44,0,"Stoney Point",026, ,1,0,0,185,425,"Our Lady of Annunciation School",20071010
+022,ESSEX,71,4,24,24,1,"Stoney Point",027, ,0,0,0,124,262,"Our Lady of Annunciation School",20071010
+022,ESSEX,8,0,24,5,1,"Belle River",028, ,0,0,0,38,125,"Knights of Columbus Hall",20071010
+022,ESSEX,72,7,22,35,1,"Lakeshore",029, ,0,0,0,137,280,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,46,8,24,26,2,"Lakeshore",030, ,1,0,0,107,269,"St. Andrew's Presbyterian Church Hall",20071010
+022,ESSEX,46,5,16,14,0,"Emeryville",031, ,0,0,0,81,229,"St. William Catholic School",20071010
+022,ESSEX,60,5,33,24,0,"Emeryville",032, ,1,0,0,123,319,"Lakeshore Discovery School",20071010
+022,ESSEX,61,8,22,41,1,"Emeryville",033, ,0,0,0,133,308,"Lakeshore Discovery School",20071010
+022,ESSEX,9,1,11,3,1,"Lakeshore",034s, ,0,0,3,28,69,"La Chaumiere Retirement Home",20071010
+022,ESSEX,42,16,35,35,2,"Emeryville",035, ,0,0,0,130,344,"Lakeshore Discovery School",20071010
+022,ESSEX,66,10,55,30,0,"Emeryville",036, ,1,0,0,162,329,"St. William Catholic School",20071010
+022,ESSEX,36,5,22,23,1,"Belle River",038, ,0,0,0,87,267,"Knights of Columbus Hall",20071010
+022,ESSEX,63,5,38,28,0,"Belle River",039, ,0,0,0,134,328,"Knights of Columbus Hall",20071010
+022,ESSEX,39,4,31,25,0,"Belle River",040, ,0,1,0,100,282,"Knights of Columbus Hall",20071010
+022,ESSEX,72,7,45,53,1,"Belle River",041, ,0,0,0,178,425,"École Pavillon des Jeunes",20071010
+022,ESSEX,67,9,53,31,1,"Belle River",042, ,0,1,0,162,401,"École Pavillon des Jeunes",20071010
+022,ESSEX,28,5,9,5,1,"Lakeshore",043s, ,0,1,0,49,80,"Oak Park Lakeshore",20071010
+022,ESSEX,70,5,37,30,1,"Belle River",044, ,0,0,0,143,358,"École Pavillon des Jeunes",20071010
+022,ESSEX,66,9,42,42,1,"Belle River",045, ,0,0,0,160,354,"Belle River United Church",20071010
+022,ESSEX,52,1,27,15,1,"Belle River",046, ,0,3,1,100,280,"Belle River United Church",20071010
+022,ESSEX,38,5,39,37,3,"Belle River",047, ,2,1,1,126,262,"Belle River United Church",20071010
+022,ESSEX,67,11,30,28,1,"Belle River",048, ,0,0,0,137,351,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,38,8,28,22,1,"Belle River",049, ,0,1,0,98,279,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,50,9,43,35,1,"Belle River",050, ,2,1,0,141,329,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,41,4,31,27,1,"Belle River",051, ,0,0,0,104,208,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,54,8,32,18,0,"Belle River",052, ,0,0,0,112,316,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,65,4,38,43,1,"Belle River",053, ,0,0,0,151,338,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,97,6,29,30,3,"St. Joachim",054, ,1,0,0,166,305,"St. Jean Baptiste Hall",20071010
+022,ESSEX,87,7,38,28,1,"St. Joachim",055, ,0,0,0,161,346,"St. Jean Baptiste Hall",20071010
+022,ESSEX,96,1,35,27,0,"Stoney Point",056, ,0,0,0,159,376,"Our Lady of Annunciation School",20071010
+022,ESSEX,64,10,26,43,0,"Emeryville",057, ,0,0,0,143,389,"Lakeshore Discovery School",20071010
+022,ESSEX,44,5,18,19,0,"Belle River",058, ,0,0,0,86,225,"École Pavillon des Jeunes",20071010
+022,ESSEX,114,11,37,46,2,"Belle River",059, ,3,0,1,214,445,"St. Simon & St. Jude Parish Hall",20071010
+022,ESSEX,9,2,0,1,6,"Lakeshore",060s, ,1,1,1,21,25,"St. Joachim Manor Rest Home",20071010
+022,ESSEX,72,4,30,27,1,"St. Joachim",061, ,0,0,0,134,292,"St. Jean Baptiste Hall",20071010
+022,ESSEX,54,9,25,32,2,"LaSalle",062, ,0,0,0,122,294,"Sacred Heart Catholic Elementary School",20071010
+022,ESSEX,16,5,32,14,0,"LaSalle",063, ,1,0,0,68,232,"Sacred Heart Catholic Elementary School",20071010
+022,ESSEX,79,9,29,45,5,"LaSalle",064, ,0,0,0,167,455,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,69,13,12,41,2,"LaSalle",065, ,0,0,0,137,369,"Sandwich West Public School",20071010
+022,ESSEX,59,6,27,35,1,"LaSalle",066A, ,0,0,1,129,392,"Sandwich Secondary School",20071010
+022,ESSEX,64,7,13,35,0,"LaSalle",066B, ,0,3,3,125,339,"Sandwich Secondary School",20071010
+022,ESSEX,69,9,38,42,4,"LaSalle",067, ,0,0,0,162,380,"Sandwich West Public School",20071010
+022,ESSEX,73,3,31,17,2,"LaSalle",068, ,0,0,0,126,272,"Town of LaSalle Municipal Office",20071010
+022,ESSEX,39,6,22,26,3,"LaSalle",069, ,2,0,0,98,235,"Sandwich West Public School",20071010
+022,ESSEX,100,7,42,47,0,"LaSalle",070, ,1,0,0,197,437,"Sandwich West Public School",20071010
+022,ESSEX,103,8,21,77,2,"LaSalle",071, ,0,0,0,211,394,"Sandwich West Public School",20071010
+022,ESSEX,67,9,35,42,2,"LaSalle",072, ,0,2,0,157,389,"Heritage Park Alliance Church",20071010
+022,ESSEX,50,4,5,18,7,"LaSalle",073s, ,0,2,1,87,123,"Oak Park Lasalle",20071010
+022,ESSEX,43,13,44,21,1,"LaSalle",074, ,0,0,0,122,364,"Heritage Park Alliance Church",20071010
+022,ESSEX,62,2,23,47,2,"Belle River",075, ,0,0,0,136,347,"Knights of Columbus Hall",20071010
+022,ESSEX,89,9,21,9,1,"St. Joachim",076, ,0,2,0,131,273,"St. Jean Baptiste Hall",20071010
+022,ESSEX,54,7,19,33,0,"LaSalle",077, ,0,1,0,114,310,"Lasalle Public School",20071010
+022,ESSEX,74,13,28,22,3,"LaSalle",078, ,1,1,0,142,356,"Sacred Heart Catholic Elementary School",20071010
+022,ESSEX,61,12,65,30,2,"LaSalle",079, ,0,2,1,173,387,"Sacred Heart Catholic Elementary School",20071010
+022,ESSEX,63,3,32,31,0,"LaSalle",080, ,2,0,0,131,363,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,54,7,51,26,0,"LaSalle",081, ,0,1,0,139,350,"Sacred Heart Catholic Elementary School",20071010
+022,ESSEX,58,3,20,27,1,"LaSalle",082, ,0,0,0,109,331,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,71,8,36,33,0,"LaSalle",083, ,1,1,0,150,349,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,69,1,32,40,1,"LaSalle",084, ,0,0,0,143,384,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,91,5,42,29,3,"LaSalle",085, ,1,0,0,171,409,"Lasalle Public School",20071010
+022,ESSEX,78,9,36,32,3,"LaSalle",086, ,1,0,0,159,396,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,68,13,39,46,3,"LaSalle",087, ,0,0,0,169,372,"Lasalle Public School",20071010
+022,ESSEX,75,10,26,56,1,"LaSalle",088, ,2,0,0,170,400,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,96,3,26,31,0,"LaSalle",089A, ,0,0,0,156,398,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,69,8,28,29,2,"LaSalle",089B, ,1,0,0,137,358,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,73,6,51,34,3,"LaSalle",090A, ,1,0,0,168,379,"Lasalle Public School",20071010
+022,ESSEX,62,8,36,22,0,"LaSalle",090B, ,0,0,0,128,331,"Lasalle Public School",20071010
+022,ESSEX,75,19,28,27,1,"LaSalle",091, ,0,0,0,150,393,"Sandwich Secondary School",20071010
+022,ESSEX,58,11,29,39,1,"LaSalle",092A, ,0,0,0,138,372,"Sandwich Secondary School",20071010
+022,ESSEX,67,10,27,30,0,"LaSalle",092B, ,2,1,0,137,312,"Sandwich Secondary School",20071010
+022,ESSEX,90,7,34,35,2,"LaSalle",093, ,2,1,0,171,350,"Sandwich Secondary School",20071010
+022,ESSEX,112,7,32,36,1,"LaSalle",094, ,0,0,0,188,408,"Town of LaSalle Municipal Office",20071010
+022,ESSEX,69,8,14,31,0,"LaSalle",095, ,0,0,0,122,306,"Sandwich West Public School",20071010
+022,ESSEX,110,15,17,35,2,"LaSalle",096, ,0,0,0,179,426,"Heritage Park Alliance Church",20071010
+022,ESSEX,59,10,24,27,3,"LaSalle",097, ,1,0,0,124,259,"Holy Cross Catholic Elementary School",20071010
+022,ESSEX,84,11,30,32,1,"LaSalle",098, ,1,0,0,159,455,"Holy Cross Catholic Elementary School",20071010
+022,ESSEX,103,4,51,35,1,"LaSalle",099, ,0,0,0,194,476,"St. Nicholas Macedonian Church",20071010
+022,ESSEX,120,10,47,69,5,"LaSalle",100, ,0,1,1,253,530,"St. Nicholas Macedonian Church",20071010
+022,ESSEX,99,8,43,55,5,"LaSalle",101, ,3,0,0,213,507,"St. Nicholas Macedonian Church",20071010
+022,ESSEX,55,15,43,41,0,"LaSalle",102, ,1,0,0,155,322,"St. Nicholas Macedonian Church",20071010
+022,ESSEX,91,10,41,56,1,"North Woodslee",103, ,2,0,0,201,417,"St. John Parish Hall",20071010
+022,ESSEX,100,9,48,68,2,"North Woodslee",104, ,0,0,0,227,468,"St. John Parish Hall",20071010
+022,ESSEX,33,3,30,19,2,"Comber",105, ,0,0,0,87,224,"Comber Community Centre",20071010
+022,ESSEX,57,7,37,38,1,"Comber",106, ,0,0,0,140,366,"Comber Community Centre",20071010
+022,ESSEX,48,3,7,11,1,"Comber",107, ,0,1,0,71,154,"St. Andrews United Church Hall",20071010
+022,ESSEX,37,1,21,29,1,"LaSalle",108, ,0,0,0,89,276,"Lasalle Public School",20071010
+022,ESSEX,48,5,38,35,2,"LaSalle",109, ,1,0,0,129,348,"Lasalle Public School",20071010
+022,ESSEX,46,7,28,27,0,"LaSalle",110, ,0,0,0,108,290,"École élémentaire Monseigneur Augustin Caron",20071010
+022,ESSEX,73,2,22,18,4,"LaSalle",111, ,0,0,0,119,308,"École élémentaire Monseigneur Augustin Caron",20071010
+022,ESSEX,76,10,36,50,2,"LaSalle",112, ,1,0,0,175,396,"École élémentaire Monseigneur Augustin Caron",20071010
+022,ESSEX,71,8,37,31,4,"LaSalle",113A, ,0,3,0,154,342,"Sandwich Secondary School",20071010
+022,ESSEX,73,12,31,32,0,"LaSalle",113B, ,4,0,0,152,338,"Sandwich Secondary School",20071010
+022,ESSEX,63,10,30,31,2,"LaSalle",114, ,0,0,0,136,368,"Holy Cross Catholic Elementary School",20071010
+022,ESSEX,82,5,28,27,2,"LaSalle",115, ,0,1,0,145,346,"St. Nicholas Macedonian Church",20071010
+022,ESSEX,77,9,47,56,3,"Lakeshore",116, ,0,0,0,192,423,"Bethel Maidstone United Church Hall",20071010
+022,ESSEX,83,8,27,40,0,"North Woodslee",117, ,0,0,0,158,337,"St. John Parish Hall",20071010
+022,ESSEX,67,6,38,25,0,"Comber",118, ,1,0,0,137,387,"Comber Community Centre",20071010
+022,ESSEX,114,13,39,40,0,"LaSalle",119, ,1,0,0,207,449,"École élémentaire Monseigneur Augustin Caron",20071010
+022,ESSEX,98,18,43,56,7,"LaSalle",120, ,1,0,0,223,502,"École élémentaire Monseigneur Augustin Caron",20071010
+022,ESSEX,67,11,46,55,0,"Lakeshore",121, ,0,0,0,179,392,"Bethel Maidstone United Church Hall",20071010
+022,ESSEX,57,4,43,32,0,"Essex",122, ,1,0,0,137,331,"Essex District High School",20071010
+022,ESSEX,60,6,36,58,1,"South Woodslee",123, ,0,3,0,164,335,"Woodslee United Church Hall",20071010
+022,ESSEX,76,8,30,43,2,"South Woodslee",124, ,0,1,0,160,317,"Woodslee United Church Hall",20071010
+022,ESSEX,42,3,17,21,0,"Comber",125, ,0,1,0,84,181,"St. Andrews United Church Hall",20071010
+022,ESSEX,84,11,57,50,2,"Amherstburg",126, ,0,0,0,204,547,"Verdi Club",20071010
+022,ESSEX,110,8,26,42,1,"Amherstburg",127, ,0,0,0,187,433,"Anderdon Central Public School",20071010
+022,ESSEX,90,7,31,45,2,"Amherstburg",128, ,0,0,0,175,419,"Anderdon Central Public School",20071010
+022,ESSEX,70,9,23,25,1,"McGregor",129, ,1,0,0,129,346,"Essex County Steam and Gas Engine Museum",20071010
+022,ESSEX,66,3,35,48,2,"McGregor",130, ,0,0,0,154,381,"Essex County Steam and Gas Engine Museum",20071010
+022,ESSEX,67,4,62,37,3,"Essex",131, ,0,0,0,173,343,"Viscount Estate Community Centre",20071010
+022,ESSEX,53,11,51,39,5,"Essex",132, ,0,0,0,159,399,"Essex District High School",20071010
+022,ESSEX,96,14,47,51,1,"Essex",133, ,0,1,0,210,400,"Holy Name Catholic Elementary School",20071010
+022,ESSEX,29,2,50,27,0,"Essex",134, ,0,0,0,108,183,"Viscount Estate Community Centre",20071010
+022,ESSEX,65,4,35,30,1,"Essex",135, ,0,0,0,135,260,"Holy Name Catholic Elementary School",20071010
+022,ESSEX,83,8,34,45,0,"Essex",136, ,1,0,0,171,332,"Royal Canadian Legion Branch 201",20071010
+022,ESSEX,65,2,33,32,1,"Essex",137, ,1,2,0,136,301,"Holy Name Catholic Elementary School",20071010
+022,ESSEX,23,0,7,9,3,"Essex",138s, ,2,2,0,46,116,"Iler Lodge",20071010
+022,ESSEX,78,6,37,35,1,"Essex",139, ,0,1,0,158,283,"Royal Canadian Legion Branch 201",20071010
+022,ESSEX,71,5,33,36,0,"Essex",140, ,2,0,0,147,296,"Royal Canadian Legion Branch 201",20071010
+022,ESSEX,78,6,41,51,2,"Essex",141, ,0,0,0,178,337,"Holy Name Catholic Elementary School",20071010
+022,ESSEX,107,7,43,59,1,"Essex",142, ,0,0,0,217,443,"Essex County Civic Centre",20071010
+022,ESSEX,64,7,35,51,0,"Essex",143, ,1,0,0,158,343,"Maplewood Public School",20071010
+022,ESSEX,52,5,42,29,0,"Essex",144, ,1,0,0,129,253,"Maplewood Public School",20071010
+022,ESSEX,113,11,33,68,2,"Essex",145, ,1,0,0,228,392,"Maplewood Public School",20071010
+022,ESSEX,83,3,11,47,0,"Essex",146, ,1,0,0,145,294,"Essex County Civic Centre",20071010
+022,ESSEX,45,11,21,39,2,"Cottam",147, ,0,0,0,118,267,"Ridgeview Park Recreation Centre",20071010
+022,ESSEX,41,3,13,34,1,"Cottam",148, ,1,0,0,93,163,"Cottam United Church Hall",20071010
+022,ESSEX,14,1,2,5,0,"Kingsville",149s, ,0,0,0,22,110,"Country Village Health Care Centre",20071010
+022,ESSEX,77,11,15,35,0,"Amherstburg",150, ,1,0,0,139,297,"Verdi Club",20071010
+022,ESSEX,53,9,33,16,4,"Amherstburg",151, ,3,1,0,119,242,"Anderdon Central Public School",20071010
+022,ESSEX,103,7,26,46,0,"McGregor",152, ,0,0,0,182,382,"Essex County Steam and Gas Engine Museum",20071010
+022,ESSEX,77,4,77,37,2,"McGregor",153, ,2,0,0,199,409,"Lucier Estates Community Centre",20071010
+022,ESSEX,55,11,65,37,2,"McGregor",154, ,1,1,0,172,308,"Lucier Estates Community Centre",20071010
+022,ESSEX,122,10,64,55,3,"McGregor",155, ,0,0,0,254,624,"Essex County Steam and Gas Engine Museum",20071010
+022,ESSEX,36,9,12,25,0,"Gesto",156, ,0,0,0,82,232,"Colchester North Central Public School",20071010
+022,ESSEX,86,9,28,59,1,"Cottam",157, ,1,0,0,184,385,"Cottam United Church Hall",20071010
+022,ESSEX,62,5,28,55,1,"Cottam",158, ,2,0,0,153,304,"Ridgeview Park Recreation Centre",20071010
+022,ESSEX,75,16,28,33,1,"Amherstburg",159, ,0,4,1,158,418,"Verdi Club",20071010
+022,ESSEX,97,13,16,47,2,"Amherstburg",160, ,0,0,0,175,369,"Verdi Club",20071010
+022,ESSEX,64,6,27,49,3,"Amherstburg",161, ,1,0,0,150,408,"Verdi Club",20071010
+022,ESSEX,79,7,12,63,1,"Amherstburg",162, ,1,0,1,164,344,"Verdi Club",20071010
+022,ESSEX,104,14,27,63,1,"Amherstburg",163, ,4,1,0,214,379,"Anderdon Central Public School",20071010
+022,ESSEX,69,10,36,32,1,"Amherstburg",164, ,1,0,0,149,343,"Anderdon Central Public School",20071010
+022,ESSEX,53,8,23,44,1,"Gesto",165, ,0,1,0,130,305,"Colchester North Central Public School",20071010
+022,ESSEX,68,4,21,35,1,"Cottam",166, ,0,0,0,129,266,"Cottam United Church Hall",20071010
+022,ESSEX,63,1,30,40,1,"Cottam",167, ,1,0,0,136,273,"Ridgeview Park Recreation Centre",20071010
+022,ESSEX,59,2,27,48,4,"Cottam",168, ,0,2,0,142,266,"Cottam United Church Hall",20071010
+022,ESSEX,77,4,11,56,0,"Cottam",169, ,2,2,0,152,317,"Ridgeview Park Recreation Centre",20071010
+022,ESSEX,71,7,38,20,1,"Amherstburg",170, ,0,2,0,139,298,"General Amherst High School",20071010
+022,ESSEX,26,8,72,30,0,"Amherstburg",171, ,0,1,0,137,370,"Stella Maris Catholic Elementary School",20071010
+022,ESSEX,26,1,18,19,0,"Amherstburg",172, ,0,0,0,64,273,"General Amherst High School",20071010
+022,ESSEX,59,6,41,20,2,"Amherstburg",173, ,2,3,2,135,339,"Stella Maris Catholic Elementary School",20071010
+022,ESSEX,41,2,35,25,1,"Amherstburg",174, ,1,0,0,105,320,"General Amherst High School",20071010
+022,ESSEX,85,2,39,26,1,"Amherstburg",175, ,7,1,0,161,333,"Verdi Club",20071010
+022,ESSEX,84,8,37,22,2,"Amherstburg",176, ,1,0,0,154,344,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,92,17,41,35,0,"Amherstburg",177, ,1,0,0,186,454,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,77,6,36,40,1,"Amherstburg",178, ,0,0,0,160,363,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,61,7,36,29,0,"Amherstburg",179, ,0,0,0,133,336,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,72,14,32,32,0,"Amherstburg",180, ,0,0,0,150,361,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,76,16,42,50,1,"Gesto",181, ,1,0,0,186,439,"Colchester North Central Public School",20071010
+022,ESSEX,82,12,35,51,0,"Gesto",182, ,1,0,7,188,396,"Colchester North Central Public School",20071010
+022,ESSEX,88,5,23,46,0,"Cottam",183, ,0,0,0,162,361,"Cottam United Church Hall",20071010
+022,ESSEX,65,6,40,67,1,"Cottam",184, ,0,0,0,179,358,"Cottam United Church Hall",20071010
+022,ESSEX,49,8,38,14,0,"Amherstburg",185, ,0,0,0,109,260,"Wesley United Church Hall",20071010
+022,ESSEX,73,1,10,23,0,"Amherstburg",186, ,1,0,0,108,239,"Wesley United Church Hall",20071010
+022,ESSEX,18,2,4,2,2,"Amherstburg",187s, ,0,0,0,28,109,"Richmond Terrace and Lodge",20071010
+022,ESSEX,45,1,17,11,3,"Amherstburg",188, ,1,0,0,78,193,"Wesley United Church Hall",20071010
+022,ESSEX,95,8,55,24,0,"Amherstburg",189, ,0,1,0,183,426,"Amherstburg Community Centre",20071010
+022,ESSEX,38,5,31,21,0,"Amherstburg",190, ,2,2,0,99,287,"Wesley United Church Hall",20071010
+022,ESSEX,59,7,38,28,1,"Amherstburg",191, ,2,1,0,136,283,"Amherstburg Community Centre",20071010
+022,ESSEX,55,7,40,22,1,"Amherstburg",192, ,0,2,0,127,339,"Amherstburg Community Centre",20071010
+022,ESSEX,41,1,51,13,1,"Amherstburg",193, ,2,0,0,109,320,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,..........................NO POLL HELD........................,,,,,"Amherstburg",194s, ,0,0,0,0,0,"",20071010
+022,ESSEX,71,8,33,32,0,"Amherstburg",195, ,0,0,0,144,347,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,76,6,41,26,2,"Amherstburg",196, ,2,0,1,154,342,"Amherstburg Community Centre",20071010
+022,ESSEX,64,5,47,21,0,"Amherstburg",197, ,1,0,0,138,375,"St. Bernard Catholic Elementary School",20071010
+022,ESSEX,74,8,32,35,0,"Amherstburg",198, ,4,1,0,154,375,"Malden Central School",20071010
+022,ESSEX,81,11,43,52,2,"Amherstburg",199, ,1,0,0,190,368,"Malden Central School",20071010
+022,ESSEX,81,11,33,46,1,"Kingsville",200, ,0,0,0,172,400,"Kingsville Arena",20071010
+022,ESSEX,96,18,27,79,1,"Kingsville",201, ,4,0,0,225,459,"Ruthven Public School",20071010
+022,ESSEX,52,6,37,33,0,"Amherstburg",202, ,0,0,0,128,280,"Wesley United Church Hall",20071010
+022,ESSEX,54,12,12,18,3,"Amherstburg",203, ,0,0,0,99,222,"Amherstburg Community Centre",20071010
+022,ESSEX,95,8,35,44,0,"Amherstburg",204, ,0,1,0,183,377,"Amherstburg Community Centre",20071010
+022,ESSEX,81,12,16,19,0,"Harrow",205, ,1,1,0,130,316,"Harrow Junior Public School",20071010
+022,ESSEX,58,14,16,36,0,"Kingsville",206, ,0,1,0,125,312,"Kingsville Arena",20071010
+022,ESSEX,61,6,7,38,1,"Kingsville",207A, ,1,1,0,115,327,"Ruthven Public School",20071010
+022,ESSEX,84,7,11,37,1,"Kingsville",207B, ,3,1,0,144,318,"Ruthven Public School",20071010
+022,ESSEX,61,8,51,26,1,"Amherstburg",208, ,1,0,0,148,406,"Amherstburg Community Centre",20071010
+022,ESSEX,101,11,36,42,5,"Harrow",209, ,0,1,0,196,463,"St. Anthony Catholic Elementary School",20071010
+022,ESSEX,52,4,22,26,1,"Harrow",210, ,1,0,0,106,263,"St. Anthony Catholic Elementary School",20071010
+022,ESSEX,122,19,19,68,0,"Harrow",211, ,1,0,0,229,502,"Harrow Junior Public School",20071010
+022,ESSEX,37,4,20,41,0,"Kingsville",212, ,0,0,0,102,221,"Knights of Columbus Hall #8233",20071010
+022,ESSEX,44,6,14,29,0,"Kingsville",213, ,0,0,0,93,198,"Kingsville Public School",20071010
+022,ESSEX,56,3,20,40,0,"Kingsville",214, ,0,2,0,121,286,"Kingsville Public School",20071010
+022,ESSEX,58,8,20,34,0,"Kingsville",215, ,0,0,0,120,259,"Kingsville Public School",20071010
+022,ESSEX,26,0,5,5,1,"Kingsville",216s, ,0,0,0,37,155,"Royal Oak Long Term Care Centre",20071010
+022,ESSEX,87,13,22,39,0,"Kingsville",217, ,0,1,0,162,315,"Kingsville Arena",20071010
+022,ESSEX,83,10,30,57,2,"Kingsville",218, ,2,0,0,184,371,"Kingsville Arena",20071010
+022,ESSEX,116,11,20,47,1,"Kingsville",219, ,3,0,0,198,413,"Kingsville Arena",20071010
+022,ESSEX,..........................NO POLL HELD........................,,,,,"Ruthven",220, ,0,0,0,0,0,"",20071010
+022,ESSEX,111,9,15,47,0,"Kingsville",221, ,1,2,1,186,363,"Ruthven Public School",20071010
+022,ESSEX,75,17,42,47,4,"Amherstburg",222, ,0,1,1,187,503,"Malden Central School",20071010
+022,ESSEX,53,15,35,30,3,"Amherstburg",223, ,2,0,0,138,305,"Malden Central School",20071010
+022,ESSEX,78,14,28,34,1,"Harrow",224, ,2,1,0,158,360,"St. Anthony Catholic Elementary School",20071010
+022,ESSEX,91,5,28,30,2,"Harrow",225, ,1,0,0,157,388,"Harrow District High School",20071010
+022,ESSEX,39,1,1,10,0,"Harrow",226s, ,1,0,0,52,117,"Harrowood Residents Council",20071010
+022,ESSEX,93,7,31,26,0,"Harrow",227, ,0,0,0,157,384,"Harrow District High School",20071010
+022,ESSEX,99,11,22,25,1,"Harrow",228, ,2,0,0,160,311,"Harrow District High School",20071010
+022,ESSEX,75,7,22,33,0,"Harrow",229, ,1,0,0,138,275,"Harrow Junior Public School",20071010
+022,ESSEX,30,0,6,15,1,"Kingsville",229-1s, ,2,3,0,57,102,"Kingsville Court Retirement Community",20071010
+022,ESSEX,85,6,22,31,0,"Harrow",230, ,2,1,0,147,305,"Harrow District High School",20071010
+022,ESSEX,60,9,25,42,0,"Kingsville",231, ,0,0,0,136,316,"Knights of Columbus Hall #8233",20071010
+022,ESSEX,63,8,21,37,2,"Kingsville",232, ,0,0,0,131,351,"Kingsville District High School",20071010
+022,ESSEX,75,13,19,61,0,"Kingsville",233, ,1,0,0,169,383,"Kingsville Lions Club Hall",20071010
+022,ESSEX,65,14,27,28,0,"Kingsville",234, ,1,4,0,139,295,"Kingsville Lions Club Hall",20071010
+022,ESSEX,59,17,23,26,2,"Kingsville",235, ,0,0,0,127,272,"Kingsville Lions Club Hall",20071010
+022,ESSEX,5,4,2,3,5,"Kingsville",236s, ,1,0,1,21,43,"Kings Manor Residence",20071010
+022,ESSEX,34,7,17,19,1,"Kingsville",237, ,5,0,0,83,208,"Kingsville Public School",20071010
+022,ESSEX,19,0,3,9,0,"Kingsville",238s, ,1,0,0,32,50,"Southgate Residence",20071010
+022,ESSEX,40,7,18,24,2,"Kingsville",239, ,1,0,0,92,234,"Kingsville Lions Club Hall",20071010
+022,ESSEX,55,4,29,44,0,"Kingsville",240, ,1,0,0,133,297,"St. John de Brebeuf Catholic Elementary School",20071010
+022,ESSEX,75,9,21,33,2,"Kingsville",241, ,0,0,0,140,327,"St. John de Brebeuf Catholic Elementary School",20071010
+022,ESSEX,52,7,12,22,0,"Kingsville",242, ,0,0,0,93,234,"Kingsville District High School",20071010
+022,ESSEX,81,7,19,37,0,"Kingsville",243, ,1,1,1,147,324,"St. John de Brebeuf Catholic Elementary School",20071010
+022,ESSEX,66,17,14,40,4,"Kingsville",244, ,0,0,0,141,317,"St. John de Brebeuf Catholic Elementary School",20071010
+022,ESSEX,77,15,10,56,0,"Ruthven",245, ,2,0,0,160,375,"Olinda-Ruthven United Church Hall",20071010
+022,ESSEX,114,19,11,72,2,"Ruthven",246, ,0,1,0,219,399,"Olinda-Ruthven United Church Hall",20071010
+022,ESSEX,137,9,5,65,0,"Kingsville",247, ,1,0,0,217,407,"Ruthven Public School",20071010
+022,ESSEX,74,15,42,34,1,"Harrow",248, ,0,0,0,166,436,"St. Alban's Church Hall",20071010
+022,ESSEX,..........................NO POLL HELD........................,,,,,"Harrow",249, ,0,0,0,0,0,"",20071010
+022,ESSEX,71,9,7,31,2,"Harrow",250, ,0,0,0,120,291,"J.R. Park Homestead",20071010
+022,ESSEX,60,14,23,68,1,"Harrow",251, ,1,0,0,167,324,"J.R. Park Homestead",20071010
+022,ESSEX,33,9,17,36,0,"Kingsville",252, ,0,0,0,95,251,"Knights of Columbus Hall #8233",20071010
+022,ESSEX,74,6,27,23,1,"Kingsville",253, ,1,0,0,132,307,"Knights of Columbus Hall #8233",20071010
+022,ESSEX,70,8,10,36,0,"Kingsville",254, ,1,0,0,125,336,"Kingsville District High School",20071010
+022,ESSEX,64,5,24,29,0,"Kingsville",255, ,0,0,0,122,310,"Kingsville District High School",20071010
+022,ESSEX,87,10,26,40,3,"Kingsville",256, ,2,0,0,168,361,"Kingsville District High School",20071010
+022,ESSEX,70,21,22,40,1,"Kingsville",257, ,3,0,0,157,329,"Kingsville District High School",20071010
+022,ESSEX,72,14,29,28,0,"Harrow",258, ,1,0,0,144,385,"St. Alban's Church Hall",20071010
+022,ESSEX,90,4,22,30,2,"Essex",259, ,0,0,0,148,319,"Christ Anglican Church",20071010
+022,ESSEX,56,9,30,13,1,"Essex",260, ,1,1,0,111,241,"Christ Anglican Church",20071010
+022,ESSEX,56,14,24,33,2,"Essex",261, ,0,0,0,129,325,"Christ Anglican Church",20071010
+022,ESSEX,46,12,43,32,2,"Essex",262, ,1,0,0,136,355,"Christ Anglican Church",20071010
+022,ESSEX,40,6,5,19,1,"Pelee Island",263, ,0,0,0,71,156,"Royal Canadian Legion Branch 403",20071010
+022,ESSEX,431,31,182,296,7,"Essex",Advanced Polls /  ADV001, ,0,2,1,950,0,"Returning Office / Bureau du directeur du scrutin",20071010
+022,ESSEX,402,38,195,224,7,"Belle River",Advanced Polls /  ADV002, ,4,0,0,870,0,"Knights of Columbus Hall",20071010
+022,ESSEX,109,9,59,64,0,"Comber",Advanced Polls /  ADV003, ,0,0,0,241,0,"Comber Community Centre",20071010
+022,ESSEX,359,21,161,200,3,"LaSalle",Advanced Polls /  ADV004, ,4,1,1,750,0,"Sacred Heart Church Community Centre",20071010
+022,ESSEX,365,25,185,203,2,"Amherstburg",Advanced Polls /  ADV005, ,4,4,0,788,0,"Amherstburg Community Centre",20071010
+022,ESSEX,229,19,68,112,4,"Harrow",Advanced Polls /  ADV006, ,1,0,1,434,0,"Harrow Colchester South Arena",20071010
+022,ESSEX,362,38,89,257,3,"Kingsville",Advanced Polls /  ADV007, ,1,0,0,750,0,"Kingsville Lions Club Hall",20071010
+TOTALS:, ,19970,2220,8638,10400,358, , , , , , , , , , 

@@ -1,0 +1,233 @@
+ED_CODE,ED_NAME,COTRUPI,COUTURE,KIDD,MORIDI,YUAN,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+075,RICHMOND HILL,11,17,2,71,58,"Richmond Hill",001, ,0,0,0,159,347,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,7,10,3,70,55,"Richmond Hill",002, ,1,0,0,146,334,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,7,12,0,86,95,"Richmond Hill",003, ,1,0,0,201,432,"St. Theresa of Lisieux Catholic High School",20071010
+075,RICHMOND HILL,19,9,0,71,73,"Richmond Hill",004, ,0,2,0,174,422,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,5,5,0,35,29,"Richmond Hill",005, ,2,0,0,76,126,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,9,15,0,55,65,"Richmond Hill",006, ,0,0,0,144,263,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,14,5,2,79,77,"Richmond Hill",007A, ,1,0,0,178,445,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,13,8,2,79,64,"Richmond Hill",007B, ,0,0,0,166,377,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,12,15,0,75,74,"Richmond Hill",008, ,0,1,0,177,364,"St. Theresa of Lisieux Catholic High School",20071010
+075,RICHMOND HILL,14,10,1,65,66,"Richmond Hill",009, ,0,0,0,156,381,"St. Theresa of Lisieux Catholic High School",20071010
+075,RICHMOND HILL,8,10,4,79,95,"Richmond Hill",010, ,0,0,0,196,451,"St. Theresa of Lisieux Catholic High School",20071010
+075,RICHMOND HILL,15,7,0,116,77,"Richmond Hill",011, ,0,0,0,215,429,"Father Henri Nouwen Catholic School",20071010
+075,RICHMOND HILL,16,17,2,91,113,"Richmond Hill",012, ,1,2,0,242,484,"Father Henri Nouwen Catholic School",20071010
+075,RICHMOND HILL,10,4,0,92,42,"Richmond Hill",013, ,1,0,0,149,427,"Trillium Woods Elementary School",20071010
+075,RICHMOND HILL,13,11,4,97,67,"Richmond Hill",014, ,3,0,0,195,478,"Father Henri Nouwen Catholic School",20071010
+075,RICHMOND HILL,10,12,0,69,55,"Richmond Hill",015, ,0,1,0,147,357,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,3,9,1,73,61,"Richmond Hill",016, ,0,0,0,147,389,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,11,8,1,71,62,"Richmond Hill",017, ,14,0,0,167,405,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,7,8,1,58,48,"Richmond Hill",018, ,1,0,0,123,240,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,10,11,0,69,63,"Richmond Hill",019, ,2,0,0,155,347,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,13,12,0,68,95,"Richmond Hill",020, ,1,0,0,189,445,"St. Theresa of Lisieux Catholic High School",20071010
+075,RICHMOND HILL,10,24,3,89,79,"Richmond Hill",021, ,0,1,0,206,402,"Father Henri Nouwen Catholic School",20071010
+075,RICHMOND HILL,7,10,2,67,85,"Richmond Hill",022, ,0,0,0,171,378,"Silver Pines Public School",20071010
+075,RICHMOND HILL,9,14,1,114,113,"Richmond Hill",023, ,1,0,0,252,528,"Silver Pines Public School",20071010
+075,RICHMOND HILL,8,6,2,65,53,"Richmond Hill",024, ,0,0,0,134,381,"Silver Pines Public School",20071010
+075,RICHMOND HILL,17,24,1,55,39,"Richmond Hill",025, ,1,0,0,137,364,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,20,14,3,57,39,"Richmond Hill",026, ,1,1,0,135,283,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,35,25,3,46,35,"Richmond Hill",027, ,0,0,0,144,389,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,22,21,2,63,44,"Richmond Hill",028, ,0,1,0,153,382,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,26,18,3,62,60,"Richmond Hill",029, ,1,2,0,172,367,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,29,20,2,47,41,"Richmond Hill",030, ,0,0,1,140,319,"Beverley Acres Public School",20071010
+075,RICHMOND HILL,17,9,0,82,69,"Richmond Hill",031, ,0,0,0,177,489,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,10,13,2,77,97,"Richmond Hill",032, ,0,1,0,200,489,"Richmond Rose Public School",20071010
+075,RICHMOND HILL,15,8,1,92,80,"Richmond Hill",033, ,0,0,0,196,477,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,21,5,1,73,64,"Richmond Hill",034, ,0,0,0,164,386,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,21,14,4,86,89,"Richmond Hill",035, ,1,1,0,216,525,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,16,11,0,72,52,"Richmond Hill",036A, ,0,2,1,154,387,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,13,17,2,90,96,"Richmond Hill",036B, ,1,0,0,219,515,"Our Lady Help of Christians Catholic School",20071010
+075,RICHMOND HILL,21,10,1,123,103,"Richmond Hill",037, ,0,0,0,258,504,"Silver Pines Public School",20071010
+075,RICHMOND HILL,23,10,2,118,68,"Richmond Hill",038, ,1,0,1,223,480,"St. Mary Immaculate Elementary School",20071010
+075,RICHMOND HILL,20,13,1,121,94,"Richmond Hill",039, ,3,1,0,253,567,"Silver Pines Public School",20071010
+075,RICHMOND HILL,14,21,1,89,44,"Richmond Hill",040, ,0,1,0,170,358,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,23,13,0,63,29,"Richmond Hill",041, ,2,0,0,130,263,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,23,18,4,70,34,"Richmond Hill",042, ,1,0,0,150,292,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,28,17,1,81,45,"Richmond Hill",043A, ,0,0,0,172,391,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,23,22,4,75,43,"Richmond Hill",043B, ,2,0,0,169,399,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,35,21,3,74,51,"Richmond Hill",044, ,3,0,0,187,372,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,9,8,0,72,57,"Richmond Hill",045, ,0,1,0,147,392,"Richmond Rose Public School",20071010
+075,RICHMOND HILL,4,9,0,78,62,"Richmond Hill",046, ,0,2,0,155,427,"Richmond Rose Public School",20071010
+075,RICHMOND HILL,11,4,3,102,85,"Richmond Hill",047, ,0,0,0,205,537,"Richmond Rose Public School",20071010
+075,RICHMOND HILL,11,8,1,70,79,"Richmond Hill",048, ,0,2,0,171,444,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,13,4,2,76,98,"Richmond Hill",049, ,0,1,0,194,526,"Rouge Woods Community Centre",20071010
+075,RICHMOND HILL,15,6,1,87,56,"Richmond Hill",050, ,0,1,0,166,389,"Silver Stream Public School",20071010
+075,RICHMOND HILL,11,14,1,101,73,"Richmond Hill",051A, ,1,0,0,201,540,"Silver Stream Public School",20071010
+075,RICHMOND HILL,7,7,0,57,69,"Richmond Hill",051B, ,1,1,1,143,392,"Silver Stream Public School",20071010
+075,RICHMOND HILL,11,16,3,81,89,"Richmond Hill",052, ,2,0,1,203,431,"St. Mary Immaculate Elementary School",20071010
+075,RICHMOND HILL,12,14,1,135,100,"Richmond Hill",053, ,1,0,0,263,506,"St. Mary Immaculate Elementary School",20071010
+075,RICHMOND HILL,14,12,0,102,104,"Richmond Hill",054, ,0,0,2,234,464,"St. Mary Immaculate Elementary School",20071010
+075,RICHMOND HILL,23,42,0,72,55,"Richmond Hill",055, ,2,0,0,194,361,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,23,17,4,111,53,"Richmond Hill",056, ,1,0,0,209,357,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,22,28,0,80,45,"Richmond Hill",057, ,1,0,0,176,357,"O.M. MacKillop Public School",20071010
+075,RICHMOND HILL,12,9,0,55,27,"Richmond Hill",058, ,2,0,0,105,254,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,12,8,0,42,27,"Richmond Hill",059, ,2,2,0,93,217,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,23,31,3,93,65,"Richmond Hill",060, ,1,1,0,217,476,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,21,22,3,101,51,"Richmond Hill",061, ,0,2,0,200,398,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,37,21,1,103,37,"Richmond Hill",062, ,0,0,1,200,375,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,22,17,0,54,40,"Richmond Hill",063, ,0,0,0,133,307,"Crosby Heights Public School",20071010
+075,RICHMOND HILL,16,15,0,89,57,"Richmond Hill",064, ,0,0,0,177,469,"Richmond Rose Public School",20071010
+075,RICHMOND HILL,9,7,0,77,72,"Richmond Hill",065, ,0,0,0,165,421,"Bayview Secondary School",20071010
+075,RICHMOND HILL,12,8,0,73,57,"Richmond Hill",066, ,0,1,0,151,394,"Silver Stream Public School",20071010
+075,RICHMOND HILL,19,9,1,76,70,"Richmond Hill",067, ,3,0,0,178,422,"Silver Stream Public School",20071010
+075,RICHMOND HILL,7,8,1,76,91,"Richmond Hill",068, ,0,1,0,184,533,"Silver Stream Public School",20071010
+075,RICHMOND HILL,8,6,1,70,68,"Richmond Hill",069A, ,0,3,0,156,441,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,12,6,2,66,91,"Richmond Hill",069B, ,0,1,0,178,551,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,19,29,3,114,107,"Richmond Hill",070, ,0,1,0,273,483,"Pleasantville Public School",20071010
+075,RICHMOND HILL,16,33,4,104,75,"Richmond Hill",071, ,2,0,0,234,436,"Pleasantville Public School",20071010
+075,RICHMOND HILL,31,32,3,92,66,"Richmond Hill",072, ,0,0,0,224,412,"Pleasantville Public School",20071010
+075,RICHMOND HILL,19,36,0,72,41,"Richmond Hill",073, ,0,0,0,168,328,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,14,23,0,39,36,"Richmond Hill",074, ,0,0,0,112,202,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,17,23,0,50,48,"Richmond Hill",075, ,0,0,0,138,300,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,21,20,0,65,27,"Richmond Hill",076, ,2,0,0,135,308,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,16,10,2,45,25,"Richmond Hill",077s, ,2,3,0,103,145,"Rose Town Seniors Apartments",20071010
+075,RICHMOND HILL,19,24,4,113,54,"Richmond Hill",078, ,0,0,0,214,389,"Walter Scott Public School",20071010
+075,RICHMOND HILL,22,8,1,65,42,"Richmond Hill",079, ,0,0,0,138,292,"Walter Scott Public School",20071010
+075,RICHMOND HILL,17,7,0,20,15,"Richmond Hill",080, ,0,0,0,59,169,"Walter Scott Public School",20071010
+075,RICHMOND HILL,17,18,0,107,52,"Richmond Hill",081, ,0,1,0,195,368,"Walter Scott Public School",20071010
+075,RICHMOND HILL,17,5,2,37,33,"Richmond Hill",082, ,0,0,0,94,195,"Walter Scott Public School",20071010
+075,RICHMOND HILL,6,14,2,111,73,"Richmond Hill",083, ,0,0,1,207,558,"Bayview Secondary School",20071010
+075,RICHMOND HILL,4,9,0,66,77,"Richmond Hill",084, ,1,0,0,157,525,"Bayview Secondary School",20071010
+075,RICHMOND HILL,4,5,2,75,58,"Richmond Hill",085, ,1,2,0,147,472,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,23,32,0,98,77,"Richmond Hill",086, ,0,1,1,232,444,"Pleasantville Public School",20071010
+075,RICHMOND HILL,27,25,2,93,67,"Richmond Hill",087, ,0,0,1,215,434,"Pleasantville Public School",20071010
+075,RICHMOND HILL,2,2,1,13,10,"Richmond Hill",088s, ,2,0,0,30,116,"York Central Hospital",20071010
+075,RICHMOND HILL,16,15,1,78,66,"Richmond Hill",089, ,0,1,0,177,375,"Richmond Hill Central Library",20071010
+075,RICHMOND HILL,18,22,0,63,71,"Richmond Hill",090, ,0,0,0,174,291,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,13,18,5,68,51,"Richmond Hill",091, ,3,2,0,160,350,"Richmond Hill Central Library",20071010
+075,RICHMOND HILL,0,0,2,8,2,"Richmond Hill",092s, ,0,0,1,13,42,"Mariann Home",20071010
+075,RICHMOND HILL,15,22,4,84,61,"Richmond Hill",093, ,0,0,0,186,397,"Elgin Barrow Arena Complex",20071010
+075,RICHMOND HILL,13,14,1,63,29,"Richmond Hill",094, ,1,0,0,121,325,"Elgin Barrow Arena Complex",20071010
+075,RICHMOND HILL,13,10,0,38,31,"Richmond Hill",095, ,0,1,0,93,245,"M. L. McConaghy Seniors' Centre",20071010
+075,RICHMOND HILL,14,11,0,40,13,"Richmond Hill",096, ,1,0,0,79,212,"Elgin Barrow Arena Complex",20071010
+075,RICHMOND HILL,15,8,0,23,21,"Richmond Hill",097, ,0,0,0,67,200,"Walter Scott Public School",20071010
+075,RICHMOND HILL,20,36,3,71,51,"Richmond Hill",098, ,0,0,0,181,326,"St. Joseph Separate School",20071010
+075,RICHMOND HILL,18,19,0,115,52,"Richmond Hill",099, ,2,1,0,207,483,"St. Joseph Separate School",20071010
+075,RICHMOND HILL,12,13,0,109,114,"Richmond Hill",100, ,0,0,0,248,591,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,6,13,0,111,91,"Richmond Hill",101, ,0,0,0,221,583,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,16,9,1,90,68,"Richmond Hill",102, ,2,1,0,187,545,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,4,2,0,81,46,"Richmond Hill",103, ,2,0,0,135,464,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,15,21,1,107,70,"Richmond Hill",104, ,0,0,0,214,453,"Pleasantville Public School",20071010
+075,RICHMOND HILL,23,27,1,110,101,"Richmond Hill",105, ,0,0,0,262,472,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,22,17,2,138,57,"Richmond Hill",106, ,3,0,0,239,473,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,16,16,2,106,67,"Richmond Hill",107, ,0,0,0,207,455,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,13,15,3,108,41,"Richmond Hill",108, ,1,1,1,183,444,"Richmond Hill Central Library",20071010
+075,RICHMOND HILL,1,1,1,7,10,"Richmond Hill",109s, ,1,0,0,21,77,"Sunrise Senior Living Retirement Residence",20071010
+075,RICHMOND HILL,27,12,5,95,59,"Richmond Hill",110, ,0,0,0,198,468,"Elgin Barrow Arena Complex",20071010
+075,RICHMOND HILL,7,4,1,19,20,"Richmond Hill",111, ,0,0,0,51,168,"Elgin Barrow Arena Complex",20071010
+075,RICHMOND HILL,5,4,0,26,11,"Richmond Hill",112, ,0,0,0,46,128,"Rexall Health Centre",20071010
+075,RICHMOND HILL,11,8,1,52,37,"Richmond Hill",113, ,0,0,0,109,290,"Rexall Health Centre",20071010
+075,RICHMOND HILL,18,12,0,102,52,"Richmond Hill",114, ,0,0,0,184,513,"St. Joseph Separate School",20071010
+075,RICHMOND HILL,5,3,1,111,92,"Richmond Hill",115, ,0,0,0,212,521,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,11,10,2,118,95,"Richmond Hill",116, ,0,0,0,236,547,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,6,8,1,100,79,"Richmond Hill",117, ,0,0,0,194,471,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,6,10,0,73,88,"Richmond Hill",118, ,0,2,0,179,588,"Bayview Hill Community Centre",20071010
+075,RICHMOND HILL,21,21,3,122,80,"Richmond Hill",119, ,2,0,0,249,477,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,40,27,5,117,57,"Richmond Hill",120, ,1,2,0,249,480,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,12,17,1,115,75,"Richmond Hill",121, ,1,1,0,222,448,"Ross Doan Public School",20071010
+075,RICHMOND HILL,13,8,3,110,77,"Richmond Hill",122, ,2,0,0,213,471,"Ross Doan Public School",20071010
+075,RICHMOND HILL,25,12,5,89,56,"Richmond Hill",123, ,0,0,0,187,376,"Ross Doan Public School",20071010
+075,RICHMOND HILL,..........................NO POLL HELD........................,,,,,"Richmond Hill",124, ,0,0,0,0,0,"",20071010
+075,RICHMOND HILL,5,1,0,73,31,"Richmond Hill",125A, ,1,0,0,111,303,"Elvis Stoyko Arena",20071010
+075,RICHMOND HILL,15,11,0,47,36,"Richmond Hill",125B, ,1,0,0,110,320,"Elvis Stoyko Arena",20071010
+075,RICHMOND HILL,23,17,4,138,62,"Richmond Hill",126A, ,0,2,0,246,583,"Sixteenth Avenue Public School",20071010
+075,RICHMOND HILL,25,14,3,141,83,"Richmond Hill",126B, ,0,2,0,268,670,"Sixteenth Avenue Public School",20071010
+075,RICHMOND HILL,12,7,0,136,90,"Richmond Hill",127, ,1,0,0,246,554,"Sixteenth Avenue Public School",20071010
+075,RICHMOND HILL,2,13,0,75,83,"Richmond Hill",128, ,1,1,0,175,494,"Bayview Hill Elementary School",20071010
+075,RICHMOND HILL,9,13,0,95,83,"Richmond Hill",129, ,0,0,0,200,525,"Christ the King Catholic School",20071010
+075,RICHMOND HILL,11,10,1,124,83,"Richmond Hill",130A, ,3,1,0,233,604,"Christ the King Catholic School",20071010
+075,RICHMOND HILL,15,12,1,112,78,"Richmond Hill",130B, ,1,0,0,219,638,"Christ the King Catholic School",20071010
+075,RICHMOND HILL,20,8,1,96,51,"Richmond Hill",131, ,0,0,0,176,411,"St. Anne Catholic School",20071010
+075,RICHMOND HILL,28,27,2,112,67,"Richmond Hill",132, ,0,0,0,236,445,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,17,31,3,98,47,"Richmond Hill",133, ,3,0,0,199,411,"Ross Doan Public School",20071010
+075,RICHMOND HILL,28,32,0,82,52,"Richmond Hill",134, ,0,0,1,195,362,"Richvale Community Centre",20071010
+075,RICHMOND HILL,28,22,2,94,56,"Richmond Hill",135, ,0,0,0,202,422,"Ross Doan Public School",20071010
+075,RICHMOND HILL,7,12,3,71,39,"Richmond Hill",136, ,0,0,0,132,335,"Sixteenth Avenue Public School",20071010
+075,RICHMOND HILL,14,12,2,113,37,"Richmond Hill",137, ,2,0,0,180,465,"Sixteenth Avenue Public School",20071010
+075,RICHMOND HILL,..........................NO POLL HELD........................,,,,,"Richmond Hill",138, ,0,0,0,0,0,"",20071010
+075,RICHMOND HILL,21,5,0,67,48,"Richmond Hill",139, ,1,2,0,144,341,"St. George Antiochian Orthodox Church",20071010
+075,RICHMOND HILL,7,3,1,79,63,"Richmond Hill",140, ,0,2,0,155,492,"St. George Antiochian Orthodox Church",20071010
+075,RICHMOND HILL,3,9,3,62,50,"Richmond Hill",141, ,0,1,0,128,449,"Christ the King Catholic School",20071010
+075,RICHMOND HILL,7,13,2,87,99,"Richmond Hill",142, ,0,1,0,209,627,"Ed Sackfield Arena",20071010
+075,RICHMOND HILL,13,9,4,89,77,"Richmond Hill",143, ,0,0,0,192,548,"Christ the King Catholic School",20071010
+075,RICHMOND HILL,13,5,1,100,89,"Richmond Hill",144, ,0,0,0,208,570,"Ed Sackfield Arena",20071010
+075,RICHMOND HILL,20,26,4,108,66,"Richmond Hill",145, ,0,1,0,225,433,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,25,23,1,74,52,"Richmond Hill",146, ,0,0,0,175,413,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,29,17,5,102,60,"Richmond Hill",147, ,1,0,1,215,434,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,17,30,1,58,57,"Richmond Hill",148, ,1,0,1,165,368,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,23,31,3,78,57,"Richmond Hill",149, ,2,1,0,195,367,"Richvale Community Centre",20071010
+075,RICHMOND HILL,28,29,2,114,52,"Richmond Hill",150, ,1,1,0,227,516,"Langstaff Community Centre",20071010
+075,RICHMOND HILL,11,6,0,46,33,"Richmond Hill",151, ,0,0,0,96,308,"Langstaff Community Centre",20071010
+075,RICHMOND HILL,19,10,3,56,42,"Richmond Hill",152, ,0,0,0,130,386,"Pope John Paul II Elementary School",20071010
+075,RICHMOND HILL,7,13,2,67,59,"Richmond Hill",153, ,2,0,0,150,395,"Pope John Paul II Elementary School",20071010
+075,RICHMOND HILL,10,6,0,75,51,"Richmond Hill",154, ,0,0,0,142,511,"St. George Antiochian Orthodox Church",20071010
+075,RICHMOND HILL,14,4,0,93,72,"Richmond Hill",155, ,0,1,0,184,408,"Pope John Paul II Elementary School",20071010
+075,RICHMOND HILL,4,11,1,49,52,"Richmond Hill",156, ,1,3,0,121,552,"St. George Antiochian Orthodox Church",20071010
+075,RICHMOND HILL,5,23,5,105,109,"Richmond Hill",157, ,0,0,0,247,675,"Doncrest Public School",20071010
+075,RICHMOND HILL,18,21,3,99,85,"Richmond Hill",158, ,5,1,0,232,620,"Doncrest Public School",20071010
+075,RICHMOND HILL,9,14,2,104,100,"Richmond Hill",158-1, ,1,0,0,230,651,"Doncrest Public School",20071010
+075,RICHMOND HILL,15,3,0,114,79,"Richmond Hill",158-2, ,0,0,0,211,554,"Doncrest Public School",20071010
+075,RICHMOND HILL,24,23,1,110,71,"Richmond Hill",159, ,3,2,0,234,476,"St. Charles Garnier Catholic School",20071010
+075,RICHMOND HILL,20,13,0,90,46,"Richmond Hill",160, ,1,0,0,170,381,"Langstaff Community Centre",20071010
+075,RICHMOND HILL,15,14,3,134,67,"Richmond Hill",161, ,1,0,0,234,459,"Charles Howitt Public School",20071010
+075,RICHMOND HILL,14,12,2,73,57,"Richmond Hill",162, ,0,0,0,158,411,"Langstaff Community Centre",20071010
+075,RICHMOND HILL,16,7,0,100,48,"Richmond Hill",163, ,1,0,1,173,382,"Red Maple Public School",20071010
+075,RICHMOND HILL,1,0,0,17,19,"Richmond Hill",164s, ,0,0,0,37,161,"Leisureworld Caregiving Centre",20071010
+075,RICHMOND HILL,15,8,2,90,41,"Richmond Hill",165, ,0,0,0,156,385,"Red Maple Public School",20071010
+075,RICHMOND HILL,6,9,0,84,53,"Richmond Hill",166, ,1,0,0,153,379,"Red Maple Public School",20071010
+075,RICHMOND HILL,6,12,1,65,45,"Richmond Hill",167, ,1,0,0,130,364,"Langstaff Community Centre",20071010
+075,RICHMOND HILL,11,12,0,91,56,"Richmond Hill",168, ,0,0,0,170,426,"Red Maple Public School",20071010
+075,RICHMOND HILL,13,14,0,63,59,"Richmond Hill",169, ,1,1,0,151,425,"Red Maple Public School",20071010
+075,RICHMOND HILL,21,11,0,88,54,"Richmond Hill",170, ,0,0,0,174,463,"Doncrest Public School",20071010
+075,RICHMOND HILL,22,7,1,42,59,"Richmond Hill",171, ,0,0,0,131,445,"Adrienne Clarkson Public School",20071010
+075,RICHMOND HILL,9,7,2,74,74,"Richmond Hill",172, ,0,0,0,166,552,"Adrienne Clarkson Public School",20071010
+075,RICHMOND HILL,9,10,0,80,89,"Richmond Hill",173, ,1,0,0,189,543,"Adrienne Clarkson Public School",20071010
+075,RICHMOND HILL,2,12,0,62,89,"Richmond Hill",174, ,1,0,0,166,440,"Charles Howitt Public School",20071010
+075,RICHMOND HILL,14,18,1,116,76,"Richmond Hill",175, ,1,0,0,226,478,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,24,18,3,101,76,"Richmond Hill",176, ,0,0,0,222,463,"Charles Howitt Public School",20071010
+075,RICHMOND HILL,20,15,2,99,58,"Richmond Hill",177, ,2,1,0,197,403,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,3,3,0,24,15,"Richmond Hill",178, ,0,0,0,45,210,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,18,10,3,73,52,"Richmond Hill",179A, ,0,0,0,156,402,"Pope John Paul II Elementary School",20071010
+075,RICHMOND HILL,19,11,1,64,47,"Richmond Hill",179B, ,0,1,0,143,365,"Pope John Paul II Elementary School",20071010
+075,RICHMOND HILL,23,15,0,111,93,"Richmond Hill",180A, ,2,0,0,244,510,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,14,17,1,89,55,"Richmond Hill",180B, ,0,1,0,177,396,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,17,16,0,115,46,"Richmond Hill",181, ,3,3,0,200,406,"Langstaff Secondary School",20071010
+075,RICHMOND HILL,13,9,2,65,22,"Richmond Hill",400, ,0,0,0,111,258,"39 Crosby Avenue",20071010
+075,RICHMOND HILL,24,3,0,40,24,"Richmond Hill",401, ,1,1,0,93,144,"76 Dunlop Street Senior Apartments",20071010
+075,RICHMOND HILL,11,4,0,17,19,"Richmond Hill",402, ,1,0,0,52,153,"Mackenzie Square",20071010
+075,RICHMOND HILL,16,7,0,48,29,"Richmond Hill",403, ,9,0,0,109,271,"Rose Town Seniors Apartments",20071010
+075,RICHMOND HILL,16,13,1,57,38,"Richmond Hill",404, ,2,1,0,128,318,"Cedar Gate 1",20071010
+075,RICHMOND HILL,7,7,0,72,25,"Richmond Hill",405, ,0,0,0,111,184,"Cedar Gate 2",20071010
+075,RICHMOND HILL,18,9,1,39,24,"Richmond Hill",406, ,0,0,0,91,137,"Essex Twin Towers",20071010
+075,RICHMOND HILL,10,14,0,76,37,"Richmond Hill",407, ,3,0,0,140,281,"Dynasty Condominiums",20071010
+075,RICHMOND HILL,12,11,1,69,44,"Richmond Hill",408, ,0,1,0,138,269,"Dynasty Condominiums",20071010
+075,RICHMOND HILL,8,13,1,84,32,"Richmond Hill",409, ,1,1,0,140,257,"Dynasty Condominiums",20071010
+075,RICHMOND HILL,10,11,1,93,50,"Richmond Hill",410, ,0,0,0,165,255,"Gibraltar Condominiums",20071010
+075,RICHMOND HILL,19,15,2,84,58,"Richmond Hill",411, ,1,3,0,182,291,"Gibraltar Condominiums",20071010
+075,RICHMOND HILL,26,13,1,43,11,"Richmond Hill",412, ,1,2,0,97,248,"105 Weldrick Road East",20071010
+075,RICHMOND HILL,34,15,1,113,88,"Richmond Hill",413, ,4,0,0,255,409,"50 Baif Boulevard",20071010
+075,RICHMOND HILL,5,8,1,53,55,"Richmond Hill",414, ,0,2,0,124,195,"40 Baif Boulevard Apartments",20071010
+075,RICHMOND HILL,16,18,0,46,28,"Richmond Hill",415, ,2,0,0,110,143,"5 Weldrick Road West",20071010
+075,RICHMOND HILL,4,7,1,104,59,"Richmond Hill",416, ,0,0,0,175,244,"20 Baif Boulevard Apartments",20071010
+075,RICHMOND HILL,16,13,2,99,72,"Richmond Hill",417, ,1,1,0,204,296,"33 Weldrick Road East",20071010
+075,RICHMOND HILL,19,19,1,81,65,"Richmond Hill",418, ,2,1,0,188,281,"100 Observatory Lane",20071010
+075,RICHMOND HILL,35,17,5,78,41,"Richmond Hill",419, ,1,1,0,178,430,"Observatory Towers",20071010
+075,RICHMOND HILL,23,14,1,60,51,"Richmond Hill",420, ,0,3,0,152,318,"15 Baif Boulevard Building",20071010
+075,RICHMOND HILL,9,8,1,56,38,"Richmond Hill",421, ,0,0,0,112,201,"Empire Place on Yonge 9",20071010
+075,RICHMOND HILL,4,4,0,32,20,"Richmond Hill",422, ,0,0,0,60,106,"Empire Place on Yonge 19",20071010
+075,RICHMOND HILL,13,11,0,60,48,"Richmond Hill",423, ,1,0,0,133,235,"Empire Place on Yonge 29",20071010
+075,RICHMOND HILL,..........................NO POLL HELD........................,,,,,"Richmond Hill",424, ,0,0,0,0,0,"",20071010
+075,RICHMOND HILL,8,10,3,58,58,"Richmond Hill",425, ,1,0,0,138,355,"Parkway Grand Residences",20071010
+075,RICHMOND HILL,2,2,0,50,76,"Richmond Hill",426, ,0,1,0,131,370,"Parkway Grand",20071010
+075,RICHMOND HILL,6,9,3,35,27,"Richmond Hill",427, ,1,3,0,84,171,"Gate of Bayview Glen I",20071010
+075,RICHMOND HILL,11,11,0,63,37,"Richmond Hill",428, ,0,0,0,122,224,"The Premier",20071010
+075,RICHMOND HILL,7,7,0,41,15,"Richmond Hill",429, ,0,0,0,70,154,"Park Glen I",20071010
+075,RICHMOND HILL,10,3,1,44,33,"Richmond Hill",430, ,0,1,0,92,181,"Park Glen I",20071010
+075,RICHMOND HILL,16,9,0,117,71,"Richmond Hill",431, ,0,0,3,216,417,"Bayview Place",20071010
+075,RICHMOND HILL,6,4,0,33,21,"Richmond Hill",432, ,0,0,0,64,145,"Gate of Bayview Glen II",20071010
+075,RICHMOND HILL,4,8,1,26,21,"Richmond Hill",433, ,0,2,0,62,72,"St. George Antiochian Orthodox Church",20071010
+075,RICHMOND HILL,61,48,6,384,294,"Richmond Hill",Advanced Polls /  ADV001, ,5,3,0,801,0,"Returning Office / Bureau du directeur du scrutin",20071010
+075,RICHMOND HILL,134,113,5,946,411,"Richmond Hill",Advanced Polls /  ADV002, ,5,5,0,1619,0,"Richmond Hill Central Library",20071010
+075,RICHMOND HILL,28,24,5,228,164,"Richmond Hill",Advanced Polls /  ADV003, ,3,2,2,456,0,"Elgin West Community Centre",20071010
+075,RICHMOND HILL,41,63,2,309,214,"Richmond Hill",Advanced Polls /  ADV004, ,4,0,1,634,0,"Richvale Community Centre",20071010
+TOTALS:, ,3565,3210,318,19456,14127, , , , , , , , , , 

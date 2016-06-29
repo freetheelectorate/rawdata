@@ -1,0 +1,290 @@
+ED_CODE,ED_NAME,GARVIE,GOTS,MANN-BOWERS,POLLEY,SANDALS,SENECHAL,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+027,GUELPH,0,2,34,22,59,48,"Guelph",001, ,2,0,0,167,370,"New Life Christian Reformed Church",20071010
+027,GUELPH,1,1,10,27,64,72,"Guelph",002, ,0,0,0,175,395,"New Life Christian Reformed Church",20071010
+027,GUELPH,0,0,27,24,55,36,"Guelph",003, ,0,0,0,142,324,"New Life Christian Reformed Church",20071010
+027,GUELPH,1,0,16,16,44,25,"Guelph",004, ,1,0,0,103,339,"Brant Avenue Public School",20071010
+027,GUELPH,0,7,35,33,91,40,"Guelph",005, ,0,0,0,206,394,"Brant Avenue Public School",20071010
+027,GUELPH,3,6,22,24,80,48,"Guelph",006, ,0,0,0,183,384,"Brant Avenue Public School",20071010
+027,GUELPH,0,4,34,34,79,55,"Guelph",007, ,1,1,0,208,401,"Ottawa Crescent Public School",20071010
+027,GUELPH,1,2,30,20,85,59,"Guelph",008, ,0,1,0,198,369,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,0,6,13,29,103,61,"Guelph",009, ,3,5,2,222,394,"The Village of Riverside Glen",20071010
+027,GUELPH,0,2,31,52,75,42,"Guelph",010, ,0,0,2,204,412,"Waverley Drive Public School",20071010
+027,GUELPH,0,0,26,12,80,65,"Guelph",011, ,0,0,0,183,353,"Waverley Drive Public School",20071010
+027,GUELPH,1,3,14,30,82,55,"Guelph",012, ,0,1,0,186,366,"Waverley Drive Public School",20071010
+027,GUELPH,0,0,19,32,71,41,"Guelph",013, ,0,1,0,164,326,"New Life Christian Reformed Church",20071010
+027,GUELPH,2,2,22,19,76,45,"Guelph",014, ,3,0,0,169,309,"Waverley Drive Public School",20071010
+027,GUELPH,0,7,21,36,61,47,"Guelph",015, ,0,0,0,172,346,"Waverley Drive Public School",20071010
+027,GUELPH,0,2,21,17,62,21,"Guelph",016, ,0,0,0,123,282,"Brant Avenue Public School",20071010
+027,GUELPH,0,6,21,15,76,40,"Guelph",017, ,1,0,0,159,344,"Brant Avenue Public School",20071010
+027,GUELPH,0,0,10,4,22,28,"Guelph",018, ,0,2,0,66,162,"Victoria Road Recreation Centre",20071010
+027,GUELPH,0,0,15,21,68,55,"Guelph",019, ,2,2,0,163,372,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,0,0,19,20,63,51,"Guelph",020, ,0,1,0,154,333,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,0,3,25,17,58,54,"Guelph",021, ,1,0,0,158,304,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,1,1,24,20,51,59,"Guelph",022, ,0,0,0,156,325,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,0,0,12,12,28,31,"Guelph",023, ,0,0,0,83,180,"Holy Trinity Catholic Elementary School",20071010
+027,GUELPH,0,3,5,5,22,14,"Guelph",024s, ,0,1,1,51,55,"The Village of Riverside Glen",20071010
+027,GUELPH,0,0,9,15,56,45,"Guelph",025, ,0,2,0,127,280,"Evergreen Seniors Centre",20071010
+027,GUELPH,1,0,16,34,93,62,"Guelph",026, ,1,0,0,207,369,"Edward Johnson Public School",20071010
+027,GUELPH,0,1,28,35,74,37,"Guelph",027, ,2,2,0,179,346,"Edward Johnson Public School",20071010
+027,GUELPH,1,0,27,27,58,31,"Guelph",028, ,0,0,0,144,291,"Trinity United Church",20071010
+027,GUELPH,0,1,0,0,7,10,"Guelph",029s, ,0,0,0,18,54,"Lapointe Fisher Nursing Home",20071010
+027,GUELPH,0,2,19,31,120,64,"Guelph",030, ,1,0,0,237,384,"Edward Johnson Public School",20071010
+027,GUELPH,0,0,5,25,122,55,"Guelph",031, ,0,1,0,208,366,"Edward Johnson Public School",20071010
+027,GUELPH,0,0,25,32,77,40,"Guelph",032, ,0,0,0,174,290,"Ottawa Crescent Public School",20071010
+027,GUELPH,0,1,33,23,92,55,"Guelph",033, ,1,1,0,206,373,"Ottawa Crescent Public School",20071010
+027,GUELPH,0,6,30,28,72,45,"Guelph",034, ,2,0,0,183,333,"Ottawa Crescent Public School",20071010
+027,GUELPH,1,2,36,31,71,57,"Guelph",035, ,3,0,0,201,408,"Victoria Road Recreation Centre",20071010
+027,GUELPH,0,1,14,8,27,18,"Guelph",036, ,0,0,0,68,216,"Victoria Road Recreation Centre",20071010
+027,GUELPH,2,3,26,25,54,21,"Guelph",037, ,0,0,0,131,323,"Victoria Road Recreation Centre",20071010
+027,GUELPH,0,1,20,23,36,19,"Guelph",038, ,2,1,0,102,301,"Victoria Road Recreation Centre",20071010
+027,GUELPH,0,1,14,12,39,36,"Guelph",039, ,3,0,0,105,305,"St. John's Catholic Elementary School",20071010
+027,GUELPH,0,1,32,31,67,36,"Guelph",040, ,1,0,0,168,394,"St. John's Catholic Elementary School",20071010
+027,GUELPH,0,1,29,28,64,63,"Guelph",041, ,1,1,0,187,393,"St. James Catholic High School",20071010
+027,GUELPH,0,2,21,27,41,52,"Guelph",042, ,0,0,0,143,321,"St. John's Catholic Elementary School",20071010
+027,GUELPH,0,3,15,47,59,47,"Guelph",043, ,0,0,0,171,392,"St. John's Catholic Elementary School",20071010
+027,GUELPH,0,1,15,29,54,43,"Guelph",044, ,0,0,0,142,326,"St. John's Catholic Elementary School",20071010
+027,GUELPH,0,2,29,17,65,66,"Guelph",045, ,0,0,0,179,365,"Elizabeth Street Fire Station",20071010
+027,GUELPH,1,2,24,14,17,23,"Guelph",046, ,0,0,0,81,264,"June Avenue Public School",20071010
+027,GUELPH,1,0,35,32,79,47,"Guelph",047, ,0,1,0,195,335,"June Avenue Public School",20071010
+027,GUELPH,0,0,22,27,74,51,"Guelph",048, ,1,0,0,175,410,"Evergreen Seniors Centre",20071010
+027,GUELPH,0,0,23,25,75,70,"Guelph",049, ,0,0,1,194,366,"Trinity United Church",20071010
+027,GUELPH,0,1,10,25,45,35,"Guelph",050, ,0,0,0,116,279,"Trinity United Church",20071010
+027,GUELPH,3,1,21,41,56,35,"Guelph",051, ,0,0,0,157,321,"Bayfield Court",20071010
+027,GUELPH,0,4,22,28,73,23,"Guelph",052, ,0,0,0,150,309,"Delhi Community Centre",20071010
+027,GUELPH,0,0,4,15,74,34,"Guelph",053s, ,1,0,0,128,240,"The Elliott Group",20071010
+027,GUELPH,0,2,12,17,94,38,"Guelph",054, ,2,0,0,165,330,"Trinity United Church",20071010
+027,GUELPH,0,1,3,3,32,23,"Guelph",055s, ,1,0,0,63,84,"The Elliott Group",20071010
+027,GUELPH,0,1,25,41,68,53,"Guelph",056, ,0,0,1,189,334,"Laurine Avenue Public School",20071010
+027,GUELPH,1,1,20,23,60,24,"Guelph",057, ,1,0,0,130,225,"Ottawa Crescent Public School",20071010
+027,GUELPH,2,1,34,32,56,40,"Guelph",058, ,0,1,0,166,334,"Ottawa Crescent Public School",20071010
+027,GUELPH,0,0,18,24,47,14,"Guelph",059, ,1,1,0,105,267,"Laurine Avenue Public School",20071010
+027,GUELPH,1,1,18,22,92,26,"Guelph",060, ,2,1,0,163,355,"St. James Catholic High School",20071010
+027,GUELPH,0,1,22,37,95,48,"Guelph",061, ,1,0,0,204,420,"St. James Catholic High School",20071010
+027,GUELPH,0,6,25,28,75,45,"Guelph",062, ,1,0,0,180,401,"St. James Catholic High School",20071010
+027,GUELPH,0,0,17,22,37,41,"Guelph",063, ,1,0,0,118,283,"St. James Catholic High School",20071010
+027,GUELPH,2,1,12,12,26,17,"Guelph",064, ,0,0,0,70,235,"Elizabeth Street Fire Station",20071010
+027,GUELPH,0,0,28,23,72,67,"Guelph",065, ,0,0,0,190,345,"June Avenue Public School",20071010
+027,GUELPH,3,0,24,30,80,55,"Guelph",066, ,1,0,0,193,327,"June Avenue Public School",20071010
+027,GUELPH,1,3,44,68,66,29,"Guelph",067, ,0,1,0,212,351,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,1,2,26,26,56,22,"Guelph",068, ,0,1,0,134,306,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,0,0,34,38,74,36,"Guelph",069, ,1,0,0,183,307,"Victory Public School",20071010
+027,GUELPH,2,2,39,67,55,27,"Guelph",070, ,0,1,1,194,321,"Victory Public School",20071010
+027,GUELPH,0,1,41,64,31,14,"Guelph",071, ,0,1,0,152,314,"Victory Public School",20071010
+027,GUELPH,0,0,29,56,64,22,"Guelph",073, ,0,0,0,171,333,"Delhi Community Centre",20071010
+027,GUELPH,0,1,42,84,40,13,"Guelph",075, ,0,0,0,180,320,"Delhi Community Centre",20071010
+027,GUELPH,0,0,21,51,77,49,"Guelph",076, ,0,1,0,199,351,"Laurine Avenue Public School",20071010
+027,GUELPH,0,0,22,42,94,33,"Guelph",077, ,4,0,0,195,354,"Laurine Avenue Public School",20071010
+027,GUELPH,0,0,35,39,80,40,"Guelph",078, ,1,0,0,195,314,"Grange Street Senior Apartments",20071010
+027,GUELPH,0,2,28,36,31,25,"Guelph",079, ,0,0,0,122,238,"Grange Street Senior Apartments",20071010
+027,GUELPH,2,5,43,65,79,23,"Guelph",080, ,0,1,0,218,467,"Italian Canadian Club",20071010
+027,GUELPH,0,3,20,50,63,19,"Guelph",081, ,1,0,0,156,305,"Tytler Public School",20071010
+027,GUELPH,3,1,37,18,84,40,"Guelph",082, ,0,0,0,183,376,"St. Paul's Evangelical Lutheran Church",20071010
+027,GUELPH,0,0,11,15,52,37,"Guelph",083, ,0,0,0,115,288,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,0,2,8,8,37,15,"Guelph",085s, ,0,0,0,70,109,"St. Joseph's Health Centre",20071010
+027,GUELPH,1,4,25,38,82,35,"Guelph",086, ,0,0,0,185,323,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,1,1,36,74,70,30,"Guelph",087, ,1,1,0,214,356,"Victory Public School",20071010
+027,GUELPH,0,0,43,73,62,33,"Guelph",088, ,0,0,0,211,345,"Victory Public School",20071010
+027,GUELPH,0,0,40,94,83,37,"Guelph",089, ,3,0,0,257,402,"Dublin Street United Church",20071010
+027,GUELPH,0,0,25,45,30,9,"Guelph",090, ,0,0,0,109,246,"Guelph Youth Music Centre",20071010
+027,GUELPH,0,0,2,0,8,6,"Guelph",091s, ,1,0,0,17,24,"Oxford Lodge",20071010
+027,GUELPH,1,0,35,59,31,18,"Guelph",092, ,0,0,1,145,265,"Guelph Youth Music Centre",20071010
+027,GUELPH,0,1,4,2,12,5,"Guelph",093s, ,1,1,0,26,47,"Norfolk Manor",20071010
+027,GUELPH,1,0,12,31,32,19,"Guelph",094, ,1,0,0,96,239,"Guelph Youth Music Centre",20071010
+027,GUELPH,0,1,23,35,17,7,"Guelph",095, ,0,0,0,83,234,"Old Quebec Street Mall",20071010
+027,GUELPH,0,1,28,56,45,11,"Guelph",096, ,0,1,0,142,260,"Italian Canadian Club",20071010
+027,GUELPH,0,1,32,38,76,28,"Guelph",097, ,0,0,0,175,329,"Italian Canadian Club",20071010
+027,GUELPH,0,3,23,35,19,20,"Guelph",098, ,0,0,0,100,226,"Tytler Public School",20071010
+027,GUELPH,0,2,20,44,32,14,"Guelph",099, ,0,1,0,113,284,"Tytler Public School",20071010
+027,GUELPH,2,3,36,67,37,22,"Guelph",100, ,0,0,0,167,300,"Tytler Public School",20071010
+027,GUELPH,2,3,22,67,43,38,"Guelph",101, ,0,0,0,175,366,"Tytler Public School",20071010
+027,GUELPH,0,6,24,53,45,37,"Guelph",102, ,0,0,0,165,360,"Tytler Public School",20071010
+027,GUELPH,0,2,16,33,93,37,"Guelph",103, ,0,0,0,181,380,"Westwood Public School",20071010
+027,GUELPH,2,0,18,24,77,44,"Guelph",104, ,0,0,1,166,344,"Shelldale Centre",20071010
+027,GUELPH,0,2,14,7,49,23,"Guelph",105, ,1,2,0,98,247,"Shelldale Centre",20071010
+027,GUELPH,0,2,10,2,25,14,"Guelph",106, ,0,0,0,53,203,"Shelldale Centre",20071010
+027,GUELPH,0,1,17,12,66,32,"Guelph",107, ,0,0,0,128,320,"Willow Road Public School",20071010
+027,GUELPH,0,0,19,20,22,13,"Guelph",108, ,0,0,0,74,226,"Shelldale Centre",20071010
+027,GUELPH,0,2,19,11,28,15,"Guelph",109, ,0,0,0,75,229,"Willow Road Public School",20071010
+027,GUELPH,0,0,15,8,17,8,"Guelph",110, ,0,0,0,48,220,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,3,4,32,42,64,32,"Guelph",111, ,4,0,0,181,406,"Paisley Road Public School",20071010
+027,GUELPH,0,0,17,23,41,24,"Guelph",112, ,0,0,0,105,318,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,1,0,24,84,43,18,"Guelph",113, ,1,1,0,172,361,"Dublin Street United Church",20071010
+027,GUELPH,0,0,34,36,30,10,"Guelph",114, ,0,0,0,110,249,"Guelph Youth Music Centre",20071010
+027,GUELPH,0,0,38,111,61,43,"Guelph",115, ,0,0,0,253,417,"Dublin Street United Church",20071010
+027,GUELPH,0,1,29,81,50,11,"Guelph",116, ,0,2,0,174,332,"Dublin Street United Church",20071010
+027,GUELPH,0,1,34,100,60,27,"Guelph",117, ,0,0,0,222,360,"Central Public School",20071010
+027,GUELPH,0,1,38,87,53,31,"Guelph",118, ,0,0,0,210,357,"Central Public School",20071010
+027,GUELPH,1,0,39,65,42,20,"Guelph",119, ,2,0,0,169,322,"Central Public School",20071010
+027,GUELPH,1,0,44,50,34,11,"Guelph",120, ,0,0,0,140,270,"Central Public School",20071010
+027,GUELPH,1,0,17,46,10,8,"Guelph",121, ,1,0,0,83,221,"Central Public School",20071010
+027,GUELPH,0,1,22,36,17,7,"Guelph",122, ,1,0,0,84,198,"Old Quebec Street Mall",20071010
+027,GUELPH,2,3,24,52,34,12,"Guelph",123, ,0,0,0,127,265,"Italian Canadian Club",20071010
+027,GUELPH,1,0,30,35,33,19,"Guelph",124, ,3,0,1,122,248,"Italian Canadian Club",20071010
+027,GUELPH,0,0,26,64,62,31,"Guelph",125, ,0,2,0,185,345,"John McCrae Public School",20071010
+027,GUELPH,6,0,74,109,104,36,"Guelph",126A, ,0,2,0,331,395,"University of Guelph Campus",20071010
+027,GUELPH,4,3,78,128,102,48,"Guelph",126B, ,0,2,0,365,450,"University of Guelph Campus",20071010
+027,GUELPH,0,1,71,121,73,47,"Guelph",126C, ,1,1,0,315,406,"University of Guelph Campus",20071010
+027,GUELPH,0,0,7,11,61,44,"Guelph",127A, ,2,0,0,125,245,"Sir Isaac Brock Public School",20071010
+027,GUELPH,0,1,6,17,54,29,"Guelph",127B, ,0,0,1,108,263,"Sir Isaac Brock Public School",20071010
+027,GUELPH,1,2,13,9,46,31,"Guelph",128, ,0,1,0,103,338,"Mitchell Woods Public School",20071010
+027,GUELPH,0,1,22,23,47,43,"Guelph",129, ,1,0,0,137,303,"Westwood Public School",20071010
+027,GUELPH,0,1,7,42,104,71,"Guelph",130, ,0,0,0,225,420,"Westwood Public School",20071010
+027,GUELPH,0,3,15,22,84,48,"Guelph",131, ,0,0,0,172,363,"Westwood Public School",20071010
+027,GUELPH,1,2,23,30,69,48,"Guelph",132, ,1,0,0,174,342,"Westwood Public School",20071010
+027,GUELPH,0,0,20,25,85,27,"Guelph",133, ,0,0,0,157,352,"Westwood Public School",20071010
+027,GUELPH,2,0,23,15,40,37,"Guelph",134, ,0,0,0,117,270,"Willow Road Public School",20071010
+027,GUELPH,1,3,22,20,74,49,"Guelph",135, ,0,0,0,169,355,"Paisley Road Public School",20071010
+027,GUELPH,0,1,38,26,83,58,"Guelph",136, ,0,0,0,206,429,"Paisley Road Public School",20071010
+027,GUELPH,1,1,21,35,69,37,"Guelph",137, ,0,0,0,164,381,"Paisley Road Public School",20071010
+027,GUELPH,1,0,27,54,87,36,"Guelph",138, ,0,0,0,205,396,"Paisley Road Public School",20071010
+027,GUELPH,1,0,24,46,70,27,"Guelph",139, ,0,0,0,168,318,"First Christian Reformed Church",20071010
+027,GUELPH,1,0,35,41,35,19,"Guelph",140, ,0,0,0,131,287,"First Christian Reformed Church",20071010
+027,GUELPH,0,0,37,43,52,40,"Guelph",141, ,2,0,0,174,329,"Guelph Civic Museum",20071010
+027,GUELPH,0,1,12,22,22,21,"Guelph",142, ,0,0,0,78,201,"Guelph Civic Museum",20071010
+027,GUELPH,0,0,29,38,65,34,"Guelph",143, ,0,0,0,166,287,"John McCrae Public School",20071010
+027,GUELPH,0,3,39,56,41,32,"Guelph",144, ,0,0,0,171,274,"Guelph Civic Museum",20071010
+027,GUELPH,1,0,32,66,87,56,"Guelph",145, ,0,1,0,243,381,"John McCrae Public School",20071010
+027,GUELPH,0,1,53,65,45,16,"Guelph",146, ,0,1,0,181,321,"John McCrae Public School",20071010
+027,GUELPH,2,2,22,31,64,72,"Guelph",147, ,0,1,1,195,493,"Mitchell Woods Public School",20071010
+027,GUELPH,0,1,21,21,110,55,"Guelph",148, ,1,1,0,210,481,"Mitchell Woods Public School",20071010
+027,GUELPH,1,2,38,27,99,76,"Guelph",149, ,1,1,0,245,487,"Mitchell Woods Public School",20071010
+027,GUELPH,0,2,24,41,110,86,"Guelph",150, ,0,0,1,264,491,"St. Peter Catholic Elementary School",20071010
+027,GUELPH,1,1,23,21,64,42,"Guelph",151, ,1,0,0,153,330,"St. Peter Catholic Elementary School",20071010
+027,GUELPH,0,2,33,23,85,45,"Guelph",152, ,0,0,0,188,361,"West End Recreation Centre",20071010
+027,GUELPH,1,2,32,13,38,19,"Guelph",153, ,1,0,0,106,335,"St. Francis of Assisi Catholic Elementary",20071010
+027,GUELPH,1,0,16,5,12,14,"Guelph",154, ,0,0,0,48,181,"St. Peter Catholic Elementary School",20071010
+027,GUELPH,2,0,26,22,50,29,"Guelph",155, ,0,0,0,129,283,"St. Peter Catholic Elementary School",20071010
+027,GUELPH,2,4,12,32,70,30,"Guelph",156, ,0,1,0,151,414,"Taylor Evans Public School",20071010
+027,GUELPH,3,0,18,16,32,18,"Guelph",157, ,0,0,0,87,377,"Taylor Evans Public School",20071010
+027,GUELPH,2,1,36,46,48,50,"Guelph",158, ,0,0,0,183,418,"Brydon Apartments",20071010
+027,GUELPH,0,1,11,21,58,37,"Guelph",159, ,0,0,0,128,242,"First Christian Reformed Church",20071010
+027,GUELPH,0,1,20,46,81,49,"Guelph",160, ,0,0,0,197,339,"First Christian Reformed Church",20071010
+027,GUELPH,2,4,29,48,98,67,"Guelph",161, ,0,1,0,249,445,"First Christian Reformed Church",20071010
+027,GUELPH,1,2,33,52,87,38,"Guelph",162, ,0,0,0,213,400,"College Avenue Public School",20071010
+027,GUELPH,0,0,29,93,100,47,"Guelph",163, ,0,3,0,272,377,"Harcourt Memorial United Church",20071010
+027,GUELPH,0,1,29,73,85,38,"Guelph",164, ,0,1,1,228,438,"Harcourt Memorial United Church",20071010
+027,GUELPH,0,0,33,25,62,32,"Guelph",165, ,2,1,0,155,202,"College Avenue Public School",20071010
+027,GUELPH,0,0,14,42,121,39,"Guelph",166, ,0,0,0,216,339,"Jean Little Public School",20071010
+027,GUELPH,1,1,5,23,113,83,"Guelph",167A, ,0,0,2,228,305,"Village by the Arboretum",20071010
+027,GUELPH,0,0,13,37,98,93,"Guelph",167B, ,1,0,0,242,308,"Village by the Arboretum",20071010
+027,GUELPH,0,0,9,31,100,63,"Guelph",167C, ,0,0,0,203,286,"Village by the Arboretum",20071010
+027,GUELPH,0,5,15,27,126,50,"Guelph",168, ,0,0,0,223,408,"Salvation Army Citadel",20071010
+027,GUELPH,0,3,36,31,85,44,"Guelph",169, ,2,0,0,201,484,"West End Recreation Centre",20071010
+027,GUELPH,0,1,16,29,106,68,"Guelph",170, ,0,1,0,221,427,"St. Francis of Assisi Catholic Elementary",20071010
+027,GUELPH,0,5,12,19,69,33,"Guelph",171, ,1,0,0,139,459,"St. Francis of Assisi Catholic Elementary",20071010
+027,GUELPH,2,4,16,30,87,36,"Guelph",172, ,1,0,0,176,453,"Taylor Evans Public School",20071010
+027,GUELPH,1,1,21,13,75,36,"Guelph",173, ,2,0,0,149,380,"Taylor Evans Public School",20071010
+027,GUELPH,4,1,30,35,94,58,"Guelph",174, ,1,1,0,224,467,"Taylor Evans Public School",20071010
+027,GUELPH,3,1,11,12,34,24,"Guelph",175, ,0,1,0,86,164,"College Avenue Public School",20071010
+027,GUELPH,0,2,1,4,4,6,"Guelph",176s, ,0,2,1,20,52,"College Place Retirement Centre",20071010
+027,GUELPH,0,0,23,28,59,25,"Guelph",177, ,1,0,0,136,382,"Priory Park Public School",20071010
+027,GUELPH,1,2,32,45,62,33,"Guelph",178, ,0,1,0,176,346,"Priory Park Public School",20071010
+027,GUELPH,0,0,7,21,73,42,"Guelph",179A, ,0,0,0,143,215,"Jean Little Public School",20071010
+027,GUELPH,1,1,10,34,73,25,"Guelph",179B, ,0,0,0,144,230,"Jean Little Public School",20071010
+027,GUELPH,0,1,20,39,106,50,"Guelph",180, ,5,0,0,221,358,"Jean Little Public School",20071010
+027,GUELPH,0,3,16,46,103,60,"Guelph",181, ,0,0,0,228,403,"Jean Little Public School",20071010
+027,GUELPH,1,2,19,36,100,53,"Guelph",182, ,0,2,0,213,372,"Jean Little Public School",20071010
+027,GUELPH,0,0,12,27,116,71,"Guelph",183, ,1,0,0,227,425,"Salvation Army Citadel",20071010
+027,GUELPH,0,3,21,28,94,69,"Guelph",184, ,0,0,0,215,394,"Salvation Army Citadel",20071010
+027,GUELPH,0,1,25,27,89,57,"Guelph",185, ,0,0,0,199,352,"Sir Isaac Brock Public School",20071010
+027,GUELPH,0,4,23,20,122,54,"Guelph",186, ,1,1,0,225,432,"Parkwood Gardens Church United",20071010
+027,GUELPH,0,2,23,25,132,80,"Guelph",187, ,1,0,0,263,479,"St. Francis of Assisi Catholic Elementary",20071010
+027,GUELPH,0,0,25,36,146,70,"Guelph",188, ,1,2,0,280,506,"Taylor Evans Public School",20071010
+027,GUELPH,1,1,32,32,86,75,"Guelph",189, ,0,1,0,228,387,"Gateway Drive Public School",20071010
+027,GUELPH,0,6,25,31,74,65,"Guelph",190, ,0,1,0,202,355,"Gateway Drive Public School",20071010
+027,GUELPH,0,0,28,23,53,33,"Guelph",191, ,0,1,0,138,314,"Gateway Drive Public School",20071010
+027,GUELPH,1,2,30,37,102,62,"Guelph",192, ,1,0,0,235,394,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,0,35,21,59,30,"Guelph",193, ,1,0,0,146,269,"Priory Park Public School",20071010
+027,GUELPH,0,2,27,31,35,33,"Guelph",194, ,0,0,1,129,363,"Priory Park Public School",20071010
+027,GUELPH,0,2,25,30,38,19,"Guelph",195, ,0,0,0,114,289,"Priory Park Public School",20071010
+027,GUELPH,4,3,28,31,33,6,"Guelph",196, ,0,1,0,106,222,"Fred A. Hamilton Public School",20071010
+027,GUELPH,0,1,34,38,45,22,"Guelph",197, ,0,0,0,140,261,"Fred A. Hamilton Public School",20071010
+027,GUELPH,0,0,23,28,21,22,"Guelph",198, ,0,0,0,94,183,"Fred A. Hamilton Public School",20071010
+027,GUELPH,1,0,31,43,100,51,"Guelph",199, ,1,1,0,228,393,"Jean Little Public School",20071010
+027,GUELPH,0,1,35,43,65,33,"Guelph",200, ,0,0,0,177,315,"Hospice Wellington",20071010
+027,GUELPH,0,0,23,36,106,62,"Guelph",201, ,0,0,0,227,379,"Hospice Wellington",20071010
+027,GUELPH,0,0,22,34,71,48,"Guelph",202, ,0,0,0,175,356,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,2,31,49,81,62,"Guelph",203, ,0,0,0,225,424,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,2,27,59,103,42,"Guelph",204, ,0,0,0,233,493,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,1,9,11,69,54,"Guelph",205, ,0,0,0,144,262,"Sir Isaac Brock Public School",20071010
+027,GUELPH,0,2,10,29,86,78,"Guelph",206, ,0,0,0,205,384,"Sir Isaac Brock Public School",20071010
+027,GUELPH,2,1,20,16,89,82,"Guelph",207, ,0,0,0,210,375,"Sir Isaac Brock Public School",20071010
+027,GUELPH,0,3,18,38,140,93,"Guelph",208, ,1,0,0,293,546,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,2,1,32,41,77,54,"Guelph",209, ,1,0,0,208,425,"Parkwood Gardens Church United",20071010
+027,GUELPH,2,0,16,17,47,28,"Guelph",210, ,1,0,0,111,307,"Gateway Drive Public School",20071010
+027,GUELPH,0,2,53,32,72,29,"Guelph",211, ,0,0,0,188,402,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,3,20,22,41,20,"Guelph",212, ,1,0,0,107,208,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,0,30,38,105,46,"Guelph",213, ,0,1,0,220,445,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,2,8,31,18,11,"Guelph",214, ,0,0,0,70,200,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,2,22,51,133,70,"Guelph",215, ,0,0,0,278,405,"Mary Phelan Catholic Elementary School",20071010
+027,GUELPH,0,0,14,15,81,42,"Guelph",216A, ,0,0,0,152,262,"Kortright Hills Public School",20071010
+027,GUELPH,0,3,7,17,74,50,"Guelph",216B, ,1,2,0,154,261,"Kortright Hills Public School",20071010
+027,GUELPH,0,1,6,1,26,17,"Guelph",217s, ,0,1,0,52,94,"Stone Lodge",20071010
+027,GUELPH,1,1,27,31,51,39,"Guelph",218, ,0,1,1,152,320,"Fred A. Hamilton Public School",20071010
+027,GUELPH,1,0,37,55,99,45,"Guelph",219, ,0,1,0,238,366,"Fred A. Hamilton Public School",20071010
+027,GUELPH,0,1,25,29,111,60,"Guelph",220, ,0,1,0,227,346,"Hospice Wellington",20071010
+027,GUELPH,3,0,34,51,112,37,"Guelph",221, ,1,0,0,238,381,"Fred A. Hamilton Public School",20071010
+027,GUELPH,1,0,27,29,99,59,"Guelph",222, ,0,0,1,216,432,"Hospice Wellington",20071010
+027,GUELPH,1,0,29,37,68,36,"Guelph",223, ,0,0,0,171,375,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,0,11,38,91,49,"Guelph",224, ,2,0,0,191,429,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,3,12,34,61,37,"Guelph",225, ,1,0,0,148,333,"St. Michael Catholic Elementary School",20071010
+027,GUELPH,0,1,31,43,95,69,"Guelph",226, ,1,0,0,240,453,"Brock Road Public School",20071010
+027,GUELPH,0,0,10,14,61,57,"Guelph",227, ,0,1,0,143,292,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,0,1,19,30,102,51,"Guelph",228, ,2,0,0,205,359,"Brock Road Public School",20071010
+027,GUELPH,0,2,17,29,81,47,"Guelph",229, ,1,1,0,178,419,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,3,0,11,39,78,70,"Guelph",230, ,0,0,0,201,358,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,0,0,17,29,114,74,"Guelph",231, ,0,0,0,234,446,"Kortright Hills Public School",20071010
+027,GUELPH,0,3,24,62,129,62,"Guelph",232, ,0,0,0,280,474,"Hospice Wellington",20071010
+027,GUELPH,0,0,11,22,117,82,"Guelph",233, ,2,1,0,235,435,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,1,0,21,22,66,45,"Guelph",234A, ,1,0,0,156,276,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,1,2,18,15,55,39,"Guelph",234B, ,0,1,0,131,316,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,0,1,27,28,69,36,"Guelph",235, ,0,0,0,161,325,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,1,1,16,21,74,50,"Guelph",236, ,7,0,0,170,295,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,0,0,18,25,65,73,"Guelph",237, ,0,0,0,181,341,"St. Paul Catholic Elementary School",20071010
+027,GUELPH,1,2,20,34,100,62,"Guelph",238, ,4,0,0,223,407,"Kortright Hills Public School",20071010
+027,GUELPH,0,0,17,27,100,68,"Guelph",239, ,2,0,1,215,360,"Kortright Hills Public School",20071010
+027,GUELPH,0,2,24,32,128,74,"Guelph",240, ,1,0,0,261,458,"Kortright Hills Public School",20071010
+027,GUELPH,2,1,13,31,99,53,"Guelph",241, ,0,1,0,200,474,"Kortright Hills Public School",20071010
+027,GUELPH,0,0,18,21,80,60,"Guelph",242, ,0,0,0,179,336,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,2,2,18,19,107,59,"Guelph",243, ,0,0,0,207,375,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,3,3,14,32,127,77,"Guelph",244, ,1,0,0,257,489,"Kortright Hills Public School",20071010
+027,GUELPH,0,1,2,2,8,5,"Guelph",245s, ,1,0,0,19,35,"Heritage House",20071010
+027,GUELPH,1,1,16,19,58,36,"Guelph",246, ,2,0,0,133,307,"Bishop Macdonell Catholic High School",20071010
+027,GUELPH,0,1,13,9,50,17,"Guelph",400, ,0,0,0,90,120,"Woodlawn Towers 1",20071010
+027,GUELPH,0,1,16,13,51,44,"Guelph",401, ,0,0,0,125,200,"Woodlawn Towers 1",20071010
+027,GUELPH,0,0,4,7,62,28,"Guelph",402, ,1,2,0,104,152,"Woodlawn Towers 1",20071010
+027,GUELPH,0,0,9,5,34,11,"Guelph",403, ,0,0,0,59,108,"Marlborough Courts Apartments",20071010
+027,GUELPH,1,2,10,15,34,18,"Guelph",404, ,0,0,0,80,131,"Twin Towers Apartments",20071010
+027,GUELPH,0,0,10,19,42,29,"Guelph",405, ,0,0,0,100,143,"Twin Towers Apartments",20071010
+027,GUELPH,0,1,13,9,26,13,"Guelph",406, ,0,0,0,62,153,"Regency Court Apartments",20071010
+027,GUELPH,1,0,16,10,24,5,"Guelph",407, ,0,0,0,56,98,"Woolwich Court Apartments",20071010
+027,GUELPH,0,0,16,25,17,11,"Guelph",408, ,0,0,0,69,153,"First Baptist Church",20071010
+027,GUELPH,0,3,9,22,31,8,"Guelph",409, ,0,0,0,73,119,"Park Mall Apartments",20071010
+027,GUELPH,0,0,12,26,26,2,"Guelph",410, ,0,0,0,66,128,"First Baptist Church",20071010
+027,GUELPH,0,0,10,8,14,11,"Guelph",411, ,0,0,0,43,144,"Willow Road Public School",20071010
+027,GUELPH,0,3,21,28,20,9,"Guelph",412, ,0,0,0,81,162,"Our Lady of Lourdes Catholic High School",20071010
+027,GUELPH,0,0,15,14,28,31,"Guelph",413, ,0,0,0,88,104,"60 Wyndham Street South",20071010
+027,GUELPH,2,0,16,13,19,14,"Guelph",414, ,1,0,0,65,135,"Victor Davis Memorial Court Apartments",20071010
+027,GUELPH,0,0,12,4,12,4,"Guelph",415, ,0,0,0,32,112,"St. Paul's Evangelical Lutheran Church",20071010
+027,GUELPH,0,0,4,7,8,12,"Guelph",416, ,0,0,0,31,125,"St. Paul's Evangelical Lutheran Church",20071010
+027,GUELPH,1,0,10,9,14,11,"Guelph",417, ,0,0,0,45,163,"St. Paul's Evangelical Lutheran Church",20071010
+027,GUELPH,0,0,4,6,11,8,"Guelph",418, ,2,0,0,31,93,"John McCrae Public School",20071010
+027,GUELPH,0,0,13,9,19,3,"Guelph",419, ,0,1,0,45,141,"Sprucedale Apartments",20071010
+027,GUELPH,0,1,14,14,29,12,"Guelph",420, ,1,0,0,71,152,"Sprucedale Apartments",20071010
+027,GUELPH,0,0,11,12,41,35,"Guelph",421, ,1,0,0,100,194,"Royal Towne Apartments",20071010
+027,GUELPH,0,1,8,8,36,15,"Guelph",422, ,0,3,0,71,135,"Royal Towne Apartments",20071010
+027,GUELPH,0,3,16,6,29,20,"Guelph",423, ,0,1,0,75,111,"Waterloo Court Senior Apartments",20071010
+027,GUELPH,0,0,18,13,23,8,"Guelph",424, ,0,1,0,63,141,"Brydon Apartments",20071010
+027,GUELPH,0,0,5,16,23,21,"Guelph",425, ,0,0,0,65,157,"Brydon Apartments",20071010
+027,GUELPH,2,0,13,6,17,4,"Guelph",426, ,0,0,0,42,122,"College Avenue Public School",20071010
+027,GUELPH,1,1,27,45,48,14,"Guelph",427, ,0,0,0,136,316,"302 College Avenue West",20071010
+027,GUELPH,0,1,4,21,41,17,"Guelph",428, ,0,0,0,84,126,"Talisman Square Apartments",20071010
+027,GUELPH,0,0,15,34,42,23,"Guelph",429, ,1,1,0,116,237,"University of Guelph Campus",20071010
+027,GUELPH,1,1,17,5,17,6,"Guelph",430, ,0,1,0,48,119,"7 Christopher Court",20071010
+027,GUELPH,3,12,98,138,492,279,"Guelph",Advanced Polls /  ADV001, ,3,0,0,1025,0,"Returning Office / Bureau du directeur du scrutin",20071010
+027,GUELPH,2,4,145,160,608,366,"Guelph",Advanced Polls /  ADV002, ,26,2,1,1314,0,"Evergreen Seniors Centre",20071010
+027,GUELPH,3,6,175,278,351,173,"Guelph",Advanced Polls /  ADV003, ,2,3,0,991,0,"Old Quebec Street Mall",20071010
+027,GUELPH,0,9,98,103,305,285,"Guelph",Advanced Polls /  ADV004, ,0,3,1,804,0,"Victoria Road Recreation Centre",20071010
+027,GUELPH,0,3,43,60,266,174,"Guelph",Advanced Polls /  ADV005, ,0,1,0,547,0,"Sir Isaac Brock Public School",20071010
+027,GUELPH,4,11,113,126,414,283,"Guelph",Advanced Polls /  ADV006, ,0,1,0,952,0,"West End Recreation Centre",20071010
+TOTALS:, ,166,405,6880,9750,20346,12180, , , , , , , , , , 

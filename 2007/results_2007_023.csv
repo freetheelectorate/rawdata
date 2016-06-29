@@ -1,0 +1,256 @@
+ED_CODE,ED_NAME,AGRAWAL,CANSFIELD,KING,PRINGLE,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+023,ETOBICOKE CENTRE,16,95,12,67,"Toronto",001, ,1,0,0,191,370,"St. Andrew's Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,17,70,15,72,"Toronto",002, ,0,2,0,176,357,"St. Andrew's Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,5,34,1,12,"Toronto",003, ,0,0,0,52,142,"Westway Junior School",20071010
+023,ETOBICOKE CENTRE,6,36,3,10,"Toronto",004, ,0,2,0,57,263,"Valleyfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,19,109,9,86,"Toronto",005, ,4,0,1,228,409,"Valleyfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,11,54,11,42,"Toronto",006, ,0,0,0,118,313,"Valleyfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,14,97,13,49,"Toronto",007, ,0,0,0,173,392,"St. Andrew's Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,12,20,1,16,"Toronto",009s, ,0,0,0,49,214,"Humber Heights Seniors Apartments",20071010
+023,ETOBICOKE CENTRE,16,113,19,62,"Toronto",010, ,0,0,0,210,447,"St. Andrew's Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,15,83,11,58,"Toronto",011, ,1,0,0,168,416,"Westmount Junior School",20071010
+023,ETOBICOKE CENTRE,14,43,11,17,"Toronto",012, ,2,0,0,87,244,"Westmount Junior School",20071010
+023,ETOBICOKE CENTRE,27,116,12,53,"Toronto",013, ,0,1,0,209,402,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,20,121,15,41,"Toronto",014, ,2,0,0,199,370,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,13,57,11,38,"Toronto",015, ,1,0,0,120,317,"Westway Junior School",20071010
+023,ETOBICOKE CENTRE,17,86,9,86,"Toronto",016, ,1,0,2,201,337,"Westway Junior School",20071010
+023,ETOBICOKE CENTRE,19,123,11,87,"Toronto",017, ,0,0,0,240,402,"Westway Junior School",20071010
+023,ETOBICOKE CENTRE,21,131,15,86,"Toronto",018, ,0,0,0,253,426,"Westway Junior School",20071010
+023,ETOBICOKE CENTRE,31,132,16,72,"Toronto",019, ,0,0,0,251,403,"Valleyfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,13,140,17,63,"Toronto",020, ,0,0,0,233,406,"Valleyfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,14,114,12,103,"Toronto",021, ,0,0,0,243,448,"Westmount Park Church",20071010
+023,ETOBICOKE CENTRE,6,84,11,57,"Toronto",022, ,2,0,0,160,290,"Westmount Junior School",20071010
+023,ETOBICOKE CENTRE,7,124,10,82,"Toronto",023, ,0,2,0,225,391,"Westmount Junior School",20071010
+023,ETOBICOKE CENTRE,27,114,12,67,"Toronto",024, ,0,0,2,222,441,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,23,130,15,78,"Toronto",025, ,3,1,0,250,408,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,21,121,20,78,"Toronto",026, ,0,2,0,242,385,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,14,104,13,66,"Toronto",027, ,1,1,0,199,317,"Westway United Church",20071010
+023,ETOBICOKE CENTRE,8,129,10,66,"Toronto",028, ,1,2,0,216,366,"Richview Library",20071010
+023,ETOBICOKE CENTRE,17,140,17,65,"Toronto",029, ,1,1,1,242,404,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,10,135,13,72,"Toronto",030, ,0,0,0,230,363,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,15,141,10,59,"Toronto",031, ,0,0,0,225,377,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,14,38,5,26,"Toronto",032s, ,0,0,0,83,104,"Humbervale Residence",20071010
+023,ETOBICOKE CENTRE,13,166,15,63,"Toronto",033, ,4,0,0,261,441,"St. Demetrius Catholic School",20071010
+023,ETOBICOKE CENTRE,12,130,7,55,"Toronto",034s, ,3,2,0,209,266,"St. Demetrius Seniors Residence",20071010
+023,ETOBICOKE CENTRE,11,127,14,79,"Toronto",035, ,2,1,0,234,386,"St. Demetrius Catholic School",20071010
+023,ETOBICOKE CENTRE,3,19,5,24,"Toronto",036s, ,1,1,1,54,121,"Ukrainian Canadian Care Centre",20071010
+023,ETOBICOKE CENTRE,24,151,17,46,"Toronto",037, ,0,0,0,238,489,"Parkfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,17,132,13,55,"Toronto",038, ,1,0,0,218,383,"Dixon Grove Junior Middle School",20071010
+023,ETOBICOKE CENTRE,26,114,17,71,"Toronto",039, ,1,0,0,229,402,"Dixon Grove Junior Middle School",20071010
+023,ETOBICOKE CENTRE,12,112,11,74,"Toronto",040, ,0,0,0,209,406,"Dixon Grove Junior Middle School",20071010
+023,ETOBICOKE CENTRE,12,130,22,71,"Toronto",041, ,0,0,0,235,444,"Richview Library",20071010
+023,ETOBICOKE CENTRE,12,125,13,81,"Toronto",042, ,2,0,0,233,408,"Richview Library",20071010
+023,ETOBICOKE CENTRE,21,158,9,73,"Toronto",043, ,0,1,0,262,416,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,14,109,15,63,"Toronto",044, ,1,0,0,202,364,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,10,127,15,66,"Toronto",045, ,0,1,0,219,437,"Father Serra Catholic School",20071010
+023,ETOBICOKE CENTRE,14,103,13,45,"Toronto",046, ,0,0,0,175,369,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,4,28,2,15,"Toronto",047s, ,2,0,0,51,67,"Scarlett Heights Retirement Residence",20071010
+023,ETOBICOKE CENTRE,20,93,9,52,"Toronto",049, ,0,1,0,175,349,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,7,45,2,35,"Toronto",050, ,0,0,0,89,226,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,18,102,16,66,"Toronto",051, ,0,0,0,202,368,"Parkfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,23,117,18,47,"Toronto",052, ,0,0,0,205,396,"Parkfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,27,58,10,40,"Toronto",053, ,0,1,0,136,292,"Central Etobicoke High School",20071010
+023,ETOBICOKE CENTRE,14,109,12,65,"Toronto",054, ,0,2,0,202,383,"Central Etobicoke High School",20071010
+023,ETOBICOKE CENTRE,23,141,8,68,"Toronto",055s, ,0,2,0,242,330,"Richview Residence Kipling",20071010
+023,ETOBICOKE CENTRE,6,59,5,48,"Toronto",057, ,1,0,0,119,217,"Central Etobicoke High School",20071010
+023,ETOBICOKE CENTRE,16,101,14,73,"Toronto",058, ,0,1,0,205,406,"Richview Library",20071010
+023,ETOBICOKE CENTRE,8,108,22,105,"Toronto",059, ,3,0,0,246,458,"Richview Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,13,138,15,122,"Toronto",060, ,1,0,0,289,539,"Richview Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,8,95,9,75,"Toronto",061, ,2,2,3,194,371,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,15,136,19,86,"Toronto",062, ,0,0,0,256,444,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,9,109,10,63,"Toronto",063, ,2,0,0,193,387,"Leonardo Da Vinci Academy of Arts and Science",20071010
+023,ETOBICOKE CENTRE,31,97,3,63,"Toronto",064, ,0,0,0,194,358,"Parkfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,6,61,15,53,"Toronto",065A, ,0,1,0,136,265,"John G. Althouse Middle School",20071010
+023,ETOBICOKE CENTRE,5,60,25,55,"Toronto",065B, ,0,1,0,146,274,"John G. Althouse Middle School",20071010
+023,ETOBICOKE CENTRE,10,87,19,76,"Toronto",066, ,1,0,0,193,424,"Richview Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,6,68,12,70,"Toronto",067, ,1,1,0,158,351,"Richview Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,3,92,12,130,"Toronto",068, ,0,1,0,238,454,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,4,87,14,87,"Toronto",069, ,1,0,0,193,429,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,23,64,17,81,"Toronto",070, ,0,0,0,185,406,"Briarcrest Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,23,112,22,78,"Toronto",071, ,1,0,0,236,405,"Martingrove Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,11,107,48,95,"Toronto",072, ,1,1,0,263,451,"Martingrove Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,8,127,61,91,"Toronto",073, ,1,1,0,289,437,"John G. Althouse Middle School",20071010
+023,ETOBICOKE CENTRE,15,141,27,123,"Toronto",074, ,0,0,0,306,472,"John G. Althouse Middle School",20071010
+023,ETOBICOKE CENTRE,6,137,20,108,"Toronto",075, ,0,0,0,271,403,"St. George's Junior School",20071010
+023,ETOBICOKE CENTRE,5,109,17,134,"Toronto",076, ,1,2,0,268,475,"St. George's Junior School",20071010
+023,ETOBICOKE CENTRE,6,87,15,109,"Toronto",077, ,0,1,0,218,407,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,5,88,15,82,"Toronto",078, ,1,0,0,191,393,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,21,92,22,93,"Toronto",079, ,0,0,1,229,424,"Briarcrest Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,31,129,8,76,"Toronto",080, ,2,0,0,246,429,"Briarcrest Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,17,144,34,98,"Toronto",081, ,0,1,1,295,466,"Josyf Cardinal Slipyj Catholic School",20071010
+023,ETOBICOKE CENTRE,9,83,26,71,"Toronto",082, ,0,0,0,189,343,"John G. Althouse Middle School",20071010
+023,ETOBICOKE CENTRE,11,111,26,84,"Toronto",083, ,0,1,0,233,402,"St. Gregory Catholic School",20071010
+023,ETOBICOKE CENTRE,2,81,16,108,"Toronto",084, ,0,1,0,208,376,"St. George's Junior School",20071010
+023,ETOBICOKE CENTRE,2,87,14,102,"Toronto",085, ,1,0,0,206,412,"St. George's Junior School",20071010
+023,ETOBICOKE CENTRE,5,107,15,120,"Toronto",086, ,1,0,0,248,434,"Humber Valley United Church",20071010
+023,ETOBICOKE CENTRE,13,54,10,44,"Toronto",087, ,1,0,0,122,241,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,9,40,5,21,"Toronto",088, ,0,1,0,76,195,"Humber Valley Village Junior Middle School",20071010
+023,ETOBICOKE CENTRE,12,28,9,11,"Toronto",089, ,0,0,0,60,156,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,12,20,5,14,"Toronto",090, ,2,0,0,53,178,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,12,54,18,71,"Toronto",091, ,0,0,0,155,284,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,5,121,14,63,"Toronto",092, ,0,1,0,204,413,"Hollycrest Middle School",20071010
+023,ETOBICOKE CENTRE,19,107,15,60,"Toronto",093, ,1,0,0,202,350,"Briarcrest Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,28,89,14,84,"Toronto",094, ,0,0,0,215,393,"Briarcrest Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,11,87,12,55,"Toronto",095, ,0,0,0,165,340,"Josyf Cardinal Slipyj Catholic School",20071010
+023,ETOBICOKE CENTRE,13,84,19,75,"Toronto",096, ,4,0,0,195,373,"Josyf Cardinal Slipyj Catholic School",20071010
+023,ETOBICOKE CENTRE,15,82,26,69,"Toronto",097, ,1,0,0,193,341,"St. Gregory Catholic School",20071010
+023,ETOBICOKE CENTRE,14,99,25,85,"Toronto",098, ,1,1,0,225,392,"St. Gregory Catholic School",20071010
+023,ETOBICOKE CENTRE,14,92,19,64,"Toronto",099, ,0,0,0,189,339,"St. Gregory Catholic School",20071010
+023,ETOBICOKE CENTRE,14,115,16,92,"Toronto",100, ,0,0,0,237,395,"St. Gregory Catholic School",20071010
+023,ETOBICOKE CENTRE,12,81,14,113,"Toronto",101, ,0,3,0,223,400,"St. George's Junior School",20071010
+023,ETOBICOKE CENTRE,7,104,13,109,"Toronto",102, ,0,0,0,233,381,"Rosethorn Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,12,123,18,115,"Toronto",103, ,2,0,0,270,455,"Humber Valley United Church",20071010
+023,ETOBICOKE CENTRE,10,52,13,59,"Toronto",104, ,0,1,0,135,217,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,14,75,14,38,"Toronto",105, ,0,0,1,142,242,"Royal York Gardens",20071010
+023,ETOBICOKE CENTRE,11,96,14,62,"Toronto",106, ,0,2,0,185,336,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,11,93,9,85,"Toronto",107, ,1,0,0,199,431,"Hollycrest Middle School",20071010
+023,ETOBICOKE CENTRE,18,83,8,89,"Toronto",108, ,1,0,0,199,351,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,23,130,17,59,"Toronto",109, ,0,0,0,229,392,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,17,123,14,61,"Toronto",110, ,0,2,0,217,419,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,21,117,15,62,"Toronto",111, ,0,0,0,215,438,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,19,77,12,34,"Toronto",112, ,0,0,0,142,359,"Josyf Cardinal Slipyj Catholic School",20071010
+023,ETOBICOKE CENTRE,19,102,33,90,"Toronto",113, ,3,0,0,247,409,"Josyf Cardinal Slipyj Catholic School",20071010
+023,ETOBICOKE CENTRE,14,116,12,101,"Toronto",114, ,1,0,0,244,464,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,6,129,29,67,"Toronto",115, ,0,0,0,231,393,"Rosethorn Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,13,113,14,86,"Toronto",116, ,0,0,0,226,390,"Rosethorn Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,10,92,23,100,"Toronto",117, ,1,0,0,226,390,"Rosethorn Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,14,98,17,92,"Toronto",118, ,0,2,1,224,448,"Rosethorn Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,6,82,22,76,"Toronto",119, ,0,0,0,186,361,"Etobicoke Collegiate",20071010
+023,ETOBICOKE CENTRE,15,80,21,77,"Toronto",120, ,0,1,0,194,356,"Etobicoke Collegiate",20071010
+023,ETOBICOKE CENTRE,14,102,24,82,"Toronto",121, ,1,0,0,223,381,"Etobicoke Collegiate",20071010
+023,ETOBICOKE CENTRE,3,7,1,3,"Toronto",122s, ,0,1,0,15,28,"Centennial Park Place",20071010
+023,ETOBICOKE CENTRE,24,87,17,67,"Toronto",123, ,0,0,0,195,395,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,20,72,15,45,"Toronto",124, ,1,2,0,155,319,"Wellesworth Junior School",20071010
+023,ETOBICOKE CENTRE,17,70,3,37,"Toronto",125, ,2,0,1,130,313,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,16,133,20,78,"Toronto",126, ,1,1,0,249,459,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,21,104,20,83,"Toronto",127, ,3,1,0,232,407,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,9,76,11,86,"Toronto",128, ,0,0,0,182,348,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,14,70,13,52,"Toronto",129, ,1,0,0,150,272,"Etobicoke Collegiate",20071010
+023,ETOBICOKE CENTRE,24,96,16,59,"Toronto",130, ,3,1,0,199,392,"Hollycrest Middle School",20071010
+023,ETOBICOKE CENTRE,18,90,10,56,"Toronto",131, ,0,2,0,176,349,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,13,87,10,85,"Toronto",132, ,2,0,0,197,364,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,17,103,14,41,"Toronto",133, ,0,0,0,175,359,"The Church of Christ the King",20071010
+023,ETOBICOKE CENTRE,18,101,14,78,"Toronto",134, ,1,0,0,212,389,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,20,79,7,29,"Toronto",135, ,2,0,1,138,425,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,5,37,6,16,"Toronto",136s, ,0,0,0,64,187,"The Westbury",20071010
+023,ETOBICOKE CENTRE,5,39,1,25,"Toronto",137s, ,10,0,0,80,228,"Highbourne Lifecare Centre",20071010
+023,ETOBICOKE CENTRE,17,95,9,93,"Toronto",138, ,0,0,0,214,451,"West Glen Junior School",20071010
+023,ETOBICOKE CENTRE,15,123,18,61,"Toronto",139, ,1,2,0,220,413,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,12,103,31,104,"Toronto",140, ,5,2,0,257,453,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,18,143,21,80,"Toronto",141, ,0,0,0,262,422,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,22,62,6,45,"Toronto",142, ,0,0,1,136,265,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,9,97,16,73,"Toronto",143, ,1,0,0,196,312,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,13,88,13,51,"Toronto",144, ,1,1,1,168,339,"Broadacres Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,2,28,1,7,"Toronto",145s, ,0,0,0,38,124,"Westburn Manor",20071010
+023,ETOBICOKE CENTRE,12,106,4,46,"Toronto",146, ,1,0,0,169,328,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,9,71,5,26,"Toronto",147, ,1,0,0,112,221,"Mill Valley Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,10,85,13,64,"Toronto",148A, ,0,0,0,172,312,"Bloordale Middle School",20071010
+023,ETOBICOKE CENTRE,5,66,15,35,"Toronto",148B, ,1,1,1,124,203,"Bloordale Middle School",20071010
+023,ETOBICOKE CENTRE,17,64,12,60,"Toronto",149A, ,0,0,0,153,265,"Bloordale Middle School",20071010
+023,ETOBICOKE CENTRE,11,53,14,48,"Toronto",149B, ,2,0,0,128,226,"Bloordale Middle School",20071010
+023,ETOBICOKE CENTRE,19,136,19,83,"Toronto",150, ,0,0,0,257,423,"Eatonville Junior School",20071010
+023,ETOBICOKE CENTRE,8,43,7,22,"Toronto",151, ,0,0,0,80,195,"Eatonville Junior School",20071010
+023,ETOBICOKE CENTRE,10,43,6,28,"Toronto",152, ,0,0,0,87,236,"Eatonville Junior School",20071010
+023,ETOBICOKE CENTRE,19,139,38,98,"Toronto",153, ,3,3,0,300,475,"Millwood Junior School",20071010
+023,ETOBICOKE CENTRE,9,134,23,95,"Toronto",154, ,0,0,0,261,461,"Bloordale Middle School",20071010
+023,ETOBICOKE CENTRE,26,87,16,64,"Toronto",155, ,1,2,0,196,385,"Eatonville Junior School",20071010
+023,ETOBICOKE CENTRE,5,130,10,135,"Toronto",156, ,1,0,0,281,437,"Millwood Junior School",20071010
+023,ETOBICOKE CENTRE,8,88,26,73,"Toronto",157, ,0,0,0,195,343,"Millwood Junior School",20071010
+023,ETOBICOKE CENTRE,15,102,11,90,"Toronto",158, ,0,0,0,218,383,"St. Clement Catholic School",20071010
+023,ETOBICOKE CENTRE,15,129,15,92,"Toronto",159, ,0,2,0,253,454,"St. Clement Catholic School",20071010
+023,ETOBICOKE CENTRE,15,88,9,86,"Toronto",160, ,0,0,0,198,373,"Bloordale United Church",20071010
+023,ETOBICOKE CENTRE,16,77,7,82,"Toronto",161, ,1,0,0,183,337,"Bloordale United Church",20071010
+023,ETOBICOKE CENTRE,12,44,7,30,"Toronto",162, ,1,0,0,94,232,"Bloordale United Church",20071010
+023,ETOBICOKE CENTRE,8,23,7,21,"Toronto",163, ,0,0,0,59,181,"Bloordale United Church",20071010
+023,ETOBICOKE CENTRE,8,119,17,87,"Toronto",164, ,0,0,0,231,407,"St. Clement Catholic School",20071010
+023,ETOBICOKE CENTRE,2,24,3,6,"Toronto",165s, ,1,1,0,37,97,"Dom Lipa Nursing Home",20071010
+023,ETOBICOKE CENTRE,13,48,4,10,"Toronto",400, ,7,0,0,82,200,"Scarlett Manor",20071010
+023,ETOBICOKE CENTRE,25,71,7,23,"Toronto",401, ,0,0,0,126,248,"Southcrest Apartments",20071010
+023,ETOBICOKE CENTRE,18,38,16,31,"Toronto",402, ,0,0,0,103,192,"The Promenade",20071010
+023,ETOBICOKE CENTRE,30,119,13,57,"Toronto",403, ,1,1,0,221,383,"Tiffany Place",20071010
+023,ETOBICOKE CENTRE,8,59,7,19,"Toronto",404, ,0,1,0,94,171,"Islington Towers",20071010
+023,ETOBICOKE CENTRE,6,49,2,16,"Toronto",405, ,0,0,0,73,178,"Valleyview Towers",20071010
+023,ETOBICOKE CENTRE,11,36,15,23,"Toronto",406, ,0,0,0,85,154,"Dixington Apartments",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",407, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,4,41,9,28,"Toronto",408, ,0,0,0,82,123,"Rosecourt Apartments",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",409, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,11,30,8,33,"Toronto",410, ,0,0,0,82,198,"St. Demetrius Catholic School",20071010
+023,ETOBICOKE CENTRE,6,48,5,36,"Toronto",411, ,0,0,0,95,130,"95 La Rose Apartments",20071010
+023,ETOBICOKE CENTRE,23,118,17,75,"Toronto",412, ,2,1,0,236,358,"Top of the Humber",20071010
+023,ETOBICOKE CENTRE,19,41,9,21,"Toronto",413, ,0,0,0,90,204,"45 La Rose Apartments",20071010
+023,ETOBICOKE CENTRE,12,82,2,64,"Toronto",414, ,0,0,0,160,239,"Richview Heights",20071010
+023,ETOBICOKE CENTRE,26,62,14,48,"Toronto",415, ,15,2,0,167,288,"Richview Gardens",20071010
+023,ETOBICOKE CENTRE,28,133,16,68,"Toronto",416, ,0,0,0,245,402,"Humber Hill Towers",20071010
+023,ETOBICOKE CENTRE,8,19,4,14,"Toronto",417, ,0,2,0,47,129,"St. Demetrius Catholic School",20071010
+023,ETOBICOKE CENTRE,25,62,7,35,"Toronto",418, ,0,0,0,129,201,"Richview Terrace 25",20071010
+023,ETOBICOKE CENTRE,9,26,7,13,"Toronto",419, ,0,0,0,55,155,"St. Demetrius Catholic School",20071010
+023,ETOBICOKE CENTRE,32,85,16,51,"Toronto",420, ,1,0,0,185,425,"Richview Terrace A and B",20071010
+023,ETOBICOKE CENTRE,23,60,2,23,"Toronto",421, ,6,0,0,114,241,"20 Redgrave Drive",20071010
+023,ETOBICOKE CENTRE,10,22,4,9,"Toronto",422, ,1,0,0,46,123,"Kipling Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",423, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,14,57,6,12,"Toronto",424, ,7,2,0,98,172,"Martinway Towers Martingrove",20071010
+023,ETOBICOKE CENTRE,13,40,0,13,"Toronto",425, ,0,2,0,68,123,"The Westerham",20071010
+023,ETOBICOKE CENTRE,14,63,7,48,"Toronto",426, ,0,2,1,135,215,"Royal Gate Apartments",20071010
+023,ETOBICOKE CENTRE,36,71,13,53,"Toronto",427, ,0,0,0,173,303,"The Royal Rose Apartments",20071010
+023,ETOBICOKE CENTRE,12,17,11,6,"Toronto",428, ,0,0,0,46,135,"Fontenay Court",20071010
+023,ETOBICOKE CENTRE,13,41,7,13,"Toronto",429, ,0,0,0,74,129,"Fontenay Court",20071010
+023,ETOBICOKE CENTRE,14,70,9,23,"Toronto",430, ,0,0,1,117,174,"Fountain of Edenbridge",20071010
+023,ETOBICOKE CENTRE,16,39,10,26,"Toronto",431, ,0,1,0,92,176,"James Gardens Apartments",20071010
+023,ETOBICOKE CENTRE,11,73,6,36,"Toronto",432, ,0,0,0,126,200,"Golden Gates",20071010
+023,ETOBICOKE CENTRE,16,48,3,11,"Toronto",433, ,7,0,0,85,140,"Oxford Towers",20071010
+023,ETOBICOKE CENTRE,24,120,16,58,"Toronto",434, ,0,3,0,221,345,"Huntingwood Place 73",20071010
+023,ETOBICOKE CENTRE,24,102,19,56,"Toronto",435, ,0,0,0,201,331,"Huntingwood Place 63",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",436, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,6,109,27,123,"Toronto",437, ,0,2,0,267,377,"Widdicombe Place",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",438, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,11,23,3,20,"Toronto",439, ,0,0,0,57,144,"Central Etobicoke High School",20071010
+023,ETOBICOKE CENTRE,4,36,8,26,"Toronto",440, ,0,0,0,74,160,"Central Etobicoke High School",20071010
+023,ETOBICOKE CENTRE,8,78,5,12,"Toronto",441, ,1,3,0,107,271,"Willowridge Towers",20071010
+023,ETOBICOKE CENTRE,6,27,2,5,"Toronto",442, ,0,0,0,40,113,"Willowridge Towers",20071010
+023,ETOBICOKE CENTRE,18,55,1,24,"Toronto",443, ,0,0,0,98,311,"Parkfield Junior Elementary School",20071010
+023,ETOBICOKE CENTRE,22,89,9,75,"Toronto",444, ,0,0,0,195,337,"Huntingwood Place 120",20071010
+023,ETOBICOKE CENTRE,16,47,5,24,"Toronto",445, ,0,0,0,92,226,"Martingrove Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,11,33,12,19,"Toronto",446, ,0,1,0,76,261,"Martingrove Collegiate Institute",20071010
+023,ETOBICOKE CENTRE,14,31,10,29,"Toronto",447, ,0,0,0,84,168,"St. Giles Kingsway Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,16,40,6,25,"Toronto",448, ,0,0,0,87,132,"Royal York Gardens",20071010
+023,ETOBICOKE CENTRE,24,41,9,27,"Toronto",449, ,0,0,0,101,174,"Victoria House",20071010
+023,ETOBICOKE CENTRE,23,90,12,69,"Toronto",450, ,1,0,0,195,290,"The Buckingham - 714",20071010
+023,ETOBICOKE CENTRE,3,13,4,4,"Toronto",451, ,0,0,0,24,105,"The Church of Christ the King",20071010
+023,ETOBICOKE CENTRE,28,123,10,61,"Toronto",452A, ,0,0,7,229,439,"Summit Royal",20071010
+023,ETOBICOKE CENTRE,26,116,8,54,"Toronto",452B, ,2,0,0,206,419,"Summit Royal",20071010
+023,ETOBICOKE CENTRE,42,111,22,63,"Toronto",453, ,1,0,0,239,424,"The Grange",20071010
+023,ETOBICOKE CENTRE,39,77,13,61,"Toronto",454, ,0,0,0,190,396,"Lincoln Towers",20071010
+023,ETOBICOKE CENTRE,7,25,4,19,"Toronto",455, ,0,0,0,55,113,"Park Edge Place",20071010
+023,ETOBICOKE CENTRE,14,56,4,6,"Toronto",456, ,0,1,0,81,280,"Burnhamthorpe Adult Learning Centre",20071010
+023,ETOBICOKE CENTRE,10,28,4,7,"Toronto",457, ,0,0,0,49,144,"Burnhamthorpe Adult Learning Centre",20071010
+023,ETOBICOKE CENTRE,26,108,17,49,"Toronto",458, ,0,0,0,200,392,"Bransfield House",20071010
+023,ETOBICOKE CENTRE,20,129,26,82,"Toronto",459, ,1,0,1,259,472,"Sunset West",20071010
+023,ETOBICOKE CENTRE,23,94,15,40,"Toronto",460, ,0,2,0,174,366,"5 Capri Road",20071010
+023,ETOBICOKE CENTRE,19,96,21,56,"Toronto",461, ,0,1,0,193,315,"Burnham Glen Condominium",20071010
+023,ETOBICOKE CENTRE,..........................NO POLL HELD........................,,,,"Toronto",462, ,0,0,0,0,0,"",20071010
+023,ETOBICOKE CENTRE,28,128,15,62,"Toronto",463, ,1,2,0,236,381,"Sussex House",20071010
+023,ETOBICOKE CENTRE,16,68,7,38,"Toronto",464, ,1,0,0,130,186,"Chestnut Place TSCC #1493",20071010
+023,ETOBICOKE CENTRE,24,97,13,29,"Toronto",465, ,0,3,0,166,350,"Burnham Glen Condominium",20071010
+023,ETOBICOKE CENTRE,14,118,20,55,"Toronto",466, ,1,1,1,210,314,"Millgate Manor Recreation Centre",20071010
+023,ETOBICOKE CENTRE,25,104,15,74,"Toronto",467, ,0,0,0,218,325,"Millgate Manor Recreation Centre",20071010
+023,ETOBICOKE CENTRE,13,39,10,20,"Toronto",468, ,1,1,2,86,159,"Elmcrest Apartments",20071010
+023,ETOBICOKE CENTRE,14,74,9,25,"Toronto",469, ,0,0,0,122,267,"Centennial Towers",20071010
+023,ETOBICOKE CENTRE,12,56,14,17,"Toronto",470, ,0,0,0,99,227,"The Diplomat Apartments",20071010
+023,ETOBICOKE CENTRE,17,123,13,93,"Toronto",471, ,2,2,0,250,376,"The Masters",20071010
+023,ETOBICOKE CENTRE,21,103,18,69,"Toronto",472, ,0,1,0,212,343,"Millgate Manor Recreation Centre",20071010
+023,ETOBICOKE CENTRE,21,119,24,79,"Toronto",473, ,2,0,0,245,357,"The Masters",20071010
+023,ETOBICOKE CENTRE,13,36,12,21,"Toronto",474, ,0,0,0,82,132,"White Pine Apartments",20071010
+023,ETOBICOKE CENTRE,16,48,9,15,"Toronto",475, ,10,0,0,98,199,"The Adriennes",20071010
+023,ETOBICOKE CENTRE,13,56,10,42,"Toronto",476, ,0,0,1,122,196,"The Fairview Towers",20071010
+023,ETOBICOKE CENTRE,11,45,8,33,"Toronto",477, ,0,0,0,97,185,"The Mikado",20071010
+023,ETOBICOKE CENTRE,18,40,6,17,"Toronto",478, ,0,1,0,82,164,"The Renaissance",20071010
+023,ETOBICOKE CENTRE,11,39,6,23,"Toronto",479, ,0,0,0,79,161,"The Coach House",20071010
+023,ETOBICOKE CENTRE,16,64,4,17,"Toronto",480, ,0,1,1,103,184,"Martinway Towers Callowhill",20071010
+023,ETOBICOKE CENTRE,11,64,4,10,"Toronto",481, ,1,0,0,90,306,"Willowridge Towers",20071010
+023,ETOBICOKE CENTRE,20,88,5,40,"Toronto",482, ,4,2,0,159,338,"The Buckingham - 714",20071010
+023,ETOBICOKE CENTRE,95,704,68,519,"Toronto",Advanced Polls /  ADV001, ,0,0,3,1389,0,"Returning Office / Bureau du directeur du scrutin",20071010
+023,ETOBICOKE CENTRE,43,356,45,291,"Toronto",Advanced Polls /  ADV002, ,1,0,0,736,0,"The Church of Christ the King",20071010
+023,ETOBICOKE CENTRE,28,159,21,136,"Toronto",Advanced Polls /  ADV003, ,0,0,0,344,0,"St. Andrew's Presbyterian Church",20071010
+023,ETOBICOKE CENTRE,90,760,68,579,"Toronto",Advanced Polls /  ADV004, ,3,3,2,1505,0,"Richview Library",20071010
+023,ETOBICOKE CENTRE,20,271,25,292,"Toronto",Advanced Polls /  ADV005, ,2,0,0,610,0,"Humber Valley United Church",20071010
+TOTALS:, ,3847,22939,3357,15667, , , , , , , , , , 

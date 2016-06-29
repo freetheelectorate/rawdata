@@ -1,0 +1,217 @@
+ED_CODE,ED_NAME,ATKINSON,FOX,GERMAIN,MANOUSSI,MCGRUER,MCNEELY,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+063,OTTAWA--ORLÉANS,3,59,16,11,2,100,"Ottawa",001, ,0,1,0,192,376,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,3,49,12,3,1,113,"Ottawa",002, ,0,0,0,181,424,"Orleans Client Services Centre",20071010
+063,OTTAWA--ORLÉANS,3,78,17,14,0,129,"Ottawa",003, ,0,0,0,241,429,"Orleans Wood School",20071010
+063,OTTAWA--ORLÉANS,1,68,17,10,2,91,"Ottawa",004, ,0,0,0,189,383,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,3,68,16,18,1,90,"Ottawa",005, ,0,0,0,196,417,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,3,73,15,15,0,122,"Ottawa",006, ,1,1,0,230,427,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,3,95,20,17,0,133,"Ottawa",007, ,1,0,0,269,463,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,4,81,13,12,0,95,"Ottawa",008, ,1,0,0,206,411,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,0,43,10,8,0,77,"Ottawa",009, ,1,0,0,139,296,"Divine Infant School",20071010
+063,OTTAWA--ORLÉANS,1,78,19,9,0,127,"Ottawa",010, ,0,1,0,235,477,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,4,82,12,9,0,166,"Ottawa",011, ,0,0,0,273,481,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,1,82,15,16,1,144,"Ottawa",012, ,0,0,1,260,490,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,6,70,11,8,0,73,"Ottawa",013, ,1,1,3,173,355,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,3,90,11,10,0,119,"Ottawa",014, ,1,0,0,234,442,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,5,103,15,8,3,141,"Ottawa",015, ,0,1,0,276,488,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,1,59,16,5,1,126,"Ottawa",016, ,0,0,1,209,386,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,4,59,9,6,0,111,"Ottawa",017, ,1,0,0,190,375,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,0,52,16,8,0,108,"Ottawa",018, ,0,0,0,184,376,"Trillium Elementary School",20071010
+063,OTTAWA--ORLÉANS,3,83,16,10,1,116,"Ottawa",019, ,0,1,0,230,371,"Cairine Wilson High School",20071010
+063,OTTAWA--ORLÉANS,1,4,3,0,0,57,"Ottawa",020s, ,2,0,0,67,202,"Residence Saint-Louis",20071010
+063,OTTAWA--ORLÉANS,2,27,12,6,2,48,"Ottawa",021, ,0,0,0,97,255,"Cairine Wilson High School",20071010
+063,OTTAWA--ORLÉANS,7,92,16,20,2,108,"Ottawa",022, ,0,0,0,245,423,"Cairine Wilson High School",20071010
+063,OTTAWA--ORLÉANS,4,45,11,8,1,87,"Ottawa",023, ,2,1,0,159,320,"Orleans Wood School",20071010
+063,OTTAWA--ORLÉANS,1,122,22,10,3,141,"Ottawa",024, ,1,1,0,301,620,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,3,84,19,9,2,124,"Ottawa",025, ,0,1,0,242,542,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,0,82,11,11,0,137,"Ottawa",026, ,1,0,0,242,395,"Orleans Wood School",20071010
+063,OTTAWA--ORLÉANS,2,59,24,14,0,101,"Ottawa",027, ,0,0,0,200,424,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,9,49,23,13,0,107,"Ottawa",028, ,0,0,0,201,528,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,3,74,10,7,1,105,"Ottawa",029, ,0,0,0,200,384,"St. Matthew's High School",20071010
+063,OTTAWA--ORLÉANS,4,22,5,3,1,73,"Ottawa",030, ,0,0,0,108,284,"Orleans Client Services Centre",20071010
+063,OTTAWA--ORLÉANS,4,70,12,11,0,95,"Ottawa",031, ,0,0,0,192,376,"St. Helen's Anglican Church",20071010
+063,OTTAWA--ORLÉANS,1,16,1,0,1,18,"Ottawa",032s, ,1,1,0,39,51,"Queenswood Villa",20071010
+063,OTTAWA--ORLÉANS,2,88,15,11,0,134,"Ottawa",033, ,4,1,0,255,477,"St. Helen's Anglican Church",20071010
+063,OTTAWA--ORLÉANS,5,88,14,13,0,132,"Ottawa",034, ,0,1,0,253,506,"St. Helen's Anglican Church",20071010
+063,OTTAWA--ORLÉANS,2,81,14,21,0,109,"Ottawa",035, ,0,0,0,227,451,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,2,36,17,9,2,79,"Ottawa",036, ,1,0,0,146,402,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,3,66,11,12,1,132,"Ottawa",037, ,0,0,0,225,428,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,3,80,18,7,0,116,"Ottawa",038, ,0,0,0,224,437,"Fallingbrook School",20071010
+063,OTTAWA--ORLÉANS,5,81,27,4,0,137,"Ottawa",039, ,0,0,0,254,550,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,2,87,13,15,2,126,"Ottawa",040, ,2,1,0,248,505,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,2,54,4,10,0,93,"Ottawa",041, ,0,0,0,163,368,"St. Francis of Assisi School",20071010
+063,OTTAWA--ORLÉANS,1,98,12,8,0,122,"Ottawa",042, ,2,0,0,243,450,"St. Peter's High School",20071010
+063,OTTAWA--ORLÉANS,1,99,6,11,0,96,"Ottawa",043, ,1,0,0,214,392,"Trillium Elementary School",20071010
+063,OTTAWA--ORLÉANS,4,65,15,16,0,113,"Ottawa",044, ,0,1,0,214,409,"St. Peter's High School",20071010
+063,OTTAWA--ORLÉANS,1,46,9,4,0,81,"Ottawa",045, ,0,0,6,147,336,"Trillium Elementary School",20071010
+063,OTTAWA--ORLÉANS,0,76,9,9,2,124,"Ottawa",046, ,0,0,0,220,423,"Trillium Elementary School",20071010
+063,OTTAWA--ORLÉANS,3,90,14,9,2,194,"Ottawa",047, ,0,1,0,313,575,"Maple Ridge School",20071010
+063,OTTAWA--ORLÉANS,2,41,9,5,0,108,"Ottawa",048A, ,0,0,0,165,361,"Maple Ridge School",20071010
+063,OTTAWA--ORLÉANS,5,67,13,2,0,114,"Ottawa",048B, ,0,0,0,201,357,"Maple Ridge School",20071010
+063,OTTAWA--ORLÉANS,4,124,13,10,0,141,"Ottawa",049, ,0,0,1,293,455,"École élémentaire catholique des Voyageurs",20071010
+063,OTTAWA--ORLÉANS,2,96,15,5,2,123,"Ottawa",050, ,1,0,0,244,412,"École élémentaire catholique des Voyageurs",20071010
+063,OTTAWA--ORLÉANS,4,91,13,7,0,114,"Ottawa",051, ,1,0,0,230,450,"Cairine Wilson High School",20071010
+063,OTTAWA--ORLÉANS,11,96,22,18,0,120,"Ottawa",052, ,0,0,0,267,445,"Terry Fox School",20071010
+063,OTTAWA--ORLÉANS,1,96,19,12,1,143,"Ottawa",053, ,0,0,0,272,464,"Terry Fox School",20071010
+063,OTTAWA--ORLÉANS,5,88,17,10,2,163,"Ottawa",054, ,0,0,0,285,502,"Terry Fox School",20071010
+063,OTTAWA--ORLÉANS,4,77,23,16,1,107,"Ottawa",055, ,1,1,0,230,396,"Terry Fox School",20071010
+063,OTTAWA--ORLÉANS,13,55,16,22,2,81,"Ottawa",056, ,1,0,0,190,469,"Orleans United Church",20071010
+063,OTTAWA--ORLÉANS,1,86,11,21,0,133,"Ottawa",057, ,0,0,5,257,482,"Orleans United Church",20071010
+063,OTTAWA--ORLÉANS,10,116,21,12,1,110,"Ottawa",058, ,1,1,0,272,459,"Convent Glen School",20071010
+063,OTTAWA--ORLÉANS,1,23,2,0,1,68,"Ottawa",059s, ,0,0,0,95,102,"Villa Orleans",20071010
+063,OTTAWA--ORLÉANS,2,52,6,9,4,109,"Ottawa",060, ,0,0,0,182,410,"Convent Glen School",20071010
+063,OTTAWA--ORLÉANS,0,19,3,0,0,60,"Ottawa",061s, ,0,3,0,85,120,"Manoir Belcourt",20071010
+063,OTTAWA--ORLÉANS,1,58,9,8,1,118,"Ottawa",062, ,0,0,0,195,407,"École St-Joseph d'Orléans",20071010
+063,OTTAWA--ORLÉANS,4,92,16,18,2,104,"Ottawa",063, ,1,0,0,237,427,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,4,98,12,5,1,117,"Ottawa",064, ,0,1,0,238,446,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,4,102,14,15,2,116,"Ottawa",065, ,0,1,1,255,471,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,1,69,17,9,0,107,"Ottawa",066, ,1,0,0,204,416,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,5,117,16,5,2,109,"Ottawa",067, ,0,0,0,254,466,"Our Lady Of Wisdom School",20071010
+063,OTTAWA--ORLÉANS,6,74,17,16,0,120,"Ottawa",068, ,0,0,0,233,460,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,2,96,25,13,2,130,"Ottawa",069, ,0,0,0,268,496,"Dunning Foubert School",20071010
+063,OTTAWA--ORLÉANS,1,66,9,11,2,68,"Ottawa",070, ,0,0,1,158,344,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,1,59,14,10,1,95,"Ottawa",071, ,1,0,0,181,393,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,2,70,14,10,0,107,"Ottawa",072, ,0,0,0,203,391,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,3,82,11,12,2,131,"Ottawa",073, ,1,0,1,243,452,"Sir Wilfrid Laurier High School",20071010
+063,OTTAWA--ORLÉANS,5,74,14,8,2,154,"Ottawa",074, ,0,1,0,258,410,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,1,73,21,7,0,153,"Ottawa",075, ,0,0,0,255,477,"St. Peter's High School",20071010
+063,OTTAWA--ORLÉANS,3,68,15,14,0,143,"Ottawa",076, ,0,0,1,244,397,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,3,54,12,5,0,111,"Ottawa",077, ,1,1,0,187,376,"St. Peter's High School",20071010
+063,OTTAWA--ORLÉANS,6,63,12,6,2,88,"Ottawa",078, ,0,2,0,179,336,"St. Clare Catholic School",20071010
+063,OTTAWA--ORLÉANS,3,69,13,9,4,103,"Ottawa",079, ,1,0,0,202,378,"St. Clare Catholic School",20071010
+063,OTTAWA--ORLÉANS,3,75,13,3,1,132,"Ottawa",080, ,1,0,0,228,433,"St. Peter's High School",20071010
+063,OTTAWA--ORLÉANS,2,38,10,3,0,133,"Ottawa",081, ,1,0,0,187,378,"St. Clare Catholic School",20071010
+063,OTTAWA--ORLÉANS,1,53,6,4,0,86,"Ottawa",082, ,1,0,0,151,349,"St. Clare Catholic School",20071010
+063,OTTAWA--ORLÉANS,4,71,14,5,1,100,"Ottawa",083, ,0,1,0,196,359,"Maple Ridge School",20071010
+063,OTTAWA--ORLÉANS,1,58,10,11,1,101,"Ottawa",084, ,2,0,0,184,374,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,3,33,6,4,1,86,"Ottawa",085, ,0,0,0,133,302,"Maple Ridge School",20071010
+063,OTTAWA--ORLÉANS,9,104,25,12,1,127,"Ottawa",086, ,1,0,0,279,466,"École élémentaire catholique des Voyageurs",20071010
+063,OTTAWA--ORLÉANS,4,134,12,7,0,139,"Ottawa",087, ,3,0,0,299,465,"École élémentaire catholique des Voyageurs",20071010
+063,OTTAWA--ORLÉANS,5,82,19,16,0,121,"Ottawa",088, ,0,0,0,243,447,"École élémentaire catholique des Voyageurs",20071010
+063,OTTAWA--ORLÉANS,7,80,10,12,1,147,"Ottawa",089, ,0,0,0,257,458,"Convent Glen School",20071010
+063,OTTAWA--ORLÉANS,5,80,24,20,0,79,"Ottawa",090, ,1,0,0,209,442,"École élémentaire publique l'Odyssée",20071010
+063,OTTAWA--ORLÉANS,0,46,12,12,0,88,"Ottawa",091, ,1,0,0,159,403,"École élémentaire publique l'Odyssée",20071010
+063,OTTAWA--ORLÉANS,0,28,20,6,0,72,"Ottawa",092, ,1,2,0,129,291,"Convent Glen School",20071010
+063,OTTAWA--ORLÉANS,5,86,8,11,0,142,"Ottawa",093, ,1,0,0,253,493,"École élémentaire publique l'Odyssée",20071010
+063,OTTAWA--ORLÉANS,4,96,14,7,2,159,"Ottawa",094, ,0,0,0,282,516,"École St-Joseph d'Orléans",20071010
+063,OTTAWA--ORLÉANS,5,71,15,12,0,159,"Ottawa",095, ,1,0,0,263,472,"École St-Joseph d'Orléans",20071010
+063,OTTAWA--ORLÉANS,5,84,21,6,0,142,"Ottawa",096, ,0,2,0,260,509,"Henry Larsen Elementary School",20071010
+063,OTTAWA--ORLÉANS,1,88,11,9,0,137,"Ottawa",097, ,1,0,0,247,432,"École St-Joseph d'Orléans",20071010
+063,OTTAWA--ORLÉANS,5,85,22,11,0,149,"Ottawa",098, ,0,0,0,272,451,"Queenswood Public School",20071010
+063,OTTAWA--ORLÉANS,2,122,12,9,5,127,"Ottawa",099, ,0,0,0,277,492,"Our Lady Of Wisdom School",20071010
+063,OTTAWA--ORLÉANS,4,74,20,11,0,118,"Ottawa",100, ,1,0,0,228,379,"Our Lady Of Wisdom School",20071010
+063,OTTAWA--ORLÉANS,7,74,20,7,0,91,"Ottawa",101, ,1,0,0,200,401,"Dunning Foubert School",20071010
+063,OTTAWA--ORLÉANS,3,92,15,4,0,125,"Ottawa",102, ,0,0,0,239,429,"Dunning Foubert School",20071010
+063,OTTAWA--ORLÉANS,6,103,30,25,3,159,"Ottawa",103, ,0,0,0,326,678,"Dunning Foubert School",20071010
+063,OTTAWA--ORLÉANS,3,66,23,16,1,138,"Ottawa",104, ,0,0,0,247,414,"Dunning Foubert School",20071010
+063,OTTAWA--ORLÉANS,1,74,9,7,1,136,"Ottawa",105, ,0,1,0,229,385,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,2,90,10,11,0,181,"Ottawa",106, ,1,0,0,295,494,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,4,75,18,10,1,164,"Ottawa",107, ,0,0,0,272,439,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,1,72,14,9,0,75,"Ottawa",108, ,0,0,0,171,408,"École élémentaire publique Jeanne-Sauvé",20071010
+063,OTTAWA--ORLÉANS,2,42,10,7,1,121,"Ottawa",109, ,0,0,0,183,439,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,2,83,18,8,0,117,"Ottawa",110, ,1,0,0,229,464,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,2,83,8,12,2,156,"Ottawa",111, ,0,0,0,263,533,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,1,84,10,6,2,124,"Ottawa",112, ,0,0,0,227,414,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,1,4,2,0,1,11,"Ottawa",113s, ,0,0,0,19,79,"Madonna Nursing Home",20071010
+063,OTTAWA--ORLÉANS,8,73,17,14,2,83,"Ottawa",114, ,0,0,0,197,436,"Community Pentecostal Church",20071010
+063,OTTAWA--ORLÉANS,2,50,14,7,2,73,"Ottawa",115, ,0,0,0,148,370,"Community Pentecostal Church",20071010
+063,OTTAWA--ORLÉANS,1,46,6,4,0,66,"Ottawa",116, ,0,0,0,123,306,"École élémentaire publique l'Odyssée",20071010
+063,OTTAWA--ORLÉANS,0,81,6,4,0,114,"Ottawa",117, ,0,0,0,205,423,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,5,67,10,8,4,119,"Ottawa",118, ,0,0,0,213,396,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,0,87,15,11,1,148,"Ottawa",119, ,0,0,0,262,494,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,4,58,10,9,0,76,"Ottawa",120, ,0,1,0,158,397,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,3,61,19,6,2,143,"Ottawa",121, ,0,0,0,234,424,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,2,85,17,16,1,132,"Ottawa",122, ,1,0,0,254,410,"Henry Larsen Elementary School",20071010
+063,OTTAWA--ORLÉANS,1,97,17,12,1,157,"Ottawa",123, ,1,1,0,287,494,"Henry Larsen Elementary School",20071010
+063,OTTAWA--ORLÉANS,1,90,12,14,0,116,"Ottawa",124, ,0,0,0,233,438,"Henry Larsen Elementary School",20071010
+063,OTTAWA--ORLÉANS,2,79,19,9,0,131,"Ottawa",125, ,0,0,0,240,470,"Henry Larsen Elementary School",20071010
+063,OTTAWA--ORLÉANS,4,80,11,3,0,118,"Ottawa",126, ,0,0,0,216,423,"Our Lady Of Wisdom School",20071010
+063,OTTAWA--ORLÉANS,3,68,11,5,0,136,"Ottawa",127, ,1,1,0,225,450,"Église Ste-Marie d'Orléans",20071010
+063,OTTAWA--ORLÉANS,2,83,18,8,0,140,"Ottawa",128, ,0,0,0,251,449,"Église Ste-Marie d'Orléans",20071010
+063,OTTAWA--ORLÉANS,2,62,6,4,0,99,"Ottawa",129, ,1,1,0,175,412,"Église Ste-Marie d'Orléans",20071010
+063,OTTAWA--ORLÉANS,3,46,8,7,0,85,"Ottawa",130, ,0,0,0,149,377,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,1,51,12,10,1,107,"Ottawa",131, ,1,0,0,183,456,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,2,53,11,10,0,84,"Ottawa",132A, ,0,0,0,160,381,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,0,50,14,1,0,120,"Ottawa",132B, ,0,0,0,185,442,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,1,38,5,7,1,120,"Ottawa",133, ,2,0,0,174,432,"St. Theresa School",20071010
+063,OTTAWA--ORLÉANS,0,76,7,12,0,108,"Ottawa",134, ,1,0,0,204,469,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,0,2,1,0,0,3,"Ottawa",135s, ,0,0,0,6,77,"Manoir St-Joseph",20071010
+063,OTTAWA--ORLÉANS,5,114,17,10,3,121,"Ottawa",136, ,0,1,0,271,470,"Community Pentecostal Church",20071010
+063,OTTAWA--ORLÉANS,11,116,15,13,0,144,"Ottawa",137, ,1,1,0,301,470,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,5,84,11,14,0,157,"Ottawa",138, ,0,0,0,271,437,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,0,89,7,10,1,129,"Ottawa",139A, ,0,0,0,236,405,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,1,100,15,14,1,130,"Ottawa",139B, ,1,1,0,263,390,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,0,53,10,14,0,89,"Ottawa",140, ,0,0,1,167,326,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,1,49,8,6,0,79,"Ottawa",141, ,0,0,0,143,316,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,2,49,14,13,0,85,"Ottawa",142, ,0,0,0,163,414,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,1,101,22,20,1,150,"Ottawa",143, ,0,1,1,297,474,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,3,92,13,15,1,156,"Ottawa",144, ,1,1,0,282,500,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,6,73,7,9,0,116,"Ottawa",145, ,1,1,0,213,447,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,2,32,9,9,2,74,"Ottawa",146, ,0,0,0,128,362,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,3,56,15,8,0,111,"Ottawa",147, ,2,5,0,200,366,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,3,74,23,9,1,140,"Ottawa",148, ,2,0,0,252,480,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,0,52,14,14,1,113,"Ottawa",149, ,0,0,2,196,443,"Blessed Kateri Tekakwitha School",20071010
+063,OTTAWA--ORLÉANS,4,101,8,8,0,117,"Ottawa",150, ,0,0,0,238,569,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,0,64,21,13,1,88,"Ottawa",151, ,1,1,0,189,437,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,4,84,15,14,1,142,"Ottawa",152, ,1,0,0,261,438,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,1,96,18,27,0,172,"Ottawa",153, ,1,0,0,315,491,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,12,89,13,17,1,154,"Ottawa",154, ,0,0,0,286,448,"Chapel Hill Catholic School",20071010
+063,OTTAWA--ORLÉANS,0,85,9,11,0,154,"Ottawa",155, ,0,1,0,260,421,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,2,71,9,10,0,91,"Ottawa",156, ,0,0,0,183,388,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,4,58,14,6,0,92,"Ottawa",157, ,0,0,0,174,344,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,1,64,10,5,1,49,"Ottawa",158, ,0,0,0,130,330,"Forest Valley Elementary School",20071010
+063,OTTAWA--ORLÉANS,2,92,4,9,0,100,"Ottawa",159, ,0,0,0,207,371,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,1,89,11,8,2,131,"Ottawa",160, ,1,2,0,245,451,"École L’Étoile-de-l’Est",20071010
+063,OTTAWA--ORLÉANS,0,70,15,7,0,117,"Ottawa",161, ,0,0,0,209,497,"École Beatrice-Desloges",20071010
+063,OTTAWA--ORLÉANS,1,73,20,12,0,99,"Ottawa",162, ,0,1,0,206,360,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,2,55,19,31,2,84,"Ottawa",163, ,0,0,0,193,474,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,1,7,0,0,0,21,"Ottawa",164s, ,1,0,0,30,61,"Elmsmere Residence",20071010
+063,OTTAWA--ORLÉANS,1,25,7,4,0,32,"Ottawa",165, ,0,0,0,69,150,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,2,55,14,11,2,69,"Ottawa",166, ,1,0,0,154,416,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,4,54,16,7,2,90,"Ottawa",167, ,4,1,0,178,371,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,5,104,10,15,1,132,"Ottawa",168, ,0,0,0,267,443,"École secondaire Louis-Riel",20071010
+063,OTTAWA--ORLÉANS,2,68,9,13,1,129,"Ottawa",169, ,0,1,0,223,379,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,5,90,7,8,1,120,"Ottawa",170, ,0,0,1,232,412,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,0,54,15,12,1,96,"Ottawa",171, ,0,0,0,178,410,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,8,98,7,10,2,155,"Ottawa",172, ,2,1,0,283,494,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,1,96,8,15,0,145,"Ottawa",173, ,0,3,0,268,448,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,3,65,9,5,0,145,"Ottawa",174, ,0,0,0,227,572,"Rendez-vous des aînés",20071010
+063,OTTAWA--ORLÉANS,5,62,25,10,0,80,"Ottawa",175, ,0,0,0,182,346,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,4,58,12,6,0,97,"Ottawa",176, ,0,0,0,177,329,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,3,39,8,2,0,86,"Ottawa",177, ,0,0,0,138,231,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,2,80,28,8,0,111,"Ottawa",178, ,0,0,0,229,539,"Lester B. Pearson High School",20071010
+063,OTTAWA--ORLÉANS,1,23,11,6,2,46,"Ottawa",179, ,1,0,0,90,259,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,3,99,6,15,1,94,"Ottawa",180, ,1,0,8,227,378,"École secondaire Louis-Riel",20071010
+063,OTTAWA--ORLÉANS,10,84,19,17,1,104,"Ottawa",181, ,1,0,0,236,363,"Good Shepherd School",20071010
+063,OTTAWA--ORLÉANS,13,103,21,16,1,137,"Ottawa",182, ,0,1,0,292,407,"Good Shepherd School",20071010
+063,OTTAWA--ORLÉANS,4,89,16,20,0,134,"Ottawa",183, ,0,0,0,263,431,"École secondaire Louis-Riel",20071010
+063,OTTAWA--ORLÉANS,5,104,9,13,2,146,"Ottawa",184, ,0,0,0,279,448,"Emily Carr Middle School",20071010
+063,OTTAWA--ORLÉANS,1,10,7,8,0,27,"Ottawa",185, ,0,0,0,53,143,"Emily Carr Middle School",20071010
+063,OTTAWA--ORLÉANS,1,63,23,9,0,96,"Ottawa",186, ,1,0,0,193,427,"Emily Carr Middle School",20071010
+063,OTTAWA--ORLÉANS,3,83,22,13,0,127,"Ottawa",187, ,2,0,3,253,373,"Emily Carr Middle School",20071010
+063,OTTAWA--ORLÉANS,5,38,16,10,1,75,"Ottawa",188, ,0,0,0,145,324,"Norman Johnston Centre",20071010
+063,OTTAWA--ORLÉANS,6,82,20,12,0,75,"Ottawa",189, ,0,0,0,195,345,"Norman Johnston Centre",20071010
+063,OTTAWA--ORLÉANS,2,10,0,1,0,23,"Ottawa",190s, ,1,1,0,38,52,"Blackburn Lodge",20071010
+063,OTTAWA--ORLÉANS,3,90,20,8,0,84,"Ottawa",191, ,0,0,0,205,388,"Norman Johnston Centre",20071010
+063,OTTAWA--ORLÉANS,0,53,7,8,0,148,"Ottawa",192, ,1,0,0,217,392,"École élémentaire publique Le Prélude",20071010
+063,OTTAWA--ORLÉANS,1,93,14,4,1,126,"Ottawa",193, ,0,0,0,239,432,"Rendez-vous des aînés",20071010
+063,OTTAWA--ORLÉANS,4,75,27,15,0,123,"Ottawa",194, ,0,1,0,245,455,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,7,74,20,14,0,112,"Ottawa",195, ,0,0,0,227,422,"Good Shepherd School",20071010
+063,OTTAWA--ORLÉANS,5,67,12,13,0,116,"Ottawa",196, ,0,0,0,213,448,"Good Shepherd School",20071010
+063,OTTAWA--ORLÉANS,0,17,2,1,0,35,"Ottawa",197s, ,0,0,0,55,80,"Amica at Bearbrook",20071010
+063,OTTAWA--ORLÉANS,3,15,6,2,1,28,"Ottawa",198, ,0,0,0,55,152,"Good Shepherd School",20071010
+063,OTTAWA--ORLÉANS,4,51,28,13,4,63,"Ottawa",199, ,1,0,0,164,389,"Emily Carr Middle School",20071010
+063,OTTAWA--ORLÉANS,2,78,7,7,2,70,"Ottawa",200, ,0,1,0,167,342,"Rendez-vous des aînés",20071010
+063,OTTAWA--ORLÉANS,1,73,17,7,1,76,"Ottawa",201, ,0,1,0,176,409,"Caisse Populaire Carlsbad Springs",20071010
+063,OTTAWA--ORLÉANS,3,40,12,5,1,38,"Ottawa",202, ,2,0,0,101,242,"Gloucester High School",20071010
+063,OTTAWA--ORLÉANS,13,57,10,12,1,112,"Ottawa",400, ,0,1,0,206,277,"Hillsview Place",20071010
+063,OTTAWA--ORLÉANS,3,58,18,6,0,102,"Ottawa",402, ,2,0,0,189,410,"Sutton Place",20071010
+063,OTTAWA--ORLÉANS,1,40,21,6,2,98,"Ottawa",403, ,1,0,0,169,382,"Sutton Place",20071010
+063,OTTAWA--ORLÉANS,2,29,16,9,0,46,"Ottawa",404, ,0,0,0,102,216,"Innes Park Complex Building B",20071010
+063,OTTAWA--ORLÉANS,1,36,15,6,0,38,"Ottawa",405, ,0,1,0,97,200,"Innes Park Complex Building A",20071010
+063,OTTAWA--ORLÉANS,32,1001,130,98,16,1285,"Ottawa",Advanced Polls /  ADV001, ,3,3,0,2568,0,"Returning Office / Bureau du directeur du scrutin",20071010
+063,OTTAWA--ORLÉANS,6,263,26,13,3,520,"Ottawa",Advanced Polls /  ADV002, ,0,0,2,833,0,"Église Ste-Marie d'Orléans",20071010
+063,OTTAWA--ORLÉANS,14,478,49,36,1,525,"Ottawa",Advanced Polls /  ADV003, ,0,0,2,1105,0,"Orleans United Church",20071010
+063,OTTAWA--ORLÉANS,0,33,5,1,0,116,"Ottawa",Advanced Polls /  ADV004, ,0,0,0,155,0,"Rendez-vous des aînés",20071010
+063,OTTAWA--ORLÉANS,5,229,31,16,2,254,"Ottawa",Advanced Polls /  ADV005, ,1,0,0,538,0,"Pineview Golf Course",20071010
+TOTALS:, ,692,16695,3088,2214,183,25649, , , , , , , , , , 

@@ -1,0 +1,271 @@
+ED_CODE,ED_NAME,CARVALHO,GILBANK,MCKIBBIN,MORRISON,MUNRO,REEVES,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+105,YORK--SIMCOE,2,49,2,9,65,17,"Cookstown",001, ,0,0,0,144,287,"Cookstown Central Public School",20071010
+105,YORK--SIMCOE,0,36,0,1,42,8,"Churchill",002, ,0,0,1,88,233,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,4,32,2,18,75,20,"Cookstown",003, ,1,0,0,152,294,"Cookstown Central Public School",20071010
+105,YORK--SIMCOE,1,53,3,28,82,31,"Cookstown",004, ,0,0,0,198,358,"Cookstown Central Public School",20071010
+105,YORK--SIMCOE,0,79,3,24,85,12,"Bradford",005, ,0,1,0,204,394,"Sir William Osler Public School",20071010
+105,YORK--SIMCOE,3,43,1,7,60,16,"Churchill",006, ,0,0,0,130,340,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,2,70,3,19,73,40,"Cookstown",007, ,1,0,0,208,387,"Cookstown Central Public School",20071010
+105,YORK--SIMCOE,2,55,2,14,107,11,"Bradford",008, ,0,0,0,191,325,"Sir William Osler Public School",20071010
+105,YORK--SIMCOE,6,76,1,19,98,16,"Bradford",009, ,1,0,0,217,392,"Sir William Osler Public School",20071010
+105,YORK--SIMCOE,4,53,2,25,109,25,"Churchill",010, ,2,0,0,220,437,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,1,63,0,21,95,33,"Innisfil",011, ,0,0,0,213,418,"Sunnybrae Public School",20071010
+105,YORK--SIMCOE,9,35,0,3,114,16,"Bradford",012, ,0,1,0,178,381,"Sir William Osler Public School",20071010
+105,YORK--SIMCOE,1,60,4,18,82,25,"Innisfil",013, ,0,0,0,190,444,"Sunnybrae Public School",20071010
+105,YORK--SIMCOE,1,69,2,16,96,25,"Innisfil",014, ,0,0,0,209,433,"Sunnybrae Public School",20071010
+105,YORK--SIMCOE,3,56,4,25,83,17,"Innisfil",015, ,0,0,0,188,379,"Sunnybrae Public School",20071010
+105,YORK--SIMCOE,0,35,3,9,59,15,"Churchill",016, ,1,0,0,122,332,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,0,52,1,37,62,18,"Innisfil",017, ,1,0,0,171,353,"Sunnybrae Public School",20071010
+105,YORK--SIMCOE,3,63,0,26,81,15,"Churchill",018, ,1,0,0,189,341,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Bradford",019, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,99,0,16,72,22,"Innisfil",020, ,1,1,0,211,481,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,4,61,2,12,93,18,"Bradford",021, ,1,0,0,191,457,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,0,74,1,23,139,33,"Churchill",022, ,0,0,0,270,560,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,5,72,4,16,91,15,"Bradford",023, ,3,1,0,207,412,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,0,32,2,12,46,14,"Bradford",024, ,0,0,0,106,233,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,0,43,0,9,32,16,"Innisfil",025, ,0,0,0,100,246,"Goodfellow Public School",20071010
+105,YORK--SIMCOE,5,70,2,46,106,29,"Innisfil",026, ,1,0,0,259,514,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,0,39,0,11,64,15,"Innisfil",027, ,0,0,0,129,309,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,1,26,3,13,82,12,"Ansnorveldt",028, ,0,2,0,139,289,"Holland Marsh Christian Reformed Church",20071010
+105,YORK--SIMCOE,0,49,0,7,62,13,"Bradford",029, ,0,0,1,132,338,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,3,51,2,24,89,27,"Innisfil",030, ,0,0,1,197,425,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,1,68,2,14,65,10,"Bradford",031, ,0,0,0,160,444,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,2,46,0,17,56,18,"Bradford",032, ,2,0,0,141,355,"Mother Teresa Catholic Elementary School",20071010
+105,YORK--SIMCOE,1,64,1,18,49,5,"Bradford",033, ,0,0,1,139,329,"Mother Teresa Catholic Elementary School",20071010
+105,YORK--SIMCOE,4,86,5,33,88,17,"Innisfil",034A, ,0,0,0,233,313,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,2,70,2,29,59,22,"Innisfil",034B, ,0,0,0,184,307,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,0,51,4,28,48,14,"Innisfil",035, ,0,0,0,145,369,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,0,56,0,16,67,22,"Churchill",036, ,2,0,0,163,380,"Churchill Community Centre",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Innisfil",037, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,1,45,2,25,48,20,"Innisfil",038, ,1,0,0,142,342,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Innisfil",039, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,74,1,16,56,11,"Bradford",040, ,0,0,4,162,377,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,0,37,0,14,71,24,"Innisfil",041, ,0,0,0,146,354,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,0,55,1,24,69,14,"Bradford",042, ,0,0,0,163,352,"Mother Teresa Catholic Elementary School",20071010
+105,YORK--SIMCOE,3,99,2,14,70,16,"Bradford",043, ,0,0,1,205,437,"Mother Teresa Catholic Elementary School",20071010
+105,YORK--SIMCOE,4,60,2,12,53,4,"Bradford",044, ,0,0,0,135,278,"St. Jean de Brebeuf Catholic School",20071010
+105,YORK--SIMCOE,3,60,0,21,66,14,"Bradford",045, ,3,0,0,167,384,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,4,72,3,25,108,14,"Bradford",046, ,2,1,0,229,410,"Mother Teresa Catholic Elementary School",20071010
+105,YORK--SIMCOE,2,59,1,21,52,17,"Bradford",047, ,0,0,0,152,404,"Bradford District High School",20071010
+105,YORK--SIMCOE,2,76,2,12,103,25,"Innisfil",048, ,0,0,0,220,473,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,1,31,0,15,60,9,"Innisfil",049, ,0,0,0,116,308,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,1,115,3,50,103,16,"Innisfil",050, ,0,0,0,288,433,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,2,40,1,12,51,9,"Bradford",051A, ,0,0,0,115,242,"St. Jean de Brebeuf Catholic School",20071010
+105,YORK--SIMCOE,0,63,1,5,52,7,"Bradford",051B, ,0,0,0,128,268,"St. Jean de Brebeuf Catholic School",20071010
+105,YORK--SIMCOE,0,84,6,40,82,17,"Innisfil",052, ,1,0,0,230,365,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,2,44,0,19,41,16,"Bradford",053, ,0,0,0,122,318,"St. Jean de Brebeuf Catholic School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Innisfil",054, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,73,3,16,84,22,"Bradford",055, ,1,0,1,200,428,"W.H. Day Elementary School",20071010
+105,YORK--SIMCOE,1,5,0,2,2,1,"Bradford",056s, ,0,0,0,11,20,"Le Blanc Rest Home",20071010
+105,YORK--SIMCOE,4,57,1,14,68,15,"Bradford",057, ,12,1,1,173,516,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Innisfil",058, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,1,8,0,2,11,1,"Bradford",059s, ,0,0,0,23,141,"Specialty Care Bradford Valley",20071010
+105,YORK--SIMCOE,3,74,0,19,83,15,"Bradford",060, ,2,0,1,197,355,"St. Jean de Brebeuf Catholic School",20071010
+105,YORK--SIMCOE,1,44,2,21,59,17,"Innisfil",061, ,1,0,0,145,338,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,6,75,3,25,75,15,"Bradford",062, ,1,1,0,201,422,"Holy Trinity Catholic High School",20071010
+105,YORK--SIMCOE,6,68,1,13,62,22,"Bradford",063, ,0,0,0,172,385,"Bradford District High School",20071010
+105,YORK--SIMCOE,2,47,1,26,49,19,"Bradford",064, ,0,0,0,144,451,"Bradford District High School",20071010
+105,YORK--SIMCOE,1,58,1,17,44,19,"Innisfil",065, ,1,1,0,142,346,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,2,67,1,14,51,26,"Bradford",066, ,5,0,0,166,410,"W.H. Day Elementary School",20071010
+105,YORK--SIMCOE,0,87,0,18,59,19,"Bradford",067, ,2,2,0,187,408,"Bradford Memorial Community Centre",20071010
+105,YORK--SIMCOE,0,5,0,6,6,8,"Bradford",068s, ,0,0,0,25,33,"Bradford Manor",20071010
+105,YORK--SIMCOE,2,27,0,17,52,11,"Bradford",069, ,0,0,0,109,401,"Bradford Memorial Community Centre",20071010
+105,YORK--SIMCOE,1,71,0,12,80,10,"Bradford",070, ,0,0,0,174,391,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,0,12,0,3,9,1,"Innisfil",071s, ,1,2,0,28,52,"Innisfil Beach Gardens Retirement Residence",20071010
+105,YORK--SIMCOE,4,44,1,15,50,19,"Innisfil",072, ,0,1,0,134,297,"Holy Cross Catholic Elementary School",20071010
+105,YORK--SIMCOE,1,60,0,25,67,15,"Bradford",073, ,0,0,0,168,387,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,3,79,4,28,74,11,"Bradford",074, ,3,0,0,202,437,"W.H. Day Elementary School",20071010
+105,YORK--SIMCOE,1,32,1,17,44,29,"Innisfil",075, ,0,0,0,124,333,"Alcona Glen Elementary School",20071010
+105,YORK--SIMCOE,0,55,1,22,53,23,"Innisfil",076, ,0,0,0,154,326,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,1,62,1,21,73,24,"Innisfil",077, ,0,1,0,183,379,"Goodfellow Public School",20071010
+105,YORK--SIMCOE,2,59,2,20,72,18,"Bradford",078, ,0,0,0,173,434,"W.H. Day Elementary School",20071010
+105,YORK--SIMCOE,2,24,5,22,49,23,"Lefroy",079, ,0,0,0,125,315,"Killarney Beach Public School",20071010
+105,YORK--SIMCOE,0,53,0,20,63,18,"Innisfil",080, ,6,0,0,160,383,"St. Francis of Assisi Catholic School",20071010
+105,YORK--SIMCOE,0,49,2,22,55,31,"Innisfil",081, ,1,1,0,161,340,"Holy Cross Catholic Elementary School",20071010
+105,YORK--SIMCOE,6,55,5,11,58,11,"Bradford",082, ,6,1,0,153,386,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,3,84,3,22,78,20,"Bradford",083, ,1,0,0,211,472,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,2,26,0,9,25,12,"Bradford",084, ,3,0,0,77,280,"Bradford Memorial Community Centre",20071010
+105,YORK--SIMCOE,0,61,1,18,63,11,"Bradford",085, ,0,0,0,154,324,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,0,38,1,24,48,12,"Bradford",086, ,0,0,0,123,313,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Innisfil",087, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,62,3,24,90,39,"Innisfil",088, ,1,1,0,220,410,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,3,52,2,15,69,14,"Innisfil",089, ,0,0,0,155,369,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,1,30,1,18,55,16,"Innisfil",090, ,0,1,0,122,314,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,1,35,2,17,78,20,"Innisfil",091, ,0,0,0,153,397,"Goodfellow Public School",20071010
+105,YORK--SIMCOE,0,44,4,14,51,17,"Innisfil",092, ,0,0,0,130,351,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,3,37,2,22,68,19,"Innisfil",093, ,0,0,0,151,359,"Holy Cross Catholic Elementary School",20071010
+105,YORK--SIMCOE,2,68,3,35,97,34,"Innisfil",094, ,0,0,1,240,450,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,0,27,0,16,61,14,"Bradford",095, ,4,0,0,122,365,"Bradford Memorial Community Centre",20071010
+105,YORK--SIMCOE,2,86,2,22,141,28,"Bradford",096, ,1,0,0,282,422,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,2,28,2,16,47,15,"Innisfil",097, ,0,0,0,110,319,"Goodfellow Public School",20071010
+105,YORK--SIMCOE,1,60,1,14,74,20,"Lefroy",098, ,0,0,0,170,356,"Killarney Beach Public School",20071010
+105,YORK--SIMCOE,1,65,2,13,46,19,"Innisfil",099, ,1,0,0,147,360,"Goodfellow Public School",20071010
+105,YORK--SIMCOE,1,73,1,19,78,26,"Bradford",100, ,1,1,2,202,432,"Marie of the Incarnation Catholic School",20071010
+105,YORK--SIMCOE,1,50,2,11,33,21,"Lefroy",101, ,1,0,0,119,260,"Killarney Beach Public School",20071010
+105,YORK--SIMCOE,3,26,0,10,39,24,"Lefroy",102, ,0,0,0,102,245,"Killarney Beach Public School",20071010
+105,YORK--SIMCOE,4,28,3,7,104,19,"Ansnorveldt",103, ,0,1,0,166,331,"Holland Marsh Christian Reformed Church",20071010
+105,YORK--SIMCOE,2,45,2,30,86,29,"Innisfil",104, ,0,0,0,194,353,"St. Francis of Assisi Catholic School",20071010
+105,YORK--SIMCOE,5,31,0,16,70,20,"Innisfil",105, ,0,0,0,142,341,"St. Francis of Assisi Catholic School",20071010
+105,YORK--SIMCOE,0,39,3,10,49,14,"Innisfil",106, ,0,0,0,115,300,"Holy Cross Catholic Elementary School",20071010
+105,YORK--SIMCOE,0,34,1,17,49,17,"Innisfil",107, ,0,0,0,118,315,"Holy Cross Catholic Elementary School",20071010
+105,YORK--SIMCOE,0,51,0,22,67,16,"Bradford",108, ,0,0,0,156,384,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,1,47,1,15,39,13,"Innisfil",109, ,0,0,0,116,307,"Nantyr Shores Secondary School",20071010
+105,YORK--SIMCOE,2,86,0,39,71,24,"Innisfil",110, ,0,0,0,222,423,"Wheel Sandy Cove Acres",20071010
+105,YORK--SIMCOE,1,58,0,14,66,26,"Innisfil",111, ,1,0,0,166,354,"St. Francis of Assisi Catholic School",20071010
+105,YORK--SIMCOE,1,20,1,9,57,25,"Lefroy",112, ,0,0,0,113,267,"Killarney Beach Public School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Ansnorveldt",113, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,57,1,20,85,17,"Bradford",114, ,0,1,0,181,403,"Honourable Earl Rowe Public School",20071010
+105,YORK--SIMCOE,0,24,2,9,93,17,"Ansnorveldt",115, ,0,0,0,145,303,"Holland Marsh Christian Reformed Church",20071010
+105,YORK--SIMCOE,2,19,0,7,48,19,"River Drive Park",116, ,0,1,0,96,242,"The Kinsmen Club",20071010
+105,YORK--SIMCOE,3,65,0,22,68,26,"Holland Landing",117, ,0,0,0,184,375,"Park Avenue Public School",20071010
+105,YORK--SIMCOE,2,66,3,13,121,21,"River Drive Park",118, ,0,1,0,227,406,"The Kinsmen Club",20071010
+105,YORK--SIMCOE,1,49,1,17,67,24,"Keswick",119, ,0,0,0,159,351,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,0,35,1,18,78,21,"Keswick",120, ,0,0,0,153,433,"Georgina Civic Centre",20071010
+105,YORK--SIMCOE,0,35,3,18,61,17,"Keswick",121, ,1,2,1,138,292,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,1,52,5,18,50,27,"River Drive Park",122, ,0,0,0,153,334,"The Kinsmen Club",20071010
+105,YORK--SIMCOE,0,35,0,26,61,9,"Keswick",123, ,1,0,0,132,333,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,0,57,2,15,97,18,"River Drive Park",124, ,0,1,0,190,416,"The Kinsmen Club",20071010
+105,YORK--SIMCOE,0,41,0,20,59,16,"Keswick",125, ,0,0,0,136,324,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,1,30,1,5,50,11,"Holland Landing",126, ,2,0,0,100,240,"Park Avenue Public School",20071010
+105,YORK--SIMCOE,0,35,0,16,60,8,"Keswick",127, ,0,1,0,120,313,"Georgina Civic Centre",20071010
+105,YORK--SIMCOE,1,74,0,26,90,18,"Holland Landing",128, ,2,0,0,211,392,"Park Avenue Public School",20071010
+105,YORK--SIMCOE,1,55,3,21,73,25,"Keswick",129, ,0,0,0,178,375,"Lakeside Public School",20071010
+105,YORK--SIMCOE,4,17,0,12,47,18,"Keswick",130, ,0,0,0,98,243,"Lakeside Public School",20071010
+105,YORK--SIMCOE,0,71,2,22,67,22,"Holland Landing",131, ,1,0,0,185,474,"Good Shepherd Catholic Elementary School",20071010
+105,YORK--SIMCOE,0,43,0,13,75,12,"Keswick",132, ,1,0,0,144,333,"R.L. Graham Public School",20071010
+105,YORK--SIMCOE,0,37,0,9,47,25,"Keswick",133, ,0,0,1,119,321,"Our Lady of the Lake Catholic College School",20071010
+105,YORK--SIMCOE,2,40,0,30,89,20,"Keswick",134, ,0,0,0,181,373,"Our Lady of the Lake Catholic College School",20071010
+105,YORK--SIMCOE,1,21,0,14,73,23,"Keswick",135, ,0,1,0,133,343,"Our Lady of the Lake Catholic College School",20071010
+105,YORK--SIMCOE,2,77,1,20,67,10,"Keswick",136, ,0,0,0,177,325,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,3,62,1,17,74,23,"Holland Landing",137, ,2,0,0,182,353,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,0,37,0,18,73,16,"Keswick",138, ,0,0,0,144,335,"Prince of Peace Catholic Elementary School",20071010
+105,YORK--SIMCOE,1,67,1,4,102,15,"Keswick",139, ,0,0,0,190,339,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,2,64,1,21,76,13,"Holland Landing",140, ,3,0,0,180,406,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,1,37,1,14,55,20,"Holland Landing",141, ,1,1,0,130,293,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,1,53,0,13,90,13,"Keswick",142, ,1,0,0,171,368,"St. Thomas Aquinas Catholic School",20071010
+105,YORK--SIMCOE,0,71,3,11,97,22,"Holland Landing",143, ,0,1,0,205,357,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,0,34,6,8,52,9,"Holland Landing",144, ,2,0,0,111,268,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,0,69,1,19,88,27,"Holland Landing",145, ,0,0,1,205,388,"Holland Landing Community Centre",20071010
+105,YORK--SIMCOE,0,66,1,27,97,45,"Holland Landing",146, ,1,1,1,239,452,"Holland Landing Public School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Queensville",147, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,1,40,0,13,57,20,"Keswick",148, ,0,0,0,131,347,"Prince of Peace Catholic Elementary School",20071010
+105,YORK--SIMCOE,1,39,1,16,84,29,"Keswick",149, ,0,0,0,170,374,"Prince of Peace Catholic Elementary School",20071010
+105,YORK--SIMCOE,1,40,1,13,69,12,"Keswick",150A, ,1,0,0,137,330,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,2,38,0,10,62,17,"Keswick",150B, ,0,0,0,129,311,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,1,70,0,13,92,21,"Holland Landing",151, ,1,0,0,198,391,"Good Shepherd Catholic Elementary School",20071010
+105,YORK--SIMCOE,3,20,0,24,60,11,"Keswick",152, ,0,0,0,118,334,"Our Lady of the Lake Catholic College School",20071010
+105,YORK--SIMCOE,1,33,0,12,72,9,"Keswick",153, ,0,0,0,127,332,"Lakeside Public School",20071010
+105,YORK--SIMCOE,0,25,1,17,72,28,"Keswick",154, ,0,1,0,144,372,"Lakeside Public School",20071010
+105,YORK--SIMCOE,2,38,2,22,88,17,"Keswick",155, ,1,0,0,170,382,"Keswick Christian Church",20071010
+105,YORK--SIMCOE,2,35,0,25,56,30,"Keswick",156, ,0,0,0,148,376,"Jersey Public School",20071010
+105,YORK--SIMCOE,1,42,0,13,97,18,"Keswick",157, ,1,0,1,173,372,"Lakeside Public School",20071010
+105,YORK--SIMCOE,2,2,1,3,4,2,"Queensville",158s, ,1,0,0,15,15,"Valleyview Assisted Living",20071010
+105,YORK--SIMCOE,1,67,1,20,116,38,"Holland Landing",159, ,3,1,0,247,454,"Holland Landing Public School",20071010
+105,YORK--SIMCOE,......................COMBINED WITH POLL 182 ....................,,,,,,"Keswick",160s, ,,,,,,"Hilltop Manor",20071010
+105,YORK--SIMCOE,0,36,1,11,88,22,"Keswick",161, ,0,0,0,158,391,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,0,61,1,10,97,11,"Keswick",162, ,2,0,0,182,368,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,0,48,0,21,121,20,"Holland Landing",163, ,0,0,0,210,429,"Holland Landing Public School",20071010
+105,YORK--SIMCOE,0,36,2,17,75,22,"Keswick",164, ,1,0,0,153,364,"R.L. Graham Public School",20071010
+105,YORK--SIMCOE,0,22,3,18,73,10,"Keswick",165, ,1,0,0,127,341,"Jersey Public School",20071010
+105,YORK--SIMCOE,3,39,0,31,43,10,"Keswick",166, ,0,1,0,127,315,"Jersey Public School",20071010
+105,YORK--SIMCOE,0,65,1,10,66,13,"Keswick",167, ,0,1,0,156,326,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,2,28,1,9,71,17,"Keswick",168, ,2,1,0,131,341,"Keswick High School",20071010
+105,YORK--SIMCOE,0,45,1,9,80,19,"Holland Landing",169, ,1,0,0,155,329,"Good Shepherd Catholic Elementary School",20071010
+105,YORK--SIMCOE,0,42,1,17,57,13,"Keswick",170, ,0,0,0,130,308,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,2,61,0,25,87,11,"Keswick",171, ,3,0,0,189,390,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Keswick",172, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,0,0,0,10,1,"Holland Landing",173s, ,0,0,0,11,11,"MacDonald House for Seniors",20071010
+105,YORK--SIMCOE,1,44,0,7,106,20,"Keswick",174, ,1,0,0,179,384,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,0,38,1,20,82,15,"Keswick",175, ,1,0,0,157,319,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,0,34,2,12,61,22,"Keswick",176, ,0,0,0,131,295,"R.L. Graham Public School",20071010
+105,YORK--SIMCOE,0,6,1,3,21,0,"Georgina",177s, ,0,0,1,32,104,"Cedarvale Lodge",20071010
+105,YORK--SIMCOE,2,39,0,8,102,22,"Keswick",178, ,0,0,0,173,329,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,1,38,2,9,60,14,"Keswick",179, ,1,0,0,125,302,"Keswick High School",20071010
+105,YORK--SIMCOE,2,38,0,20,103,15,"Keswick",180, ,0,0,0,178,397,"Keswick High School",20071010
+105,YORK--SIMCOE,0,63,0,16,79,10,"Keswick",181, ,1,0,0,169,357,"W.J. Watson Public School",20071010
+105,YORK--SIMCOE,1,35,2,16,88,20,"Keswick",182, ,0,0,1,163,381,"Our Lady of the Lake Catholic College School",20071010
+105,YORK--SIMCOE,1,60,1,14,75,23,"Keswick",183, ,0,0,0,174,337,"Fairwood Public School",20071010
+105,YORK--SIMCOE,0,76,3,17,67,16,"Keswick",184, ,2,0,1,182,396,"Fairwood Public School",20071010
+105,YORK--SIMCOE,0,38,1,21,53,8,"Keswick",185, ,0,0,0,121,311,"Jersey Public School",20071010
+105,YORK--SIMCOE,0,45,0,11,59,22,"Keswick",186, ,1,0,0,138,312,"Keswick High School",20071010
+105,YORK--SIMCOE,0,73,1,15,108,21,"Queensville",187, ,2,0,0,220,479,"Queensville Community Centre",20071010
+105,YORK--SIMCOE,2,53,0,31,96,32,"Keswick",188, ,2,0,0,216,434,"Fairwood Public School",20071010
+105,YORK--SIMCOE,1,42,6,24,63,15,"Keswick",189, ,1,0,0,152,307,"Lake Simcoe Public School",20071010
+105,YORK--SIMCOE,0,40,5,23,97,18,"Keswick",190, ,0,0,0,183,419,"Georgina Civic Centre",20071010
+105,YORK--SIMCOE,1,36,0,8,71,21,"Sharon",191, ,0,0,0,137,283,"East Gwillimbury Civic Centre",20071010
+105,YORK--SIMCOE,0,45,2,14,100,15,"Queensville",192, ,1,0,0,177,370,"Queensville Community Centre",20071010
+105,YORK--SIMCOE,0,50,1,30,101,23,"Keswick",193, ,1,0,0,206,464,"Georgina Civic Centre",20071010
+105,YORK--SIMCOE,0,0,0,0,34,0,"Keswick",194s, ,0,0,0,34,34,"Pipe and Slipper Home",20071010
+105,YORK--SIMCOE,1,31,0,8,75,13,"Keswick",195, ,2,0,0,130,317,"Keswick Christian Church",20071010
+105,YORK--SIMCOE,3,58,0,20,70,14,"Sharon",196, ,0,0,0,165,379,"East Gwillimbury Civic Centre",20071010
+105,YORK--SIMCOE,5,79,2,11,122,27,"Sharon",197, ,0,0,0,246,481,"Our Lady of Good Council Catholic School",20071010
+105,YORK--SIMCOE,0,39,1,18,82,14,"Keswick",198, ,1,0,0,155,364,"Keswick Christian Church",20071010
+105,YORK--SIMCOE,2,49,1,23,99,21,"Keswick",199, ,0,0,0,195,449,"Georgina Civic Centre",20071010
+105,YORK--SIMCOE,0,78,1,17,108,19,"Sharon",200, ,3,2,0,228,446,"Our Lady of Good Council Catholic School",20071010
+105,YORK--SIMCOE,0,71,5,4,108,17,"Sharon",201, ,0,0,0,205,380,"Our Lady of Good Council Catholic School",20071010
+105,YORK--SIMCOE,1,58,3,7,115,18,"Sharon",202, ,0,0,0,202,429,"East Gwillimbury Civic Centre",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",203, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,27,1,12,87,12,"Queensville",204A, ,0,0,0,139,285,"Queensville Community Centre",20071010
+105,YORK--SIMCOE,2,31,0,6,77,21,"Queensville",204B, ,0,0,0,137,295,"Queensville Community Centre",20071010
+105,YORK--SIMCOE,0,38,1,10,67,21,"Sutton",205, ,0,0,1,138,427,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,1,54,1,9,102,24,"Queensville",206, ,2,1,0,194,467,"Queensville Community Centre",20071010
+105,YORK--SIMCOE,1,42,1,18,98,21,"Sutton",207, ,1,1,0,183,429,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,0,1,2,2,9,0,"Jackson's Point",208s, ,0,0,0,14,18,"Sunnybrook Residence",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Keswick",209, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,25,1,17,56,13,"Sutton",210A, ,1,0,0,113,280,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,0,23,0,14,38,18,"Sutton",210B, ,0,0,0,93,277,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,0,4,3,2,6,1,"Jackson's Point",211s, ,1,2,0,19,55,"Halsey Memorial Lodge",20071010
+105,YORK--SIMCOE,0,5,0,0,17,1,"Jackson's Point",212s, ,0,0,2,25,27,"Cedar Lane Lodge",20071010
+105,YORK--SIMCOE,0,39,0,8,63,17,"Sutton",213, ,0,1,0,128,413,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,0,32,0,15,71,20,"Mount Albert",214, ,0,0,0,138,325,"Mount Albert Lions Hall",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",215, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,65,0,14,77,24,"Sutton",216, ,0,0,0,180,337,"Kin Community Hall",20071010
+105,YORK--SIMCOE,2,8,1,6,15,2,"Sutton",217s, ,0,0,1,35,100,"River Glen Haven Nursing Home",20071010
+105,YORK--SIMCOE,0,75,0,11,79,16,"Sutton",218, ,0,1,0,182,408,"Sutton Multi-Use Room",20071010
+105,YORK--SIMCOE,0,0,0,3,20,0,"Sutton",219s, ,0,0,0,23,24,"Fairpark Manor",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",220, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,2,13,2,9,10,6,"Newmarket",221s, ,2,2,1,47,67,"The Newmarket Residence",20071010
+105,YORK--SIMCOE,0,28,2,13,52,5,"Sutton",222, ,0,0,0,100,267,"Kin Community Hall",20071010
+105,YORK--SIMCOE,0,42,0,8,74,20,"Sutton",223, ,0,0,0,144,300,"Kin Community Hall",20071010
+105,YORK--SIMCOE,0,46,2,19,69,18,"Sutton",224, ,1,0,0,155,345,"Kin Community Hall",20071010
+105,YORK--SIMCOE,0,22,1,14,44,4,"Sutton",225, ,0,0,1,86,228,"Kin Community Hall",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",226, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,36,3,16,81,16,"Sutton",227, ,1,0,0,153,352,"Egypt Hall",20071010
+105,YORK--SIMCOE,0,35,2,14,51,19,"Sutton",228, ,0,0,0,121,296,"Sutton Arena",20071010
+105,YORK--SIMCOE,0,47,0,15,81,26,"Sutton",229, ,0,0,0,169,474,"Sutton Arena",20071010
+105,YORK--SIMCOE,0,41,3,16,91,28,"Mount Albert",230, ,2,0,0,181,423,"Mount Albert Lions Hall",20071010
+105,YORK--SIMCOE,0,53,1,18,72,6,"Sutton",231, ,1,0,0,151,334,"Sutton Arena",20071010
+105,YORK--SIMCOE,0,54,3,17,107,22,"Mount Albert",232, ,0,0,0,203,450,"Ross Family Complex",20071010
+105,YORK--SIMCOE,0,50,0,15,87,20,"Mount Albert",233, ,0,0,0,172,383,"Mount Albert Lions Hall",20071010
+105,YORK--SIMCOE,0,37,1,20,46,20,"Virginia",234, ,0,1,0,125,278,"Virginia Community Centre",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",235, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,2,33,2,9,94,18,"Sutton",236, ,0,0,0,158,339,"Egypt Hall",20071010
+105,YORK--SIMCOE,0,6,1,2,6,0,"Mount Albert",237s, ,0,0,0,15,20,"Country Living Retirement Home",20071010
+105,YORK--SIMCOE,0,23,1,4,36,7,"Georgina Island",238, ,0,0,1,72,140,"Georgina Island Community Center",20071010
+105,YORK--SIMCOE,0,52,0,10,104,22,"Mount Albert",239, ,0,0,1,189,379,"Ross Family Complex",20071010
+105,YORK--SIMCOE,0,39,3,9,74,39,"Mount Albert",240, ,0,0,0,164,351,"Mount Albert Public School",20071010
+105,YORK--SIMCOE,1,65,2,8,112,27,"Mount Albert",241, ,0,0,0,215,393,"Mount Albert Public School",20071010
+105,YORK--SIMCOE,1,32,0,16,104,24,"Mount Albert",242, ,0,0,0,177,349,"Ross Family Complex",20071010
+105,YORK--SIMCOE,0,58,0,13,87,33,"Mount Albert",243, ,0,0,0,191,323,"Ross Family Complex",20071010
+105,YORK--SIMCOE,0,65,2,20,108,30,"Sutton",244, ,0,0,0,225,506,"Egypt Hall",20071010
+105,YORK--SIMCOE,0,69,1,16,93,27,"Mount Albert",245, ,2,0,0,208,334,"Mount Albert Public School",20071010
+105,YORK--SIMCOE,0,32,1,9,45,22,"Virginia",246A, ,0,0,0,109,269,"Virginia Community Centre",20071010
+105,YORK--SIMCOE,0,29,2,6,59,25,"Virginia",246B, ,0,0,0,121,276,"Virginia Community Centre",20071010
+105,YORK--SIMCOE,1,87,3,16,127,36,"Mount Albert",247, ,0,0,1,271,400,"Mount Albert Public School",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Sutton",248, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,66,1,25,83,11,"Virginia",249, ,0,0,2,188,387,"Virginia Community Centre",20071010
+105,YORK--SIMCOE,5,43,1,18,58,24,"Sutton",250, ,1,0,0,150,331,"Egypt Hall",20071010
+105,YORK--SIMCOE,3,50,2,25,118,22,"Pefferlaw",251, ,1,0,0,221,442,"Pefferlaw Lions Hall",20071010
+105,YORK--SIMCOE,2,35,0,13,80,26,"Pefferlaw",252A, ,1,0,0,157,293,"Pefferlaw Lions Hall",20071010
+105,YORK--SIMCOE,0,25,0,25,73,28,"Pefferlaw",252B, ,0,0,0,151,319,"Pefferlaw Lions Hall",20071010
+105,YORK--SIMCOE,2,68,1,23,103,22,"Pefferlaw",253, ,0,0,0,219,454,"Pefferlaw Lions Hall",20071010
+105,YORK--SIMCOE,0,34,1,19,96,31,"Pefferlaw",254, ,3,0,1,185,364,"Pefferlaw Lions Hall",20071010
+105,YORK--SIMCOE,0,42,0,19,77,19,"Sutton",255, ,0,0,0,157,356,"Egypt Hall",20071010
+105,YORK--SIMCOE,..........................NO POLL HELD........................,,,,,,"Bradford",400, ,0,0,0,0,0,"",20071010
+105,YORK--SIMCOE,0,22,4,13,48,5,"Keswick",401, ,0,0,0,92,136,"Keswick Gardens",20071010
+105,YORK--SIMCOE,1,113,2,36,182,32,"Holland Landing",Advanced Polls /  ADV001, ,1,2,0,369,0,"Returning Office / Bureau du directeur du scrutin",20071010
+105,YORK--SIMCOE,1,284,5,65,453,64,"Sutton",Advanced Polls /  ADV002, ,0,0,0,872,0,"Kin Community Hall",20071010
+105,YORK--SIMCOE,1,262,7,47,477,60,"Sharon",Advanced Polls /  ADV003, ,0,2,0,856,0,"East Gwillimbury Civic Centre",20071010
+105,YORK--SIMCOE,2,252,8,42,309,48,"Bradford",Advanced Polls /  ADV004, ,1,1,3,666,0,"Specialty Care Bradford Valley",20071010
+105,YORK--SIMCOE,2,212,2,53,376,56,"Innisfil",Advanced Polls /  ADV005, ,3,0,0,704,0,"Knock Community Centre - Hall",20071010
+TOTALS:, ,297,12785,348,4205,19173,4664, , , , , , , , , , 

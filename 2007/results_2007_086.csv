@@ -1,0 +1,303 @@
+ED_CODE,ED_NAME,DOMSY,DUNLOP,HILL,RAYBOULD,VARCOE,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+086,SIMCOE NORTH,49,62,24,1,21,"Penetanguishene",001, ,2,0,0,159,339,"Our Lady of the Rosary Mission",20071010
+086,SIMCOE NORTH,98,34,15,0,6,"Christian Island",002, ,0,1,0,154,346,"Beausoleil First Nation",20071010
+086,SIMCOE NORTH,19,58,4,0,5,"Severn Falls",003, ,0,0,0,86,181,"The River Emporium",20071010
+086,SIMCOE NORTH,61,58,16,0,24,"Penetanguishene",004, ,0,2,0,161,415,"Our Lady of the Rosary Mission",20071010
+086,SIMCOE NORTH,59,49,12,0,27,"Penetanguishene",005, ,1,0,0,148,306,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,33,40,10,0,27,"Penetanguishene",006, ,0,1,0,111,299,"Our Lady of the Rosary Mission",20071010
+086,SIMCOE NORTH,47,52,12,0,17,"Penetanguishene",007, ,1,0,0,129,264,"Our Lady of the Rosary Mission",20071010
+086,SIMCOE NORTH,25,25,7,3,20,"Penetanguishene",008s, ,1,2,0,83,118,"Penetanguishene Mental Health Centre",20071010
+086,SIMCOE NORTH,72,75,6,0,18,"Penetanguishene",009, ,0,0,0,171,323,"St. James Anglican Church Hall",20071010
+086,SIMCOE NORTH,34,43,6,0,6,"Penetanguishene",010, ,0,0,0,89,191,"St. James Anglican Church Hall",20071010
+086,SIMCOE NORTH,28,42,7,0,5,"Port Severn",011, ,0,0,0,82,189,"The Principal's School House",20071010
+086,SIMCOE NORTH,23,65,6,0,15,"Washago",012, ,0,0,0,109,232,"Washago Community Centre",20071010
+086,SIMCOE NORTH,56,66,11,0,23,"Penetanguishene",013, ,0,1,0,157,254,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,73,50,15,0,15,"Penetanguishene",014, ,0,0,0,153,309,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,70,55,13,1,29,"Penetanguishene",015, ,2,1,0,171,408,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,63,57,24,0,12,"Penetanguishene",016, ,0,0,0,156,308,"Burkevale Protestant Separate School",20071010
+086,SIMCOE NORTH,84,67,9,1,27,"Penetanguishene",017, ,0,0,0,188,434,"St. James Anglican Church Hall",20071010
+086,SIMCOE NORTH,62,49,28,0,23,"Penetanguishene",018, ,0,2,0,164,363,"Burkevale Protestant Separate School",20071010
+086,SIMCOE NORTH,84,70,4,0,20,"Penetanguishene",019, ,0,0,0,178,394,"Burkevale Protestant Separate School",20071010
+086,SIMCOE NORTH,6,2,0,0,1,"Penetanguishene",020s, ,0,0,0,9,14,"Beechwood Private Hospital",20071010
+086,SIMCOE NORTH,113,64,14,1,22,"Penetanguishene",021, ,0,1,0,215,414,"Burkevale Protestant Separate School",20071010
+086,SIMCOE NORTH,83,69,17,1,26,"Penetanguishene",022, ,0,0,0,196,391,"St. James Anglican Church Hall",20071010
+086,SIMCOE NORTH,117,41,20,0,11,"Penetanguishene",023, ,1,0,0,190,392,"Penetanguishene Secondary School",20071010
+086,SIMCOE NORTH,112,71,22,0,8,"Penetanguishene",024, ,1,1,0,215,414,"Penetanguishene Secondary School",20071010
+086,SIMCOE NORTH,68,81,1,0,13,"Penetanguishene",025, ,0,1,1,165,282,"Penetanguishene Secondary School",20071010
+086,SIMCOE NORTH,45,56,7,1,8,"Penetanguishene",026, ,0,0,0,117,266,"Penetanguishene Secondary School",20071010
+086,SIMCOE NORTH,48,40,8,0,9,"Port McNicoll",027, ,0,0,0,105,214,"Port McNicoll Community Centre",20071010
+086,SIMCOE NORTH,50,66,19,0,10,"Victoria Harbour",028, ,0,0,0,145,327,"Victoria Harbour Public School",20071010
+086,SIMCOE NORTH,19,45,7,0,4,"Port Severn",029, ,0,0,0,75,174,"The Principal's School House",20071010
+086,SIMCOE NORTH,23,76,11,0,7,"Matchedash",030, ,0,0,0,117,218,"Matchedash Community Heritage Centre",20071010
+086,SIMCOE NORTH,29,81,15,0,14,"Matchedash",031, ,0,0,0,139,257,"Matchedash Community Heritage Centre",20071010
+086,SIMCOE NORTH,42,74,16,0,30,"Washago",032, ,1,1,0,164,338,"Washago Community Centre",20071010
+086,SIMCOE NORTH,27,60,16,0,25,"Washago",033, ,0,0,0,128,276,"Washago Community Centre",20071010
+086,SIMCOE NORTH,41,51,15,0,17,"Washago",034, ,0,0,0,124,233,"Washago Community Centre",20071010
+086,SIMCOE NORTH,11,66,15,1,17,"Washago",035, ,0,0,0,110,237,"Washago Community Centre",20071010
+086,SIMCOE NORTH,38,54,7,0,22,"Washago",036, ,0,1,1,123,222,"Washago Community Centre",20071010
+086,SIMCOE NORTH,11,23,2,1,4,"Kirkfield",037, ,0,0,0,41,185,"Sebright United Church",20071010
+086,SIMCOE NORTH,59,42,22,0,24,"Penetanguishene",038, ,0,0,0,147,291,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,58,61,14,0,18,"Penetanguishene",039, ,1,0,0,152,394,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,79,42,26,0,10,"Penetanguishene",040, ,2,0,0,159,391,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,71,52,15,1,16,"Penetanguishene",041, ,0,0,0,155,380,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,63,35,22,2,4,"Penetanguishene",042, ,5,0,0,131,339,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",043s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,69,50,18,0,15,"Penetanguishene",044, ,0,0,0,152,404,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,25,9,2,0,0,"Penetanguishene",045s, ,1,0,0,37,107,"Georgian Manor",20071010
+086,SIMCOE NORTH,54,37,6,0,7,"Penetanguishene",046, ,1,1,0,106,300,"Georgian Manor",20071010
+086,SIMCOE NORTH,4,8,1,0,0,"Penetanguishene",047s, ,0,1,0,14,34,"Penetanguishene General Hospital",20071010
+086,SIMCOE NORTH,66,49,24,0,18,"Penetanguishene",048, ,1,0,0,158,378,"Georgian Manor",20071010
+086,SIMCOE NORTH,69,63,17,0,9,"Penetanguishene",049, ,0,0,0,158,300,"Penetanguishene Secondary School",20071010
+086,SIMCOE NORTH,59,54,14,1,12,"Midland",050, ,3,1,0,144,357,"Mountainview Mall",20071010
+086,SIMCOE NORTH,53,61,17,0,20,"Midland",051, ,0,1,0,152,355,"Mountainview Mall",20071010
+086,SIMCOE NORTH,70,91,18,1,18,"Midland",052, ,1,0,0,199,353,"Mountainview Mall",20071010
+086,SIMCOE NORTH,51,69,6,0,12,"Midland",053, ,0,0,0,138,310,"Mountainview Mall",20071010
+086,SIMCOE NORTH,79,59,8,0,16,"Midland",054, ,2,0,0,164,321,"Mountainview Mall",20071010
+086,SIMCOE NORTH,38,54,11,0,21,"Midland",055, ,0,0,0,124,318,"Mountainview Mall",20071010
+086,SIMCOE NORTH,68,90,13,0,24,"Midland",056, ,0,1,0,196,363,"Holy Cross Lutheran Church",20071010
+086,SIMCOE NORTH,44,38,13,0,22,"Midland",057, ,0,1,0,118,353,"Odd Fellows Hall",20071010
+086,SIMCOE NORTH,48,58,22,1,19,"Midland",058, ,0,0,0,148,348,"Holy Cross Lutheran Church",20071010
+086,SIMCOE NORTH,49,33,9,0,9,"Midland",059, ,0,1,1,102,341,"Odd Fellows Hall",20071010
+086,SIMCOE NORTH,70,62,13,0,22,"Midland",060, ,1,0,0,168,340,"Holy Cross Lutheran Church",20071010
+086,SIMCOE NORTH,39,59,15,2,17,"Midland",061, ,0,1,0,133,299,"Odd Fellows Hall",20071010
+086,SIMCOE NORTH,17,42,5,1,2,"Midland",062s, ,0,0,0,67,160,"The Villa Care Centre",20071010
+086,SIMCOE NORTH,32,37,7,0,29,"Midland",063, ,0,0,0,105,292,"Holy Cross Lutheran Church",20071010
+086,SIMCOE NORTH,32,50,9,0,18,"Midland",064, ,0,0,0,109,282,"Sacred Heart Elementary School",20071010
+086,SIMCOE NORTH,18,22,8,0,8,"Midland",065, ,0,2,0,58,192,"Sacred Heart Elementary School",20071010
+086,SIMCOE NORTH,45,32,19,0,30,"Midland",066, ,2,0,0,128,346,"Hillcrest Village Care Centre",20071010
+086,SIMCOE NORTH,46,43,16,1,14,"Midland",067, ,0,0,0,120,312,"Sacred Heart Elementary School",20071010
+086,SIMCOE NORTH,17,10,5,2,0,"Midland",068s, ,1,0,2,37,102,"Hillcrest Village Care Centre",20071010
+086,SIMCOE NORTH,34,63,8,0,6,"Midland",069, ,0,0,0,111,234,"Calvary Baptist Church",20071010
+086,SIMCOE NORTH,44,67,15,0,17,"Midland",070, ,0,0,0,143,309,"Calvary Baptist Church",20071010
+086,SIMCOE NORTH,43,44,23,1,10,"Midland",071, ,0,1,0,122,359,"Sacred Heart Elementary School",20071010
+086,SIMCOE NORTH,39,48,15,0,12,"Midland",072, ,0,0,0,114,297,"Calvary Baptist Church",20071010
+086,SIMCOE NORTH,62,71,19,1,12,"Midland",073, ,0,0,0,165,438,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,54,67,25,0,17,"Midland",074, ,0,0,0,163,364,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,66,75,7,0,9,"Midland",075, ,1,0,0,158,381,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,54,79,17,0,15,"Midland",076, ,0,0,0,165,376,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,46,58,9,0,18,"Midland",077, ,0,0,0,131,310,"Sacred Heart Elementary School",20071010
+086,SIMCOE NORTH,59,59,12,7,1,"Midland",078, ,1,0,0,139,305,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,43,61,11,0,9,"Midland",079, ,0,1,0,125,355,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,45,66,9,0,13,"Port McNicoll",080, ,0,0,0,133,331,"Port McNicoll Community Centre",20071010
+086,SIMCOE NORTH,38,64,14,0,8,"Port McNicoll",081, ,0,1,0,125,314,"Port McNicoll Public School",20071010
+086,SIMCOE NORTH,28,43,9,0,10,"Port McNicoll",082, ,0,0,0,90,178,"Port McNicoll Community Centre",20071010
+086,SIMCOE NORTH,34,39,19,1,5,"Port McNicoll",083, ,0,0,0,98,251,"Port McNicoll Community Centre",20071010
+086,SIMCOE NORTH,32,45,22,1,14,"Port McNicoll",084, ,0,0,0,114,325,"Port McNicoll Public School",20071010
+086,SIMCOE NORTH,40,49,23,0,6,"Port McNicoll",085, ,0,0,0,118,356,"Port McNicoll Public School",20071010
+086,SIMCOE NORTH,37,56,13,0,14,"Victoria Harbour",086, ,0,0,0,120,328,"Victoria Harbour Public School",20071010
+086,SIMCOE NORTH,41,64,8,0,13,"Victoria Harbour",087, ,0,1,0,127,308,"Victoria Harbour Public School",20071010
+086,SIMCOE NORTH,54,56,13,0,16,"Victoria Harbour",088, ,1,0,0,140,323,"Victoria Harbour Public School",20071010
+086,SIMCOE NORTH,37,73,13,1,18,"Victoria Harbour",089, ,0,0,0,142,318,"Victoria Harbour Public School",20071010
+086,SIMCOE NORTH,39,58,15,0,13,"Victoria Harbour",090, ,0,1,0,126,321,"St. Antoine Daniel Catholic School",20071010
+086,SIMCOE NORTH,23,53,11,1,9,"Waubaushene",091, ,0,0,1,98,217,"Waubaushene Elementary School",20071010
+086,SIMCOE NORTH,34,64,8,0,3,"Waubaushene",092, ,0,0,0,109,203,"Waubaushene Elementary School",20071010
+086,SIMCOE NORTH,26,62,16,1,14,"Waubaushene",093, ,0,0,0,119,280,"Waubaushene Elementary School",20071010
+086,SIMCOE NORTH,30,65,9,0,14,"Coldwater",094, ,0,0,0,118,250,"Royal Canadian Legion #270",20071010
+086,SIMCOE NORTH,25,90,7,0,21,"Orillia",095, ,0,0,0,143,307,"Christian Fellowship Chapel",20071010
+086,SIMCOE NORTH,41,88,5,0,12,"Cumberland Beach",096, ,1,0,0,147,306,"Cumberland Beach Public School",20071010
+086,SIMCOE NORTH,40,79,11,1,8,"Washago",097, ,1,0,0,140,267,"Washago Community Centre",20071010
+086,SIMCOE NORTH,23,41,17,0,18,"Longford Mills",098, ,0,0,0,99,246,"Longford Mills Community Centre",20071010
+086,SIMCOE NORTH,44,46,15,0,14,"Penetanguishene",099, ,0,0,0,119,267,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,72,54,13,0,15,"Penetanguishene",100, ,0,0,0,154,287,"Lafontaine Parish Hall",20071010
+086,SIMCOE NORTH,44,72,10,0,18,"Perkinsfield",101, ,0,0,0,144,329,"The Place Community Centre",20071010
+086,SIMCOE NORTH,65,53,4,0,13,"Penetanguishene",102, ,0,0,0,135,328,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,26,29,9,0,7,"Midland",103, ,0,0,0,71,176,"Holy Cross Lutheran Church",20071010
+086,SIMCOE NORTH,52,84,10,0,20,"Midland",104, ,0,0,0,166,338,"The Villa Care Centre",20071010
+086,SIMCOE NORTH,33,61,1,0,5,"Midland",105, ,0,0,0,100,188,"Calvary Baptist Church",20071010
+086,SIMCOE NORTH,11,16,2,1,0,"Midland",106s, ,0,0,1,31,62,"King Place Retirement Residence",20071010
+086,SIMCOE NORTH,85,78,17,0,12,"Midland",107, ,0,0,0,192,498,"King Place Retirement Residence",20071010
+086,SIMCOE NORTH,69,70,23,0,9,"Midland",108, ,2,0,0,173,462,"St. Theresa Catholic High School",20071010
+086,SIMCOE NORTH,34,50,15,1,8,"Port McNicoll",109, ,0,0,0,108,256,"Port McNicoll Public School",20071010
+086,SIMCOE NORTH,32,68,16,0,22,"Victoria Harbour",110, ,0,1,0,139,299,"St. Antoine Daniel Catholic School",20071010
+086,SIMCOE NORTH,26,73,19,0,17,"Victoria Harbour",111, ,0,0,0,135,277,"St. Antoine Daniel Catholic School",20071010
+086,SIMCOE NORTH,19,54,14,0,20,"Waubaushene",112, ,1,0,0,108,228,"Waubaushene Elementary School",20071010
+086,SIMCOE NORTH,34,111,20,0,11,"Coldwater",113, ,1,0,0,177,347,"Coldwater Public School",20071010
+086,SIMCOE NORTH,29,123,18,0,11,"Coldwater",114, ,0,0,0,181,317,"Coldwater Public School",20071010
+086,SIMCOE NORTH,41,119,21,0,11,"Coldwater",115, ,0,1,1,194,340,"Royal Canadian Legion #270",20071010
+086,SIMCOE NORTH,28,100,7,1,18,"Coldwater",116, ,0,0,1,155,347,"Royal Canadian Legion #270",20071010
+086,SIMCOE NORTH,29,58,21,0,16,"Cumberland Beach",117, ,1,0,0,125,310,"Cumberland Beach Public School",20071010
+086,SIMCOE NORTH,33,57,18,1,12,"Cumberland Beach",118, ,1,0,0,122,279,"Cumberland Beach Public School",20071010
+086,SIMCOE NORTH,16,65,16,1,12,"Cumberland Beach",119, ,0,0,0,110,199,"Cumberland Beach Public School",20071010
+086,SIMCOE NORTH,19,51,14,0,16,"Longford Mills",120, ,0,1,0,101,234,"Longford Mills Community Centre",20071010
+086,SIMCOE NORTH,25,69,8,0,2,"Longford Mills",121, ,0,0,0,104,266,"Longford Mills Community Centre",20071010
+086,SIMCOE NORTH,51,36,17,0,18,"Perkinsfield",122, ,0,1,0,123,273,"The Place Community Centre",20071010
+086,SIMCOE NORTH,37,39,10,3,8,"Perkinsfield",123, ,1,2,0,100,257,"The Place Community Centre",20071010
+086,SIMCOE NORTH,57,61,16,0,10,"Perkinsfield",124, ,1,1,0,146,310,"The Place Community Centre",20071010
+086,SIMCOE NORTH,32,82,11,0,22,"Wyebridge",125, ,0,0,0,147,316,"Wyebridge Community Centre",20071010
+086,SIMCOE NORTH,47,97,23,0,14,"Victoria Harbour",126, ,1,0,0,182,360,"Old Fort Fire Hall",20071010
+086,SIMCOE NORTH,35,114,4,1,16,"Coldwater",127, ,0,0,0,170,301,"Coldwater Public School",20071010
+086,SIMCOE NORTH,23,108,12,1,17,"Coldwater",128, ,1,0,0,162,274,"Coldwater Public School",20071010
+086,SIMCOE NORTH,51,113,16,0,24,"Warminster",129, ,1,0,0,205,331,"Warminster Community Hall",20071010
+086,SIMCOE NORTH,26,86,13,0,26,"Warminster",130, ,0,0,0,151,329,"Warminster Community Hall",20071010
+086,SIMCOE NORTH,20,91,14,0,12,"Orillia",131, ,1,0,1,139,259,"Christian Fellowship Chapel",20071010
+086,SIMCOE NORTH,30,114,8,0,14,"Orillia",132, ,0,0,0,166,301,"Ardtrea Public School",20071010
+086,SIMCOE NORTH,36,124,15,0,12,"Orillia",133, ,0,1,0,188,347,"Ardtrea Public School",20071010
+086,SIMCOE NORTH,41,103,13,3,17,"Cumberland Beach",134, ,0,0,0,177,349,"Cumberland Beach Public School",20071010
+086,SIMCOE NORTH,30,38,79,1,18,"Rama",135, ,8,0,0,174,467,"Rama Community Hall",20071010
+086,SIMCOE NORTH,37,88,24,0,12,"Longford Mills",136, ,0,0,0,161,358,"Longford Mills Community Centre",20071010
+086,SIMCOE NORTH,70,72,11,0,24,"Perkinsfield",137, ,1,0,0,178,310,"The Place Community Centre",20071010
+086,SIMCOE NORTH,33,95,18,0,23,"Wyebridge",138, ,1,0,0,170,341,"Wyebridge Community Centre",20071010
+086,SIMCOE NORTH,34,72,11,0,19,"Wyebridge",139, ,0,0,0,136,277,"Ebenezer United Church",20071010
+086,SIMCOE NORTH,34,100,5,0,32,"Vasey",140, ,0,0,0,171,250,"Vasey United Church",20071010
+086,SIMCOE NORTH,38,71,12,0,19,"Vasey",141, ,0,0,0,140,230,"Vasey United Church",20071010
+086,SIMCOE NORTH,45,116,12,1,33,"Oro-Medonte",142, ,0,0,0,207,336,"Moonstone Elementary School",20071010
+086,SIMCOE NORTH,40,101,17,0,4,"Orillia",143, ,0,0,0,162,358,"Ardtrea Public School",20071010
+086,SIMCOE NORTH,47,98,11,1,21,"Orillia",144, ,0,0,0,178,379,"Couchiching Heights Public School",20071010
+086,SIMCOE NORTH,42,123,14,0,19,"Udney",145, ,0,0,0,198,351,"Udney Community Centre",20071010
+086,SIMCOE NORTH,97,134,15,0,18,"Wyevale",146, ,0,0,0,264,456,"Wyevale Central School",20071010
+086,SIMCOE NORTH,47,139,11,0,27,"Wyevale",147, ,0,1,0,225,362,"Wyevale Central School",20071010
+086,SIMCOE NORTH,44,82,11,0,40,"Oro-Medonte",148, ,0,0,0,177,299,"Moonstone Elementary School",20071010
+086,SIMCOE NORTH,23,59,11,2,22,"Oro-Medonte",149, ,1,1,0,119,218,"Moonstone Elementary School",20071010
+086,SIMCOE NORTH,21,88,9,0,13,"Warminster",150, ,0,0,0,131,257,"Warminster Community Hall",20071010
+086,SIMCOE NORTH,34,137,10,0,15,"Warminster",151, ,0,1,0,197,368,"Warminster Community Hall",20071010
+086,SIMCOE NORTH,57,134,16,0,17,"Orillia",152, ,0,0,0,224,364,"Marchmont Public School",20071010
+086,SIMCOE NORTH,50,132,14,0,13,"Orillia",153, ,1,2,0,212,356,"Marchmont Public School",20071010
+086,SIMCOE NORTH,71,121,13,1,17,"Orillia",154, ,0,0,0,223,417,"Marchmont Public School",20071010
+086,SIMCOE NORTH,37,127,11,0,9,"Orillia",155, ,0,0,0,184,343,"Notre Dame School",20071010
+086,SIMCOE NORTH,20,86,5,0,6,"Orillia",156, ,1,0,0,118,265,"Notre Dame School",20071010
+086,SIMCOE NORTH,46,87,14,0,7,"Orillia",157, ,1,0,0,155,339,"École élémentaire catholique Samuel-de-Champlain",20071010
+086,SIMCOE NORTH,15,39,11,1,12,"Orillia",158s, ,1,0,0,79,120,"Legion Crest Complex Building 1",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",159s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,20,32,12,0,8,"Orillia",160, ,0,0,0,72,133,"Legion Crest Complex Building 1",20071010
+086,SIMCOE NORTH,9,47,9,0,0,"Orillia",161s, ,0,0,0,65,113,"Champlain Manor",20071010
+086,SIMCOE NORTH,65,68,9,0,6,"Orillia",162, ,0,0,0,148,348,"Orchard Park Public School",20071010
+086,SIMCOE NORTH,84,125,18,1,12,"Orillia",163, ,0,2,0,242,426,"École élémentaire catholique Samuel-de-Champlain",20071010
+086,SIMCOE NORTH,36,66,11,1,1,"Orillia",164, ,1,0,0,116,280,"Orchard Park Public School",20071010
+086,SIMCOE NORTH,45,75,21,0,11,"Orillia",165, ,0,1,0,153,374,"Orchard Park Public School",20071010
+086,SIMCOE NORTH,2,12,1,0,1,"Orillia",166s, ,0,0,0,16,36,"The Atrium Retirement Home",20071010
+086,SIMCOE NORTH,71,119,14,0,17,"Orillia",167, ,0,0,0,221,393,"École élémentaire catholique Samuel-de-Champlain",20071010
+086,SIMCOE NORTH,58,96,13,0,19,"Orillia",168, ,0,0,0,186,339,"École élémentaire catholique Samuel-de-Champlain",20071010
+086,SIMCOE NORTH,47,72,10,0,13,"Orillia",169, ,0,0,0,142,302,"Couchiching Heights Public School",20071010
+086,SIMCOE NORTH,48,69,18,0,13,"Orillia",170, ,1,0,0,149,346,"Orchard Park Public School",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",171, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,49,79,36,0,9,"Orillia",172, ,0,0,1,174,347,"Couchiching Heights Public School",20071010
+086,SIMCOE NORTH,62,108,21,1,23,"Orillia",173, ,1,0,1,217,406,"Guardian Angels Roman Catholic Church Hall",20071010
+086,SIMCOE NORTH,9,21,0,0,4,"Orillia",174s, ,1,0,0,35,121,"Trillium Manor Home for the Aged",20071010
+086,SIMCOE NORTH,50,77,9,1,15,"Orillia",175, ,0,1,0,153,341,"Trillium Manor Home for the Aged",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",176s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",177s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,43,56,17,0,22,"Orillia",178, ,0,0,0,138,299,"Hillcrest Public School",20071010
+086,SIMCOE NORTH,31,42,12,1,8,"Orillia",179, ,1,0,0,95,279,"Guardian Angels Roman Catholic Church Hall",20071010
+086,SIMCOE NORTH,40,68,10,0,15,"Orillia",180, ,0,0,0,133,360,"Hillcrest Public School",20071010
+086,SIMCOE NORTH,73,111,21,0,26,"Orillia",181, ,0,0,0,231,433,"Couchiching Heights Public School",20071010
+086,SIMCOE NORTH,83,91,18,0,30,"Orillia",182, ,0,0,0,222,431,"Hillcrest Public School",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",183s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",184, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",185s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,40,41,19,0,16,"Orillia",186, ,0,2,0,118,355,"Guardian Angels Roman Catholic Church Hall",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",187s, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,45,99,14,0,24,"Orillia",188, ,0,0,0,182,394,"Hillcrest Public School",20071010
+086,SIMCOE NORTH,54,56,13,0,19,"Orillia",189, ,0,0,0,142,319,"Hillcrest Public School",20071010
+086,SIMCOE NORTH,12,35,2,0,7,"Orillia",190s, ,2,3,0,61,80,"Birchmere Retirement Residence",20071010
+086,SIMCOE NORTH,54,98,12,0,14,"Orillia",191, ,1,0,0,179,360,"Couchiching Heights Public School",20071010
+086,SIMCOE NORTH,64,131,20,0,16,"Orillia",192, ,1,1,0,233,371,"Birchmere Retirement Residence",20071010
+086,SIMCOE NORTH,44,59,23,0,13,"Orillia",193, ,0,0,0,139,423,"Guardian Angels Roman Catholic Church Hall",20071010
+086,SIMCOE NORTH,4,15,3,0,2,"Orillia",194s, ,0,0,0,24,140,"Leacock Care Centre",20071010
+086,SIMCOE NORTH,68,116,9,0,10,"Orillia",195, ,1,2,0,206,343,"Swanmore Hall Leacock Home",20071010
+086,SIMCOE NORTH,67,156,13,0,11,"Orillia",196, ,2,0,0,249,438,"Swanmore Hall Leacock Home",20071010
+086,SIMCOE NORTH,51,76,12,0,13,"Brechin",197, ,0,0,0,152,300,"Ramara Community Center",20071010
+086,SIMCOE NORTH,56,102,8,0,17,"Orillia",198, ,0,0,0,183,313,"Uptergrove Public School",20071010
+086,SIMCOE NORTH,37,66,7,1,15,"Wyevale",199, ,0,0,4,130,279,"Wyevale Central School",20071010
+086,SIMCOE NORTH,55,105,15,1,20,"Oro-Medonte",200, ,0,0,0,196,383,"Moonstone Elementary School",20071010
+086,SIMCOE NORTH,25,81,9,2,24,"Oro-Medonte",201, ,0,0,0,141,258,"Moonstone Elementary School",20071010
+086,SIMCOE NORTH,39,136,7,0,22,"Jarratt",202, ,0,0,0,204,307,"Jarratt Community Hall",20071010
+086,SIMCOE NORTH,35,97,13,1,12,"Orillia",203, ,0,0,0,158,332,"Marchmont Public School",20071010
+086,SIMCOE NORTH,40,155,34,0,8,"Hawkestone",204, ,2,0,0,239,317,"Big Cedar Estates - The Club House",20071010
+086,SIMCOE NORTH,51,124,16,0,9,"Orillia",205, ,0,0,0,200,467,"Notre Dame School",20071010
+086,SIMCOE NORTH,17,32,7,0,1,"Orillia",206s, ,0,0,0,57,163,"Leisureworld Caregiving Centre",20071010
+086,SIMCOE NORTH,58,72,18,0,7,"Orillia",207, ,0,0,0,155,379,"Leisureworld Caregiving Centre",20071010
+086,SIMCOE NORTH,62,121,20,0,16,"Orillia",208, ,0,0,0,219,470,"Mount Slaven Public School",20071010
+086,SIMCOE NORTH,60,84,17,0,5,"Orillia",209, ,1,0,0,167,357,"Mount Slaven Public School",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",210, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,56,73,20,0,14,"Orillia",211, ,1,0,0,164,362,"Mount Slaven Public School",20071010
+086,SIMCOE NORTH,48,98,23,0,15,"Orillia",212, ,1,0,2,187,391,"Mount Slaven Public School",20071010
+086,SIMCOE NORTH,37,64,17,1,11,"Orillia",213, ,0,0,0,130,316,"Twin Lakes Secondary School",20071010
+086,SIMCOE NORTH,57,79,12,0,16,"Orillia",214, ,0,1,0,165,361,"Mount Slaven Public School",20071010
+086,SIMCOE NORTH,55,93,16,1,7,"Orillia",215, ,0,0,0,172,432,"Twin Lakes Secondary School",20071010
+086,SIMCOE NORTH,33,56,18,2,11,"Orillia",216, ,2,1,0,123,318,"Oak Terrace Retirement Residence",20071010
+086,SIMCOE NORTH,38,63,28,2,18,"Orillia",217, ,0,1,0,150,346,"The Atrium Retirement Home",20071010
+086,SIMCOE NORTH,27,58,23,0,10,"Orillia",218, ,0,0,0,118,420,"Twin Lakes Secondary School",20071010
+086,SIMCOE NORTH,8,15,4,1,3,"Orillia",219s, ,2,4,0,37,91,"Oak Terrace Retirement Residence",20071010
+086,SIMCOE NORTH,39,77,15,1,7,"Orillia",220, ,0,0,0,139,368,"McKinnell Square Building",20071010
+086,SIMCOE NORTH,38,42,19,1,15,"Orillia",221, ,1,0,0,116,344,"First Baptist Church",20071010
+086,SIMCOE NORTH,38,55,20,3,18,"Orillia",222, ,1,0,0,135,332,"First Baptist Church",20071010
+086,SIMCOE NORTH,32,75,26,0,14,"Orillia",223, ,2,0,0,149,358,"Twin Lakes Secondary School",20071010
+086,SIMCOE NORTH,26,35,16,1,9,"Orillia",224, ,0,0,0,87,355,"McKinnell Square Building",20071010
+086,SIMCOE NORTH,0,4,1,0,0,"Orillia",225s, ,1,0,0,6,13,"Orillia Soldiers Memorial Hospital",20071010
+086,SIMCOE NORTH,2,3,1,0,2,"Orillia",226s, ,1,0,0,9,14,"Huronia Regional Centre",20071010
+086,SIMCOE NORTH,24,61,15,1,16,"Orillia",227, ,1,0,0,118,346,"McKinnell Square Building",20071010
+086,SIMCOE NORTH,20,34,13,0,8,"Orillia",228, ,1,0,0,76,269,"First Baptist Church",20071010
+086,SIMCOE NORTH,16,50,16,0,9,"Orillia",229, ,0,0,0,91,375,"Orillia Masonic Temple",20071010
+086,SIMCOE NORTH,26,32,11,2,7,"Orillia",230, ,0,0,0,78,316,"Guardian Angels Roman Catholic Church Hall",20071010
+086,SIMCOE NORTH,25,56,22,0,10,"Orillia",231, ,1,0,0,114,339,"Orillia Masonic Temple",20071010
+086,SIMCOE NORTH,28,48,20,0,8,"Orillia",232, ,1,0,0,105,309,"Orillia Masonic Temple",20071010
+086,SIMCOE NORTH,24,37,7,0,8,"Orillia",233, ,0,0,0,76,192,"Orillia Masonic Temple",20071010
+086,SIMCOE NORTH,37,48,22,2,11,"Orillia",234, ,0,0,0,120,322,"Orillia Masonic Temple",20071010
+086,SIMCOE NORTH,29,56,14,0,4,"Orillia",235, ,0,0,0,103,204,"Brian Orser Arena",20071010
+086,SIMCOE NORTH,57,131,50,2,12,"Orillia",236, ,0,0,0,252,601,"Brian Orser Arena",20071010
+086,SIMCOE NORTH,33,42,31,0,14,"Orillia",237, ,0,0,0,120,337,"Brian Orser Arena",20071010
+086,SIMCOE NORTH,43,68,30,0,15,"Orillia",238, ,0,0,0,156,388,"St. Bernard's Catholic School",20071010
+086,SIMCOE NORTH,31,69,19,0,7,"Orillia",239, ,0,0,0,126,350,"St. Bernard's Catholic School",20071010
+086,SIMCOE NORTH,45,72,16,0,12,"Orillia",240, ,2,0,0,147,356,"Brian Orser Arena",20071010
+086,SIMCOE NORTH,43,100,23,1,9,"Orillia",241, ,0,1,0,177,364,"St. Bernard's Catholic School",20071010
+086,SIMCOE NORTH,56,112,15,0,17,"Orillia",242, ,0,1,0,201,391,"St. Bernard's Catholic School",20071010
+086,SIMCOE NORTH,39,95,13,0,15,"Orillia",243, ,0,0,0,162,297,"St. Bernard's Catholic School",20071010
+086,SIMCOE NORTH,59,88,25,0,27,"Brechin",244, ,0,0,0,199,371,"Ramara Community Center",20071010
+086,SIMCOE NORTH,33,94,13,0,10,"Brechin",245, ,0,0,0,150,290,"Ramara Community Center",20071010
+086,SIMCOE NORTH,46,73,10,0,28,"Brechin",246, ,0,0,0,157,278,"Ramara Community Center",20071010
+086,SIMCOE NORTH,33,29,10,0,9,"Orillia",247, ,0,0,0,81,161,"Uptergrove Public School",20071010
+086,SIMCOE NORTH,30,69,8,0,2,"Udney",248, ,0,0,0,109,237,"Udney Community Centre",20071010
+086,SIMCOE NORTH,41,71,10,0,17,"Wyevale",249, ,0,0,0,139,251,"Wyevale Central School",20071010
+086,SIMCOE NORTH,24,61,10,0,10,"Wyevale",250, ,0,0,0,105,235,"Wyevale Central School",20071010
+086,SIMCOE NORTH,39,76,9,1,26,"Oro-Medonte",251, ,0,1,0,152,266,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,37,85,13,0,21,"Jarratt",252, ,0,1,0,157,306,"Jarratt Community Hall",20071010
+086,SIMCOE NORTH,43,90,16,0,14,"Hawkestone",253, ,0,2,0,165,335,"Rugby Community Hall",20071010
+086,SIMCOE NORTH,53,97,16,0,14,"Orillia",254, ,0,0,0,180,372,"Twin Lakes Secondary School",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Orillia",255, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,72,100,28,0,19,"Orillia",256, ,1,0,0,220,398,"Joyland Beach Community Centre",20071010
+086,SIMCOE NORTH,79,197,16,0,11,"Brechin",257, ,0,0,0,303,504,"Bayshore Village - The Hayloft",20071010
+086,SIMCOE NORTH,54,109,5,0,14,"Lagoon City",258, ,1,1,0,184,297,"Lagoon City Community Centre",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Lagoon City",259, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,71,136,10,1,14,"Lagoon City",260, ,1,1,0,234,406,"Lagoon City Community Centre",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Brechin",261, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,28,64,8,0,30,"Oro-Medonte",262, ,0,0,0,130,297,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,45,90,1,0,19,"Oro-Medonte",263, ,0,0,0,155,299,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,61,88,9,0,21,"Oro-Medonte",264, ,0,0,0,179,333,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,64,48,11,1,28,"Jarratt",265, ,1,1,0,154,290,"Jarratt Community Hall",20071010
+086,SIMCOE NORTH,59,119,10,0,33,"Oro-Medonte",266, ,0,0,0,221,423,"Grace United Reform Church",20071010
+086,SIMCOE NORTH,25,81,6,0,28,"Hawkestone",267A, ,0,0,0,140,302,"Rugby Community Hall",20071010
+086,SIMCOE NORTH,30,109,10,0,21,"Hawkestone",267B, ,2,0,0,172,349,"Rugby Community Hall",20071010
+086,SIMCOE NORTH,41,87,4,0,15,"Hawkestone",268, ,0,0,0,147,320,"Rugby Community Hall",20071010
+086,SIMCOE NORTH,..........................NO POLL HELD........................,,,,,"Brechin",269, ,0,0,0,0,0,"",20071010
+086,SIMCOE NORTH,66,85,4,0,30,"Oro-Medonte",270, ,0,0,0,185,349,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,50,97,2,0,19,"Oro-Medonte",271, ,0,0,0,168,300,"Horseshoe Valley Resort",20071010
+086,SIMCOE NORTH,49,107,5,0,24,"Hawkestone",272, ,0,0,0,185,377,"Hawkestone Community Centre",20071010
+086,SIMCOE NORTH,54,112,31,1,11,"Brechin",273, ,0,0,0,209,402,"Brechin Public School",20071010
+086,SIMCOE NORTH,45,91,7,0,31,"Shanty Bay",274, ,0,0,0,174,315,"W. R. Best Public School",20071010
+086,SIMCOE NORTH,35,83,12,1,15,"Oro-Medonte",275, ,0,0,0,146,350,"Grace United Reform Church",20071010
+086,SIMCOE NORTH,40,91,4,0,27,"Hawkestone",276, ,1,0,0,163,306,"Hawkestone Community Centre",20071010
+086,SIMCOE NORTH,36,108,15,4,22,"Hawkestone",277, ,0,0,0,185,352,"Hawkestone Community Centre",20071010
+086,SIMCOE NORTH,43,89,16,1,30,"Hawkestone",278, ,1,0,1,181,341,"Hawkestone Community Centre",20071010
+086,SIMCOE NORTH,64,131,20,0,14,"Brechin",279, ,0,1,0,230,444,"Brechin Public School",20071010
+086,SIMCOE NORTH,43,84,10,0,15,"Shanty Bay",280, ,1,0,1,154,289,"W. R. Best Public School",20071010
+086,SIMCOE NORTH,52,102,10,1,26,"Oro Station",281, ,0,0,1,192,350,"Oro Station Community Centre",20071010
+086,SIMCOE NORTH,50,66,10,0,34,"Oro Station",282, ,0,0,0,160,320,"Oro Station Community Centre",20071010
+086,SIMCOE NORTH,49,81,8,0,42,"Oro Station",283, ,0,0,0,180,339,"Oro Station Community Centre",20071010
+086,SIMCOE NORTH,82,95,8,0,22,"Shanty Bay",284, ,0,0,0,207,383,"Shanty Bay Community School",20071010
+086,SIMCOE NORTH,35,68,16,0,23,"Shanty Bay",285, ,0,0,0,142,279,"Shanty Bay Community School",20071010
+086,SIMCOE NORTH,81,124,12,0,25,"Oro Station",286, ,1,1,0,244,442,"Oro Station Community Centre",20071010
+086,SIMCOE NORTH,71,81,6,0,41,"Shanty Bay",287, ,0,0,0,199,367,"Shanty Bay Community School",20071010
+086,SIMCOE NORTH,69,105,8,0,60,"Shanty Bay",288, ,0,0,0,242,428,"Shanty Bay Community School",20071010
+086,SIMCOE NORTH,27,47,13,0,4,"Midland",400, ,0,2,0,93,150,"Parkview Apartments",20071010
+086,SIMCOE NORTH,13,47,9,0,7,"Orillia",401, ,0,0,0,76,127,"412 Old Muskoka Road",20071010
+086,SIMCOE NORTH,586,1156,169,6,194,"Orillia",Advanced Polls /  ADV001, ,7,1,0,2119,0,"Returning Office / Bureau du directeur du scrutin",20071010
+086,SIMCOE NORTH,551,689,130,5,149,"Midland",Advanced Polls /  ADV002, ,2,4,0,1530,0,"Satellite Office / Bureau satellite",20071010
+086,SIMCOE NORTH,78,190,34,0,30,"Victoria Harbour",Advanced Polls /  ADV003, ,0,0,0,332,0,"Royal Canadian Legion #523",20071010
+086,SIMCOE NORTH,255,256,34,1,55,"Penetanguishene",Advanced Polls /  ADV004, ,4,0,0,605,0,"Royal Canadian Legion #68",20071010
+086,SIMCOE NORTH,74,189,20,0,30,"Guthrie",Advanced Polls /  ADV005, ,0,0,0,313,0,"Oro-Medonte Township Community Arena",20071010
+086,SIMCOE NORTH,61,114,19,0,16,"Washago",Advanced Polls /  ADV006, ,0,0,0,210,0,"Washago Community Centre",20071010
+086,SIMCOE NORTH,151,306,40,0,29,"Orillia",Advanced Polls /  ADV007, ,3,0,0,529,0,"Sundial Inn",20071010
+086,SIMCOE NORTH,85,96,13,0,19,"Perkinsfield",Advanced Polls /  ADV008, ,3,1,0,217,0,"The Place Community Centre",20071010
+086,SIMCOE NORTH,26,51,13,0,3,"Udney",Advanced Polls /  ADV009, ,0,0,0,93,0,"Udney Community Centre",20071010
+086,SIMCOE NORTH,43,128,10,0,9,"Warminster",Advanced Polls /  ADV010, ,0,0,0,190,0,"Warminster Community Hall",20071010
+TOTALS:, ,14094,22986,4240,112,4709, , , , , , , , , , 

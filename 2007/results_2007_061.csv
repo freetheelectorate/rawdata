@@ -1,0 +1,273 @@
+ED_CODE,ED_NAME,KEMP,OUELLETTE,RYAN,STREUTKER,TEMPLER,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+061,OSHAWA,20,118,58,0,84,"Oshawa",001, ,0,0,0,280,594,"Camp Samac Council Hall",20071010
+061,OSHAWA,15,133,58,1,94,"Oshawa",002, ,1,2,0,304,551,"Camp Samac Council Hall",20071010
+061,OSHAWA,13,69,52,3,63,"Oshawa",003, ,0,0,0,200,412,"Camp Samac Council Hall",20071010
+061,OSHAWA,4,84,34,2,54,"Oshawa",004A, ,0,0,0,178,329,"Norman G. Powers Public School",20071010
+061,OSHAWA,11,73,30,1,61,"Oshawa",004B, ,1,0,0,177,330,"Norman G. Powers Public School",20071010
+061,OSHAWA,11,101,44,2,42,"Oshawa",005, ,0,0,1,201,339,"Camp Samac Council Hall",20071010
+061,OSHAWA,10,89,54,2,53,"Oshawa",006, ,1,0,0,209,412,"Kedron Public School",20071010
+061,OSHAWA,5,71,43,3,36,"Oshawa",007, ,1,0,0,159,330,"Kedron Public School",20071010
+061,OSHAWA,16,81,51,0,54,"Oshawa",008, ,0,1,0,203,376,"Kedron Public School",20071010
+061,OSHAWA,0,16,10,1,11,"Oshawa",009s, ,3,0,1,42,172,"The Wynfield Long Term Care",20071010
+061,OSHAWA,17,114,72,2,69,"Oshawa",010, ,3,0,0,277,578,"Legends Centre",20071010
+061,OSHAWA,9,78,26,0,51,"Oshawa",011, ,1,0,0,165,347,"Sherwood Public School",20071010
+061,OSHAWA,9,105,33,3,43,"Oshawa",012, ,12,1,0,206,428,"Legends Centre",20071010
+061,OSHAWA,9,107,28,2,58,"Oshawa",013, ,1,1,1,207,378,"Norman G. Powers Public School",20071010
+061,OSHAWA,7,56,40,0,35,"Oshawa",014, ,0,1,0,139,302,"Norman G. Powers Public School",20071010
+061,OSHAWA,6,74,24,3,58,"Oshawa",015, ,0,0,0,165,363,"Norman G. Powers Public School",20071010
+061,OSHAWA,13,36,43,0,34,"Oshawa",016, ,0,0,0,126,371,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,5,72,56,0,48,"Oshawa",017, ,0,1,0,182,376,"Sherwood Public School",20071010
+061,OSHAWA,9,61,61,0,41,"Oshawa",018, ,1,0,0,173,363,"Sherwood Public School",20071010
+061,OSHAWA,7,117,37,0,82,"Oshawa",019, ,0,0,0,243,469,"Legends Centre",20071010
+061,OSHAWA,12,70,26,1,50,"Oshawa",020, ,0,0,0,159,343,"St. Joseph Catholic School",20071010
+061,OSHAWA,8,46,34,1,24,"Oshawa",021, ,1,0,0,114,284,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,24,109,89,3,66,"Oshawa",022, ,0,0,0,291,560,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,7,46,34,0,19,"Oshawa",023, ,0,0,0,106,347,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,7,32,44,1,29,"Oshawa",024, ,1,0,0,114,389,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,7,36,53,0,21,"Oshawa",025, ,0,0,0,117,303,"Father Joseph Venini Catholic School",20071010
+061,OSHAWA,15,89,87,2,42,"Oshawa",026, ,0,0,0,235,594,"Oshawa Public Library - Northview Branch",20071010
+061,OSHAWA,7,66,46,0,31,"Oshawa",027, ,0,0,0,150,303,"Oshawa Public Library - Northview Branch",20071010
+061,OSHAWA,19,103,49,0,57,"Oshawa",028, ,0,0,1,229,419,"St. Joseph Catholic School",20071010
+061,OSHAWA,18,86,32,1,47,"Oshawa",029, ,0,0,0,184,339,"St. Joseph Catholic School",20071010
+061,OSHAWA,9,107,28,1,43,"Oshawa",030, ,0,0,0,188,370,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,11,78,57,0,57,"Oshawa",031, ,1,0,0,204,401,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,16,92,37,2,26,"Oshawa",032, ,0,0,0,173,340,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,8,84,30,0,39,"Oshawa",033, ,0,0,0,161,314,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,13,139,56,1,66,"Oshawa",034, ,0,0,0,275,512,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,10,36,46,1,23,"Oshawa",035, ,1,0,0,117,411,"Northview Community Centre",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",036, ,0,0,0,0,0,"",20071010
+061,OSHAWA,7,27,47,1,21,"Oshawa",037, ,0,0,1,104,267,"Northview Community Centre",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",038, ,0,0,0,0,0,"",20071010
+061,OSHAWA,7,22,32,1,26,"Oshawa",039, ,1,0,0,89,231,"Northview Community Centre",20071010
+061,OSHAWA,10,62,62,0,47,"Oshawa",040, ,0,0,0,181,392,"Northview Community Centre",20071010
+061,OSHAWA,13,107,63,1,56,"Oshawa",041, ,1,1,0,242,408,"Beau Valley Public School",20071010
+061,OSHAWA,1,22,26,1,9,"Oshawa",042, ,0,0,1,60,216,"St. Joseph Catholic School",20071010
+061,OSHAWA,9,68,32,0,44,"Oshawa",043, ,0,0,0,153,385,"St. Joseph Catholic School",20071010
+061,OSHAWA,3,59,55,1,30,"Oshawa",044, ,1,0,0,149,362,"St. Joseph Catholic School",20071010
+061,OSHAWA,27,72,51,1,41,"Oshawa",045, ,2,2,0,196,380,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,16,84,51,0,56,"Oshawa",046, ,0,0,0,207,463,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,17,75,48,0,39,"Oshawa",047, ,1,0,0,180,412,"Pierre Elliott Trudeau Public School",20071010
+061,OSHAWA,3,18,28,0,12,"Oshawa",048, ,0,0,0,61,227,"Beau Valley Public School",20071010
+061,OSHAWA,16,84,60,4,35,"Oshawa",049, ,0,1,0,200,370,"Beau Valley Public School",20071010
+061,OSHAWA,9,81,45,1,34,"Oshawa",050, ,1,0,0,171,316,"Northview Community Centre",20071010
+061,OSHAWA,7,109,44,1,68,"Oshawa",051, ,0,0,0,229,395,"Beau Valley Public School",20071010
+061,OSHAWA,16,105,55,1,39,"Oshawa",052, ,3,2,0,221,433,"Beau Valley Public School",20071010
+061,OSHAWA,10,77,63,1,45,"Oshawa",053, ,1,0,0,197,400,"Beau Valley Public School",20071010
+061,OSHAWA,9,63,25,0,38,"Oshawa",054, ,1,0,0,136,292,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,6,75,14,0,43,"Oshawa",055, ,0,0,1,139,285,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,10,58,66,1,46,"Oshawa",056, ,0,1,0,182,375,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,8,32,42,0,11,"Oshawa",057, ,1,1,0,95,252,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,15,59,59,2,42,"Oshawa",058, ,1,0,0,178,412,"United Pentecostal Church",20071010
+061,OSHAWA,10,86,60,0,31,"Oshawa",059, ,2,1,0,190,403,"Gordon B. Attersley Public School",20071010
+061,OSHAWA,11,31,61,0,34,"Oshawa",060, ,0,0,0,137,390,"Harmony Heights Public School",20071010
+061,OSHAWA,13,95,53,3,69,"Oshawa",061, ,0,2,0,235,532,"Harmony Heights Public School",20071010
+061,OSHAWA,8,136,61,1,71,"Oshawa",062, ,1,0,0,278,576,"Harmony Heights Public School",20071010
+061,OSHAWA,14,98,42,2,49,"Oshawa",063, ,1,0,1,207,475,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,7,62,28,0,42,"Oshawa",065, ,1,0,0,140,294,"Beau Valley Public School",20071010
+061,OSHAWA,16,96,60,0,55,"Oshawa",066, ,0,0,0,227,426,"United Pentecostal Church",20071010
+061,OSHAWA,5,92,69,0,34,"Oshawa",067, ,0,2,0,202,410,"United Pentecostal Church",20071010
+061,OSHAWA,8,86,49,0,54,"Oshawa",068, ,0,0,0,197,385,"United Pentecostal Church",20071010
+061,OSHAWA,16,108,54,0,49,"Oshawa",069, ,0,1,1,229,416,"Sir Albert Love Catholic School",20071010
+061,OSHAWA,10,49,58,0,22,"Oshawa",070, ,0,0,1,140,310,"Sir Albert Love Catholic School",20071010
+061,OSHAWA,12,65,54,0,25,"Oshawa",071, ,0,0,0,156,381,"Harmony Heights Public School",20071010
+061,OSHAWA,16,62,86,1,44,"Oshawa",072, ,3,1,0,213,467,"Harmony Heights Public School",20071010
+061,OSHAWA,28,70,67,0,52,"Oshawa",073, ,1,1,0,219,444,"Harmony Heights Public School",20071010
+061,OSHAWA,9,101,78,1,52,"Oshawa",074, ,0,2,0,243,506,"Sir Albert Love Catholic School",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",075, ,0,0,0,0,0,"",20071010
+061,OSHAWA,11,71,62,2,60,"Oshawa",076, ,0,1,0,207,398,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,15,89,60,1,42,"Oshawa",077, ,1,0,0,208,426,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,9,86,61,1,51,"Oshawa",078, ,0,2,0,210,413,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,13,65,53,0,42,"Oshawa",079, ,0,0,2,175,447,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,25,52,29,1,33,"Oshawa",080, ,0,0,0,140,324,"Christ Memorial Anglican Church",20071010
+061,OSHAWA,19,49,58,0,28,"Oshawa",081, ,0,0,0,154,319,"Christ Memorial Anglican Church",20071010
+061,OSHAWA,3,27,15,0,16,"Oshawa",082s, ,3,2,0,66,214,"Hillsdale Terraces",20071010
+061,OSHAWA,12,62,45,0,20,"Oshawa",083, ,0,0,0,139,300,"Hillsdale Public School",20071010
+061,OSHAWA,3,21,13,0,16,"Oshawa",084s, ,1,1,0,55,287,"Hillsdale Estates",20071010
+061,OSHAWA,12,99,84,1,30,"Oshawa",085, ,0,0,0,226,401,"Hillsdale Public School",20071010
+061,OSHAWA,12,87,84,0,39,"Oshawa",086, ,1,0,0,223,362,"Zion Christian Reformed Church",20071010
+061,OSHAWA,9,72,85,1,31,"Oshawa",087, ,0,0,0,198,389,"Sir Albert Love Catholic School",20071010
+061,OSHAWA,12,108,85,0,62,"Oshawa",088, ,1,0,0,268,470,"Sir Albert Love Catholic School",20071010
+061,OSHAWA,9,126,73,0,57,"Oshawa",089, ,1,0,0,266,473,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,14,99,55,2,46,"Oshawa",090, ,1,0,0,217,451,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,17,73,41,0,23,"Oshawa",091, ,0,0,0,154,266,"Christ Memorial Anglican Church",20071010
+061,OSHAWA,14,66,51,2,43,"Oshawa",092, ,0,0,1,177,333,"Christ Memorial Anglican Church",20071010
+061,OSHAWA,17,83,50,1,54,"Oshawa",093, ,2,0,2,209,330,"Christ Memorial Anglican Church",20071010
+061,OSHAWA,5,64,44,0,24,"Oshawa",094, ,0,0,0,137,302,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,6,40,64,0,27,"Oshawa",095, ,0,0,0,137,338,"Hillsdale Public School",20071010
+061,OSHAWA,4,17,12,1,14,"Oshawa",095-1s, ,0,0,0,48,79,"Centennial Retirement Residence",20071010
+061,OSHAWA,8,40,47,0,19,"Oshawa",096, ,0,0,0,114,297,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,8,60,69,1,32,"Oshawa",097, ,0,1,0,171,358,"Hillsdale Public School",20071010
+061,OSHAWA,17,69,65,0,43,"Oshawa",098, ,0,1,0,195,384,"Zion Christian Reformed Church",20071010
+061,OSHAWA,6,93,44,0,61,"Oshawa",099, ,0,0,0,204,351,"Zion Christian Reformed Church",20071010
+061,OSHAWA,16,75,64,1,31,"Oshawa",100, ,0,0,0,187,315,"Zion Christian Reformed Church",20071010
+061,OSHAWA,15,47,34,1,15,"Oshawa",101, ,0,0,0,112,281,"Zion Christian Reformed Church",20071010
+061,OSHAWA,13,70,67,0,38,"Oshawa",102, ,2,1,0,191,399,"Zion Christian Reformed Church",20071010
+061,OSHAWA,11,83,40,2,39,"Oshawa",103, ,0,0,0,175,385,"Eastdale Collegiate & Vocational Institute",20071010
+061,OSHAWA,1,59,44,1,18,"Oshawa",104, ,1,1,1,126,279,"Harmony Hall",20071010
+061,OSHAWA,9,101,40,1,46,"Oshawa",105, ,3,0,1,201,353,"Harmony Hall",20071010
+061,OSHAWA,11,94,68,0,39,"Oshawa",106, ,2,0,0,214,443,"Athabasca Street Public School",20071010
+061,OSHAWA,4,56,26,0,23,"Oshawa",107, ,0,0,0,109,344,"Harmony Hall",20071010
+061,OSHAWA,4,73,55,1,31,"Oshawa",108, ,0,4,2,170,363,"Athabasca Street Public School",20071010
+061,OSHAWA,8,47,53,0,49,"Oshawa",109, ,0,0,0,157,311,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,1,2,2,0,1,"Oshawa",110s, ,0,0,0,6,11,"Lakeridge Health Centre",20071010
+061,OSHAWA,9,18,30,0,13,"Oshawa",111, ,0,0,0,70,217,"Mary Street Community School",20071010
+061,OSHAWA,6,28,33,2,10,"Oshawa",112, ,0,0,0,79,255,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,5,36,28,0,26,"Oshawa",113, ,2,1,0,98,210,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,10,24,40,0,13,"Oshawa",114, ,0,1,0,88,274,"Mary Street Community School",20071010
+061,OSHAWA,12,41,31,1,18,"Oshawa",115, ,1,0,1,105,298,"O'Neill Collegiate & Vocational Institute",20071010
+061,OSHAWA,9,28,27,0,11,"Oshawa",117, ,4,0,0,79,317,"Mary Street Community School",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",118, ,0,0,0,0,0,"",20071010
+061,OSHAWA,6,61,45,3,27,"Oshawa",119, ,0,0,0,142,308,"Woodview Park Community Centre",20071010
+061,OSHAWA,11,55,54,1,27,"Oshawa",120, ,1,0,0,149,318,"Woodview Park Community Centre",20071010
+061,OSHAWA,15,50,57,1,24,"Oshawa",122, ,1,0,0,148,325,"Woodview Park Community Centre",20071010
+061,OSHAWA,2,23,31,0,13,"Oshawa",123, ,0,0,0,69,253,"Harmony Hall",20071010
+061,OSHAWA,12,45,44,3,31,"Oshawa",124, ,1,1,0,137,339,"Duke of Edinburgh Public School",20071010
+061,OSHAWA,2,7,7,0,2,"Oshawa",125s, ,0,0,0,18,40,"Cedarcroft Place",20071010
+061,OSHAWA,9,92,58,1,33,"Oshawa",126, ,0,0,0,193,357,"Dr. F.J. Donevan Collegiate Institute",20071010
+061,OSHAWA,15,69,70,0,27,"Oshawa",127, ,0,0,0,181,340,"Harmony Hall",20071010
+061,OSHAWA,11,94,71,2,30,"Oshawa",128, ,1,0,0,209,426,"Harmony Hall",20071010
+061,OSHAWA,11,63,69,1,34,"Oshawa",129, ,1,0,0,179,359,"Harmony Hall",20071010
+061,OSHAWA,11,138,84,0,59,"Oshawa",130, ,3,0,1,296,443,"John XXIII Catholic School",20071010
+061,OSHAWA,13,132,73,0,52,"Oshawa",131, ,0,0,0,270,454,"John XXIII Catholic School",20071010
+061,OSHAWA,2,27,26,2,15,"Oshawa",133, ,0,0,0,72,224,"Mary Street Community School",20071010
+061,OSHAWA,9,29,40,0,18,"Oshawa",134, ,0,0,0,96,366,"Mary Street Community School",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",135, ,0,0,0,0,0,"",20071010
+061,OSHAWA,9,30,23,0,10,"Oshawa",137, ,0,0,0,72,221,"Oshawa Public Library - McLaughlin Branch",20071010
+061,OSHAWA,12,40,39,3,15,"Oshawa",138, ,0,0,0,109,282,"Ritson Public School",20071010
+061,OSHAWA,8,31,57,0,17,"Oshawa",139, ,0,0,0,113,290,"Ritson Public School",20071010
+061,OSHAWA,15,54,54,0,25,"Oshawa",140, ,0,0,0,148,346,"Ritson Public School",20071010
+061,OSHAWA,13,51,71,2,33,"Oshawa",141, ,1,0,0,171,342,"Ritson Public School",20071010
+061,OSHAWA,13,48,77,1,36,"Oshawa",142, ,0,0,0,175,336,"Duke of Edinburgh Public School",20071010
+061,OSHAWA,3,43,60,0,36,"Oshawa",143, ,2,0,0,144,303,"Duke of Edinburgh Public School",20071010
+061,OSHAWA,8,77,76,1,20,"Oshawa",144, ,0,0,0,182,378,"Duke of Edinburgh Public School",20071010
+061,OSHAWA,11,63,77,0,19,"Oshawa",145, ,0,1,0,171,333,"Duke of Edinburgh Public School",20071010
+061,OSHAWA,12,37,60,1,27,"Oshawa",146, ,7,1,0,145,306,"Dr. F.J. Donevan Collegiate Institute",20071010
+061,OSHAWA,6,75,58,0,50,"Oshawa",147, ,1,0,0,190,385,"Dr. F.J. Donevan Collegiate Institute",20071010
+061,OSHAWA,11,83,63,0,49,"Oshawa",148, ,1,0,0,207,404,"Harmony Hall",20071010
+061,OSHAWA,10,74,57,0,24,"Oshawa",149, ,1,0,0,166,392,"John XXIII Catholic School",20071010
+061,OSHAWA,14,83,61,1,28,"Oshawa",150, ,0,0,0,187,467,"John XXIII Catholic School",20071010
+061,OSHAWA,10,67,56,2,19,"Oshawa",151, ,0,0,0,154,391,"Grandview Public School",20071010
+061,OSHAWA,4,30,45,1,17,"Oshawa",152, ,0,0,0,97,292,"Rundle Park Community Centre",20071010
+061,OSHAWA,8,57,62,1,32,"Oshawa",153, ,1,0,0,161,444,"Rundle Park Community Centre",20071010
+061,OSHAWA,10,42,31,1,18,"Oshawa",154, ,0,0,0,102,293,"Rundle Park Community Centre",20071010
+061,OSHAWA,6,30,80,1,34,"Oshawa",155, ,0,1,2,154,436,"Central Collegiate Institute",20071010
+061,OSHAWA,10,30,44,2,20,"Oshawa",156, ,0,0,0,106,388,"Oshawa Public Library - McLaughlin Branch",20071010
+061,OSHAWA,3,22,49,2,15,"Oshawa",157, ,0,0,0,91,239,"Village Union Public School",20071010
+061,OSHAWA,5,27,34,4,18,"Oshawa",158, ,1,0,0,89,297,"Village Union Public School",20071010
+061,OSHAWA,9,47,60,1,14,"Oshawa",159, ,0,1,0,132,346,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,7,35,42,1,14,"Oshawa",160, ,0,0,1,100,274,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,11,39,49,2,23,"Oshawa",161, ,1,0,0,125,308,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,9,48,83,0,17,"Oshawa",162, ,0,0,0,157,331,"Ritson Public School",20071010
+061,OSHAWA,9,51,57,1,21,"Oshawa",163, ,1,1,0,141,350,"Ritson Public School",20071010
+061,OSHAWA,5,39,59,0,25,"Oshawa",164, ,2,0,0,130,318,"T. R. McEwen Public School",20071010
+061,OSHAWA,3,38,45,4,22,"Oshawa",165, ,0,0,0,112,274,"T. R. McEwen Public School",20071010
+061,OSHAWA,5,45,47,1,21,"Oshawa",166, ,0,0,0,119,287,"Father Francis Mahoney Catholic School",20071010
+061,OSHAWA,7,53,54,0,10,"Oshawa",167, ,2,0,0,126,308,"Father Francis Mahoney Catholic School",20071010
+061,OSHAWA,6,79,59,3,36,"Oshawa",168, ,0,0,0,183,378,"Father Francis Mahoney Catholic School",20071010
+061,OSHAWA,5,78,59,3,23,"Oshawa",169, ,0,0,0,168,384,"Father Francis Mahoney Catholic School",20071010
+061,OSHAWA,5,87,73,7,45,"Oshawa",170, ,0,0,0,217,440,"Grandview Public School",20071010
+061,OSHAWA,10,61,50,3,19,"Oshawa",171, ,0,0,0,143,388,"Grandview Public School",20071010
+061,OSHAWA,14,85,37,0,26,"Oshawa",172, ,1,0,0,163,343,"Grandview Public School",20071010
+061,OSHAWA,13,58,40,0,27,"Oshawa",173, ,1,0,0,139,359,"Oshawa Civic Auditorium - Bobby Orr Room",20071010
+061,OSHAWA,3,14,10,0,12,"Oshawa",174s, ,0,0,0,39,75,"Thorntonview Long Term Care",20071010
+061,OSHAWA,13,59,92,1,28,"Oshawa",175, ,0,0,0,193,425,"Oshawa Civic Auditorium - Bobby Orr Room",20071010
+061,OSHAWA,16,46,81,2,45,"Oshawa",176, ,1,1,0,192,419,"Waverly Public School",20071010
+061,OSHAWA,7,51,42,7,33,"Oshawa",177, ,0,1,1,142,304,"Waverly Public School",20071010
+061,OSHAWA,10,56,35,0,24,"Oshawa",178, ,0,0,0,125,317,"Waverly Public School",20071010
+061,OSHAWA,5,25,36,3,33,"Oshawa",179, ,1,0,0,103,292,"Waverly Public School",20071010
+061,OSHAWA,7,36,49,2,27,"Oshawa",180, ,2,0,0,123,302,"Rundle Park Community Centre",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",181, ,0,0,0,0,0,"",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",182, ,0,0,0,0,0,"",20071010
+061,OSHAWA,5,24,30,1,11,"Oshawa",183, ,1,0,0,72,239,"Central Collegiate Institute",20071010
+061,OSHAWA,6,47,66,0,18,"Oshawa",184, ,0,1,0,138,329,"Central Collegiate Institute",20071010
+061,OSHAWA,7,27,23,0,14,"Oshawa",185, ,0,0,0,71,205,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,7,25,25,0,21,"Oshawa",186, ,0,0,0,78,250,"Village Union Public School",20071010
+061,OSHAWA,7,32,72,1,26,"Oshawa",187, ,1,0,0,139,277,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,2,25,28,3,14,"Oshawa",188, ,0,0,0,72,270,"T. R. McEwen Public School",20071010
+061,OSHAWA,10,26,31,0,14,"Oshawa",189, ,0,0,0,81,241,"T. R. McEwen Public School",20071010
+061,OSHAWA,2,15,45,1,24,"Oshawa",190, ,0,0,0,87,271,"T. R. McEwen Public School",20071010
+061,OSHAWA,10,30,28,2,18,"Oshawa",191, ,0,0,0,88,303,"T. R. McEwen Public School",20071010
+061,OSHAWA,9,25,44,0,18,"Oshawa",192, ,1,1,0,98,305,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",193, ,0,0,0,0,0,"",20071010
+061,OSHAWA,8,67,54,1,30,"Oshawa",194, ,1,1,0,162,356,"Father Francis Mahoney Catholic School",20071010
+061,OSHAWA,8,51,39,0,31,"Oshawa",195, ,0,1,0,130,349,"Grandview Public School",20071010
+061,OSHAWA,7,74,59,1,28,"Oshawa",196, ,0,0,0,169,410,"Grandview Public School",20071010
+061,OSHAWA,9,69,68,0,37,"Oshawa",197, ,0,1,0,184,419,"Oshawa Civic Auditorium - Bobby Orr Room",20071010
+061,OSHAWA,15,63,47,2,23,"Oshawa",198, ,0,0,0,150,362,"Oshawa Civic Auditorium - Bobby Orr Room",20071010
+061,OSHAWA,3,17,30,0,16,"Oshawa",199, ,0,0,0,66,214,"Waverly Public School",20071010
+061,OSHAWA,10,56,60,1,55,"Oshawa",200, ,1,0,0,183,407,"St. Thomas Aquinas Catholic School",20071010
+061,OSHAWA,10,42,61,0,31,"Oshawa",201, ,0,0,0,144,312,"St. Thomas Aquinas Catholic School",20071010
+061,OSHAWA,4,39,39,1,23,"Oshawa",202, ,0,0,0,106,308,"Central Collegiate Institute",20071010
+061,OSHAWA,7,34,34,2,36,"Oshawa",203, ,0,0,0,113,321,"Central Collegiate Institute",20071010
+061,OSHAWA,8,18,34,0,22,"Oshawa",204, ,1,0,0,83,246,"Central Collegiate Institute",20071010
+061,OSHAWA,0,21,26,0,11,"Oshawa",205, ,2,0,1,61,190,"Grace Lutheran Church",20071010
+061,OSHAWA,7,20,33,0,19,"Oshawa",206, ,0,0,0,79,292,"Royal Canadian Legion Branch 43",20071010
+061,OSHAWA,5,51,65,1,19,"Oshawa",207, ,1,1,7,150,456,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,9,61,87,1,22,"Oshawa",208, ,0,3,0,183,409,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,5,45,44,1,12,"Oshawa",209, ,1,0,0,108,300,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,12,72,54,0,33,"Oshawa",210, ,1,0,0,172,352,"Waverly Public School",20071010
+061,OSHAWA,15,55,57,2,41,"Oshawa",211, ,0,1,0,171,385,"St. Thomas Aquinas Catholic School",20071010
+061,OSHAWA,4,15,20,0,18,"Oshawa",212, ,0,0,3,60,178,"Grace Lutheran Church",20071010
+061,OSHAWA,5,23,27,0,13,"Oshawa",213, ,0,1,0,69,267,"Glen Street Public School",20071010
+061,OSHAWA,6,19,36,3,28,"Oshawa",214, ,0,0,0,92,333,"Glen Street Public School",20071010
+061,OSHAWA,5,19,44,0,5,"Oshawa",215, ,0,0,0,73,241,"Glen Street Public School",20071010
+061,OSHAWA,3,21,27,2,14,"Oshawa",216, ,1,0,1,69,270,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,12,38,53,0,20,"Oshawa",217, ,2,0,0,125,277,"Monsignor John Pereyma Catholic Secondary School",20071010
+061,OSHAWA,3,43,52,0,26,"Oshawa",218, ,0,0,0,124,313,"Bobby Orr Public School",20071010
+061,OSHAWA,8,19,46,1,19,"Oshawa",219, ,0,0,0,93,228,"Glen Street Public School",20071010
+061,OSHAWA,17,51,83,1,28,"Oshawa",220, ,1,1,0,182,499,"Glen Street Public School",20071010
+061,OSHAWA,9,35,67,1,24,"Oshawa",221, ,0,0,0,136,384,"Glen Street Public School",20071010
+061,OSHAWA,3,30,29,0,19,"Oshawa",222, ,0,0,0,81,225,"Bobby Orr Public School",20071010
+061,OSHAWA,8,67,62,0,24,"Oshawa",223, ,0,0,0,161,330,"Bobby Orr Public School",20071010
+061,OSHAWA,9,42,51,0,19,"Oshawa",224, ,0,0,0,121,243,"Bobby Orr Public School",20071010
+061,OSHAWA,8,54,31,0,24,"Oshawa",225, ,1,0,0,118,294,"Monsignor Philip Coffey Catholic School",20071010
+061,OSHAWA,8,35,76,1,20,"Oshawa",226, ,0,0,0,140,328,"Dr. C.F. Cannon Public School",20071010
+061,OSHAWA,11,78,67,0,28,"Oshawa",227, ,1,0,0,185,589,"Dr. C.F. Cannon Public School",20071010
+061,OSHAWA,3,45,47,0,22,"Oshawa",228, ,0,1,0,118,303,"Dr. C.F. Cannon Public School",20071010
+061,OSHAWA,8,58,52,1,16,"Oshawa",229, ,0,0,0,135,329,"Dr. C.F. Cannon Public School",20071010
+061,OSHAWA,11,32,53,1,19,"Oshawa",230, ,3,2,0,121,303,"Dr. C.F. Cannon Public School",20071010
+061,OSHAWA,5,43,52,2,33,"Oshawa",231, ,1,1,2,139,334,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,9,54,65,1,25,"Oshawa",232, ,2,0,0,156,348,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,15,42,73,3,28,"Oshawa",233, ,0,2,0,163,363,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,10,41,59,1,17,"Oshawa",234, ,1,0,0,129,346,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,11,62,73,0,22,"Oshawa",235, ,0,0,0,168,376,"Monsignor Philip Coffey Catholic School",20071010
+061,OSHAWA,8,57,84,0,33,"Oshawa",236, ,1,0,0,183,379,"Monsignor Philip Coffey Catholic School",20071010
+061,OSHAWA,20,65,72,0,19,"Oshawa",237, ,1,1,0,178,398,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,16,56,57,0,39,"Oshawa",238, ,0,0,0,168,364,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,9,66,58,2,27,"Oshawa",239, ,1,1,0,164,350,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,7,9,33,0,15,"Oshawa",240, ,0,0,0,64,261,"G. L. Roberts Collegiate & Vocational Institute",20071010
+061,OSHAWA,9,45,33,0,34,"Oshawa",241, ,0,0,0,121,331,"Monsignor Philip Coffey Catholic School",20071010
+061,OSHAWA,8,52,50,1,23,"Oshawa",242, ,1,0,0,135,285,"Monsignor Philip Coffey Catholic School",20071010
+061,OSHAWA,..........................NO POLL HELD........................,,,,,"Oshawa",400, ,0,0,0,0,0,"",20071010
+061,OSHAWA,5,29,57,0,39,"Oshawa",401, ,0,0,0,130,182,"Princess Apartments",20071010
+061,OSHAWA,7,10,16,0,9,"Oshawa",402, ,0,0,0,42,99,"Katlena's Palace",20071010
+061,OSHAWA,5,25,23,1,10,"Oshawa",403, ,0,0,0,64,139,"The Nonquon",20071010
+061,OSHAWA,5,25,31,1,19,"Oshawa",404, ,0,0,0,81,142,"Richelieu Apartments",20071010
+061,OSHAWA,10,63,64,1,44,"Oshawa",405, ,1,0,0,183,300,"Summit Place",20071010
+061,OSHAWA,3,27,26,1,14,"Oshawa",406, ,0,0,1,72,152,"Mona Lisa Apartments",20071010
+061,OSHAWA,4,16,18,0,4,"Oshawa",407, ,0,0,0,42,160,"Northview Meadow Co-operative",20071010
+061,OSHAWA,6,22,18,3,24,"Oshawa",408, ,0,0,0,73,152,"Northview Meadow Co-operative",20071010
+061,OSHAWA,4,23,29,1,17,"Oshawa",409, ,0,0,0,74,125,"Consideration Co-operative",20071010
+061,OSHAWA,7,18,26,1,15,"Oshawa",410, ,0,1,0,68,136,"Tower on the Green",20071010
+061,OSHAWA,2,42,40,0,36,"Oshawa",411, ,1,0,1,122,206,"Rossland Park",20071010
+061,OSHAWA,3,44,28,0,26,"Oshawa",412, ,0,0,2,103,177,"Rossland Park",20071010
+061,OSHAWA,4,74,41,0,51,"Oshawa",413, ,0,0,0,170,289,"Rossland Park",20071010
+061,OSHAWA,3,32,31,0,18,"Oshawa",414, ,0,0,0,84,149,"255 Simcoe Street Holdings",20071010
+061,OSHAWA,2,20,33,0,10,"Oshawa",415, ,0,0,0,65,120,"Gateway Terrace",20071010
+061,OSHAWA,20,103,70,0,56,"Oshawa",416, ,1,1,1,252,371,"McLaughlin Square",20071010
+061,OSHAWA,3,27,40,1,26,"Oshawa",417, ,1,0,1,99,168,"Sunrise Place",20071010
+061,OSHAWA,3,28,34,0,25,"Oshawa",418, ,2,1,0,93,119,"Parkview Apartments",20071010
+061,OSHAWA,5,20,25,2,24,"Oshawa",419, ,1,0,0,77,170,"Grenfell Square Apartments",20071010
+061,OSHAWA,2,26,27,0,19,"Oshawa",420, ,1,0,0,75,118,"Viscount Apartments",20071010
+061,OSHAWA,3,24,35,0,17,"Oshawa",421, ,0,0,0,79,143,"Cavalier Apartments",20071010
+061,OSHAWA,6,14,25,2,18,"Oshawa",422, ,3,0,0,68,138,"Venice Park Apartments",20071010
+061,OSHAWA,7,11,36,3,10,"Oshawa",423, ,0,0,0,67,227,"Glen Terrace Apartments",20071010
+061,OSHAWA,5,17,51,1,9,"Oshawa",424, ,1,1,0,85,151,"Rose Garden Apartments",20071010
+061,OSHAWA,5,18,29,1,13,"Oshawa",425, ,0,0,0,66,137,"New Hope Dwellings",20071010
+061,OSHAWA,5,29,47,1,29,"Oshawa",426, ,1,2,0,114,169,"Faith Place",20071010
+061,OSHAWA,4,26,34,2,25,"Oshawa",427, ,1,0,0,92,154,"King Charles Court",20071010
+061,OSHAWA,54,443,373,9,260,"Oshawa",Advanced Polls /  ADV001, ,3,2,1,1145,0,"Returning Office / Bureau du directeur du scrutin",20071010
+061,OSHAWA,53,694,366,8,347,"Oshawa",Advanced Polls /  ADV002, ,2,8,1,1479,0,"Legends Centre",20071010
+061,OSHAWA,20,299,192,5,142,"Oshawa",Advanced Polls /  ADV003, ,0,4,0,662,0,"Donevan Recreation Complex",20071010
+061,OSHAWA,12,102,99,1,29,"Oshawa",Advanced Polls /  ADV004, ,0,0,0,243,0,"South Oshawa Community Centre",20071010
+TOTALS:, ,2474,15977,13482,253,8762, , , , , , , , , , 

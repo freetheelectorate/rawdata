@@ -1,0 +1,299 @@
+ED_CODE,ED_NAME,CHARIF,CURTIN,DUNCAN,MCAVOY,ROBINSON,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+102,WINDSOR--TECUMSEH,26,8,95,8,34,"Windsor",001, ,0,0,0,171,354,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,17,1,53,4,8,"Windsor",002, ,0,0,0,83,154,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,35,1,56,7,13,"Windsor",003, ,0,0,1,113,343,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,14,1,42,6,20,"Windsor",004, ,2,1,0,86,251,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,24,4,46,10,19,"Windsor",005, ,0,0,0,103,287,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,34,5,102,9,30,"Windsor",006, ,1,1,0,182,355,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,39,4,72,14,30,"Windsor",007, ,0,1,0,160,331,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,20,2,59,8,21,"Windsor",008, ,1,1,0,112,282,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,24,6,93,15,40,"Windsor",009, ,0,0,0,178,405,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,17,2,56,4,14,"Windsor",010, ,0,0,0,93,277,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,30,8,34,9,31,"Windsor",011, ,1,0,0,113,284,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,13,0,76,6,33,"Windsor",012, ,0,0,0,128,294,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,25,3,66,8,19,"Windsor",013, ,0,1,0,122,303,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,12,0,74,7,33,"Windsor",014, ,0,0,0,126,305,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,9,1,106,12,44,"Windsor",015, ,0,0,1,173,411,"Princess Elizabeth School",20071010
+102,WINDSOR--TECUMSEH,14,1,87,18,38,"Windsor",016, ,1,0,0,159,350,"Princess Elizabeth School",20071010
+102,WINDSOR--TECUMSEH,20,3,66,26,20,"Windsor",017, ,0,0,0,135,324,"École élémentaire catholique Georges P Vanier",20071010
+102,WINDSOR--TECUMSEH,13,0,31,1,7,"Windsor",018, ,0,0,0,52,207,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,14,0,43,6,6,"Windsor",019, ,0,2,0,71,203,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,20,2,57,9,26,"Windsor",020, ,1,2,0,117,289,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,23,1,76,20,26,"Windsor",021, ,0,1,0,147,331,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,24,3,61,17,26,"Windsor",022, ,2,0,0,133,332,"St. John Vianney Elementary School",20071010
+102,WINDSOR--TECUMSEH,46,3,91,17,25,"Windsor",023, ,0,0,0,182,366,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,37,5,73,6,22,"Windsor",024, ,3,2,0,148,315,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,29,2,67,12,17,"Windsor",025, ,2,2,0,131,282,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,21,3,34,5,22,"Windsor",026, ,0,0,0,85,241,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,14,2,50,13,9,"Windsor",027, ,0,0,0,88,238,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,51,4,70,13,31,"Windsor",028, ,0,0,0,169,365,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,6,1,31,4,12,"Windsor",029, ,0,1,0,55,181,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,16,3,42,8,13,"Windsor",030, ,0,0,0,82,275,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,19,4,58,9,22,"Windsor",031, ,1,3,0,116,292,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,29,0,80,14,31,"Windsor",032, ,1,0,0,155,346,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,18,3,60,13,37,"Windsor",033, ,0,0,0,131,350,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,30,2,78,13,35,"Windsor",034, ,0,0,0,158,322,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,18,1,93,24,42,"Windsor",035, ,3,0,0,181,346,"Victoria Public School",20071010
+102,WINDSOR--TECUMSEH,36,1,113,14,39,"Windsor",036, ,0,0,0,203,435,"Victoria Public School",20071010
+102,WINDSOR--TECUMSEH,13,0,38,4,5,"Windsor",037, ,0,0,0,60,181,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,31,0,26,5,4,"Windsor",038, ,0,1,0,67,201,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,24,0,29,9,7,"Windsor",039, ,1,1,0,71,192,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,16,4,32,14,8,"Windsor",040, ,1,0,0,75,238,"Lincoln Road United Church",20071010
+102,WINDSOR--TECUMSEH,13,2,36,4,12,"Windsor",043s, ,1,1,0,69,88,"Masonville Court Apartments",20071010
+102,WINDSOR--TECUMSEH,21,2,19,6,7,"Windsor",044, ,1,1,0,57,201,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,10,2,31,5,3,"Windsor",045, ,0,0,0,51,211,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,11,2,30,1,10,"Windsor",046s, ,0,1,0,55,103,"Central Park Lodge-Windsor",20071010
+102,WINDSOR--TECUMSEH,9,2,65,10,21,"Windsor",047, ,0,2,0,109,241,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,8,1,15,1,4,"Windsor",048, ,1,0,0,30,130,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,12,1,25,5,18,"Windsor",049, ,0,0,0,61,180,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,23,0,51,8,14,"Windsor",050, ,0,0,0,96,247,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,24,1,27,7,11,"Windsor",051, ,1,0,0,71,219,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,23,1,41,6,12,"Windsor",052, ,0,0,0,83,252,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,12,0,17,8,10,"Windsor",053, ,0,0,0,47,171,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,2,0,23,1,5,"Windsor",054s, ,0,3,0,34,88,"Sunrise Assisted Living",20071010
+102,WINDSOR--TECUMSEH,33,0,57,7,16,"Windsor",055, ,0,0,0,113,269,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,4,0,10,0,4,"Windsor",056, ,0,0,0,18,50,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,32,0,32,6,21,"Windsor",057, ,0,0,0,91,253,"F. J. Brennan Catholic High School",20071010
+102,WINDSOR--TECUMSEH,32,0,42,14,10,"Windsor",058, ,0,1,0,99,275,"Princess Elizabeth School",20071010
+102,WINDSOR--TECUMSEH,48,4,61,10,17,"Windsor",059, ,0,0,0,140,343,"Princess Elizabeth School",20071010
+102,WINDSOR--TECUMSEH,29,2,49,11,25,"Windsor",060, ,1,0,0,117,298,"Princess Elizabeth School",20071010
+102,WINDSOR--TECUMSEH,27,1,58,19,8,"Windsor",061, ,0,0,0,113,298,"École élémentaire catholique Georges P Vanier",20071010
+102,WINDSOR--TECUMSEH,38,0,38,15,15,"Windsor",062, ,0,1,0,107,291,"École élémentaire catholique Georges P Vanier",20071010
+102,WINDSOR--TECUMSEH,32,4,87,8,30,"Windsor",063, ,0,0,0,161,345,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,29,4,95,11,27,"Windsor",064, ,0,2,0,168,345,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,40,14,104,8,18,"Windsor",065, ,0,0,0,184,374,"Edward Street Neighbourhood Centre",20071010
+102,WINDSOR--TECUMSEH,31,4,57,16,19,"Windsor",066, ,0,0,0,127,255,"Concord Public School",20071010
+102,WINDSOR--TECUMSEH,33,5,87,18,32,"Windsor",067, ,0,1,0,176,368,"Edward Street Neighbourhood Centre",20071010
+102,WINDSOR--TECUMSEH,29,3,90,14,22,"Windsor",068, ,0,0,0,158,341,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,62,2,75,14,23,"Windsor",069, ,0,0,0,176,350,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,39,2,81,5,22,"Windsor",070, ,0,0,0,149,305,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,14,1,20,3,9,"Windsor",071, ,0,0,0,47,144,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,55,5,29,7,15,"Windsor",072, ,0,1,0,112,321,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,46,6,58,10,24,"Windsor",073, ,4,0,0,148,402,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,26,4,45,14,19,"Windsor",074, ,1,0,0,109,347,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,54,2,35,7,26,"Windsor",075, ,2,1,0,127,357,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,18,2,25,7,25,"Windsor",076, ,0,0,0,77,256,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,39,1,38,12,8,"Windsor",077, ,0,0,0,98,329,"Riverside Secondary School",20071010
+102,WINDSOR--TECUMSEH,13,6,34,2,15,"Windsor",078, ,1,0,0,71,239,"Hetherington Public School",20071010
+102,WINDSOR--TECUMSEH,16,0,64,10,22,"Tecumseh",079, ,0,3,0,115,371,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,15,1,91,7,35,"Tecumseh",080, ,1,1,0,151,287,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,22,3,79,9,18,"Windsor",081, ,0,0,1,132,218,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,17,2,64,11,24,"Windsor",082, ,1,1,0,120,380,"Riverside Sportsmen Club",20071010
+102,WINDSOR--TECUMSEH,12,1,69,3,21,"Windsor",083, ,0,0,0,106,254,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,40,6,94,6,35,"Windsor",084, ,1,0,0,182,392,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,24,1,103,8,33,"Windsor",085, ,1,1,0,171,355,"Knights of Columbus Hall",20071010
+102,WINDSOR--TECUMSEH,30,8,65,3,8,"Windsor",086, ,0,1,0,115,299,"A. V. Graham Public School",20071010
+102,WINDSOR--TECUMSEH,32,3,110,13,40,"Windsor",087, ,1,1,0,200,408,"Victoria Public School",20071010
+102,WINDSOR--TECUMSEH,36,2,140,21,43,"Windsor",088, ,0,0,0,242,517,"A. V. Graham Public School",20071010
+102,WINDSOR--TECUMSEH,35,3,102,7,22,"Tecumseh",089, ,0,0,1,170,346,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,26,1,100,12,35,"Tecumseh",090, ,2,0,1,177,430,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,38,9,114,12,37,"Tecumseh",091, ,0,1,0,211,431,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,16,0,74,6,17,"Tecumseh",092, ,0,0,0,113,267,"St. Gregory Elementary School",20071010
+102,WINDSOR--TECUMSEH,26,0,21,0,10,"Windsor",093, ,0,2,0,59,212,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,24,1,13,5,5,"Windsor",094, ,0,0,0,48,180,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,23,2,34,4,6,"Windsor",095, ,1,1,1,72,273,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,26,0,32,4,8,"Windsor",096, ,0,0,0,70,212,"F. W. Begley School",20071010
+102,WINDSOR--TECUMSEH,22,1,20,1,11,"Windsor",097, ,0,0,0,55,197,"Lincoln Road United Church",20071010
+102,WINDSOR--TECUMSEH,18,0,27,10,14,"Windsor",098, ,0,0,0,69,157,"Lincoln Road United Church",20071010
+102,WINDSOR--TECUMSEH,23,1,35,12,9,"Windsor",099, ,0,0,0,80,221,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,35,2,58,5,12,"Windsor",100, ,1,0,0,113,278,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,21,0,33,14,7,"Windsor",101, ,0,2,0,77,201,"Lincoln Road United Church",20071010
+102,WINDSOR--TECUMSEH,32,0,77,30,41,"Windsor",102, ,1,4,0,185,346,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,17,0,30,14,9,"Windsor",103, ,1,0,0,71,227,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,16,7,10,4,7,"Windsor",104, ,0,0,0,44,173,"Gino Marcus Community Complex",20071010
+102,WINDSOR--TECUMSEH,22,0,13,4,7,"Windsor",105, ,2,0,0,48,192,"Gino Marcus Community Complex",20071010
+102,WINDSOR--TECUMSEH,29,2,11,2,3,"Windsor",106, ,0,1,0,48,142,"Gino Marcus Community Complex",20071010
+102,WINDSOR--TECUMSEH,33,1,18,4,10,"Windsor",107, ,1,0,0,67,232,"Our Lady of Lourdes Elementary School",20071010
+102,WINDSOR--TECUMSEH,20,1,30,1,10,"Windsor",108, ,2,0,0,64,233,"Our Lady of Lourdes Elementary School",20071010
+102,WINDSOR--TECUMSEH,27,1,41,6,7,"Windsor",109, ,0,0,0,82,290,"Our Lady of Lourdes Elementary School",20071010
+102,WINDSOR--TECUMSEH,56,5,57,11,22,"Windsor",110, ,0,0,0,151,335,"Our Lady of Lourdes Elementary School",20071010
+102,WINDSOR--TECUMSEH,64,2,31,7,17,"Windsor",111, ,1,0,0,122,282,"Our Lady of Lourdes Elementary School",20071010
+102,WINDSOR--TECUMSEH,40,5,48,5,9,"Windsor",112, ,0,0,0,107,271,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,41,4,42,5,16,"Windsor",113, ,1,0,0,109,261,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,49,3,38,11,11,"Windsor",114, ,0,0,0,112,265,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,33,0,50,10,11,"Windsor",115, ,0,0,0,104,300,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,9,1,13,1,4,"Windsor",116, ,0,0,0,28,172,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,60,1,67,13,13,"Windsor",117, ,1,2,0,157,400,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,30,4,39,5,13,"Windsor",118, ,0,3,0,94,294,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,12,0,9,0,2,"Windsor",119, ,0,1,0,24,167,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,31,7,64,9,23,"Windsor",120, ,2,0,0,136,336,"École élémentaire catholique Georges P Vanier",20071010
+102,WINDSOR--TECUMSEH,59,10,35,3,17,"Windsor",121, ,0,0,0,124,346,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,55,4,61,8,26,"Windsor",122, ,3,0,1,158,348,"The Hospice of Windsor and Essex County",20071010
+102,WINDSOR--TECUMSEH,29,3,91,11,29,"Windsor",123, ,1,0,0,164,335,"École élémentaire catholique Georges P Vanier",20071010
+102,WINDSOR--TECUMSEH,36,4,92,20,29,"Windsor",124, ,1,2,0,184,362,"Edward Street Neighbourhood Centre",20071010
+102,WINDSOR--TECUMSEH,8,1,14,5,5,"Windsor",125, ,0,0,0,33,139,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,30,3,61,10,16,"Windsor",126, ,1,0,0,121,299,"St. Maria Goretti Elementary School",20071010
+102,WINDSOR--TECUMSEH,27,3,76,7,22,"Tecumseh",127, ,0,0,0,135,359,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,18,1,58,8,30,"Tecumseh",128, ,0,0,0,115,330,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,28,2,69,10,28,"Tecumseh",129, ,2,0,0,139,304,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,29,3,53,8,16,"Tecumseh",130, ,0,0,0,109,245,"Banwell Community Church",20071010
+102,WINDSOR--TECUMSEH,9,1,26,4,3,"Windsor",131s, ,0,0,0,43,134,"Heron Terrace",20071010
+102,WINDSOR--TECUMSEH,20,2,70,7,23,"Windsor",132, ,1,0,0,123,225,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,23,0,31,5,15,"Windsor",133, ,1,0,0,75,259,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,18,1,54,4,16,"Windsor",134, ,0,0,0,93,206,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,38,4,107,5,24,"Windsor",135, ,0,1,0,179,435,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,42,1,99,9,20,"Windsor",136, ,3,0,0,174,397,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,35,5,59,13,16,"Windsor",137, ,1,0,0,129,325,"A. V. Graham Public School",20071010
+102,WINDSOR--TECUMSEH,31,1,85,8,23,"Windsor",138, ,1,0,0,149,357,"A. V. Graham Public School",20071010
+102,WINDSOR--TECUMSEH,24,4,102,14,33,"Tecumseh",139, ,0,1,0,178,414,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,24,3,95,18,44,"Tecumseh",140, ,0,2,0,186,399,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,13,2,108,9,38,"Tecumseh",141, ,1,1,0,172,297,"St. Gregory Elementary School",20071010
+102,WINDSOR--TECUMSEH,25,0,120,9,37,"Tecumseh",142, ,0,0,0,191,338,"St. Gregory Elementary School",20071010
+102,WINDSOR--TECUMSEH,18,2,65,15,23,"Tecumseh",143, ,0,1,0,124,369,"St. Gregory Elementary School",20071010
+102,WINDSOR--TECUMSEH,14,4,118,17,50,"Tecumseh",144, ,0,0,0,203,408,"St. Gregory Elementary School",20071010
+102,WINDSOR--TECUMSEH,11,4,93,11,38,"Windsor",145, ,0,0,0,157,358,"D. M. Eagle Public School",20071010
+102,WINDSOR--TECUMSEH,23,2,28,6,2,"Windsor",146, ,0,1,0,62,211,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,14,2,21,3,2,"Windsor",147, ,1,0,0,43,159,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,34,3,32,5,5,"Windsor",148, ,1,0,0,80,268,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,21,1,24,7,2,"Windsor",149, ,0,0,0,55,192,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,32,0,38,11,5,"Windsor",150, ,0,0,0,86,287,"King Edward Public School",20071010
+102,WINDSOR--TECUMSEH,17,1,23,5,10,"Windsor",151, ,0,0,0,56,226,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,24,1,35,10,11,"Windsor",152, ,0,0,0,81,236,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,30,0,38,4,10,"Windsor",153, ,0,0,0,82,218,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,29,6,97,21,20,"Windsor",154, ,0,0,0,173,320,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,35,2,57,16,16,"Windsor",155, ,2,0,0,128,279,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,16,0,25,9,6,"Windsor",156, ,3,0,0,59,197,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,20,0,45,3,13,"Windsor",157, ,0,0,0,81,242,"Gino Marcus Community Complex",20071010
+102,WINDSOR--TECUMSEH,26,2,21,6,12,"Windsor",158, ,2,0,0,69,213,"McGregor Elementary School",20071010
+102,WINDSOR--TECUMSEH,34,0,13,4,8,"Windsor",159, ,1,0,0,60,168,"McGregor Elementary School",20071010
+102,WINDSOR--TECUMSEH,35,4,51,13,18,"Windsor",160, ,1,1,0,123,277,"McGregor Elementary School",20071010
+102,WINDSOR--TECUMSEH,32,0,33,1,14,"Windsor",161, ,1,0,0,81,232,"Constable John Atkinson Community Centre",20071010
+102,WINDSOR--TECUMSEH,55,1,34,1,4,"Windsor",162, ,0,0,0,95,244,"Constable John Atkinson Community Centre",20071010
+102,WINDSOR--TECUMSEH,35,2,36,9,9,"Windsor",163, ,0,0,0,91,251,"Constable John Atkinson Community Centre",20071010
+102,WINDSOR--TECUMSEH,51,2,44,9,10,"Windsor",164, ,0,0,0,116,265,"Constable John Atkinson Community Centre",20071010
+102,WINDSOR--TECUMSEH,39,1,47,12,17,"Windsor",165, ,0,0,0,116,305,"David Maxwell School",20071010
+102,WINDSOR--TECUMSEH,43,3,44,12,19,"Windsor",166, ,0,1,0,122,326,"McCallum Public School",20071010
+102,WINDSOR--TECUMSEH,42,3,52,8,28,"Windsor",167, ,0,0,0,133,287,"McCallum Public School",20071010
+102,WINDSOR--TECUMSEH,9,0,9,3,4,"Windsor",168, ,0,0,0,25,174,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,34,0,58,6,8,"Windsor",169, ,0,1,0,107,307,"The Hospice of Windsor and Essex County",20071010
+102,WINDSOR--TECUMSEH,36,2,45,8,18,"Windsor",170, ,6,0,0,115,364,"The Hospice of Windsor and Essex County",20071010
+102,WINDSOR--TECUMSEH,38,8,48,5,14,"Windsor",171, ,0,0,0,113,318,"Coronation Public School",20071010
+102,WINDSOR--TECUMSEH,46,5,71,5,18,"Windsor",172, ,0,0,0,145,348,"The Hospice of Windsor and Essex County",20071010
+102,WINDSOR--TECUMSEH,66,2,54,9,16,"Windsor",173, ,0,0,0,147,360,"The Hospice of Windsor and Essex County",20071010
+102,WINDSOR--TECUMSEH,10,0,12,1,8,"Windsor",174, ,0,0,0,31,237,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,10,1,23,2,1,"Windsor",175, ,0,0,0,37,214,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,24,1,33,2,2,"Windsor",176, ,0,0,0,62,334,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,14,2,51,2,17,"Windsor",177, ,2,0,0,88,320,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,20,0,33,8,8,"Windsor",178, ,1,0,0,70,253,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,22,6,54,9,21,"Windsor",179, ,1,3,0,116,343,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,32,5,78,12,28,"Windsor",180, ,1,0,0,156,399,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,52,0,75,14,29,"Windsor",181, ,1,1,0,172,424,"Parkview Public School",20071010
+102,WINDSOR--TECUMSEH,44,2,82,8,25,"Windsor",182, ,1,0,0,162,408,"L. A. Desmarais Elementary School",20071010
+102,WINDSOR--TECUMSEH,7,4,12,1,0,"Windsor",183s, ,12,3,1,40,134,"Banwell Gardens",20071010
+102,WINDSOR--TECUMSEH,11,4,32,2,14,"Windsor",184, ,0,0,0,63,158,"St. Anne's Church",20071010
+102,WINDSOR--TECUMSEH,21,2,47,6,19,"Windsor",185, ,1,1,0,97,253,"St. Anne's Church",20071010
+102,WINDSOR--TECUMSEH,16,1,34,4,9,"Windsor",186, ,1,1,0,66,175,"St. Anne's Church",20071010
+102,WINDSOR--TECUMSEH,31,2,37,5,19,"Windsor",187, ,0,0,0,94,247,"Tecumseh Recreation Centre",20071010
+102,WINDSOR--TECUMSEH,24,4,92,2,27,"Tecumseh",188, ,6,1,0,156,337,"École St-Antoine",20071010
+102,WINDSOR--TECUMSEH,20,4,69,14,26,"Tecumseh",189, ,1,0,0,134,380,"École St-Antoine",20071010
+102,WINDSOR--TECUMSEH,23,1,107,20,19,"Windsor",190, ,0,0,0,170,360,"A. V. Graham Public School",20071010
+102,WINDSOR--TECUMSEH,41,1,83,7,43,"Tecumseh",191, ,2,0,0,177,452,"École St-Antoine",20071010
+102,WINDSOR--TECUMSEH,8,1,48,9,22,"Tecumseh",192, ,0,2,0,90,269,"Ste-Marguerite d'Youville School",20071010
+102,WINDSOR--TECUMSEH,22,3,67,8,11,"Tecumseh",193, ,2,0,0,113,307,"École St-Antoine",20071010
+102,WINDSOR--TECUMSEH,27,10,134,17,38,"Windsor",194, ,1,0,3,230,469,"D. M. Eagle Public School",20071010
+102,WINDSOR--TECUMSEH,16,2,85,10,31,"Windsor",195, ,1,1,0,146,370,"D. M. Eagle Public School",20071010
+102,WINDSOR--TECUMSEH,30,5,39,10,15,"Windsor",196, ,1,1,0,101,232,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,25,2,30,9,16,"Windsor",197, ,0,1,0,83,240,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,25,5,44,6,8,"Windsor",198, ,5,0,0,93,242,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,34,3,52,7,13,"Windsor",199, ,0,0,0,109,297,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,16,0,34,8,11,"Windsor",200, ,0,0,0,69,238,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,14,1,23,3,8,"Windsor",201, ,0,0,0,49,135,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,29,3,43,6,5,"Windsor",202, ,0,0,0,86,267,"École élémentaire L'Envolée",20071010
+102,WINDSOR--TECUMSEH,22,0,48,11,6,"Windsor",203, ,1,0,0,88,244,"Scottish Club of Windsor",20071010
+102,WINDSOR--TECUMSEH,35,2,55,17,26,"Windsor",204, ,0,2,0,137,332,"Scottish Club of Windsor",20071010
+102,WINDSOR--TECUMSEH,30,0,28,6,13,"Windsor",205, ,3,0,0,80,280,"St. Bernard School",20071010
+102,WINDSOR--TECUMSEH,31,1,35,12,9,"Windsor",206, ,0,1,0,89,258,"McGregor Elementary School",20071010
+102,WINDSOR--TECUMSEH,45,2,35,10,15,"Windsor",207, ,1,0,0,108,301,"St. Bernard School",20071010
+102,WINDSOR--TECUMSEH,38,5,39,6,8,"Windsor",208, ,4,1,0,101,299,"St. Bernard School",20071010
+102,WINDSOR--TECUMSEH,26,3,55,10,13,"Windsor",209, ,8,2,0,117,316,"St. Bernard School",20071010
+102,WINDSOR--TECUMSEH,42,2,42,9,16,"Windsor",210, ,0,0,0,111,264,"McCallum Public School",20071010
+102,WINDSOR--TECUMSEH,40,5,40,7,13,"Windsor",211, ,0,0,0,105,274,"McCallum Public School",20071010
+102,WINDSOR--TECUMSEH,26,3,51,11,17,"Windsor",212, ,0,0,0,108,307,"McCallum Public School",20071010
+102,WINDSOR--TECUMSEH,39,2,83,11,30,"Windsor",213, ,1,0,0,166,372,"St. Alexander Elementary School",20071010
+102,WINDSOR--TECUMSEH,41,1,87,4,29,"Windsor",214, ,0,0,0,162,322,"St. Alexander Elementary School",20071010
+102,WINDSOR--TECUMSEH,38,2,108,7,43,"Windsor",215, ,1,1,0,200,377,"St. Alexander Elementary School",20071010
+102,WINDSOR--TECUMSEH,17,1,41,4,15,"Windsor",216, ,3,4,0,85,280,"St. Alexander Elementary School",20071010
+102,WINDSOR--TECUMSEH,37,5,85,19,23,"Windsor",217, ,1,3,0,173,363,"Roseville Public School",20071010
+102,WINDSOR--TECUMSEH,29,2,43,4,14,"Windsor",218, ,2,1,0,95,302,"Roseville Public School",20071010
+102,WINDSOR--TECUMSEH,14,1,25,8,7,"Windsor",219, ,0,0,0,55,241,"Roseville Garden Community Centre",20071010
+102,WINDSOR--TECUMSEH,11,2,26,4,10,"Windsor",220, ,3,0,0,56,177,"Roseville Garden Community Centre",20071010
+102,WINDSOR--TECUMSEH,15,0,19,3,4,"Windsor",221, ,0,0,0,41,236,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,21,0,24,9,7,"Windsor",222, ,0,0,0,61,249,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,17,0,25,4,5,"Windsor",223, ,0,0,0,51,201,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,20,0,65,4,28,"Windsor",224, ,0,0,0,117,357,"Forest Glade Primary Learning Centre",20071010
+102,WINDSOR--TECUMSEH,29,10,13,26,99,"Windsor",225, ,0,0,0,177,422,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,24,0,58,17,25,"Windsor",226, ,0,2,0,126,366,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,25,2,91,12,29,"Windsor",227, ,4,0,0,163,408,"Forest Glade Public School",20071010
+102,WINDSOR--TECUMSEH,26,5,50,12,19,"Windsor",228, ,1,0,0,113,362,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,44,5,63,5,27,"Windsor",229, ,1,0,0,145,402,"Parkview Public School",20071010
+102,WINDSOR--TECUMSEH,50,6,67,6,13,"Windsor",230, ,0,1,0,143,393,"Forest Glade Arena",20071010
+102,WINDSOR--TECUMSEH,37,4,88,11,18,"Windsor",231, ,0,0,0,158,411,"Parkview Public School",20071010
+102,WINDSOR--TECUMSEH,26,6,63,10,23,"Windsor",232, ,0,0,1,129,348,"L. A. Desmarais Elementary School",20071010
+102,WINDSOR--TECUMSEH,41,2,115,16,29,"Windsor",233, ,0,0,0,203,478,"Forest Glade Arena",20071010
+102,WINDSOR--TECUMSEH,28,1,37,13,15,"Windsor",234, ,1,0,0,95,210,"L. A. Desmarais Elementary School",20071010
+102,WINDSOR--TECUMSEH,15,2,46,8,20,"Windsor",235, ,0,2,0,93,268,"St. Anne's Church",20071010
+102,WINDSOR--TECUMSEH,3,1,13,1,0,"Tecumseh",236s, ,0,0,0,18,60,"Brouillette Manor",20071010
+102,WINDSOR--TECUMSEH,46,2,129,14,32,"Tecumseh",237, ,0,0,0,223,439,"Calvary Community Church",20071010
+102,WINDSOR--TECUMSEH,33,3,64,7,24,"Windsor",238, ,1,0,0,132,314,"Holy Trinity Church",20071010
+102,WINDSOR--TECUMSEH,32,1,46,5,14,"Windsor",239, ,1,0,0,99,240,"Scottish Club of Windsor",20071010
+102,WINDSOR--TECUMSEH,27,3,24,16,0,"Windsor",240, ,0,1,0,71,263,"Davis Public School",20071010
+102,WINDSOR--TECUMSEH,32,1,89,13,24,"Windsor",241, ,2,2,0,163,326,"Davis Public School",20071010
+102,WINDSOR--TECUMSEH,15,1,13,1,2,"Windsor",242, ,0,1,0,33,115,"W. J. Langlois School",20071010
+102,WINDSOR--TECUMSEH,48,6,72,4,29,"Windsor",243, ,0,2,1,162,385,"Davis Public School",20071010
+102,WINDSOR--TECUMSEH,43,2,55,10,23,"Windsor",244, ,2,0,0,135,363,"Roseville Public School",20071010
+102,WINDSOR--TECUMSEH,25,0,45,5,14,"Windsor",245, ,1,1,0,91,399,"Roseville Public School",20071010
+102,WINDSOR--TECUMSEH,8,1,23,0,8,"Windsor",246s, ,1,0,0,41,58,"Riverside Place",20071010
+102,WINDSOR--TECUMSEH,14,3,48,4,4,"Windsor",247, ,1,1,0,75,269,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,24,4,55,8,19,"Windsor",248, ,1,0,0,111,292,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,54,1,68,5,13,"Windsor",249, ,2,0,0,143,415,"H. J. Lassaline Catholic School",20071010
+102,WINDSOR--TECUMSEH,44,1,105,11,24,"Windsor",250, ,0,3,0,188,496,"Forest Glade Arena",20071010
+102,WINDSOR--TECUMSEH,14,3,43,4,18,"Windsor",251, ,0,0,0,82,237,"Forest Glade Arena",20071010
+102,WINDSOR--TECUMSEH,29,1,66,9,23,"Windsor",252, ,0,0,0,128,385,"Forest Glade Arena",20071010
+102,WINDSOR--TECUMSEH,27,2,81,5,16,"Windsor",253, ,0,0,0,131,400,"L. A. Desmarais Elementary School",20071010
+102,WINDSOR--TECUMSEH,27,1,44,7,16,"Windsor",254, ,0,0,0,95,305,"L. A. Desmarais Elementary School",20071010
+102,WINDSOR--TECUMSEH,22,2,87,11,30,"Tecumseh",255, ,1,0,0,153,321,"Calvary Community Church",20071010
+102,WINDSOR--TECUMSEH,50,4,57,4,33,"Windsor",256, ,0,3,0,151,355,"W. J. Langlois School",20071010
+102,WINDSOR--TECUMSEH,53,7,116,13,24,"Windsor",257, ,2,1,0,216,429,"W. J. Langlois School",20071010
+102,WINDSOR--TECUMSEH,66,1,63,12,20,"Windsor",258, ,1,0,0,163,433,"W. J. Langlois School",20071010
+102,WINDSOR--TECUMSEH,44,2,123,11,42,"Tecumseh",259, ,2,0,0,224,483,"Calvary Community Church",20071010
+102,WINDSOR--TECUMSEH,21,1,61,6,21,"Tecumseh",260, ,1,1,0,112,257,"St. Peter School",20071010
+102,WINDSOR--TECUMSEH,54,9,104,19,25,"Tecumseh",261, ,0,0,0,211,377,"Calvary Community Church",20071010
+102,WINDSOR--TECUMSEH,38,9,137,8,36,"Tecumseh",262, ,1,2,1,232,479,"St. Peter School",20071010
+102,WINDSOR--TECUMSEH,37,1,66,11,24,"Tecumseh",263, ,0,2,0,141,317,"St. Peter School",20071010
+102,WINDSOR--TECUMSEH,8,2,18,4,4,"Tecumseh",264s, ,2,0,0,38,125,"Extendicare Tecumseh",20071010
+102,WINDSOR--TECUMSEH,46,4,79,18,32,"Tecumseh",265, ,0,1,0,180,387,"St. Peter School",20071010
+102,WINDSOR--TECUMSEH,47,4,89,9,21,"Windsor",266, ,2,1,0,173,392,"W. J. Langlois School",20071010
+102,WINDSOR--TECUMSEH,12,0,46,5,7,"Tecumseh",267, ,0,0,0,70,201,"St. Peter School",20071010
+102,WINDSOR--TECUMSEH,34,0,71,11,33,"Windsor",268, ,0,0,0,149,439,"Ciociaro Club",20071010
+102,WINDSOR--TECUMSEH,43,6,67,10,34,"Windsor",269, ,0,1,0,161,386,"Ciociaro Club",20071010
+102,WINDSOR--TECUMSEH,7,3,34,1,17,"Windsor",270, ,0,0,0,62,184,"Ciociaro Club",20071010
+102,WINDSOR--TECUMSEH,14,0,39,13,26,"Tecumseh",271, ,3,0,0,95,256,"St. Mary's Parish Hall",20071010
+102,WINDSOR--TECUMSEH,36,3,118,13,38,"Windsor",272, ,0,2,0,210,392,"Ciociaro Club",20071010
+102,WINDSOR--TECUMSEH,36,5,125,18,57,"Tecumseh",273, ,0,0,0,241,486,"St. Mary's Parish Hall",20071010
+102,WINDSOR--TECUMSEH,52,1,96,15,25,"Windsor",400, ,2,0,0,191,330,"Westchester at the Lake",20071010
+102,WINDSOR--TECUMSEH,13,0,39,11,15,"Windsor",401, ,0,0,0,78,126,"Seaway Towers",20071010
+102,WINDSOR--TECUMSEH,41,2,36,8,12,"Windsor",402, ,1,0,0,100,180,"Shoreline Towers",20071010
+102,WINDSOR--TECUMSEH,19,4,48,10,17,"Windsor",403, ,0,0,0,98,148,"Bayview Towers Apartments",20071010
+102,WINDSOR--TECUMSEH,16,3,36,11,10,"Windsor",404, ,1,0,0,77,145,"Riverside Towers",20071010
+102,WINDSOR--TECUMSEH,27,2,42,8,11,"Windsor",405, ,0,1,0,91,149,"St. Clair Towers",20071010
+102,WINDSOR--TECUMSEH,26,2,24,4,11,"Windsor",406, ,1,0,0,68,136,"Island View Tower Apartments",20071010
+102,WINDSOR--TECUMSEH,89,4,153,10,42,"Windsor",407, ,0,0,0,298,419,"Solidarity Towers 1",20071010
+102,WINDSOR--TECUMSEH,..........................NO POLL HELD........................,,,,,"Windsor",408, ,0,0,0,0,0,"",20071010
+102,WINDSOR--TECUMSEH,14,0,21,6,9,"Windsor",409, ,2,1,0,53,145,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,15,6,42,1,12,"Windsor",410, ,2,0,0,78,152,"Lonsdale Apartments",20071010
+102,WINDSOR--TECUMSEH,22,2,41,5,24,"Windsor",411, ,0,0,1,95,161,"Palazzo Apartments",20071010
+102,WINDSOR--TECUMSEH,25,1,39,3,24,"Windsor",412, ,0,0,0,92,130,"Harbour Tower Apartments",20071010
+102,WINDSOR--TECUMSEH,19,0,36,7,18,"Windsor",413, ,0,0,0,80,129,"Pinnacle Towers",20071010
+102,WINDSOR--TECUMSEH,4,0,31,3,13,"Windsor",414, ,0,0,0,51,104,"Glengarda Condominium",20071010
+102,WINDSOR--TECUMSEH,37,0,33,8,13,"Windsor",415, ,1,0,0,92,196,"Lauzon Towers Apartments",20071010
+102,WINDSOR--TECUMSEH,28,1,38,6,18,"Windsor",416, ,0,1,0,92,147,"Venture Place Housing Co-operative",20071010
+102,WINDSOR--TECUMSEH,19,3,35,7,12,"Windsor",417, ,0,0,0,76,160,"Plaza East Apartments",20071010
+102,WINDSOR--TECUMSEH,66,4,122,11,35,"Windsor",418, ,2,4,0,244,379,"Fontainebleu Towers",20071010
+102,WINDSOR--TECUMSEH,12,3,39,6,9,"Windsor",419, ,1,0,0,70,114,"General Mihailovich Place",20071010
+102,WINDSOR--TECUMSEH,8,0,13,1,3,"Windsor",420, ,0,0,0,25,81,"Roseville Garden Community Centre",20071010
+102,WINDSOR--TECUMSEH,12,1,29,3,4,"Windsor",421, ,0,0,0,49,122,"Anchorage Apartments",20071010
+102,WINDSOR--TECUMSEH,398,30,784,115,313,"Windsor",Advanced Polls /  ADV001, ,7,6,1,1654,0,"Returning Office / Bureau du directeur du scrutin",20071010
+102,WINDSOR--TECUMSEH,213,4,402,51,169,"Windsor",Advanced Polls /  ADV002, ,5,1,0,845,0,"Lions Manor",20071010
+102,WINDSOR--TECUMSEH,23,2,65,9,22,"Windsor",Advanced Polls /  ADV003, ,2,0,0,123,0,"Ciociaro Club",20071010
+102,WINDSOR--TECUMSEH,108,11,366,28,134,"Tecumseh",Advanced Polls /  ADV004, ,1,2,0,650,0,"St. Clair Beach Community Centre",20071010
+TOTALS:, ,8836,735,17894,2696,6106, , , , , , , , , , 

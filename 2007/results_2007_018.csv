@@ -1,0 +1,227 @@
+ED_CODE,ED_NAME,HALL,JONES,MCDOUGALL,STRANG,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+018,DUFFERIN--CALEDON,29,41,11,33,"Honeywood",001, ,1,0,0,115,213,"North Dufferin Community Centre",20071010
+018,DUFFERIN--CALEDON,52,61,17,32,"Mansfield",002, ,2,0,1,165,217,"Mansfield Ski Club",20071010
+018,DUFFERIN--CALEDON,37,61,14,14,"Shelburne",003, ,2,2,0,130,255,"Melancthon Township Municipal Office",20071010
+018,DUFFERIN--CALEDON,45,70,33,25,"Hornings Mills",004, ,0,0,0,173,317,"Hornings Mills Community Hall",20071010
+018,DUFFERIN--CALEDON,35,55,14,27,"Honeywood",005, ,0,0,0,131,234,"North Dufferin Community Centre",20071010
+018,DUFFERIN--CALEDON,58,86,24,42,"Mansfield",006, ,2,0,0,212,369,"Mansfield Ski Club",20071010
+018,DUFFERIN--CALEDON,77,81,24,35,"Mansfield",007, ,0,0,0,217,426,"Mansfield Ski Club",20071010
+018,DUFFERIN--CALEDON,56,62,14,21,"Hornings Mills",008, ,1,0,2,156,228,"Hornings Mills Community Hall",20071010
+018,DUFFERIN--CALEDON,39,55,36,31,"Primrose",009, ,0,0,0,161,290,"Primrose Public School",20071010
+018,DUFFERIN--CALEDON,22,61,28,22,"Shelburne",010, ,1,0,0,134,303,"Melancthon Township Municipal Office",20071010
+018,DUFFERIN--CALEDON,27,54,14,24,"Shelburne",011, ,0,0,0,119,295,"Hyland Heights Elementary School",20071010
+018,DUFFERIN--CALEDON,37,84,18,31,"Primrose",012, ,0,2,0,172,288,"Primrose Public School",20071010
+018,DUFFERIN--CALEDON,25,37,11,13,"Shelburne",013, ,0,0,1,87,216,"Melancthon Township Municipal Office",20071010
+018,DUFFERIN--CALEDON,57,87,24,41,"Shelburne",014, ,0,0,0,209,511,"Centre Dufferin District High School",20071010
+018,DUFFERIN--CALEDON,38,42,25,31,"Shelburne",015, ,0,1,0,137,316,"Centre Dufferin District High School",20071010
+018,DUFFERIN--CALEDON,22,35,17,24,"Shelburne",016, ,0,0,0,98,270,"Centre Dufferin District High School",20071010
+018,DUFFERIN--CALEDON,11,18,6,1,"Shelburne",017s, ,0,0,0,36,102,"Shelburne Residence",20071010
+018,DUFFERIN--CALEDON,39,50,10,18,"Shelburne",018, ,2,0,0,119,354,"Hyland Heights Elementary School",20071010
+018,DUFFERIN--CALEDON,41,42,17,17,"Shelburne",019, ,0,1,0,118,294,"Hyland Heights Elementary School",20071010
+018,DUFFERIN--CALEDON,12,16,6,11,"Shelburne",020, ,0,0,0,45,250,"Mel Lloyd Centre",20071010
+018,DUFFERIN--CALEDON,42,26,18,22,"Shelburne",021, ,0,0,0,108,269,"Mel Lloyd Centre",20071010
+018,DUFFERIN--CALEDON,16,17,7,1,"Shelburne",022s, ,0,1,0,42,158,"Dufferin Oaks Home for Senior Citizens",20071010
+018,DUFFERIN--CALEDON,60,71,22,19,"Shelburne",023, ,0,0,1,173,388,"Hyland Heights Elementary School",20071010
+018,DUFFERIN--CALEDON,22,41,26,12,"Shelburne",024, ,0,0,0,101,311,"Mel Lloyd Centre",20071010
+018,DUFFERIN--CALEDON,31,53,25,9,"Shelburne",025, ,0,1,0,119,326,"Headwaters Shelburne",20071010
+018,DUFFERIN--CALEDON,44,52,28,29,"Shelburne",026, ,1,0,0,154,383,"Mel Lloyd Centre",20071010
+018,DUFFERIN--CALEDON,42,81,17,37,"Primrose",027, ,0,0,0,177,328,"Primrose Public School",20071010
+018,DUFFERIN--CALEDON,44,33,10,38,"Mono",028, ,0,0,0,125,223,"Mono Community Centre",20071010
+018,DUFFERIN--CALEDON,64,92,15,45,"Shelburne",029, ,1,1,0,218,403,"Mel Lloyd Centre",20071010
+018,DUFFERIN--CALEDON,40,78,7,56,"Mono",030, ,0,0,0,181,353,"Mono Community Centre",20071010
+018,DUFFERIN--CALEDON,31,49,12,19,"Laurel",031, ,0,0,0,111,218,"Laurelwoods Elementary School",20071010
+018,DUFFERIN--CALEDON,80,101,27,59,"Mono",032, ,0,1,0,268,438,"Mono Community Centre",20071010
+018,DUFFERIN--CALEDON,31,63,18,18,"East Luther Grand Valley",033, ,0,1,1,132,285,"Monticello United Church",20071010
+018,DUFFERIN--CALEDON,41,74,12,57,"Mono",034, ,1,2,0,187,403,"Mono Community Centre",20071010
+018,DUFFERIN--CALEDON,65,92,15,40,"Mono Mills",035, ,0,0,0,212,311,"Victoria Parks Community Centre",20071010
+018,DUFFERIN--CALEDON,31,61,6,32,"Palgrave",036, ,1,1,1,133,323,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,37,77,15,32,"Laurel",037, ,1,0,0,162,331,"Laurelwoods Elementary School",20071010
+018,DUFFERIN--CALEDON,31,61,24,25,"Mono",038, ,0,0,0,141,207,"Orangeville Christian School",20071010
+018,DUFFERIN--CALEDON,58,106,25,42,"Mono",039, ,3,1,0,235,499,"Mono-Amaranth Public School",20071010
+018,DUFFERIN--CALEDON,60,126,27,59,"Caledon",040, ,1,0,3,276,450,"St. John's Anglican Church",20071010
+018,DUFFERIN--CALEDON,49,60,6,41,"Palgrave",041A, ,1,0,0,157,285,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,51,57,9,41,"Palgrave",041B, ,0,1,0,159,278,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,36,61,12,22,"Palgrave",042A, ,0,0,0,131,252,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,31,51,6,34,"Palgrave",042B, ,0,0,0,122,259,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,49,92,7,32,"Palgrave",043, ,0,0,0,180,362,"Palgrave Public School",20071010
+018,DUFFERIN--CALEDON,85,122,12,28,"Palgrave",044, ,0,0,0,247,507,"Caledon Estates Banquet Hall",20071010
+018,DUFFERIN--CALEDON,28,59,13,14,"Mono",045, ,0,1,1,116,218,"Orangeville Christian School",20071010
+018,DUFFERIN--CALEDON,32,48,8,17,"Orangeville",046, ,0,0,0,105,182,"St. Benedict Elementary School",20071010
+018,DUFFERIN--CALEDON,56,90,26,30,"Orangeville",047, ,0,0,0,202,390,"St. Benedict Elementary School",20071010
+018,DUFFERIN--CALEDON,61,97,15,29,"Orangeville",048, ,0,1,0,203,366,"St. Benedict Elementary School",20071010
+018,DUFFERIN--CALEDON,52,78,22,32,"Mono",049, ,2,0,0,186,411,"Mono-Amaranth Public School",20071010
+018,DUFFERIN--CALEDON,76,121,18,32,"Mono",050, ,1,4,0,252,463,"Mono-Amaranth Public School",20071010
+018,DUFFERIN--CALEDON,54,68,15,24,"Orangeville",052, ,1,1,0,163,293,"Parker Towers",20071010
+018,DUFFERIN--CALEDON,62,77,22,48,"Mono",053, ,0,0,0,209,366,"Mono-Amaranth Public School",20071010
+018,DUFFERIN--CALEDON,31,49,18,37,"Orangeville",054, ,0,0,0,135,364,"Tony Rose Memorial Sports Centre",20071010
+018,DUFFERIN--CALEDON,35,61,13,20,"Orangeville",055, ,3,0,0,132,338,"Tony Rose Memorial Sports Centre",20071010
+018,DUFFERIN--CALEDON,34,55,16,23,"Orangeville",056, ,0,0,1,129,367,"Tony Rose Memorial Sports Centre",20071010
+018,DUFFERIN--CALEDON,60,59,14,40,"Orangeville",057, ,0,0,0,173,319,"Island Lake Public School",20071010
+018,DUFFERIN--CALEDON,55,53,18,38,"Orangeville",058, ,0,0,0,164,303,"Island Lake Public School",20071010
+018,DUFFERIN--CALEDON,47,75,16,32,"Caledon",059, ,0,0,0,170,372,"St. John's Anglican Church",20071010
+018,DUFFERIN--CALEDON,49,55,16,36,"Mono Mills",060A, ,0,0,0,156,305,"Victoria Parks Community Centre",20071010
+018,DUFFERIN--CALEDON,38,53,14,36,"Mono Mills",060B, ,1,1,0,143,265,"Victoria Parks Community Centre",20071010
+018,DUFFERIN--CALEDON,61,81,12,41,"Mono Mills",061, ,0,0,1,196,405,"Victoria Parks Community Centre",20071010
+018,DUFFERIN--CALEDON,52,101,13,41,"Palgrave",062, ,0,0,1,208,452,"Palgrave Public School",20071010
+018,DUFFERIN--CALEDON,63,79,6,29,"Palgrave",063, ,1,1,0,179,412,"Palgrave Public School",20071010
+018,DUFFERIN--CALEDON,72,113,7,28,"Palgrave",064, ,0,0,0,220,431,"Palgrave Public School",20071010
+018,DUFFERIN--CALEDON,72,70,12,30,"Bolton",065, ,0,0,0,184,361,"Caledon Centre for Recreation & Wellness",20071010
+018,DUFFERIN--CALEDON,35,97,21,21,"Grand Valley",066, ,0,0,0,174,269,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,36,71,18,31,"Grand Valley",067, ,0,0,0,156,322,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,54,118,26,40,"Laurel",068, ,0,0,0,238,392,"Laurelwoods Elementary School",20071010
+018,DUFFERIN--CALEDON,37,67,19,28,"Orangeville",069, ,1,1,0,153,334,"Broadway Tabernacle Church",20071010
+018,DUFFERIN--CALEDON,50,91,20,22,"Orangeville",070, ,0,1,0,184,397,"Montgomery Village Public School",20071010
+018,DUFFERIN--CALEDON,35,67,16,29,"Orangeville",071, ,0,0,0,147,315,"Montgomery Village Public School",20071010
+018,DUFFERIN--CALEDON,47,62,16,26,"Orangeville",072, ,0,0,0,151,359,"Broadway Tabernacle Church",20071010
+018,DUFFERIN--CALEDON,58,90,24,25,"Orangeville",073, ,1,0,0,198,371,"Montgomery Village Public School",20071010
+018,DUFFERIN--CALEDON,65,95,27,31,"Orangeville",074, ,0,1,0,219,468,"Westside Secondary School",20071010
+018,DUFFERIN--CALEDON,47,68,29,32,"Orangeville",075, ,1,0,0,177,401,"Credit Meadows Elementary School",20071010
+018,DUFFERIN--CALEDON,36,59,26,23,"Orangeville",076, ,1,0,0,145,348,"Montgomery Village Public School",20071010
+018,DUFFERIN--CALEDON,37,81,30,27,"Orangeville",077, ,0,0,0,175,401,"Broadway Tabernacle Church",20071010
+018,DUFFERIN--CALEDON,38,68,23,20,"Orangeville",078, ,0,0,0,149,311,"Westside Secondary School",20071010
+018,DUFFERIN--CALEDON,61,102,25,45,"Orangeville",079, ,1,0,0,234,438,"St. Andrew Elementary School",20071010
+018,DUFFERIN--CALEDON,30,26,15,9,"Orangeville",080s, ,2,3,0,85,211,"Avalon Retirement Centre",20071010
+018,DUFFERIN--CALEDON,59,96,17,43,"Orangeville",081, ,1,0,0,216,454,"St. Andrew Elementary School",20071010
+018,DUFFERIN--CALEDON,29,61,20,27,"Orangeville",082, ,1,0,0,138,356,"Westside Secondary School",20071010
+018,DUFFERIN--CALEDON,69,93,15,34,"Orangeville",083, ,0,0,1,212,429,"Credit Meadows Elementary School",20071010
+018,DUFFERIN--CALEDON,60,83,29,47,"Orangeville",084, ,1,1,0,221,465,"Credit Meadows Elementary School",20071010
+018,DUFFERIN--CALEDON,39,65,14,28,"Orangeville",085, ,0,0,0,146,330,"St. Andrew Elementary School",20071010
+018,DUFFERIN--CALEDON,40,68,26,22,"Orangeville",086, ,0,0,0,156,397,"New Hope Community Church",20071010
+018,DUFFERIN--CALEDON,54,94,31,29,"Orangeville",087, ,1,1,0,210,421,"Parkinson Centennial Public School",20071010
+018,DUFFERIN--CALEDON,46,62,30,47,"Orangeville",088, ,0,1,0,186,360,"Princess Elizabeth Public School",20071010
+018,DUFFERIN--CALEDON,29,66,21,29,"Orangeville",089, ,0,0,0,145,361,"Parkinson Centennial Public School",20071010
+018,DUFFERIN--CALEDON,39,61,22,47,"Orangeville",090, ,0,0,0,169,341,"Princess Elizabeth Public School",20071010
+018,DUFFERIN--CALEDON,33,43,26,19,"Orangeville",091, ,0,0,0,121,336,"New Hope Community Church",20071010
+018,DUFFERIN--CALEDON,55,53,35,27,"Orangeville",092, ,0,1,0,171,415,"New Hope Community Church",20071010
+018,DUFFERIN--CALEDON,18,44,14,22,"Orangeville",093, ,2,0,1,101,244,"Orangeville & District Seniors Centre",20071010
+018,DUFFERIN--CALEDON,48,61,25,23,"Orangeville",094, ,0,0,0,157,353,"Parkinson Centennial Public School",20071010
+018,DUFFERIN--CALEDON,54,67,30,36,"Orangeville",096, ,5,0,0,192,431,"Orangeville & District Seniors Centre",20071010
+018,DUFFERIN--CALEDON,35,51,13,30,"Orangeville",097, ,0,0,0,129,267,"Princess Elizabeth Public School",20071010
+018,DUFFERIN--CALEDON,8,12,15,10,"Orangeville",098s, ,0,2,0,47,51,"Lord Dufferin Centre",20071010
+018,DUFFERIN--CALEDON,49,39,23,22,"Orangeville",099, ,0,0,0,133,245,"Horizon Court for Seniors",20071010
+018,DUFFERIN--CALEDON,13,16,6,15,"Orangeville",100, ,3,0,0,53,146,"Orangeville & District Seniors Centre",20071010
+018,DUFFERIN--CALEDON,42,60,9,24,"Orangeville",101, ,0,2,3,140,359,"St. Peter Elementary School",20071010
+018,DUFFERIN--CALEDON,24,28,16,26,"Orangeville",102, ,0,0,0,94,237,"Tony Rose Memorial Sports Centre",20071010
+018,DUFFERIN--CALEDON,27,56,9,31,"Orangeville",103, ,0,0,0,123,273,"Princess Margaret Public School",20071010
+018,DUFFERIN--CALEDON,25,54,17,18,"Orangeville",104, ,0,0,0,114,308,"St. Peter Elementary School",20071010
+018,DUFFERIN--CALEDON,29,33,29,22,"Orangeville",105, ,1,0,0,114,252,"Princess Margaret Public School",20071010
+018,DUFFERIN--CALEDON,27,50,24,19,"Orangeville",106, ,0,0,1,121,297,"St. Peter Elementary School",20071010
+018,DUFFERIN--CALEDON,29,32,18,57,"Orangeville",107, ,0,0,0,136,315,"Princess Margaret Public School",20071010
+018,DUFFERIN--CALEDON,37,37,14,33,"Orangeville",108, ,0,0,0,121,308,"Princess Margaret Public School",20071010
+018,DUFFERIN--CALEDON,23,28,14,18,"Orangeville",109, ,1,0,0,84,241,"Island Lake Public School",20071010
+018,DUFFERIN--CALEDON,48,68,24,36,"Orangeville",110, ,0,0,0,176,414,"Princess Margaret Public School",20071010
+018,DUFFERIN--CALEDON,62,83,23,25,"Orangeville",111, ,0,0,0,193,348,"Island Lake Public School",20071010
+018,DUFFERIN--CALEDON,37,40,15,18,"Orangeville",112, ,0,0,0,110,363,"Faith Wesleyan Church",20071010
+018,DUFFERIN--CALEDON,30,43,23,25,"Orangeville",113, ,0,0,0,121,302,"Faith Wesleyan Church",20071010
+018,DUFFERIN--CALEDON,20,60,10,28,"Orangeville",114, ,0,0,0,118,217,"Faith Wesleyan Church",20071010
+018,DUFFERIN--CALEDON,37,44,22,19,"Orangeville",115, ,0,0,0,122,301,"Faith Wesleyan Church",20071010
+018,DUFFERIN--CALEDON,44,76,11,28,"Caledon Village",116, ,0,0,0,159,286,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,58,99,10,39,"Caledon East",117, ,0,0,0,206,401,"St. Cornelius Elementary School",20071010
+018,DUFFERIN--CALEDON,51,71,9,35,"Caledon",118, ,0,1,0,167,344,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,61,106,6,22,"Bolton",119, ,0,2,0,197,411,"Caledon Centre for Recreation & Wellness",20071010
+018,DUFFERIN--CALEDON,101,74,27,16,"Bolton",120, ,2,0,0,220,453,"Caledon Centre for Recreation & Wellness",20071010
+018,DUFFERIN--CALEDON,65,77,7,11,"Bolton",121A, ,2,0,0,162,303,"Caledon Centre for Recreation & Wellness",20071010
+018,DUFFERIN--CALEDON,54,57,12,22,"Bolton",121B, ,0,1,1,147,300,"Caledon Centre for Recreation & Wellness",20071010
+018,DUFFERIN--CALEDON,87,103,14,28,"Bolton",122, ,0,0,0,232,418,"James Bolton Public School",20071010
+018,DUFFERIN--CALEDON,97,83,15,26,"Bolton",123, ,0,0,4,225,445,"Pope John Paul II Elementary School",20071010
+018,DUFFERIN--CALEDON,76,73,19,25,"Bolton",124, ,0,1,0,194,446,"Pope John Paul II Elementary School",20071010
+018,DUFFERIN--CALEDON,74,75,11,11,"Bolton",125, ,1,1,0,173,398,"Pope John Paul II Elementary School",20071010
+018,DUFFERIN--CALEDON,91,107,12,27,"Bolton",126, ,0,0,0,237,472,"James Bolton Public School",20071010
+018,DUFFERIN--CALEDON,112,74,24,17,"Bolton",127, ,0,0,3,230,456,"The Humberview School",20071010
+018,DUFFERIN--CALEDON,62,41,15,16,"Bolton",128, ,1,0,0,135,329,"Pope John Paul II Elementary School",20071010
+018,DUFFERIN--CALEDON,110,81,23,44,"Bolton",129, ,1,0,0,259,463,"James Bolton Public School",20071010
+018,DUFFERIN--CALEDON,53,34,8,33,"Bolton",130, ,2,0,0,130,348,"James Bolton Public School",20071010
+018,DUFFERIN--CALEDON,68,38,7,14,"Bolton",131A, ,0,0,0,127,363,"The Humberview School",20071010
+018,DUFFERIN--CALEDON,59,38,13,16,"Bolton",131B, ,0,0,0,126,346,"The Humberview School",20071010
+018,DUFFERIN--CALEDON,74,96,13,34,"Bolton",132, ,0,0,0,217,494,"The Humberview School",20071010
+018,DUFFERIN--CALEDON,85,76,11,15,"Bolton",133, ,2,0,0,189,376,"Allan Drive Middle School",20071010
+018,DUFFERIN--CALEDON,32,72,11,27,"Grand Valley",134A, ,0,0,0,142,306,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,40,72,22,33,"Grand Valley",134B, ,0,0,0,167,291,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,32,45,12,22,"Grand Valley",135, ,0,1,0,112,229,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,43,96,17,38,"Grand Valley",136, ,1,0,0,195,406,"Grand Valley & District Public School",20071010
+018,DUFFERIN--CALEDON,69,122,41,20,"Orangeville",137, ,2,0,0,254,461,"Westside Secondary School",20071010
+018,DUFFERIN--CALEDON,32,57,14,23,"Orangeville",138, ,0,0,0,126,293,"Westside Secondary School",20071010
+018,DUFFERIN--CALEDON,33,109,29,55,"Alton",139, ,0,0,2,228,414,"Alton Public Library",20071010
+018,DUFFERIN--CALEDON,76,65,10,21,"Caledon Village",140, ,0,0,1,173,360,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,74,63,15,27,"Caledon Village",141, ,1,1,0,181,337,"Caledon Seniors Complex Maple Grove",20071010
+018,DUFFERIN--CALEDON,14,14,4,1,"Caledon Village",142s, ,2,0,0,35,46,"Oliver House",20071010
+018,DUFFERIN--CALEDON,48,90,7,54,"Caledon Village",143, ,1,0,0,200,432,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,53,74,28,39,"Caledon East",144, ,1,0,0,195,373,"Caledon East Public School",20071010
+018,DUFFERIN--CALEDON,39,83,10,35,"Caledon East",145A, ,0,1,0,168,254,"Caledon East Public School",20071010
+018,DUFFERIN--CALEDON,46,65,16,23,"Caledon East",145B, ,1,0,0,151,256,"Caledon East Public School",20071010
+018,DUFFERIN--CALEDON,72,101,27,28,"Caledon East",146, ,1,0,0,229,443,"St. Cornelius Elementary School",20071010
+018,DUFFERIN--CALEDON,63,98,19,15,"Caledon East",147, ,1,0,0,196,364,"St. Cornelius Elementary School",20071010
+018,DUFFERIN--CALEDON,68,83,15,24,"Caledon",148, ,1,0,0,191,426,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,74,60,14,11,"Bolton",149, ,0,0,0,159,358,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,69,44,19,17,"Bolton",150, ,0,1,0,150,352,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,64,40,10,17,"Bolton",151, ,0,0,0,131,317,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,88,53,22,18,"Bolton",152, ,1,0,0,182,377,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,47,66,12,11,"Bolton",153, ,0,0,0,136,337,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,73,70,10,11,"Bolton",154, ,1,0,0,165,363,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,61,71,16,12,"Bolton",155, ,0,0,0,160,321,"St. Nicholas Elementary School",20071010
+018,DUFFERIN--CALEDON,48,54,8,7,"Bolton",156, ,0,0,0,117,300,"Albion Bolton Community Centre",20071010
+018,DUFFERIN--CALEDON,46,38,8,30,"Bolton",157A, ,0,0,0,122,281,"Christ Anglican Church",20071010
+018,DUFFERIN--CALEDON,52,57,7,16,"Bolton",157B, ,0,0,0,132,277,"Christ Anglican Church",20071010
+018,DUFFERIN--CALEDON,48,53,15,22,"Bolton",158, ,0,0,0,138,356,"Christ Anglican Church",20071010
+018,DUFFERIN--CALEDON,59,49,15,14,"Bolton",159, ,0,0,0,137,312,"Albion Bolton Community Centre",20071010
+018,DUFFERIN--CALEDON,14,9,3,3,"Bolton",160s, ,0,0,1,30,75,"King Nursing Home Limited",20071010
+018,DUFFERIN--CALEDON,40,41,13,18,"Bolton",161, ,0,0,0,112,303,"Albion Bolton Community Centre",20071010
+018,DUFFERIN--CALEDON,45,56,14,31,"Bolton",162, ,0,0,1,147,305,"Christ Anglican Church",20071010
+018,DUFFERIN--CALEDON,46,51,16,35,"Bolton",163, ,0,0,0,148,326,"Albion Bolton Community Centre",20071010
+018,DUFFERIN--CALEDON,52,65,12,39,"Bolton",164, ,1,0,0,169,383,"Albion Bolton Community Centre",20071010
+018,DUFFERIN--CALEDON,64,75,23,14,"Bolton",165, ,0,0,0,176,349,"Holy Family Elementary School",20071010
+018,DUFFERIN--CALEDON,56,61,14,21,"Bolton",166, ,0,0,0,152,352,"Holy Family Elementary School",20071010
+018,DUFFERIN--CALEDON,6,5,3,0,"Bolton",167s, ,2,1,0,17,74,"Vera M. Davis Community Care Centre",20071010
+018,DUFFERIN--CALEDON,54,49,20,15,"Bolton",168, ,0,0,0,138,348,"Holy Family Elementary School",20071010
+018,DUFFERIN--CALEDON,88,66,19,14,"Bolton",169, ,0,1,0,188,407,"Holy Family Elementary School",20071010
+018,DUFFERIN--CALEDON,85,43,8,16,"Bolton",170, ,0,0,0,152,353,"Allan Drive Middle School",20071010
+018,DUFFERIN--CALEDON,75,58,9,11,"Bolton",171, ,2,0,0,155,308,"Allan Drive Middle School",20071010
+018,DUFFERIN--CALEDON,73,74,12,15,"Bolton",172, ,0,1,0,175,425,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,91,73,8,7,"Bolton",173, ,0,0,0,179,394,"Allan Drive Middle School",20071010
+018,DUFFERIN--CALEDON,64,68,13,12,"Bolton",174, ,1,0,0,158,402,"Allan Drive Middle School",20071010
+018,DUFFERIN--CALEDON,74,50,7,13,"Bolton",175, ,2,2,0,148,455,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,90,47,20,12,"Bolton",176, ,1,0,0,170,374,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,81,68,20,14,"Bolton",177, ,1,0,0,184,400,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,89,56,14,17,"Bolton",178, ,3,0,1,180,365,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,71,53,9,7,"Bolton",179, ,1,1,0,142,346,"St. John the Baptist Elementary School",20071010
+018,DUFFERIN--CALEDON,37,95,13,25,"Marsville",180, ,3,0,0,173,317,"East Garafraxa Public School",20071010
+018,DUFFERIN--CALEDON,40,121,34,32,"Marsville",181, ,1,2,1,231,481,"East Garafraxa Public School",20071010
+018,DUFFERIN--CALEDON,59,101,32,56,"Alton",182, ,0,1,0,249,543,"Alton Public Library",20071010
+018,DUFFERIN--CALEDON,36,95,27,32,"Alton",183, ,3,0,0,193,334,"Pinnacle View",20071010
+018,DUFFERIN--CALEDON,90,76,14,41,"Caledon Village",184, ,0,0,0,221,385,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,106,96,12,29,"Caledon Village",185, ,0,0,0,243,410,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,61,100,18,23,"Inglewood",186, ,1,3,0,206,452,"Inglewood Community Centre",20071010
+018,DUFFERIN--CALEDON,61,86,22,51,"Caledon East",187, ,0,0,1,221,468,"Caledon East Public School",20071010
+018,DUFFERIN--CALEDON,71,77,13,30,"Caledon",188, ,2,0,0,193,388,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,45,37,4,4,"Caledon",189A, ,0,0,0,90,255,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,54,32,10,5,"Caledon",189B, ,0,0,0,101,265,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,53,62,8,37,"Alton",190, ,0,3,0,163,280,"Alton Public Library",20071010
+018,DUFFERIN--CALEDON,39,61,7,41,"Belfountain",191, ,0,0,0,148,284,"Belfountain Public School",20071010
+018,DUFFERIN--CALEDON,33,80,8,23,"Caledon Village",192, ,0,0,0,144,311,"Caledon Central Public School",20071010
+018,DUFFERIN--CALEDON,78,88,9,25,"Inglewood",193, ,0,0,0,200,395,"Inglewood Community Centre",20071010
+018,DUFFERIN--CALEDON,66,107,16,25,"Caledon",194, ,1,0,1,216,455,"Herb Campbell Public School",20071010
+018,DUFFERIN--CALEDON,54,85,22,29,"Caledon",195, ,2,0,0,192,399,"Herb Campbell Public School",20071010
+018,DUFFERIN--CALEDON,83,44,21,14,"Caledon",196, ,3,0,0,165,384,"Macville Public School",20071010
+018,DUFFERIN--CALEDON,63,105,25,39,"Marsville",197, ,1,0,0,233,399,"East Garafraxa Public School",20071010
+018,DUFFERIN--CALEDON,57,92,18,47,"Belfountain",198, ,0,0,0,214,370,"Belfountain Public School",20071010
+018,DUFFERIN--CALEDON,69,100,15,50,"Inglewood",199, ,0,0,0,234,367,"Inglewood Community Centre",20071010
+018,DUFFERIN--CALEDON,73,103,25,39,"Caledon",200, ,5,0,0,245,488,"Herb Campbell Public School",20071010
+018,DUFFERIN--CALEDON,60,75,11,10,"Caledon",201, ,3,1,0,160,351,"Herb Campbell Public School",20071010
+018,DUFFERIN--CALEDON,32,37,9,15,"Belfountain",202, ,0,0,0,93,182,"Belfountain Public School",20071010
+018,DUFFERIN--CALEDON,57,98,14,69,"Cheltenham",203, ,1,0,1,240,459,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,65,81,9,31,"Cheltenham",204, ,0,1,0,187,436,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,60,55,15,25,"Caledon",205, ,2,2,0,159,382,"Brampton Christian School",20071010
+018,DUFFERIN--CALEDON,81,61,13,16,"Caledon",206, ,0,0,0,171,429,"Brampton Christian School",20071010
+018,DUFFERIN--CALEDON,66,80,12,13,"Caledon",207, ,0,0,2,173,423,"Brampton Christian School",20071010
+018,DUFFERIN--CALEDON,81,60,9,19,"Caledon",208, ,0,1,0,170,424,"Brampton Christian School",20071010
+018,DUFFERIN--CALEDON,94,88,23,17,"Caledon",209, ,0,0,0,222,506,"Brampton Christian School",20071010
+018,DUFFERIN--CALEDON,28,66,8,33,"Cheltenham",210A, ,0,0,0,135,260,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,28,81,9,39,"Cheltenham",210B, ,0,1,0,158,259,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,58,113,12,25,"Cheltenham",211, ,0,0,0,208,423,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,59,94,4,10,"Cheltenham",212, ,0,0,0,167,387,"Credit View Public School",20071010
+018,DUFFERIN--CALEDON,35,38,19,10,"Orangeville",400, ,6,0,0,108,151,"The Bromont",20071010
+018,DUFFERIN--CALEDON,609,896,151,337,"Orangeville",Advanced Polls /  ADV001, ,7,0,0,2000,0,"Returning Office / Bureau du directeur du scrutin",20071010
+018,DUFFERIN--CALEDON,348,408,58,103,"Bolton",Advanced Polls /  ADV002, ,3,1,3,924,0,"Bolton Satellite Office / Bureau satellite",20071010
+018,DUFFERIN--CALEDON,118,147,20,41,"Caledon",Advanced Polls /  ADV003, ,1,2,0,329,0,"Margaret Dunn Library",20071010
+018,DUFFERIN--CALEDON,168,240,48,92,"Shelburne",Advanced Polls /  ADV004, ,1,0,0,549,0,"Royal Canadian Legion Branch 220",20071010
+TOTALS:, ,12638,16522,3893,6430, , , , , , , , , , 

@@ -1,0 +1,256 @@
+ED_CODE,ED_NAME,DINOVO,HEARNS,HUN,HUTCHEON,KIDD,WATSON,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+068,PARKDALE--HIGH PARK,65,8,4,11,0,26,"Toronto",001, ,0,0,0,114,283,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,85,15,3,19,1,48,"Toronto",002, ,1,1,0,173,372,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,75,17,3,12,0,34,"Toronto",003, ,2,0,0,143,311,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,93,19,3,30,1,41,"Toronto",004, ,0,0,0,187,311,"West Toronto Baptist Church",20071010
+068,PARKDALE--HIGH PARK,85,8,3,15,1,29,"Toronto",005, ,0,0,0,141,283,"Lucy McCormick Senior Public School",20071010
+068,PARKDALE--HIGH PARK,77,22,0,11,2,53,"Toronto",006, ,1,0,0,166,387,"Lucy McCormick Senior Public School",20071010
+068,PARKDALE--HIGH PARK,38,12,0,19,0,39,"Toronto",007, ,0,0,1,109,247,"Warren Park Junior Public School",20071010
+068,PARKDALE--HIGH PARK,96,22,4,47,1,74,"Toronto",008, ,0,0,0,244,374,"St. James Catholic School",20071010
+068,PARKDALE--HIGH PARK,82,14,0,36,2,47,"Toronto",009, ,0,0,1,182,329,"St. James Catholic School",20071010
+068,PARKDALE--HIGH PARK,74,11,2,20,0,30,"Toronto",010, ,0,0,0,137,268,"King George Junior Public School",20071010
+068,PARKDALE--HIGH PARK,63,14,0,28,3,50,"Toronto",011, ,1,0,0,159,290,"King George Junior Public School",20071010
+068,PARKDALE--HIGH PARK,82,16,0,32,7,55,"Toronto",012, ,0,1,0,193,371,"King George Junior Public School",20071010
+068,PARKDALE--HIGH PARK,7,1,2,6,1,17,"Toronto",013s, ,0,0,0,34,90,"Runnymede Healthcare Centre",20071010
+068,PARKDALE--HIGH PARK,55,13,0,12,0,32,"Toronto",014, ,0,0,0,112,260,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,98,23,1,21,2,54,"Toronto",015, ,0,0,2,201,441,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,114,21,0,23,0,56,"Toronto",016, ,0,0,0,214,367,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,98,32,1,29,2,50,"Toronto",017, ,2,0,0,214,379,"Annette Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,74,18,2,40,2,44,"Toronto",018, ,0,1,0,181,422,"West Toronto Baptist Church",20071010
+068,PARKDALE--HIGH PARK,87,19,2,16,0,36,"Toronto",019, ,1,0,0,161,386,"St. Cecilia's Catholic Church",20071010
+068,PARKDALE--HIGH PARK,71,21,2,34,0,49,"Toronto",020, ,1,4,0,182,382,"St. Cecilia's Catholic Church",20071010
+068,PARKDALE--HIGH PARK,70,21,2,15,0,38,"Toronto",021, ,7,0,0,153,308,"Lucy McCormick Senior Public School",20071010
+068,PARKDALE--HIGH PARK,64,21,2,18,0,51,"Toronto",022, ,0,1,0,157,309,"Lucy McCormick Senior Public School",20071010
+068,PARKDALE--HIGH PARK,66,17,1,19,1,47,"Toronto",023, ,2,0,0,153,318,"Warren Park Junior Public School",20071010
+068,PARKDALE--HIGH PARK,72,7,0,50,0,57,"Toronto",024, ,0,1,0,187,346,"Warren Park Junior Public School",20071010
+068,PARKDALE--HIGH PARK,82,22,0,40,0,42,"Toronto",025, ,0,0,0,186,321,"St. James Catholic School",20071010
+068,PARKDALE--HIGH PARK,78,24,0,40,1,52,"Toronto",026, ,2,0,0,197,349,"Humbercrest Public School",20071010
+068,PARKDALE--HIGH PARK,86,15,2,43,1,44,"Toronto",027, ,0,0,0,191,335,"King George Junior Public School",20071010
+068,PARKDALE--HIGH PARK,98,11,1,30,2,40,"Toronto",028, ,1,0,0,183,325,"James Culnan Catholic School",20071010
+068,PARKDALE--HIGH PARK,86,12,0,27,1,59,"Toronto",029, ,2,0,0,187,358,"King George Junior Public School",20071010
+068,PARKDALE--HIGH PARK,69,14,1,27,2,57,"Toronto",030, ,1,0,0,171,370,"St. Cecilia Catholic School",20071010
+068,PARKDALE--HIGH PARK,98,18,0,23,0,54,"Toronto",031, ,2,0,0,195,380,"St. Cecilia Catholic School",20071010
+068,PARKDALE--HIGH PARK,87,19,0,42,0,77,"Toronto",032, ,0,1,0,226,421,"St. Cecilia Catholic School",20071010
+068,PARKDALE--HIGH PARK,112,21,1,50,1,63,"Toronto",033, ,1,0,0,249,414,"St. Cecilia Catholic School",20071010
+068,PARKDALE--HIGH PARK,80,22,1,26,1,51,"Toronto",034, ,1,0,0,182,363,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,88,28,1,19,2,33,"Toronto",035, ,0,0,2,173,348,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,101,26,0,30,5,61,"Toronto",036, ,0,0,0,223,375,"St. Cecilia's Catholic Church",20071010
+068,PARKDALE--HIGH PARK,72,22,1,24,2,54,"Toronto",037, ,0,2,0,177,347,"Indian Road Crescent Junior Public School",20071010
+068,PARKDALE--HIGH PARK,69,26,3,22,1,56,"Toronto",038, ,0,0,0,177,396,"Indian Road Crescent Junior Public School",20071010
+068,PARKDALE--HIGH PARK,115,34,5,19,3,83,"Toronto",039, ,0,1,0,260,410,"Indian Road Crescent Junior Public School",20071010
+068,PARKDALE--HIGH PARK,109,27,3,45,1,71,"Toronto",040, ,0,0,0,256,441,"Indian Road Crescent Junior Public School",20071010
+068,PARKDALE--HIGH PARK,83,26,2,13,0,27,"Toronto",041, ,1,0,0,152,311,"Lucy McCormick Senior Public School",20071010
+068,PARKDALE--HIGH PARK,125,24,3,26,1,57,"Toronto",042, ,0,0,4,240,441,"Keele Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,86,25,2,42,2,62,"Toronto",043, ,1,0,0,220,351,"Warren Park Junior Public School",20071010
+068,PARKDALE--HIGH PARK,88,19,2,55,1,84,"Toronto",044, ,1,0,0,250,395,"Humbercrest Public School",20071010
+068,PARKDALE--HIGH PARK,58,14,0,29,0,45,"Toronto",045, ,1,1,0,148,268,"Runnymede Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,74,22,0,39,1,55,"Toronto",046, ,1,0,0,192,352,"Runnymede Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,75,18,2,36,1,55,"Toronto",047, ,2,0,0,189,325,"James Culnan Catholic School",20071010
+068,PARKDALE--HIGH PARK,72,23,2,19,0,56,"Toronto",048, ,0,0,0,172,310,"Runnymede United Church",20071010
+068,PARKDALE--HIGH PARK,127,33,1,53,1,65,"Toronto",049, ,1,1,0,282,488,"Runnymede Junior and Senior Public School",20071010
+068,PARKDALE--HIGH PARK,80,25,2,62,1,75,"Toronto",050, ,0,0,0,245,435,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,100,30,0,16,1,52,"Toronto",051, ,0,1,0,200,369,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,90,24,4,36,0,57,"Toronto",052, ,0,0,0,211,447,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,68,25,1,18,1,70,"Toronto",053, ,1,0,0,184,342,"Keele Street Public School",20071010
+068,PARKDALE--HIGH PARK,113,27,1,27,0,57,"Toronto",054, ,1,0,0,226,454,"Keele Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,63,19,1,28,0,52,"Toronto",055, ,0,0,0,163,379,"Keele Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,7,3,2,6,1,11,"Toronto",056, ,0,1,0,31,126,"St. Joan of Arc Parish",20071010
+068,PARKDALE--HIGH PARK,52,33,2,89,0,84,"Toronto",057, ,2,0,0,262,450,"Humbercrest Public School",20071010
+068,PARKDALE--HIGH PARK,74,25,0,65,4,75,"Toronto",058, ,0,0,0,243,370,"Humbercrest Public School",20071010
+068,PARKDALE--HIGH PARK,80,20,2,53,1,61,"Toronto",059, ,1,0,0,218,336,"Humbercrest Public School",20071010
+068,PARKDALE--HIGH PARK,63,16,2,46,0,52,"Toronto",060, ,0,0,0,179,324,"Humbercrest United Church",20071010
+068,PARKDALE--HIGH PARK,96,18,2,39,0,88,"Toronto",061, ,1,0,1,245,395,"Humbercrest United Church",20071010
+068,PARKDALE--HIGH PARK,100,20,0,34,0,63,"Toronto",062, ,1,1,0,219,332,"Runnymede United Church",20071010
+068,PARKDALE--HIGH PARK,84,28,3,43,1,51,"Toronto",063, ,0,0,0,210,436,"Humberside Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,64,23,2,17,0,57,"Toronto",064, ,0,0,0,163,333,"Runnymede Public Library",20071010
+068,PARKDALE--HIGH PARK,63,25,0,24,0,32,"Toronto",065, ,1,1,0,146,345,"Keele Street Public School",20071010
+068,PARKDALE--HIGH PARK,18,5,1,17,1,52,"Toronto",067s, ,0,0,0,94,180,"Loyola Arrupe Centre for Seniors",20071010
+068,PARKDALE--HIGH PARK,10,1,3,27,0,49,"Toronto",068s, ,0,1,0,91,146,"Vilnius Manor Lithuanian Apartment",20071010
+068,PARKDALE--HIGH PARK,119,32,1,31,7,83,"Toronto",069, ,0,0,0,273,507,"St. Joan of Arc Parish",20071010
+068,PARKDALE--HIGH PARK,75,16,1,15,2,36,"Toronto",070, ,0,0,0,145,303,"St. Joan of Arc Parish",20071010
+068,PARKDALE--HIGH PARK,53,12,1,10,1,30,"Toronto",071, ,0,0,0,107,234,"Bishop Marrocco/Thomas Merton Catholic School",20071010
+068,PARKDALE--HIGH PARK,98,26,0,26,1,47,"Toronto",072, ,3,1,0,202,388,"Bishop Marrocco/Thomas Merton Catholic School",20071010
+068,PARKDALE--HIGH PARK,95,19,2,57,0,76,"Toronto",073, ,0,1,0,250,415,"St. Pius X Catholic School",20071010
+068,PARKDALE--HIGH PARK,79,16,1,37,1,66,"Toronto",074, ,0,0,0,200,374,"Runnymede Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,94,14,2,49,0,53,"Toronto",075, ,1,0,0,213,380,"Runnymede Junior and Senior Public School",20071010
+068,PARKDALE--HIGH PARK,107,20,1,28,0,61,"Toronto",076, ,1,0,0,218,386,"Runnymede Junior and Senior Public School",20071010
+068,PARKDALE--HIGH PARK,62,15,0,26,0,48,"Toronto",077, ,0,2,0,153,297,"Runnymede Junior and Senior Public School",20071010
+068,PARKDALE--HIGH PARK,65,16,3,36,0,48,"Toronto",078, ,0,0,0,168,387,"Runnymede Junior and Senior Public School",20071010
+068,PARKDALE--HIGH PARK,34,9,1,11,0,18,"Toronto",080, ,1,3,0,77,182,"Runnymede Public Library",20071010
+068,PARKDALE--HIGH PARK,91,23,5,35,0,73,"Toronto",081, ,1,1,0,229,431,"High Park Baptist Church",20071010
+068,PARKDALE--HIGH PARK,59,12,0,9,0,28,"Toronto",082, ,0,0,1,109,223,"Bishop Marrocco/Thomas Merton Catholic School",20071010
+068,PARKDALE--HIGH PARK,85,25,3,13,4,34,"Toronto",083, ,0,0,0,164,268,"High Park Baptist Church",20071010
+068,PARKDALE--HIGH PARK,86,20,0,19,1,28,"Toronto",084, ,0,0,1,155,289,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,58,12,2,13,4,33,"Toronto",085, ,1,0,0,123,269,"High Park Baptist Church",20071010
+068,PARKDALE--HIGH PARK,83,16,1,19,2,51,"Toronto",086, ,0,0,1,173,344,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,115,23,1,6,0,35,"Toronto",087, ,0,0,0,180,339,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,30,13,1,35,0,35,"Toronto",088, ,0,0,0,114,267,"St. Pius X Catholic School",20071010
+068,PARKDALE--HIGH PARK,65,20,0,82,3,80,"Toronto",089, ,1,0,0,251,407,"St. Pius X Catholic School",20071010
+068,PARKDALE--HIGH PARK,96,19,1,33,0,57,"Toronto",090, ,0,0,0,206,396,"St. Pius X Catholic School",20071010
+068,PARKDALE--HIGH PARK,44,19,1,41,0,40,"Toronto",091, ,0,0,0,145,250,"St. Pius X Catholic School",20071010
+068,PARKDALE--HIGH PARK,57,12,2,32,1,52,"Toronto",092, ,3,0,0,159,319,"Swansea Town Hall Community Centre",20071010
+068,PARKDALE--HIGH PARK,55,26,1,15,0,38,"Toronto",093, ,0,0,0,135,277,"Morningside High Park Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,81,12,0,26,0,49,"Toronto",094, ,0,0,0,168,333,"High Park Baptist Church",20071010
+068,PARKDALE--HIGH PARK,88,22,0,25,4,43,"Toronto",095, ,0,0,0,182,330,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,90,18,1,27,3,36,"Toronto",096, ,0,1,0,176,305,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,94,16,0,20,1,50,"Toronto",097, ,0,0,0,181,343,"Howard Junior Public School",20071010
+068,PARKDALE--HIGH PARK,102,25,1,15,0,38,"Toronto",098, ,4,0,0,185,323,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,92,22,0,16,1,42,"Toronto",099, ,1,1,0,175,317,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,153,29,1,25,2,71,"Toronto",100, ,0,1,0,282,536,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,66,17,1,60,0,51,"Toronto",101, ,0,0,0,195,338,"Farmer Memorial Baptist Church",20071010
+068,PARKDALE--HIGH PARK,48,12,2,34,1,36,"Toronto",102, ,0,0,0,133,223,"Farmer Memorial Baptist Church",20071010
+068,PARKDALE--HIGH PARK,70,30,0,56,3,70,"Toronto",103, ,1,0,0,230,410,"Swansea Town Hall Community Centre",20071010
+068,PARKDALE--HIGH PARK,73,18,1,60,0,74,"Toronto",104, ,2,0,0,228,384,"Swansea Town Hall Community Centre",20071010
+068,PARKDALE--HIGH PARK,64,11,1,35,0,50,"Toronto",105, ,0,0,0,161,233,"Swansea Town Hall Community Centre",20071010
+068,PARKDALE--HIGH PARK,69,22,1,50,1,48,"Toronto",106, ,2,0,0,193,323,"Swansea Town Hall Community Centre",20071010
+068,PARKDALE--HIGH PARK,92,23,3,37,7,71,"Toronto",107, ,0,0,1,234,328,"Morningside High Park Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,73,14,0,12,0,37,"Toronto",108, ,0,0,0,136,237,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,52,10,3,10,3,30,"Toronto",109, ,0,0,1,109,223,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,73,17,1,25,0,33,"Toronto",110, ,0,0,0,149,283,"Emmanuel-Howard Park United Church",20071010
+068,PARKDALE--HIGH PARK,87,23,0,20,1,56,"Toronto",111, ,0,0,0,187,340,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,84,22,3,17,4,32,"Toronto",112, ,1,0,0,163,322,"Emmanuel-Howard Park United Church",20071010
+068,PARKDALE--HIGH PARK,134,37,2,18,5,41,"Toronto",113, ,0,0,0,237,418,"St. Vincent de Paul Catholic School",20071010
+068,PARKDALE--HIGH PARK,101,29,1,15,3,48,"Toronto",114, ,0,2,0,199,332,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,129,30,0,21,0,42,"Toronto",115, ,2,1,0,225,417,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,102,10,1,16,1,42,"Toronto",116, ,2,2,0,176,387,"Parkdale Community Centre",20071010
+068,PARKDALE--HIGH PARK,107,15,2,8,1,34,"Toronto",117, ,0,0,1,168,362,"Parkdale Community Centre",20071010
+068,PARKDALE--HIGH PARK,35,27,4,58,2,50,"Toronto",118, ,1,0,0,177,310,"Farmer Memorial Baptist Church",20071010
+068,PARKDALE--HIGH PARK,66,20,1,60,1,74,"Toronto",119, ,1,0,0,223,379,"Farmer Memorial Baptist Church",20071010
+068,PARKDALE--HIGH PARK,78,34,2,53,0,69,"Toronto",120, ,0,0,0,236,407,"Swansea Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,57,15,1,37,0,38,"Toronto",121, ,0,0,0,148,270,"Swansea Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,54,21,0,34,2,47,"Toronto",122, ,0,0,0,158,333,"Morningside High Park Presbyterian Church",20071010
+068,PARKDALE--HIGH PARK,69,26,0,16,0,26,"Toronto",123, ,1,0,1,139,244,"High Park Tennis & Curling Club",20071010
+068,PARKDALE--HIGH PARK,64,13,1,12,0,31,"Toronto",124, ,0,0,0,121,237,"Emmanuel-Howard Park United Church",20071010
+068,PARKDALE--HIGH PARK,91,14,0,15,0,31,"Toronto",125, ,0,0,0,151,297,"Emmanuel-Howard Park United Church",20071010
+068,PARKDALE--HIGH PARK,96,30,2,24,2,43,"Toronto",126, ,1,0,0,198,330,"High Park Library",20071010
+068,PARKDALE--HIGH PARK,115,13,0,23,1,44,"Toronto",127, ,1,0,1,198,366,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,96,26,1,18,0,55,"Toronto",128, ,0,0,0,196,321,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,119,19,1,17,3,42,"Toronto",129, ,1,0,0,202,369,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,145,27,3,14,2,43,"Toronto",130, ,0,0,0,234,400,"Fern Avenue Public School",20071010
+068,PARKDALE--HIGH PARK,80,20,1,12,0,36,"Toronto",131, ,0,0,0,149,263,"Parkdale Public School",20071010
+068,PARKDALE--HIGH PARK,102,27,1,7,1,45,"Toronto",132, ,1,0,0,184,363,"Parkdale Public School",20071010
+068,PARKDALE--HIGH PARK,70,13,0,11,1,29,"Toronto",133, ,1,0,0,125,342,"Parkdale Public School",20071010
+068,PARKDALE--HIGH PARK,66,9,1,4,1,17,"Toronto",134, ,0,0,0,98,226,"Masaryk-Cowan Community Centre",20071010
+068,PARKDALE--HIGH PARK,99,22,1,7,0,33,"Toronto",135, ,1,0,0,163,347,"Parkdale Public School",20071010
+068,PARKDALE--HIGH PARK,99,21,0,11,0,29,"Toronto",136, ,1,0,0,161,408,"Parkdale Public School",20071010
+068,PARKDALE--HIGH PARK,123,20,3,18,1,44,"Toronto",137, ,0,1,1,211,418,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,27,18,0,56,0,53,"Toronto",138, ,0,0,0,154,356,"Swansea Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,34,4,1,50,0,40,"Toronto",139, ,0,0,0,129,274,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,41,13,0,28,0,30,"Toronto",140, ,0,0,0,112,196,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,37,8,0,13,0,28,"Toronto",141, ,0,0,0,86,214,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,56,14,0,25,3,31,"Toronto",142, ,1,0,0,130,257,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,12,1,0,4,1,16,"Toronto",144s, ,0,1,0,35,176,"Copernicus Lodge",20071010
+068,PARKDALE--HIGH PARK,115,18,1,18,0,38,"Toronto",145, ,1,0,0,191,374,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,85,24,0,12,2,25,"Toronto",146, ,1,0,0,149,314,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,92,18,0,12,1,17,"Toronto",147, ,1,0,0,141,325,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,61,7,2,5,0,23,"Toronto",148, ,0,0,2,100,284,"Parkdale Activity Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,58,11,0,4,1,20,"Toronto",149, ,0,0,0,94,223,"Parkdale Activity Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,39,4,1,7,0,24,"Toronto",150, ,4,1,0,80,187,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,25,0,2,5,1,37,"Toronto",151, ,0,0,0,70,150,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,75,4,2,4,3,36,"Toronto",152, ,0,0,0,124,309,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,85,15,0,14,10,41,"Toronto",153, ,1,0,0,166,367,"Masaryk-Cowan Community Centre",20071010
+068,PARKDALE--HIGH PARK,60,6,0,6,0,23,"Toronto",154, ,1,0,0,96,271,"Masaryk-Cowan Community Centre",20071010
+068,PARKDALE--HIGH PARK,11,2,1,7,1,15,"Toronto",155s, ,4,1,0,42,135,"Elm Grove Living Centre Incorporated",20071010
+068,PARKDALE--HIGH PARK,63,16,2,11,1,41,"Toronto",156, ,2,0,0,136,315,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,36,0,2,1,2,44,"Toronto",157, ,0,1,0,86,190,"Swansea Mews",20071010
+068,PARKDALE--HIGH PARK,61,29,3,29,3,66,"Toronto",158, ,0,0,0,191,400,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,81,14,0,15,0,32,"Toronto",159, ,0,0,0,142,276,"High Park Library",20071010
+068,PARKDALE--HIGH PARK,101,15,0,3,1,11,"Toronto",160, ,0,1,0,132,287,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,65,12,0,17,0,16,"Toronto",161, ,0,0,0,110,302,"Garden Avenue Junior Public School",20071010
+068,PARKDALE--HIGH PARK,92,15,1,8,0,24,"Toronto",162, ,1,0,0,141,352,"Parkdale Activity Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,4,0,0,2,0,12,"Toronto",163s, ,0,0,0,18,40,"White Eagle Nursing Home",20071010
+068,PARKDALE--HIGH PARK,56,16,1,8,1,40,"Toronto",164, ,2,0,0,124,302,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,61,5,0,4,1,42,"Toronto",165, ,0,1,0,114,281,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,45,4,1,1,0,32,"Toronto",166, ,0,0,0,83,206,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,34,5,0,1,2,25,"Toronto",167, ,0,2,0,69,165,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,39,2,3,5,1,27,"Toronto",168, ,0,0,0,77,153,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,30,1,1,5,0,28,"Toronto",169, ,1,0,0,66,155,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,61,1,0,9,1,47,"Toronto",170, ,0,1,0,120,289,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,..........................NO POLL HELD........................,,,,,,"Toronto",171, ,0,0,0,0,0,"",20071010
+068,PARKDALE--HIGH PARK,..........................NO POLL HELD........................,,,,,,"Toronto",172, ,0,0,0,0,0,"",20071010
+068,PARKDALE--HIGH PARK,5,1,1,8,1,12,"Toronto",173s, ,0,0,0,28,125,"Lakeside Long-Term Care Centre",20071010
+068,PARKDALE--HIGH PARK,99,17,0,11,2,32,"Toronto",174, ,2,1,0,164,326,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,120,31,0,10,1,27,"Toronto",175, ,1,0,0,190,354,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,39,3,0,9,1,24,"Toronto",176, ,0,0,0,76,194,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,33,3,2,5,0,28,"Toronto",177, ,1,1,0,73,213,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,3,1,0,0,2,13,"Toronto",178s, ,0,0,0,19,74,"Norwood Nursing Home Limited",20071010
+068,PARKDALE--HIGH PARK,21,1,1,3,2,31,"Toronto",179, ,0,0,0,59,145,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,45,2,4,4,0,12,"Toronto",180, ,0,0,0,67,190,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,33,4,0,3,0,19,"Toronto",181, ,0,0,0,59,171,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,18,2,3,4,1,28,"Toronto",182, ,0,0,0,56,174,"Holy Family Catholic School",20071010
+068,PARKDALE--HIGH PARK,43,6,0,11,0,22,"Toronto",184, ,0,1,0,83,207,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,62,13,0,6,0,18,"Toronto",185, ,0,1,0,100,254,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,49,9,2,11,0,34,"Toronto",186, ,0,0,1,106,224,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,33,3,1,3,0,26,"Toronto",187, ,1,0,0,67,143,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,8,0,2,11,2,28,"Toronto",188s, ,0,0,0,51,168,"Toronto Rehabilitation Centre",20071010
+068,PARKDALE--HIGH PARK,64,13,2,6,3,18,"Toronto",189, ,0,0,0,106,269,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,77,5,0,7,2,14,"Toronto",190, ,0,0,0,105,203,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,37,2,0,1,0,51,"Toronto",400, ,1,1,0,93,253,"3725 Dundas Street West",20071010
+068,PARKDALE--HIGH PARK,25,3,0,4,1,34,"Toronto",401, ,1,1,0,69,160,"3735 Dundas Street West",20071010
+068,PARKDALE--HIGH PARK,26,2,1,5,1,38,"Toronto",402, ,3,1,1,78,175,"3725 Dundas Street West",20071010
+068,PARKDALE--HIGH PARK,43,11,3,21,1,50,"Toronto",403, ,1,1,0,131,231,"4049 Dundas Street West",20071010
+068,PARKDALE--HIGH PARK,37,11,0,12,0,45,"Toronto",404, ,0,0,0,105,139,"The Glenlake",20071010
+068,PARKDALE--HIGH PARK,117,8,2,22,4,84,"Toronto",405, ,0,0,0,237,431,"100 High Park Avenue",20071010
+068,PARKDALE--HIGH PARK,60,17,0,23,2,46,"Toronto",406, ,0,1,0,149,203,"95 High Park Avenue",20071010
+068,PARKDALE--HIGH PARK,57,15,3,24,0,52,"Toronto",407, ,0,1,0,152,297,"299 Glenlake Avenue",20071010
+068,PARKDALE--HIGH PARK,88,27,2,25,1,79,"Toronto",408, ,0,0,0,222,333,"255 Glenlake Avenue",20071010
+068,PARKDALE--HIGH PARK,70,12,0,26,0,58,"Toronto",409, ,0,0,0,166,254,"111 Pacific Avenue",20071010
+068,PARKDALE--HIGH PARK,59,8,1,21,1,27,"Toronto",410, ,0,0,0,117,172,"66 Oakmount Road",20071010
+068,PARKDALE--HIGH PARK,62,9,2,16,1,37,"Toronto",411, ,1,1,0,129,242,"55 Oakmount Road",20071010
+068,PARKDALE--HIGH PARK,57,17,1,13,2,53,"Toronto",412, ,1,2,0,146,259,"45 Oakmount Road",20071010
+068,PARKDALE--HIGH PARK,60,17,3,19,3,29,"Toronto",413, ,1,1,0,133,245,"60 Mountview Avenue",20071010
+068,PARKDALE--HIGH PARK,89,21,5,32,1,69,"Toronto",414, ,0,0,0,217,405,"Crossways - South Tower",20071010
+068,PARKDALE--HIGH PARK,77,33,3,28,4,75,"Toronto",415, ,0,1,0,221,418,"Crossways - North Tower",20071010
+068,PARKDALE--HIGH PARK,70,11,4,63,2,101,"Toronto",416, ,0,1,0,252,336,"100 Quebec Avenue",20071010
+068,PARKDALE--HIGH PARK,38,9,1,39,2,74,"Toronto",417, ,0,0,0,163,257,"50 Quebec Avenue",20071010
+068,PARKDALE--HIGH PARK,28,13,1,22,0,39,"Toronto",418, ,0,0,0,103,143,"80 Quebec Avenue",20071010
+068,PARKDALE--HIGH PARK,84,10,2,31,4,49,"Toronto",419, ,1,0,0,181,352,"77 Quebec Avenue",20071010
+068,PARKDALE--HIGH PARK,27,15,1,20,0,32,"Toronto",420, ,0,0,0,95,207,"Keele Community Recreation Centre",20071010
+068,PARKDALE--HIGH PARK,98,23,3,29,6,49,"Toronto",421, ,2,1,0,211,377,"40 High Park Avenue",20071010
+068,PARKDALE--HIGH PARK,72,34,2,24,3,69,"Toronto",422, ,0,0,0,204,317,"65 High Park Avenue",20071010
+068,PARKDALE--HIGH PARK,63,13,1,29,0,30,"Toronto",423, ,1,0,0,137,230,"35 High Park Avenue",20071010
+068,PARKDALE--HIGH PARK,54,9,2,24,1,43,"Toronto",424, ,0,0,2,135,254,"66 Pacific Avenue",20071010
+068,PARKDALE--HIGH PARK,66,12,1,29,1,38,"Toronto",425, ,1,0,0,148,243,"High Park Garden Apartments",20071010
+068,PARKDALE--HIGH PARK,33,7,2,31,3,45,"Toronto",426, ,4,1,2,128,244,"Grenadier Retirement Residence",20071010
+068,PARKDALE--HIGH PARK,..........................NO POLL HELD........................,,,,,,"Toronto",427, ,0,0,0,0,0,"",20071010
+068,PARKDALE--HIGH PARK,..........................NO POLL HELD........................,,,,,,"Toronto",428, ,0,0,0,0,0,"",20071010
+068,PARKDALE--HIGH PARK,59,3,0,7,1,62,"Toronto",429, ,0,0,0,132,285,"Parkdale Community Centre",20071010
+068,PARKDALE--HIGH PARK,49,4,3,8,0,82,"Toronto",430, ,1,1,0,148,354,"Parkdale Community Centre",20071010
+068,PARKDALE--HIGH PARK,78,6,6,13,2,118,"Toronto",431, ,5,6,0,234,372,"May Robinson Apartments",20071010
+068,PARKDALE--HIGH PARK,..........................NO POLL HELD........................,,,,,,"Toronto",432, ,0,0,0,0,0,"",20071010
+068,PARKDALE--HIGH PARK,54,13,3,42,1,45,"Toronto",433, ,0,0,0,158,237,"65 Southport Street",20071010
+068,PARKDALE--HIGH PARK,21,1,4,13,3,92,"Toronto",434, ,2,4,0,140,192,"Copernicus Lodge",20071010
+068,PARKDALE--HIGH PARK,78,16,3,11,2,78,"Toronto",435, ,0,0,0,188,325,"Parkside Place",20071010
+068,PARKDALE--HIGH PARK,21,1,0,2,0,15,"Toronto",436, ,1,0,0,40,106,"Parkdale Collegiate Institute",20071010
+068,PARKDALE--HIGH PARK,41,5,0,15,11,25,"Toronto",437, ,1,0,0,98,126,"Lugano View Apartments",20071010
+068,PARKDALE--HIGH PARK,76,6,4,12,4,112,"Toronto",438, ,2,0,0,216,400,"245 Dunn Avenue",20071010
+068,PARKDALE--HIGH PARK,31,0,2,15,1,24,"Toronto",439, ,0,4,0,77,141,"Cathedral Place",20071010
+068,PARKDALE--HIGH PARK,31,2,0,3,0,30,"Toronto",440, ,0,1,0,67,185,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,25,4,0,4,0,26,"Toronto",441, ,0,0,0,59,136,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,11,1,1,2,0,22,"Toronto",442, ,0,0,0,37,140,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,81,13,0,30,2,60,"Toronto",443, ,1,0,0,187,294,"35 Ormskirk Avenue",20071010
+068,PARKDALE--HIGH PARK,86,17,0,47,1,88,"Toronto",444, ,1,0,0,240,341,"The Southport",20071010
+068,PARKDALE--HIGH PARK,42,7,0,35,2,64,"Toronto",445, ,0,0,0,150,236,"22 Southport Street",20071010
+068,PARKDALE--HIGH PARK,33,10,2,20,0,34,"Toronto",446, ,0,0,0,99,153,"24 Southport Street",20071010
+068,PARKDALE--HIGH PARK,64,7,2,40,2,56,"Toronto",447, ,0,0,0,171,270,"45 Southport Street",20071010
+068,PARKDALE--HIGH PARK,37,13,0,32,1,30,"Toronto",448, ,0,1,0,114,181,"20 Southport Street",20071010
+068,PARKDALE--HIGH PARK,11,4,2,6,1,19,"Toronto",449, ,0,0,0,43,120,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,51,20,1,52,1,64,"Toronto",450, ,0,0,0,189,220,"15 Windermere Avenue",20071010
+068,PARKDALE--HIGH PARK,20,4,0,9,1,11,"Toronto",451, ,0,0,0,45,112,"Springhurst Manor",20071010
+068,PARKDALE--HIGH PARK,24,2,0,4,1,11,"Toronto",452, ,1,0,0,43,137,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,24,2,1,6,0,14,"Toronto",453, ,0,1,0,48,111,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,25,0,0,3,0,16,"Toronto",454, ,0,1,0,45,79,"Parkdale United Church",20071010
+068,PARKDALE--HIGH PARK,30,5,0,6,0,30,"Toronto",455, ,0,1,0,72,128,"Imperial Towers",20071010
+068,PARKDALE--HIGH PARK,21,0,0,2,0,11,"Toronto",456, ,0,0,0,34,105,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,57,7,3,7,2,29,"Toronto",457, ,0,1,0,106,266,"200 Dufferin Street",20071010
+068,PARKDALE--HIGH PARK,26,14,0,47,1,35,"Toronto",458, ,1,0,0,124,207,"Southampton",20071010
+068,PARKDALE--HIGH PARK,20,5,0,8,0,20,"Toronto",459, ,0,0,0,53,125,"Swansea Public School",20071010
+068,PARKDALE--HIGH PARK,31,3,0,1,0,40,"Toronto",460, ,0,1,0,76,166,"Springhurst Manor",20071010
+068,PARKDALE--HIGH PARK,20,1,0,1,0,19,"Toronto",461, ,0,0,0,41,122,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,78,5,3,9,0,35,"Toronto",462, ,0,0,0,130,250,"Queen Victoria Public School",20071010
+068,PARKDALE--HIGH PARK,31,8,0,10,0,19,"Toronto",463, ,0,1,1,70,139,"Edgewater Towers",20071010
+068,PARKDALE--HIGH PARK,422,76,3,128,7,254,"Toronto",Advanced Polls /  ADV001, ,0,2,0,892,0,"Returning Office / Bureau du directeur du scrutin",20071010
+068,PARKDALE--HIGH PARK,412,63,9,68,4,150,"Toronto",Advanced Polls /  ADV002, ,1,0,1,708,0,"High Park Library",20071010
+068,PARKDALE--HIGH PARK,354,39,1,53,3,168,"Toronto",Advanced Polls /  ADV003, ,3,0,1,622,0,"Parkdale Library",20071010
+068,PARKDALE--HIGH PARK,641,126,8,313,9,528,"Toronto",Advanced Polls /  ADV004, ,12,0,0,1637,0,"Runnymede Public Library",20071010
+TOTALS:, ,18194,3938,326,6024,312,11900, , , , , , , , , , 

@@ -1,0 +1,294 @@
+ED_CODE,ED_NAME,BODNER,GRENIER,KORMOS,MASTROIANNI,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+098,WELLAND,15,8,60,15,"St. Catharines",001, ,0,1,0,99,317,"Edith Cavell Public School",20071010
+098,WELLAND,15,5,58,8,"St. Catharines",002, ,1,0,0,87,233,"Edith Cavell Public School",20071010
+098,WELLAND,23,7,59,17,"St. Catharines",003, ,0,2,0,108,289,"Edith Cavell Public School",20071010
+098,WELLAND,33,12,72,25,"St. Catharines",004, ,0,1,0,143,288,"Edith Cavell Public School",20071010
+098,WELLAND,37,12,45,45,"St. Catharines",005, ,0,1,0,140,347,"West Park High School",20071010
+098,WELLAND,61,8,64,60,"St. Catharines",006, ,1,3,0,197,364,"Club Roma",20071010
+098,WELLAND,64,13,97,67,"St. Catharines",007, ,1,0,0,242,468,"West Park High School",20071010
+098,WELLAND,47,7,66,62,"St. Catharines",008, ,3,0,0,185,381,"West Park High School",20071010
+098,WELLAND,27,4,42,51,"St. Catharines",009, ,0,2,0,126,257,"Power Glen Elementary School",20071010
+098,WELLAND,25,6,86,29,"St. Catharines",010, ,2,0,0,148,274,"West Park High School",20071010
+098,WELLAND,44,14,56,32,"St. Catharines",011, ,0,0,0,146,316,"Power Glen Elementary School",20071010
+098,WELLAND,15,6,52,35,"St. Catharines",012, ,1,1,0,110,292,"West Park High School",20071010
+098,WELLAND,28,8,58,13,"St. Catharines",013, ,0,0,0,107,280,"Power Glen Elementary School",20071010
+098,WELLAND,25,7,86,21,"St. Catharines",014, ,2,0,0,141,407,"St. Anthony Catholic School",20071010
+098,WELLAND,7,3,35,5,"St. Catharines",015, ,0,0,0,50,167,"St. Anthony Catholic School",20071010
+098,WELLAND,23,6,53,10,"St. Catharines",016, ,0,0,0,92,265,"St. Anthony Catholic School",20071010
+098,WELLAND,6,1,13,4,"St. Catharines",017s, ,0,1,0,25,47,"West Park Health Centre",20071010
+098,WELLAND,19,6,59,19,"St. Catharines",018, ,0,0,0,103,297,"St. Anthony Catholic School",20071010
+098,WELLAND,11,4,60,14,"St. Catharines",019, ,0,0,0,89,283,"St. Anthony Catholic School",20071010
+098,WELLAND,18,17,71,31,"St. Catharines",020, ,1,0,0,138,274,"Burleigh Elementary School",20071010
+098,WELLAND,22,7,69,37,"St. Catharines",021, ,0,0,0,135,282,"Burleigh Elementary School",20071010
+098,WELLAND,17,17,75,22,"St. Catharines",022, ,0,1,0,132,325,"Burleigh Elementary School",20071010
+098,WELLAND,21,11,86,18,"St. Catharines",023, ,0,2,0,138,341,"Burleigh Elementary School",20071010
+098,WELLAND,33,8,78,20,"Thorold",024, ,0,0,1,140,318,"Thorold Senior Centre",20071010
+098,WELLAND,76,12,73,71,"St. Catharines",025, ,1,0,0,233,444,"Club Roma",20071010
+098,WELLAND,30,13,59,29,"St. Catharines",026, ,0,2,0,133,335,"Club Roma",20071010
+098,WELLAND,56,5,48,62,"St. Catharines",027, ,0,2,0,173,344,"Power Glen Elementary School",20071010
+098,WELLAND,66,16,52,74,"St. Catharines",028, ,0,0,2,210,382,"Club Roma",20071010
+098,WELLAND,43,8,33,53,"St. Catharines",029, ,1,0,0,138,312,"Power Glen Elementary School",20071010
+098,WELLAND,13,1,26,10,"St. Catharines",030s, ,1,1,0,52,150,"Extendicare - St. Catharines",20071010
+098,WELLAND,40,13,60,41,"St. Catharines",031, ,1,1,0,156,310,"Power Glen Elementary School",20071010
+098,WELLAND,58,17,77,83,"St. Catharines",032, ,1,0,0,236,421,"St. Peter School",20071010
+098,WELLAND,50,9,66,77,"St. Catharines",033, ,1,1,0,204,347,"St. Peter School",20071010
+098,WELLAND,5,0,8,11,"St. Catharines",034s, ,0,0,2,26,103,"NHS - Hotel Dieu Shaver Rehabilitation",20071010
+098,WELLAND,41,15,50,59,"St. Catharines",035, ,0,1,1,167,309,"Church of the Transfiguration",20071010
+098,WELLAND,86,27,68,61,"St. Catharines",036, ,1,1,0,244,461,"Church of the Transfiguration",20071010
+098,WELLAND,58,20,64,62,"St. Catharines",037, ,0,0,0,204,371,"Mountainview United Church",20071010
+098,WELLAND,65,22,72,66,"St. Catharines",038, ,0,2,0,227,433,"Mountainview United Church",20071010
+098,WELLAND,50,5,77,78,"St. Catharines",039, ,1,3,0,214,466,"Burleigh Elementary School",20071010
+098,WELLAND,40,8,129,61,"Thorold",040, ,4,0,0,242,424,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,48,14,90,53,"St. Catharines",041, ,2,0,0,207,391,"Burleigh Elementary School",20071010
+098,WELLAND,34,9,133,51,"Thorold",042, ,4,0,0,231,414,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,25,6,103,40,"Thorold",043, ,1,1,0,176,321,"St. Charles Elementary School",20071010
+098,WELLAND,32,11,93,62,"St. Catharines",044, ,0,0,0,198,360,"Burleigh Elementary School",20071010
+098,WELLAND,20,5,121,37,"Thorold",045, ,0,1,0,184,358,"St. Charles Elementary School",20071010
+098,WELLAND,26,2,153,50,"Thorold",046, ,5,1,0,237,391,"St. Charles Elementary School",20071010
+098,WELLAND,15,3,87,24,"Thorold",047, ,7,0,0,136,262,"St. Charles Elementary School",20071010
+098,WELLAND,11,8,85,35,"Thorold",048, ,1,0,0,140,304,"St. Charles Elementary School",20071010
+098,WELLAND,21,5,101,17,"Thorold",049, ,0,0,0,144,340,"Thorold Senior Centre",20071010
+098,WELLAND,10,5,68,14,"Thorold",050, ,1,1,1,100,219,"Thorold Senior Centre",20071010
+098,WELLAND,13,12,37,22,"Thorold",051, ,1,1,0,86,191,"Club Capri",20071010
+098,WELLAND,1,1,24,5,"Thorold",052s, ,0,2,0,33,53,"Club Capri",20071010
+098,WELLAND,1,2,7,1,"Thorold",053s, ,0,0,0,11,28,"Club Capri",20071010
+098,WELLAND,3,1,20,4,"Thorold",054s, ,0,0,0,28,32,"Cobblestone Garden Residence",20071010
+098,WELLAND,9,2,31,10,"Thorold",055, ,0,0,0,52,186,"Club Capri",20071010
+098,WELLAND,14,11,95,10,"Thorold",056, ,0,0,0,130,274,"Thorold Senior Centre",20071010
+098,WELLAND,13,10,64,29,"Thorold",057, ,0,0,0,116,244,"Thorold Senior Centre",20071010
+098,WELLAND,16,3,91,17,"Thorold",058, ,0,0,0,127,289,"Thorold Senior Centre",20071010
+098,WELLAND,14,5,49,6,"Thorold",059, ,0,0,0,74,174,"Club Capri",20071010
+098,WELLAND,74,6,64,22,"St. Catharines",060, ,0,0,0,166,346,"West Park High School",20071010
+098,WELLAND,47,7,53,63,"St. Catharines",061, ,0,1,0,171,357,"Club Roma",20071010
+098,WELLAND,51,31,59,88,"St. Catharines",062, ,0,0,0,229,545,"Brock University",20071010
+098,WELLAND,39,9,73,47,"Thorold",063, ,0,0,0,168,318,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,40,7,94,48,"Thorold",064, ,0,0,0,189,382,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,32,12,60,40,"Thorold",065, ,1,0,1,146,326,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,22,7,114,46,"Thorold",066, ,3,0,0,192,397,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,14,7,67,22,"Thorold",067, ,1,1,0,112,228,"Monsignor Clancy Catholic High School",20071010
+098,WELLAND,22,13,46,22,"Thorold",068, ,0,0,0,103,266,"Richmond Street School",20071010
+098,WELLAND,23,11,102,41,"Thorold",069, ,3,0,0,180,349,"Richmond Street School",20071010
+098,WELLAND,19,8,143,30,"Thorold",070, ,2,1,0,203,347,"St. Charles Elementary School",20071010
+098,WELLAND,22,5,106,15,"Thorold",071, ,0,2,0,150,340,"Club Capri",20071010
+098,WELLAND,14,7,84,19,"Thorold",072, ,0,0,0,124,337,"Club Capri",20071010
+098,WELLAND,7,1,54,12,"Thorold",073, ,0,0,0,74,142,"Club Capri",20071010
+098,WELLAND,1,0,29,12,"Thorold",074s, ,2,0,0,44,70,"Club Capri",20071010
+098,WELLAND,22,12,95,25,"Thorold",075, ,0,0,0,154,293,"Club Capri",20071010
+098,WELLAND,25,9,124,30,"Thorold",076, ,0,0,0,188,344,"Richmond Street School",20071010
+098,WELLAND,24,13,124,45,"Thorold",077, ,0,0,0,206,387,"Richmond Street School",20071010
+098,WELLAND,24,11,106,42,"Thorold",078, ,0,0,0,183,364,"Richmond Street School",20071010
+098,WELLAND,28,1,86,29,"Thorold",079, ,1,0,0,145,318,"Richmond Street School",20071010
+098,WELLAND,24,13,106,28,"Thorold",080, ,0,0,0,171,339,"Richmond Street School",20071010
+098,WELLAND,9,5,82,22,"Thorold",081, ,0,1,1,120,265,"Ontario School",20071010
+098,WELLAND,13,6,104,17,"Thorold",082, ,0,0,0,140,355,"Ontario School",20071010
+098,WELLAND,26,7,110,10,"Thorold",083, ,0,2,0,155,322,"Ontario School",20071010
+098,WELLAND,26,12,179,20,"Thorold",084, ,1,0,0,238,470,"Ontario School",20071010
+098,WELLAND,72,12,49,21,"Port Robinson",085, ,0,3,0,157,391,"Club Castropignano",20071010
+098,WELLAND,27,7,96,15,"Thorold",086, ,0,0,0,145,378,"Ontario School",20071010
+098,WELLAND,26,4,91,21,"Port Robinson",087, ,0,1,0,143,285,"Club Castropignano",20071010
+098,WELLAND,32,3,62,18,"St. Catharines",088, ,0,0,0,115,278,"Port Robinson Fire Hall",20071010
+098,WELLAND,51,7,98,29,"Port Robinson",089, ,1,1,0,187,389,"Club Castropignano",20071010
+098,WELLAND,16,5,75,17,"St. Catharines",090, ,1,0,1,115,238,"Port Robinson Fire Hall",20071010
+098,WELLAND,30,9,93,53,"Welland",091, ,1,0,0,186,332,"Alexander Kuska Catholic School",20071010
+098,WELLAND,35,3,84,70,"Welland",092, ,0,0,0,192,378,"Quaker Road School",20071010
+098,WELLAND,30,5,59,36,"Welland",093, ,1,0,1,132,289,"Quaker Road School",20071010
+098,WELLAND,42,5,67,52,"Welland",094, ,2,0,0,168,312,"Quaker Road School",20071010
+098,WELLAND,23,2,21,50,"Welland",095, ,0,0,0,96,184,"Croatian Catholic Church",20071010
+098,WELLAND,26,7,84,52,"Welland",096, ,0,0,0,169,374,"Calvary Gospel Church",20071010
+098,WELLAND,35,12,102,56,"Welland",097, ,0,0,0,205,372,"Alexander Kuska Catholic School",20071010
+098,WELLAND,32,4,60,57,"Welland",098, ,0,0,0,153,248,"Alexander Kuska Catholic School",20071010
+098,WELLAND,33,5,83,55,"Welland",099, ,0,0,0,176,318,"Alexander Kuska Catholic School",20071010
+098,WELLAND,1,0,2,0,"Welland",100, ,0,0,0,3,19,"Alexander Kuska Catholic School",20071010
+098,WELLAND,41,9,93,51,"Welland",101, ,0,0,0,194,402,"Quaker Road School",20071010
+098,WELLAND,32,9,88,75,"Welland",102, ,1,0,0,205,410,"Alexander Kuska Catholic School",20071010
+098,WELLAND,8,8,94,37,"Welland",103, ,0,0,2,149,359,"Quaker Road School",20071010
+098,WELLAND,39,9,79,55,"Welland",104, ,0,1,0,183,383,"Quaker Road School",20071010
+098,WELLAND,14,2,70,26,"Welland",105, ,2,0,0,114,280,"Croatian Catholic Church",20071010
+098,WELLAND,26,7,91,43,"Welland",106, ,0,0,0,167,318,"Crowland Central Elementary School",20071010
+098,WELLAND,34,10,114,63,"Welland",107, ,1,0,0,222,409,"Calvary Gospel Church",20071010
+098,WELLAND,53,8,85,52,"Welland",108, ,0,0,0,198,411,"Calvary Gospel Church",20071010
+098,WELLAND,33,5,73,49,"Welland",109, ,0,0,0,160,342,"Gordon School",20071010
+098,WELLAND,30,5,90,38,"Welland",110, ,0,1,0,164,386,"Gordon School",20071010
+098,WELLAND,38,6,106,47,"Welland",111, ,2,0,0,199,413,"Gordon School",20071010
+098,WELLAND,31,7,101,31,"Welland",112, ,0,0,0,170,339,"Gordon School",20071010
+098,WELLAND,19,3,86,35,"Welland",113, ,0,0,0,143,330,"Gordon School",20071010
+098,WELLAND,19,9,57,32,"Welland",114, ,1,0,0,118,264,"Gordon School",20071010
+098,WELLAND,35,10,111,75,"Welland",115, ,2,1,0,234,416,"Centennial Secondary School",20071010
+098,WELLAND,36,6,103,74,"Welland",116, ,0,0,20,239,432,"Centennial Secondary School",20071010
+098,WELLAND,23,9,111,38,"Welland",117, ,0,2,1,184,330,"Fitch Street School",20071010
+098,WELLAND,33,7,112,54,"Welland",118, ,0,0,0,206,412,"Centennial Secondary School",20071010
+098,WELLAND,37,10,117,61,"Welland",119, ,3,1,0,229,453,"Centennial Secondary School",20071010
+098,WELLAND,16,8,95,32,"Welland",120, ,0,0,0,151,333,"Glendale School",20071010
+098,WELLAND,48,7,112,60,"Welland",121, ,0,0,0,227,401,"Glendale School",20071010
+098,WELLAND,31,5,87,34,"Welland",122, ,0,0,0,157,317,"Glendale School",20071010
+098,WELLAND,20,7,83,33,"Welland",123, ,0,0,0,143,333,"Ross Elementary School",20071010
+098,WELLAND,26,4,79,34,"Welland",124, ,0,0,0,143,313,"Ross Elementary School",20071010
+098,WELLAND,32,12,110,69,"Welland",125, ,0,0,0,223,416,"St. Kevin Catholic School",20071010
+098,WELLAND,42,5,69,66,"Welland",126, ,0,1,0,183,359,"St. Kevin Catholic School",20071010
+098,WELLAND,10,3,83,28,"Welland",127, ,0,0,0,124,307,"St. Andrew's School",20071010
+098,WELLAND,52,10,145,74,"Welland",128, ,0,0,1,282,489,"Crowland Central Elementary School",20071010
+098,WELLAND,16,5,43,29,"Welland",129, ,0,0,0,93,250,"Calvary Gospel Church",20071010
+098,WELLAND,45,13,130,60,"Welland",130, ,1,1,0,250,466,"Wellspring Community Church",20071010
+098,WELLAND,27,9,89,56,"Welland",131, ,0,0,0,181,380,"St. David's Anglican Church",20071010
+098,WELLAND,41,4,106,45,"Welland",132, ,1,0,0,197,344,"Holy Name Catholic School",20071010
+098,WELLAND,35,11,88,76,"Welland",133, ,1,0,0,211,408,"Holy Name Catholic School",20071010
+098,WELLAND,38,5,172,63,"Welland",134, ,1,1,0,280,553,"St. David's Anglican Church",20071010
+098,WELLAND,26,3,79,47,"Welland",135, ,0,0,0,155,301,"Holy Name Catholic School",20071010
+098,WELLAND,35,8,101,70,"Welland",136, ,2,0,0,216,367,"Holy Name Catholic School",20071010
+098,WELLAND,34,10,94,77,"Welland",137, ,1,0,0,216,414,"Holy Name Catholic School",20071010
+098,WELLAND,25,4,82,41,"Welland",138, ,1,0,0,153,283,"Fitch Street School",20071010
+098,WELLAND,23,4,65,51,"Welland",139, ,0,0,0,143,283,"Fitch Street School",20071010
+098,WELLAND,46,7,93,59,"Welland",140, ,0,0,1,206,452,"Fitch Street School",20071010
+098,WELLAND,31,5,79,68,"Welland",141, ,1,2,0,186,332,"Fitch Street School",20071010
+098,WELLAND,25,10,70,43,"Welland",142, ,1,1,0,150,292,"Ross Elementary School",20071010
+098,WELLAND,24,13,74,48,"Welland",143, ,0,0,0,159,304,"Ross Elementary School",20071010
+098,WELLAND,15,2,67,26,"Welland",144, ,1,0,0,111,231,"Ross Elementary School",20071010
+098,WELLAND,0,0,0,0,"Welland",145s, ,0,0,0,0,5,"Ross Elementary School",20071010
+098,WELLAND,12,6,66,7,"Welland",146, ,1,0,0,92,209,"St. Andrew's Presbyterian Church",20071010
+098,WELLAND,26,11,85,28,"Welland",147, ,0,0,1,151,308,"Ross Elementary School",20071010
+098,WELLAND,27,6,91,35,"Welland",148, ,1,0,0,160,303,"St. Kevin Catholic School",20071010
+098,WELLAND,5,2,43,8,"Welland",149, ,0,0,0,58,180,"Holy Trinity Church Hall",20071010
+098,WELLAND,21,6,87,19,"Welland",150, ,1,0,2,136,303,"Adolescent Family Support Service (YMCA)",20071010
+098,WELLAND,12,4,100,15,"Welland",151, ,0,0,0,131,260,"Adolescent Family Support Service (YMCA)",20071010
+098,WELLAND,11,4,57,24,"Welland",152, ,1,0,0,97,247,"Princess Elizabeth School",20071010
+098,WELLAND,4,3,70,7,"Welland",153, ,0,0,0,84,253,"Princess Elizabeth School",20071010
+098,WELLAND,8,8,89,24,"Welland",154, ,0,0,0,129,305,"Princess Elizabeth School",20071010
+098,WELLAND,20,2,80,29,"Welland",155, ,3,0,0,134,313,"Princess Elizabeth School",20071010
+098,WELLAND,11,5,103,56,"Welland",156, ,0,1,0,176,298,"St. Andrew's School",20071010
+098,WELLAND,13,2,128,42,"Welland",157, ,3,0,0,188,309,"St. Andrew's School",20071010
+098,WELLAND,2,2,22,17,"Welland",158s, ,1,0,0,44,51,"Richelieu Residence",20071010
+098,WELLAND,2,5,15,10,"Welland",159s, ,0,1,0,33,63,"Foyer Richelieu Welland",20071010
+098,WELLAND,13,3,65,28,"Welland",160, ,1,0,0,110,227,"École secondaire Confédération",20071010
+098,WELLAND,1,1,5,2,"Welland",161s, ,0,0,0,9,13,"Tanguay Place Residence",20071010
+098,WELLAND,21,8,55,50,"Welland",162, ,1,0,0,135,347,"Holy Name Catholic School",20071010
+098,WELLAND,35,6,98,36,"Welland",163, ,2,1,0,178,355,"Welland Optimist Club",20071010
+098,WELLAND,20,7,89,27,"Welland",164, ,1,1,0,145,304,"Welland Optimist Club",20071010
+098,WELLAND,11,4,101,35,"Welland",165, ,0,0,0,151,356,"Welland Optimist Club",20071010
+098,WELLAND,20,3,80,21,"Welland",166, ,0,0,0,124,356,"Welland Optimist Club",20071010
+098,WELLAND,3,0,18,15,"Welland",167s, ,0,0,0,36,51,"St. Charles Village",20071010
+098,WELLAND,17,6,49,16,"Welland",168, ,0,0,0,88,133,"St. Andrew's Presbyterian Church",20071010
+098,WELLAND,17,1,59,16,"Welland",169, ,0,1,0,94,227,"St. Andrew's Presbyterian Church",20071010
+098,WELLAND,7,8,51,18,"Welland",170, ,1,0,0,85,263,"St. Mary's School",20071010
+098,WELLAND,19,7,68,25,"Welland",171, ,1,0,0,120,326,"St. Mary's School",20071010
+098,WELLAND,6,4,76,35,"Welland",172, ,0,0,0,121,289,"St. Mary's School",20071010
+098,WELLAND,20,4,84,23,"Welland",173, ,0,2,0,133,295,"St. Mary's School",20071010
+098,WELLAND,......................COMBINED WITH POLL 173 ....................,,,,"Welland",174s, ,,,,,,"Plymouth Cordage Retirement Home",20071010
+098,WELLAND,13,6,72,13,"Welland",175, ,0,0,0,104,299,"Adolescent Family Support Service (YMCA)",20071010
+098,WELLAND,15,5,69,20,"Welland",176, ,2,0,1,112,311,"Adolescent Family Support Service (YMCA)",20071010
+098,WELLAND,17,3,113,25,"Welland",177, ,1,0,0,159,341,"St. Mary's School",20071010
+098,WELLAND,12,5,62,16,"Welland",178, ,0,0,0,95,297,"Princess Elizabeth School",20071010
+098,WELLAND,10,8,71,12,"Welland",179, ,3,0,0,104,290,"École élémentaire Champlain",20071010
+098,WELLAND,11,2,85,19,"Welland",180, ,0,0,0,117,297,"Princess Elizabeth School",20071010
+098,WELLAND,6,3,82,29,"Welland",181, ,0,0,0,120,292,"École élémentaire Champlain",20071010
+098,WELLAND,8,1,92,29,"Welland",182, ,1,0,0,131,305,"Princess Elizabeth School",20071010
+098,WELLAND,22,6,98,55,"Welland",183, ,2,2,0,185,353,"École élémentaire Champlain",20071010
+098,WELLAND,17,3,88,27,"Welland",184, ,0,0,0,135,262,"École secondaire Confédération",20071010
+098,WELLAND,18,11,125,63,"Welland",185, ,0,0,0,217,392,"École élémentaire Champlain",20071010
+098,WELLAND,18,2,91,56,"Welland",186, ,1,1,0,169,316,"École secondaire Confédération",20071010
+098,WELLAND,37,5,77,66,"Welland",187, ,1,0,0,186,345,"Wellspring Community Church",20071010
+098,WELLAND,18,0,114,39,"Welland",188, ,2,2,0,175,320,"Croatian National Home",20071010
+098,WELLAND,32,11,146,36,"Welland",189, ,1,0,0,226,371,"Welland Optimist Club",20071010
+098,WELLAND,10,4,48,6,"Welland",190, ,1,1,0,70,175,"Croatian National Home",20071010
+098,WELLAND,7,1,61,9,"Welland",191, ,0,0,0,78,206,"Welland Arena",20071010
+098,WELLAND,4,2,66,10,"Welland",192, ,0,0,0,82,248,"Welland Arena",20071010
+098,WELLAND,2,0,16,3,"Welland",193s, ,1,0,0,22,85,"Niagara Health System - Extended Care",20071010
+098,WELLAND,7,2,54,13,"Welland",194s, ,4,1,0,81,93,"Niagara Health System - Extended Care",20071010
+098,WELLAND,3,0,15,8,"Welland",195s, ,0,0,0,26,50,"Douglas H. Rapelje Lodge",20071010
+098,WELLAND,5,2,89,13,"Welland",196, ,1,0,0,110,270,"Ukrainian Cultural Centre",20071010
+098,WELLAND,13,6,123,17,"Welland",197, ,0,0,0,159,341,"St. Mary's School",20071010
+098,WELLAND,5,6,93,13,"Welland",198, ,2,0,1,120,293,"Ukrainian Cultural Centre",20071010
+098,WELLAND,7,0,86,21,"Welland",199, ,0,1,0,115,304,"École élémentaire Champlain",20071010
+098,WELLAND,15,5,100,25,"Welland",200, ,0,1,0,146,319,"Ukrainian Cultural Centre",20071010
+098,WELLAND,26,2,124,46,"Welland",201, ,0,0,2,200,369,"École élémentaire Champlain",20071010
+098,WELLAND,17,4,120,31,"Welland",202, ,0,0,0,172,324,"Ukrainian Cultural Centre",20071010
+098,WELLAND,160,12,46,27,"Wainfleet",203, ,0,0,0,245,373,"Winger School",20071010
+098,WELLAND,125,8,47,28,"Wainfleet",204, ,0,0,0,208,353,"Winger School",20071010
+098,WELLAND,28,4,151,48,"Welland",205, ,0,0,0,231,415,"Croatian National Home",20071010
+098,WELLAND,18,4,120,38,"Welland",206, ,1,0,0,181,308,"Croatian National Home",20071010
+098,WELLAND,23,5,123,32,"Welland",207, ,0,0,0,183,436,"Ukrainian Cultural Centre",20071010
+098,WELLAND,15,4,115,15,"Welland",208, ,1,1,0,151,300,"Ukrainian Cultural Centre",20071010
+098,WELLAND,13,5,119,34,"Welland",209, ,4,0,0,175,507,"Ukrainian Cultural Centre",20071010
+098,WELLAND,73,7,94,31,"Wainfleet",210, ,1,0,0,206,365,"St. Elizabeth Catholic School",20071010
+098,WELLAND,12,5,102,27,"Welland",211, ,0,0,0,146,372,"Croatian Folk Art Centre",20071010
+098,WELLAND,45,10,181,47,"Welland",212, ,0,0,0,283,602,"Crowland Central Elementary School",20071010
+098,WELLAND,11,4,62,20,"Welland",213, ,1,0,0,98,214,"Croatian Folk Art Centre",20071010
+098,WELLAND,22,6,127,27,"Welland",214, ,0,0,0,182,328,"Croatian Folk Art Centre",20071010
+098,WELLAND,143,7,112,37,"Wainfleet",215, ,0,0,1,300,554,"Winger School",20071010
+098,WELLAND,30,1,89,28,"Welland",216, ,1,0,0,149,298,"Croatian Folk Art Centre",20071010
+098,WELLAND,25,14,110,31,"Welland",217, ,0,0,0,180,325,"Croatian Folk Art Centre",20071010
+098,WELLAND,63,14,117,28,"Port Colborne",218, ,1,1,0,224,392,"Bethel Community Centre",20071010
+098,WELLAND,90,7,105,19,"Wainfleet",219A, ,1,0,0,222,420,"St. Elizabeth Catholic School",20071010
+098,WELLAND,70,12,69,24,"Wainfleet",219B, ,2,0,0,177,365,"St. Elizabeth Catholic School",20071010
+098,WELLAND,..........................NO POLL HELD........................,,,,"Port Colborne",220, ,0,0,0,0,0,"",20071010
+098,WELLAND,20,7,48,23,"Port Colborne",221, ,0,0,0,98,222,"Christian Life Assembly",20071010
+098,WELLAND,29,3,113,33,"Port Colborne",222, ,0,0,0,178,325,"Port Colborne Lions Hall",20071010
+098,WELLAND,49,19,74,19,"Wainfleet",223, ,0,0,0,161,318,"St. Elizabeth Catholic School",20071010
+098,WELLAND,49,6,93,72,"Port Colborne",224, ,0,0,0,220,371,"Christian Life Assembly",20071010
+098,WELLAND,33,2,105,57,"Port Colborne",225, ,3,0,1,201,373,"Oakwood Elementary School",20071010
+098,WELLAND,44,6,94,32,"Port Colborne",226, ,2,0,0,178,370,"Christian Life Assembly",20071010
+098,WELLAND,38,9,112,26,"Port Colborne",227, ,0,0,0,185,361,"Oakwood Elementary School",20071010
+098,WELLAND,24,10,70,9,"Port Colborne",228, ,0,0,0,113,258,"Oakwood Elementary School",20071010
+098,WELLAND,45,5,107,44,"Port Colborne",229, ,1,0,0,202,356,"Oakwood Elementary School",20071010
+098,WELLAND,18,4,94,29,"Port Colborne",230, ,2,1,0,148,248,"Port Colborne Lions Hall",20071010
+098,WELLAND,88,11,114,41,"Sherkston",231, ,0,0,0,254,390,"Sherkston Community Centre",20071010
+098,WELLAND,20,0,39,14,"Wainfleet",232, ,0,0,0,73,115,"St. Elizabeth Catholic School",20071010
+098,WELLAND,21,5,100,41,"Port Colborne",233, ,0,0,0,167,344,"St. John Bosco Catholic School",20071010
+098,WELLAND,30,1,123,28,"Port Colborne",234, ,2,0,0,184,345,"St. John Bosco Catholic School",20071010
+098,WELLAND,37,4,78,17,"Port Colborne",235, ,2,0,0,138,266,"Port Colborne Social and Recreation Centre",20071010
+098,WELLAND,20,4,72,36,"Port Colborne",236, ,2,0,0,134,274,"St. John Bosco Catholic School",20071010
+098,WELLAND,17,8,59,20,"Port Colborne",237, ,1,0,0,105,282,"Port Colborne Social and Recreation Centre",20071010
+098,WELLAND,13,9,56,31,"Port Colborne",238, ,0,1,0,110,265,"St. John Bosco Catholic School",20071010
+098,WELLAND,10,6,69,13,"Port Colborne",239, ,0,0,0,98,192,"Port Colborne Lions Hall",20071010
+098,WELLAND,24,3,103,40,"Port Colborne",240, ,5,0,0,175,322,"Italian Canadian Hall",20071010
+098,WELLAND,18,3,113,14,"Port Colborne",241, ,2,0,0,150,334,"Italian Canadian Hall",20071010
+098,WELLAND,15,6,105,33,"Port Colborne",242, ,1,0,0,160,340,"Italian Canadian Hall",20071010
+098,WELLAND,10,7,122,47,"Port Colborne",243, ,0,0,0,186,334,"St. Therese Catholic School",20071010
+098,WELLAND,39,6,93,36,"Port Colborne",244, ,1,0,0,175,410,"St. Therese Catholic School",20071010
+098,WELLAND,57,7,98,94,"Port Colborne",245, ,0,0,0,256,407,"St. Patrick Catholic School",20071010
+098,WELLAND,63,3,60,34,"Port Colborne",246, ,1,1,1,163,289,"Central United Church",20071010
+098,WELLAND,35,7,107,45,"Port Colborne",247, ,0,0,0,194,312,"St. Patrick Catholic School",20071010
+098,WELLAND,46,6,110,45,"Port Colborne",248, ,0,0,0,207,324,"Port Colborne Baptist Church",20071010
+098,WELLAND,15,1,13,11,"Port Colborne",249s, ,0,1,0,41,52,"Garden Terrace",20071010
+098,WELLAND,48,5,111,28,"Port Colborne",250, ,0,0,0,192,312,"St. Patrick Catholic School",20071010
+098,WELLAND,10,0,9,3,"Port Colborne",251s, ,0,0,1,23,33,"Gilead Manor",20071010
+098,WELLAND,24,0,17,13,"Port Colborne",252s, ,4,0,1,59,111,"Portal Village",20071010
+098,WELLAND,28,8,94,33,"Port Colborne",253, ,1,0,0,164,301,"Port Colborne Baptist Church",20071010
+098,WELLAND,40,6,67,32,"Port Colborne",254, ,1,0,0,146,298,"Port Colborne Baptist Church",20071010
+098,WELLAND,23,6,69,25,"Port Colborne",255, ,2,0,0,125,275,"Central United Church",20071010
+098,WELLAND,31,3,48,30,"Port Colborne",256, ,0,0,0,112,249,"Port Colborne Baptist Church",20071010
+098,WELLAND,18,4,71,11,"Port Colborne",257, ,0,0,0,104,279,"Port Colborne Baptist Church",20071010
+098,WELLAND,8,2,63,16,"Port Colborne",258, ,0,0,0,89,211,"Italian Canadian Hall",20071010
+098,WELLAND,5,2,84,14,"Port Colborne",259, ,1,0,0,106,279,"Italian Canadian Hall",20071010
+098,WELLAND,18,5,101,29,"Port Colborne",260, ,0,0,0,153,325,"Italian Canadian Hall",20071010
+098,WELLAND,42,6,60,25,"Sherkston",261, ,0,0,1,134,220,"Sherkston Community Centre",20071010
+098,WELLAND,51,10,67,29,"Wainfleet",262, ,0,0,0,157,247,"Wainfleet Lions Hall",20071010
+098,WELLAND,28,3,46,22,"Wainfleet",263, ,0,0,0,99,140,"Wainfleet Lions Hall",20071010
+098,WELLAND,30,8,86,35,"Port Colborne",264, ,1,0,1,161,262,"Wainfleet Congregational Church",20071010
+098,WELLAND,64,8,49,52,"Port Colborne",265, ,0,0,0,173,284,"Wainfleet Congregational Church",20071010
+098,WELLAND,57,8,109,74,"Port Colborne",266, ,0,1,0,249,403,"Lakeside Yacht Club of Port Colborne",20071010
+098,WELLAND,62,6,85,56,"Port Colborne",267, ,2,0,0,211,398,"Lakeside Yacht Club of Port Colborne",20071010
+098,WELLAND,4,0,7,3,"Port Colborne",268s, ,1,0,0,15,25,"NHS - Port Colborne General Hospital",20071010
+098,WELLAND,16,0,19,20,"Port Colborne",269s, ,0,1,0,56,150,"Northland Point",20071010
+098,WELLAND,32,9,53,36,"Port Colborne",270, ,0,1,0,131,301,"Port Colborne Baptist Church",20071010
+098,WELLAND,5,3,74,8,"Port Colborne",271, ,2,0,0,92,252,"Italian Canadian Hall",20071010
+098,WELLAND,35,6,38,12,"Port Colborne",272, ,0,0,0,91,143,"St. Therese Catholic School",20071010
+098,WELLAND,30,6,84,17,"Sherkston",273, ,0,0,0,137,278,"Sherkston Community Centre",20071010
+098,WELLAND,20,2,53,12,"Wainfleet",274, ,0,0,0,87,157,"Wainfleet Lions Hall",20071010
+098,WELLAND,47,9,75,29,"Wainfleet",275, ,0,0,0,160,234,"Wainfleet Lions Hall",20071010
+098,WELLAND,..........................NO POLL HELD........................,,,,"St. Catharines",400, ,0,0,0,0,0,"",20071010
+098,WELLAND,15,10,47,21,"St. Catharines",401, ,0,0,0,93,158,"Tremont Apartments",20071010
+098,WELLAND,8,3,53,7,"Welland",402, ,1,0,0,72,124,"Doral Apartments",20071010
+098,WELLAND,14,3,43,21,"Welland",403, ,0,1,0,82,132,"Princess Manor",20071010
+098,WELLAND,..........................NO POLL HELD........................,,,,"Welland",404, ,0,0,0,0,0,"",20071010
+098,WELLAND,12,2,55,20,"Welland",405, ,1,0,0,90,140,"Prince Court",20071010
+098,WELLAND,14,1,43,11,"Welland",406, ,0,0,0,69,105,"Parkway Village Towers",20071010
+098,WELLAND,8,3,53,8,"Welland",407, ,0,0,1,73,121,"Parkway Village Towers",20071010
+098,WELLAND,1,0,56,5,"Welland",408, ,1,2,0,65,107,"Jubilee Apartments",20071010
+098,WELLAND,209,56,995,412,"Welland",Advanced Polls /  ADV001, ,8,2,0,1682,0,"Returning Office / Bureau du directeur du scrutin",20071010
+098,WELLAND,125,27,179,133,"St. Catharines",Advanced Polls /  ADV002, ,1,1,0,466,0,"Club Roma",20071010
+098,WELLAND,239,32,626,272,"Welland",Advanced Polls /  ADV003, ,1,0,1,1171,0,"Sobeys",20071010
+098,WELLAND,27,4,43,14,"Sherkston",Advanced Polls /  ADV004, ,0,0,0,88,0,"Sherkston Community Centre",20071010
+098,WELLAND,78,4,83,40,"Wainfleet",Advanced Polls /  ADV005, ,1,0,0,206,0,"Wainfleet Township Public Library",20071010
+098,WELLAND,211,30,563,257,"Port Colborne",Advanced Polls /  ADV006, ,5,1,0,1067,0,"Port Colborne Mall",20071010
+098,WELLAND,91,17,305,115,"Thorold",Advanced Polls /  ADV007, ,0,0,0,528,0,"Club Capri",20071010
+TOTALS:, ,8722,1973,24910,10580, , , , , , , , , , 

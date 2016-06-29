@@ -1,0 +1,212 @@
+ED_CODE,ED_NAME,ARBUS,MURPHY,ORAZIETTI,PRINGLE,RIOPEL,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+079,SAULT STE. MARIE,29,0,85,23,11,"Sault Ste. Marie",001, ,0,0,0,148,267,"Greenwood Public School",20071010
+079,SAULT STE. MARIE,51,5,96,13,7,"Sault Ste. Marie",002, ,0,0,0,172,338,"Riuniti Restaurant",20071010
+079,SAULT STE. MARIE,25,1,45,6,12,"Sault Ste. Marie",003, ,0,1,0,90,206,"Riuniti Restaurant",20071010
+079,SAULT STE. MARIE,40,0,199,25,6,"Sault Ste. Marie",004, ,1,1,0,272,563,"R. M. Moore Public School",20071010
+079,SAULT STE. MARIE,38,4,95,13,10,"Sault Ste. Marie",005, ,0,0,0,160,299,"Isabel Fletcher Public School",20071010
+079,SAULT STE. MARIE,63,4,68,14,7,"Sault Ste. Marie",006, ,0,0,0,156,315,"Riuniti Restaurant",20071010
+079,SAULT STE. MARIE,64,6,104,17,9,"Sault Ste. Marie",007, ,1,0,0,201,382,"Isabel Fletcher Public School",20071010
+079,SAULT STE. MARIE,61,6,97,13,11,"Sault Ste. Marie",008, ,0,0,0,188,393,"Greenwood Public School",20071010
+079,SAULT STE. MARIE,64,6,146,13,3,"Sault Ste. Marie",009, ,4,1,0,237,431,"Greenwood Public School",20071010
+079,SAULT STE. MARIE,32,3,137,15,27,"Sault Ste. Marie",010, ,0,0,0,214,364,"Riuniti Restaurant",20071010
+079,SAULT STE. MARIE,56,2,100,13,2,"Sault Ste. Marie",011, ,1,0,0,174,346,"Greenwood Public School",20071010
+079,SAULT STE. MARIE,18,4,160,9,9,"Sault Ste. Marie",012, ,0,0,0,200,336,"Kiwedin Public School",20071010
+079,SAULT STE. MARIE,13,1,24,6,1,"Sault Ste. Marie",013s, ,0,0,0,45,118,"Extendicare Tendercare Nursing Home",20071010
+079,SAULT STE. MARIE,23,3,50,5,0,"Sault Ste. Marie",014s, ,1,2,0,84,110,"Great Northern Retirement Home",20071010
+079,SAULT STE. MARIE,21,7,72,12,3,"Sault Ste. Marie",015s, ,2,0,0,117,413,"F.J. Davey Home",20071010
+079,SAULT STE. MARIE,60,8,167,24,12,"Sault Ste. Marie",016, ,2,1,1,275,462,"Tarentorus Public School",20071010
+079,SAULT STE. MARIE,47,0,89,9,4,"Sault Ste. Marie",017, ,0,0,0,149,349,"Holy Family School",20071010
+079,SAULT STE. MARIE,43,2,51,6,2,"Sault Ste. Marie",018, ,0,0,0,104,251,"Holy Family School",20071010
+079,SAULT STE. MARIE,43,2,98,2,6,"Sault Ste. Marie",019, ,1,1,0,153,279,"Holy Family School",20071010
+079,SAULT STE. MARIE,54,3,54,7,3,"Sault Ste. Marie",020, ,0,0,0,121,280,"Korah Collegiate",20071010
+079,SAULT STE. MARIE,40,1,150,13,6,"Sault Ste. Marie",021, ,0,0,0,210,366,"Our Lady of Lourdes Catholic School",20071010
+079,SAULT STE. MARIE,51,0,74,5,0,"Sault Ste. Marie",022, ,0,0,0,130,267,"Isabel Fletcher Public School",20071010
+079,SAULT STE. MARIE,34,0,111,10,5,"Sault Ste. Marie",023, ,0,0,0,160,328,"Our Lady of Lourdes Catholic School",20071010
+079,SAULT STE. MARIE,46,4,139,10,5,"Sault Ste. Marie",024, ,2,0,0,206,378,"St. John Catholic School",20071010
+079,SAULT STE. MARIE,36,5,178,8,7,"Sault Ste. Marie",025, ,0,0,0,234,409,"St. John Catholic School",20071010
+079,SAULT STE. MARIE,50,2,74,12,0,"Sault Ste. Marie",026, ,0,1,0,139,350,"Kiwedin Public School",20071010
+079,SAULT STE. MARIE,22,0,37,10,7,"Sault Ste. Marie",027s, ,1,0,1,78,117,"Finnish Rest Home",20071010
+079,SAULT STE. MARIE,28,4,212,15,8,"Sault Ste. Marie",028, ,2,0,0,269,433,"Kiwedin Public School",20071010
+079,SAULT STE. MARIE,4,1,13,3,0,"Sault Ste. Marie",029s, ,0,0,0,21,63,"Mauno Kaihla Koti - Finnish",20071010
+079,SAULT STE. MARIE,42,8,166,6,8,"Sault Ste. Marie",030, ,0,0,0,230,400,"Kiwedin Public School",20071010
+079,SAULT STE. MARIE,16,0,13,3,3,"Sault Ste. Marie",031, ,0,0,0,35,114,"Tarentorus Public School",20071010
+079,SAULT STE. MARIE,61,6,131,15,10,"Sault Ste. Marie",032, ,0,0,0,223,381,"Tarentorus Public School",20071010
+079,SAULT STE. MARIE,32,1,177,13,11,"Sault Ste. Marie",033, ,0,0,0,234,462,"Tarentorus Public School",20071010
+079,SAULT STE. MARIE,22,0,60,13,6,"Sault Ste. Marie",034, ,1,1,0,103,211,"St. Francis Catholic School",20071010
+079,SAULT STE. MARIE,62,3,60,4,10,"Sault Ste. Marie",035, ,1,0,0,140,332,"St. Francis Catholic School",20071010
+079,SAULT STE. MARIE,46,0,74,11,3,"Sault Ste. Marie",036, ,0,0,0,134,250,"H.M. Robbins Public School",20071010
+079,SAULT STE. MARIE,36,3,106,7,1,"Sault Ste. Marie",037, ,1,1,0,155,354,"Holy Family School",20071010
+079,SAULT STE. MARIE,31,3,106,8,3,"Sault Ste. Marie",038, ,1,0,0,152,269,"Holy Family School",20071010
+079,SAULT STE. MARIE,41,0,52,12,3,"Sault Ste. Marie",039, ,0,1,0,109,297,"H.M. Robbins Public School",20071010
+079,SAULT STE. MARIE,32,1,70,2,6,"Sault Ste. Marie",040, ,0,0,0,111,264,"Korah Collegiate",20071010
+079,SAULT STE. MARIE,45,2,83,4,1,"Sault Ste. Marie",041, ,0,0,0,135,315,"Korah Collegiate",20071010
+079,SAULT STE. MARIE,39,2,172,4,7,"Sault Ste. Marie",042, ,1,0,0,225,364,"Our Lady of Lourdes Catholic School",20071010
+079,SAULT STE. MARIE,31,3,70,3,3,"Sault Ste. Marie",043, ,0,0,0,110,291,"Korah Collegiate",20071010
+079,SAULT STE. MARIE,75,0,69,6,2,"Sault Ste. Marie",044, ,1,0,0,153,331,"Our Lady of Lourdes Catholic School",20071010
+079,SAULT STE. MARIE,3,1,15,1,0,"Sault Ste. Marie",045s, ,0,0,0,20,23,"St. Gregory's Senior Citizens Complex",20071010
+079,SAULT STE. MARIE,36,3,63,12,3,"Sault Ste. Marie",046, ,2,0,0,119,274,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,43,1,93,4,6,"Sault Ste. Marie",047, ,0,0,0,147,344,"Our Lady of Lourdes Catholic School",20071010
+079,SAULT STE. MARIE,45,4,113,13,4,"Sault Ste. Marie",048, ,1,3,0,183,325,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,42,1,69,9,5,"Sault Ste. Marie",049, ,3,1,0,130,292,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,40,3,99,2,0,"Sault Ste. Marie",050, ,0,0,0,144,333,"St. John Catholic School",20071010
+079,SAULT STE. MARIE,58,1,81,4,4,"Sault Ste. Marie",051, ,1,0,0,149,293,"Wm Merrifield V.C. Public School",20071010
+079,SAULT STE. MARIE,50,7,112,9,2,"Sault Ste. Marie",052, ,0,0,0,180,319,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,47,2,72,5,4,"Sault Ste. Marie",053, ,1,0,0,131,279,"St. John Catholic School",20071010
+079,SAULT STE. MARIE,40,1,41,13,6,"Sault Ste. Marie",054, ,0,0,0,101,259,"Wm Merrifield V.C. Public School",20071010
+079,SAULT STE. MARIE,45,6,148,14,5,"Sault Ste. Marie",055, ,2,1,0,221,357,"Notre Dame des Écoles",20071010
+079,SAULT STE. MARIE,40,1,63,12,3,"Sault Ste. Marie",056s, ,1,0,0,120,145,"Ontario Finnish Rest Home",20071010
+079,SAULT STE. MARIE,46,3,117,9,7,"Sault Ste. Marie",057, ,3,0,0,185,341,"Notre Dame des Écoles",20071010
+079,SAULT STE. MARIE,34,0,143,13,3,"Sault Ste. Marie",058, ,0,0,0,193,319,"St. Pius X School",20071010
+079,SAULT STE. MARIE,5,1,7,7,4,"Sault Ste. Marie",059, ,0,0,0,24,41,"Cara Community - 31 Old Garden River Road",20071010
+079,SAULT STE. MARIE,69,5,78,9,7,"Sault Ste. Marie",060, ,0,0,0,168,385,"Cara Community - 31 Old Garden River Road",20071010
+079,SAULT STE. MARIE,37,8,118,9,9,"Sault Ste. Marie",061, ,0,0,0,181,390,"Cara Community - 31 Old Garden River Road",20071010
+079,SAULT STE. MARIE,47,6,68,10,14,"Sault Ste. Marie",062, ,0,0,0,145,320,"Pinewood Public School",20071010
+079,SAULT STE. MARIE,51,3,84,15,4,"Sault Ste. Marie",063, ,0,1,0,158,283,"H.M. Robbins Public School",20071010
+079,SAULT STE. MARIE,51,0,87,6,3,"Sault Ste. Marie",064, ,1,0,2,150,296,"H.M. Robbins Public School",20071010
+079,SAULT STE. MARIE,73,4,52,4,3,"Sault Ste. Marie",065, ,0,0,0,136,293,"Bay View Public School",20071010
+079,SAULT STE. MARIE,51,3,36,7,1,"Sault Ste. Marie",066, ,0,0,0,98,251,"Bay View Public School",20071010
+079,SAULT STE. MARIE,49,2,36,6,7,"Sault Ste. Marie",067, ,0,1,0,101,258,"Bay View Public School",20071010
+079,SAULT STE. MARIE,23,0,38,2,5,"Sault Ste. Marie",068, ,1,1,0,70,247,"Korah Collegiate",20071010
+079,SAULT STE. MARIE,49,0,57,5,3,"Sault Ste. Marie",069, ,1,0,0,115,313,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,41,3,45,13,0,"Sault Ste. Marie",070, ,0,0,0,102,250,"Wm Merrifield V.C. Public School",20071010
+079,SAULT STE. MARIE,32,2,26,3,0,"Sault Ste. Marie",071, ,0,0,0,63,160,"St. Theresa Catholic School",20071010
+079,SAULT STE. MARIE,46,2,49,5,5,"Sault Ste. Marie",072, ,0,0,1,108,266,"Wm Merrifield V.C. Public School",20071010
+079,SAULT STE. MARIE,41,4,53,3,5,"Sault Ste. Marie",073, ,0,0,0,106,273,"Notre Dame des Écoles",20071010
+079,SAULT STE. MARIE,63,0,62,6,9,"Sault Ste. Marie",074, ,1,1,0,142,327,"Notre Dame des Écoles",20071010
+079,SAULT STE. MARIE,40,1,67,4,5,"Sault Ste. Marie",075, ,1,0,0,118,286,"Wm Merrifield V.C. Public School",20071010
+079,SAULT STE. MARIE,42,1,70,7,7,"Sault Ste. Marie",076, ,0,0,0,127,280,"Notre Dame des Écoles",20071010
+079,SAULT STE. MARIE,50,1,75,10,9,"Sault Ste. Marie",077, ,1,0,0,146,321,"St. Mary's Ukrainian Catholic Church",20071010
+079,SAULT STE. MARIE,50,1,108,18,10,"Sault Ste. Marie",078, ,2,0,0,189,348,"Northern Heights Public School",20071010
+079,SAULT STE. MARIE,29,1,150,17,14,"Sault Ste. Marie",079, ,1,0,0,212,364,"Northern Heights Public School",20071010
+079,SAULT STE. MARIE,57,6,164,13,7,"Sault Ste. Marie",080, ,2,1,0,250,451,"St. Pius X School",20071010
+079,SAULT STE. MARIE,14,1,20,1,2,"Sault Ste. Marie",081s, ,4,0,0,42,138,"Extendicare/Van Daele Manor",20071010
+079,SAULT STE. MARIE,19,3,59,8,7,"Sault Ste. Marie",082, ,1,0,0,97,204,"St. Pius X School",20071010
+079,SAULT STE. MARIE,34,2,65,8,8,"Sault Ste. Marie",083, ,1,0,0,118,268,"Northern Heights Public School",20071010
+079,SAULT STE. MARIE,32,9,92,15,5,"Sault Ste. Marie",084, ,0,0,0,153,322,"Cara Community - 31 Old Garden River Road",20071010
+079,SAULT STE. MARIE,48,6,71,18,6,"Sault Ste. Marie",085, ,0,0,0,149,349,"St. Paul Catholic School",20071010
+079,SAULT STE. MARIE,55,8,22,3,1,"Sault Ste. Marie",086, ,0,0,0,89,232,"Rosedale Public School",20071010
+079,SAULT STE. MARIE,62,10,103,17,5,"Sault Ste. Marie",087, ,2,0,0,199,377,"St. Paul Catholic School",20071010
+079,SAULT STE. MARIE,24,4,57,7,3,"Sault Ste. Marie",088, ,0,1,0,96,270,"St. Paul Catholic School",20071010
+079,SAULT STE. MARIE,53,6,108,9,9,"Sault Ste. Marie",089, ,0,0,0,185,343,"St. Bernadette School",20071010
+079,SAULT STE. MARIE,57,3,184,10,13,"Sault Ste. Marie",090, ,1,0,0,268,441,"St. Paul Catholic School",20071010
+079,SAULT STE. MARIE,32,5,169,19,14,"Sault Ste. Marie",091, ,1,0,0,240,412,"Ben R. McMullin Public School",20071010
+079,SAULT STE. MARIE,51,1,127,6,4,"Sault Ste. Marie",092, ,1,0,0,190,379,"Ben R. McMullin Public School",20071010
+079,SAULT STE. MARIE,23,2,162,10,5,"Sault Ste. Marie",093, ,0,0,0,202,405,"Ben R. McMullin Public School",20071010
+079,SAULT STE. MARIE,74,1,85,16,3,"Sault Ste. Marie",094, ,1,0,0,180,311,"Manitou Park Public School",20071010
+079,SAULT STE. MARIE,53,7,81,9,8,"Sault Ste. Marie",095, ,0,1,0,159,322,"Manitou Park Public School",20071010
+079,SAULT STE. MARIE,38,1,22,1,0,"Sault Ste. Marie",096, ,0,0,0,62,245,"St. Hubert Catholic School",20071010
+079,SAULT STE. MARIE,53,5,44,11,7,"Sault Ste. Marie",097, ,0,0,0,120,333,"Pinewood Public School",20071010
+079,SAULT STE. MARIE,41,2,115,30,13,"Sault Ste. Marie",098, ,0,0,0,201,413,"R. M. Moore Public School",20071010
+079,SAULT STE. MARIE,56,9,86,13,7,"Sault Ste. Marie",099, ,1,0,0,172,357,"St. Francis Catholic School",20071010
+079,SAULT STE. MARIE,25,0,22,4,2,"Sault Ste. Marie",100, ,0,0,0,53,215,"Marconi Hall",20071010
+079,SAULT STE. MARIE,16,0,13,1,1,"Sault Ste. Marie",101s, ,0,0,0,31,38,"Seniors Residence - 588 Albert Street West",20071010
+079,SAULT STE. MARIE,29,1,28,7,1,"Sault Ste. Marie",102, ,0,0,0,66,157,"Marconi Hall",20071010
+079,SAULT STE. MARIE,23,2,34,2,2,"Sault Ste. Marie",103, ,0,0,0,63,184,"Marconi Hall",20071010
+079,SAULT STE. MARIE,46,0,37,5,5,"Sault Ste. Marie",104, ,2,1,1,97,221,"Marconi Hall",20071010
+079,SAULT STE. MARIE,40,2,28,3,2,"Sault Ste. Marie",105, ,0,0,0,75,202,"Etienne Brule Public School",20071010
+079,SAULT STE. MARIE,23,0,34,3,5,"Sault Ste. Marie",106, ,0,0,0,65,198,"Etienne Brule Public School",20071010
+079,SAULT STE. MARIE,26,3,37,2,3,"Sault Ste. Marie",107, ,0,0,0,71,202,"Etienne Brule Public School",20071010
+079,SAULT STE. MARIE,28,4,19,1,7,"Sault Ste. Marie",108, ,0,0,0,59,190,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,47,0,38,1,5,"Sault Ste. Marie",109, ,0,0,0,91,226,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,63,4,42,4,4,"Sault Ste. Marie",110, ,0,1,0,118,275,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,20,1,28,8,3,"Sault Ste. Marie",111, ,0,1,0,61,205,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,35,2,54,8,5,"Sault Ste. Marie",112, ,0,0,0,104,294,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,46,5,74,11,5,"Sault Ste. Marie",113, ,0,0,0,141,284,"St. Mary's Ukrainian Catholic Church",20071010
+079,SAULT STE. MARIE,9,2,17,0,0,"Sault Ste. Marie",114s, ,1,1,0,30,38,"Senior's Residence - 345 St. George Avenue East",20071010
+079,SAULT STE. MARIE,51,7,54,5,6,"Sault Ste. Marie",115, ,0,0,0,123,238,"Our Lady of Good Counsel Church",20071010
+079,SAULT STE. MARIE,24,0,24,5,1,"Sault Ste. Marie",116, ,0,0,0,54,148,"Our Lady of Good Counsel Church",20071010
+079,SAULT STE. MARIE,42,3,72,7,12,"Sault Ste. Marie",117, ,1,0,1,138,327,"Frances H. Clergue Public School",20071010
+079,SAULT STE. MARIE,52,3,99,10,9,"Sault Ste. Marie",118, ,1,0,0,174,345,"Frances H. Clergue Public School",20071010
+079,SAULT STE. MARIE,31,3,69,12,4,"Sault Ste. Marie",119, ,0,0,0,119,211,"Rosedale Public School",20071010
+079,SAULT STE. MARIE,42,2,25,3,6,"Sault Ste. Marie",120, ,1,0,0,79,159,"Rosedale Public School",20071010
+079,SAULT STE. MARIE,53,8,94,15,5,"Sault Ste. Marie",121, ,0,0,0,175,326,"Frances H. Clergue Public School",20071010
+079,SAULT STE. MARIE,39,0,33,7,3,"Sault Ste. Marie",122, ,2,1,0,85,226,"Rosedale Public School",20071010
+079,SAULT STE. MARIE,35,6,142,21,9,"Sault Ste. Marie",123, ,1,1,0,215,375,"Frances H. Clergue Public School",20071010
+079,SAULT STE. MARIE,45,8,116,9,5,"Sault Ste. Marie",124, ,0,0,0,183,338,"St. Bernadette School",20071010
+079,SAULT STE. MARIE,35,2,116,15,7,"Sault Ste. Marie",125, ,1,1,0,177,369,"St. Bernadette School",20071010
+079,SAULT STE. MARIE,39,2,136,19,15,"Sault Ste. Marie",126, ,0,1,0,212,358,"River View Public School",20071010
+079,SAULT STE. MARIE,43,3,104,14,3,"Sault Ste. Marie",127, ,2,0,1,170,312,"Ben R. McMullin Public School",20071010
+079,SAULT STE. MARIE,34,0,135,14,4,"Sault Ste. Marie",128, ,0,0,0,187,371,"River View Public School",20071010
+079,SAULT STE. MARIE,24,0,63,10,3,"Sault Ste. Marie",129, ,0,0,0,100,275,"River View Public School",20071010
+079,SAULT STE. MARIE,11,5,62,14,3,"Sault Ste. Marie",130s, ,1,2,0,98,123,"Pathways Retirement Residence",20071010
+079,SAULT STE. MARIE,37,3,70,13,4,"Sault Ste. Marie",131, ,0,0,0,127,249,"Eastview Public School",20071010
+079,SAULT STE. MARIE,18,1,27,10,3,"Sault Ste. Marie",132, ,1,0,0,60,221,"Eastview Public School",20071010
+079,SAULT STE. MARIE,27,1,30,3,1,"Sault Ste. Marie",133, ,1,0,0,63,202,"Eastview Public School",20071010
+079,SAULT STE. MARIE,61,1,58,7,1,"Sault Ste. Marie",134, ,0,0,0,128,271,"Manitou Park Public School",20071010
+079,SAULT STE. MARIE,59,1,73,10,2,"Sault Ste. Marie",135, ,0,1,0,146,354,"St. Mary's Elementary School",20071010
+079,SAULT STE. MARIE,42,3,75,11,5,"Sault Ste. Marie",136, ,0,0,0,136,322,"St. Mary's Elementary School",20071010
+079,SAULT STE. MARIE,56,5,93,16,6,"Sault Ste. Marie",137, ,1,0,0,177,396,"St. Mary's Elementary School",20071010
+079,SAULT STE. MARIE,47,6,98,5,2,"Sault Ste. Marie",138, ,0,0,0,158,357,"Parkland Public School",20071010
+079,SAULT STE. MARIE,56,1,106,8,8,"Sault Ste. Marie",139, ,0,0,0,179,365,"St. Hubert Catholic School",20071010
+079,SAULT STE. MARIE,78,7,121,6,9,"Sault Ste. Marie",140, ,0,0,0,221,390,"St. Hubert Catholic School",20071010
+079,SAULT STE. MARIE,49,3,118,17,4,"Sault Ste. Marie",141, ,0,0,0,191,358,"St. Hubert Catholic School",20071010
+079,SAULT STE. MARIE,22,0,104,11,3,"Sault Ste. Marie",142, ,0,0,0,140,257,"Pinewood Public School",20071010
+079,SAULT STE. MARIE,23,2,71,16,10,"Sault Ste. Marie",143, ,0,0,0,122,284,"R. M. Moore Public School",20071010
+079,SAULT STE. MARIE,27,2,43,8,3,"Sault Ste. Marie",144, ,1,1,0,85,158,"Station 49 Seniors Residence",20071010
+079,SAULT STE. MARIE,2,0,6,1,1,"Sault Ste. Marie",145, ,0,0,0,10,66,"Station 49 Seniors Residence",20071010
+079,SAULT STE. MARIE,12,0,20,5,9,"Sault Ste. Marie",146, ,1,0,0,47,210,"Holy Angels Learning Centre",20071010
+079,SAULT STE. MARIE,21,2,22,6,4,"Sault Ste. Marie",147, ,0,0,0,55,159,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,9,0,26,1,2,"Sault Ste. Marie",148s, ,1,0,0,39,50,"Windsor Park Retirement Residence",20071010
+079,SAULT STE. MARIE,17,0,33,6,6,"Sault Ste. Marie",149, ,0,0,0,62,189,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,2,2,41,14,1,"Sault Ste. Marie",150s, ,0,0,0,60,69,"Collegiate Heights Retirement Home",20071010
+079,SAULT STE. MARIE,49,0,70,7,15,"Sault Ste. Marie",151, ,0,0,0,141,282,"St. Andrew's Church - 712 Wellington Street East",20071010
+079,SAULT STE. MARIE,25,0,25,4,5,"Sault Ste. Marie",152, ,0,0,0,59,187,"St. Andrew's Church - 712 Wellington Street East",20071010
+079,SAULT STE. MARIE,47,2,98,8,13,"Sault Ste. Marie",153, ,0,0,0,168,315,"Our Lady of Good Counsel Church",20071010
+079,SAULT STE. MARIE,32,7,171,18,9,"Sault Ste. Marie",154, ,0,0,0,237,387,"Frances H. Clergue Public School",20071010
+079,SAULT STE. MARIE,43,0,120,23,16,"Sault Ste. Marie",155, ,0,0,0,202,341,"Zion Lutheran Church",20071010
+079,SAULT STE. MARIE,35,4,97,6,13,"Sault Ste. Marie",156, ,1,0,0,156,291,"Zion Lutheran Church",20071010
+079,SAULT STE. MARIE,42,5,127,10,10,"Sault Ste. Marie",157, ,0,0,0,194,392,"John Rhodes Community Centre",20071010
+079,SAULT STE. MARIE,36,3,65,8,4,"Sault Ste. Marie",158, ,0,0,0,116,290,"John Rhodes Community Centre",20071010
+079,SAULT STE. MARIE,26,1,21,15,2,"Sault Ste. Marie",159, ,0,0,0,65,237,"John Rhodes Community Centre",20071010
+079,SAULT STE. MARIE,25,0,41,7,1,"Sault Ste. Marie",160, ,0,0,0,74,229,"John Rhodes Community Centre",20071010
+079,SAULT STE. MARIE,22,2,34,8,5,"Sault Ste. Marie",161, ,0,0,0,71,226,"John Rhodes Community Centre",20071010
+079,SAULT STE. MARIE,30,0,92,13,4,"Sault Ste. Marie",162, ,0,0,0,139,258,"St. Mark Catholic School",20071010
+079,SAULT STE. MARIE,13,0,25,7,2,"Sault Ste. Marie",163, ,0,0,0,47,107,"River View Public School",20071010
+079,SAULT STE. MARIE,17,2,81,17,4,"Sault Ste. Marie",164, ,1,0,0,122,295,"St. Patrick Catholic School",20071010
+079,SAULT STE. MARIE,27,2,77,9,7,"Sault Ste. Marie",165, ,0,0,0,122,281,"Eastview Public School",20071010
+079,SAULT STE. MARIE,31,1,74,12,7,"Sault Ste. Marie",166, ,2,0,0,127,286,"Eastview Public School",20071010
+079,SAULT STE. MARIE,45,4,155,15,12,"Sault Ste. Marie",167, ,1,0,0,232,416,"St. Patrick Catholic School",20071010
+079,SAULT STE. MARIE,31,2,92,9,7,"Sault Ste. Marie",168, ,0,0,0,141,274,"St. Patrick Catholic School",20071010
+079,SAULT STE. MARIE,33,6,160,24,10,"Sault Ste. Marie",169, ,1,0,0,234,407,"St. Patrick Catholic School",20071010
+079,SAULT STE. MARIE,53,8,140,12,2,"Sault Ste. Marie",170, ,0,0,0,215,416,"Grand View Public School",20071010
+079,SAULT STE. MARIE,37,0,186,13,2,"Sault Ste. Marie",171, ,0,0,0,238,435,"Grand View Public School",20071010
+079,SAULT STE. MARIE,52,4,152,24,10,"Sault Ste. Marie",172, ,1,0,0,243,433,"Grand View Public School",20071010
+079,SAULT STE. MARIE,33,4,75,5,5,"Sault Ste. Marie",173, ,1,0,0,123,342,"Grand View Public School",20071010
+079,SAULT STE. MARIE,46,4,182,14,9,"Sault Ste. Marie",174, ,2,0,0,257,466,"Parkland Public School",20071010
+079,SAULT STE. MARIE,39,6,109,20,3,"Sault Ste. Marie",175, ,0,0,0,177,361,"Parkland Public School",20071010
+079,SAULT STE. MARIE,57,7,116,21,7,"Sault Ste. Marie",176, ,1,0,0,209,392,"Parkland Public School",20071010
+079,SAULT STE. MARIE,19,0,28,1,2,"Sault Ste. Marie",177s, ,0,0,0,50,134,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,10,1,18,0,1,"Sault Ste. Marie",178, ,1,0,0,31,60,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,7,1,38,4,1,"Sault Ste. Marie",179s, ,0,0,0,51,69,"Villa Santa Maria",20071010
+079,SAULT STE. MARIE,33,1,43,3,1,"Sault Ste. Marie",180s, ,1,0,0,82,114,"70 East Street Senior' Apartments",20071010
+079,SAULT STE. MARIE,29,1,43,3,3,"Sault Ste. Marie",181, ,1,0,0,80,152,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,9,3,13,2,2,"Sault Ste. Marie",182, ,0,0,0,29,114,"St. Andrew's Church - 712 Wellington Street East",20071010
+079,SAULT STE. MARIE,39,3,25,3,11,"Sault Ste. Marie",183, ,0,0,0,81,242,"St. Andrew's Church - 712 Wellington Street East",20071010
+079,SAULT STE. MARIE,42,2,54,8,9,"Sault Ste. Marie",184, ,0,0,0,115,250,"Zion Lutheran Church",20071010
+079,SAULT STE. MARIE,2,2,4,0,0,"Sault Ste. Marie",185s, ,1,0,1,10,10,"Sault Area Hospital",20071010
+079,SAULT STE. MARIE,32,0,71,6,9,"Sault Ste. Marie",186, ,0,0,0,118,251,"Zion Lutheran Church",20071010
+079,SAULT STE. MARIE,18,3,86,9,5,"Sault Ste. Marie",187, ,0,0,1,122,233,"Queen Elizabeth Public School",20071010
+079,SAULT STE. MARIE,45,1,121,14,16,"Sault Ste. Marie",188, ,0,0,0,197,356,"Queen Elizabeth Public School",20071010
+079,SAULT STE. MARIE,34,1,114,13,9,"Sault Ste. Marie",189, ,1,0,0,172,347,"Queen Elizabeth Public School",20071010
+079,SAULT STE. MARIE,30,1,131,16,8,"Sault Ste. Marie",190, ,1,0,0,187,342,"Queen Elizabeth Public School",20071010
+079,SAULT STE. MARIE,34,4,136,5,12,"Sault Ste. Marie",191, ,0,2,0,193,354,"St. Mark Catholic School",20071010
+079,SAULT STE. MARIE,5,0,5,1,3,"Sault Ste. Marie",192, ,0,0,0,14,23,"Algoma College - George Leach Centre",20071010
+079,SAULT STE. MARIE,29,1,166,18,20,"Sault Ste. Marie",193, ,0,0,0,234,453,"Algoma College - George Leach Centre",20071010
+079,SAULT STE. MARIE,26,1,198,18,10,"Sault Ste. Marie",194, ,2,0,0,255,466,"St. Patrick Catholic School",20071010
+079,SAULT STE. MARIE,15,0,151,23,14,"Sault Ste. Marie",195, ,0,0,0,203,387,"Sister Mary Clare Catholic School",20071010
+079,SAULT STE. MARIE,52,2,149,14,9,"Sault Ste. Marie",196, ,0,0,0,226,432,"Sister Mary Clare Catholic School",20071010
+079,SAULT STE. MARIE,18,1,138,17,17,"Sault Ste. Marie",197, ,1,0,0,192,324,"Sister Mary Clare Catholic School",20071010
+079,SAULT STE. MARIE,29,3,124,9,20,"Sault Ste. Marie",198, ,0,1,0,186,398,"Algoma College - George Leach Centre",20071010
+079,SAULT STE. MARIE,35,2,123,18,18,"Sault Ste. Marie",199, ,0,0,0,196,393,"Algoma College - George Leach Centre",20071010
+079,SAULT STE. MARIE,24,3,159,18,8,"Sault Ste. Marie",200, ,0,0,0,212,381,"Algoma College - George Leach Centre",20071010
+079,SAULT STE. MARIE,26,2,134,14,9,"Sault Ste. Marie",201, ,0,2,0,187,304,"R. M. Moore Public School",20071010
+079,SAULT STE. MARIE,43,2,48,4,1,"Sault Ste. Marie",400, ,0,0,0,98,134,"Columbus Club Apartments",20071010
+079,SAULT STE. MARIE,26,4,59,4,3,"Sault Ste. Marie",401, ,0,0,0,96,151,"Campbell Place Apartments",20071010
+079,SAULT STE. MARIE,9,1,57,13,3,"Sault Ste. Marie",402, ,0,0,0,83,124,"Harbourview Condominium",20071010
+079,SAULT STE. MARIE,14,0,63,14,1,"Sault Ste. Marie",403, ,0,0,0,92,132,"St. Bernard's Condominiums",20071010
+079,SAULT STE. MARIE,497,46,1379,232,97,"Sault Ste. Marie",Advanced Polls /  ADV001, ,5,1,0,2257,0,"Returning Office / Bureau du directeur du scrutin",20071010
+079,SAULT STE. MARIE,123,10,312,49,29,"Sault Ste. Marie",Advanced Polls /  ADV002, ,0,1,0,524,0,"St. Andrew's Church - 712 Wellington Street East",20071010
+079,SAULT STE. MARIE,128,5,278,33,16,"Sault Ste. Marie",Advanced Polls /  ADV003, ,2,1,0,463,0,"Seniors Drop-In Centre - 619 Bay Street",20071010
+079,SAULT STE. MARIE,91,8,201,36,21,"Sault Ste. Marie",Advanced Polls /  ADV004, ,1,0,1,359,0,"Cara Community - 31 Old Garden River Road",20071010
+079,SAULT STE. MARIE,84,9,213,32,13,"Sault Ste. Marie",Advanced Polls /  ADV005, ,0,0,0,351,0,"Bethany Baptist Church - 1074 Second Line",20071010
+TOTALS:, ,8475,605,19316,2349,1377, , , , , , , , , , 

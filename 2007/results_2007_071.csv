@@ -1,0 +1,299 @@
+ED_CODE,ED_NAME,FITZPATRICK,LEAL,MORGAN,NICKLE,STUCKY,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+071,PETERBOROUGH,9,9,1,9,1,"Apsley",001, ,0,0,0,29,46,"Anchorage Marina",20071010
+071,PETERBOROUGH,38,20,0,18,10,"Havelock",002, ,0,0,0,86,142,"Edmonds Residence",20071010
+071,PETERBOROUGH,19,5,0,3,4,"Lakefield",003, ,0,0,0,31,117,"Irwin Inn",20071010
+071,PETERBOROUGH,81,65,0,40,18,"Havelock",004, ,0,0,0,204,344,"Cordova Mines Community Centre",20071010
+071,PETERBOROUGH,52,51,7,15,12,"Lakefield",005, ,1,1,0,139,284,"Wesley United Church",20071010
+071,PETERBOROUGH,56,59,2,25,16,"Young's Point",006, ,0,0,0,158,308,"Young's Point United Church",20071010
+071,PETERBOROUGH,47,45,2,16,12,"Warsaw",007, ,0,0,0,122,214,"Douro-Dummer Municipal Office",20071010
+071,PETERBOROUGH,56,43,5,17,10,"Lakefield",008, ,0,0,0,131,249,"Irwin Inn",20071010
+071,PETERBOROUGH,49,82,4,22,12,"Lakefield",009, ,0,0,0,169,355,"Wesley United Church",20071010
+071,PETERBOROUGH,34,49,0,26,6,"Warsaw",010, ,0,0,0,115,257,"Douro-Dummer Municipal Office",20071010
+071,PETERBOROUGH,44,66,4,21,16,"Lakefield",012, ,1,0,0,152,320,"Wesley United Church",20071010
+071,PETERBOROUGH,61,91,2,39,20,"Young's Point",013, ,0,0,0,213,394,"Young's Point United Church",20071010
+071,PETERBOROUGH,52,58,0,26,21,"Havelock",014, ,0,2,2,161,336,"Havelock-Belmont Public School",20071010
+071,PETERBOROUGH,80,89,0,38,14,"Havelock",015, ,1,1,0,223,490,"Belmont Women's Institute Hall",20071010
+071,PETERBOROUGH,20,64,4,46,15,"Curve Lake",016, ,0,1,0,150,364,"Curve Lake First Nation Community Centre",20071010
+071,PETERBOROUGH,16,75,2,42,7,"Curve Lake",017, ,0,0,0,142,357,"Curve Lake First Nation Community Centre",20071010
+071,PETERBOROUGH,54,78,8,23,14,"Young's Point",018, ,0,0,0,177,310,"Young's Point United Church",20071010
+071,PETERBOROUGH,48,48,2,31,12,"Warsaw",019, ,0,0,0,141,259,"Warsaw Public School",20071010
+071,PETERBOROUGH,62,55,3,28,23,"Norwood",020, ,4,0,0,175,431,"Norwood District Public School",20071010
+071,PETERBOROUGH,48,44,0,13,8,"Havelock",021, ,0,0,0,113,305,"Havelock-Belmont Public School",20071010
+071,PETERBOROUGH,92,58,3,25,26,"Havelock",022, ,2,0,0,206,420,"Belmont Women's Institute Hall",20071010
+071,PETERBOROUGH,43,43,1,17,19,"Havelock",023, ,1,0,0,124,217,"Belmont Women's Institute Hall",20071010
+071,PETERBOROUGH,50,69,0,17,12,"Ennismore",024, ,1,0,0,149,310,"St. Martin's Roman Catholic Church Hall",20071010
+071,PETERBOROUGH,67,67,0,20,10,"Ennismore",025, ,0,0,0,164,369,"St. Martin's Roman Catholic Church Hall",20071010
+071,PETERBOROUGH,56,69,1,22,17,"Young's Point",026, ,1,1,0,167,405,"Young's Point United Church",20071010
+071,PETERBOROUGH,49,79,4,37,24,"Lakefield",027, ,0,0,0,193,321,"Ridpath Junior Public School",20071010
+071,PETERBOROUGH,49,75,0,34,11,"Warsaw",028, ,0,0,0,169,284,"Warsaw Public School",20071010
+071,PETERBOROUGH,40,61,1,22,11,"Havelock",029, ,0,0,0,135,338,"Rebekah/Oddfellows Hall",20071010
+071,PETERBOROUGH,46,56,2,24,11,"Havelock",030, ,0,0,0,139,349,"Rebekah/Oddfellows Hall",20071010
+071,PETERBOROUGH,79,92,1,32,16,"Ennismore",031, ,1,1,0,222,401,"St. Martin's Roman Catholic Church Hall",20071010
+071,PETERBOROUGH,47,81,3,20,15,"Ennismore",032, ,0,0,0,166,392,"St. Martin's School",20071010
+071,PETERBOROUGH,48,60,5,33,21,"Lakefield",033, ,1,0,0,168,307,"St. Paul's School",20071010
+071,PETERBOROUGH,8,15,2,3,0,"Lakefield",034s, ,0,1,0,29,100,"Extendicare Lakefield",20071010
+071,PETERBOROUGH,42,73,0,35,17,"Lakefield",035, ,0,0,0,167,290,"St. Paul's School",20071010
+071,PETERBOROUGH,28,41,4,23,11,"Lakefield",036, ,0,0,0,107,271,"Ridpath Junior Public School",20071010
+071,PETERBOROUGH,41,69,0,29,6,"Lakefield",037, ,0,0,0,145,303,"Ridpath Junior Public School",20071010
+071,PETERBOROUGH,48,96,0,36,12,"Lakefield",038, ,0,0,0,192,352,"Ridpath Junior Public School",20071010
+071,PETERBOROUGH,60,91,4,47,13,"Lakefield",039, ,0,0,0,215,405,"Ridpath Junior Public School",20071010
+071,PETERBOROUGH,54,102,2,28,13,"Warsaw",040, ,0,1,0,200,314,"Warsaw Public School",20071010
+071,PETERBOROUGH,44,54,1,30,17,"Norwood",041, ,0,0,0,146,399,"St. Paul's School",20071010
+071,PETERBOROUGH,40,52,1,23,17,"Havelock",042, ,0,0,0,133,298,"Rebekah/Oddfellows Hall",20071010
+071,PETERBOROUGH,62,111,1,30,7,"Ennismore",043, ,2,1,0,214,381,"St. Martin's Roman Catholic Church Hall",20071010
+071,PETERBOROUGH,51,109,1,26,14,"Ennismore",044, ,0,0,0,201,435,"St. Martin's School",20071010
+071,PETERBOROUGH,38,73,0,17,10,"Lakefield",045, ,0,0,0,138,282,"St. Paul's School",20071010
+071,PETERBOROUGH,68,67,0,26,6,"Peterborough",046, ,0,0,0,167,322,"Wayside Academy",20071010
+071,PETERBOROUGH,34,57,4,30,24,"Lakefield",047, ,0,0,0,149,285,"St. Paul's School",20071010
+071,PETERBOROUGH,32,50,5,14,12,"Norwood",048, ,0,0,0,113,255,"St. Paul's School",20071010
+071,PETERBOROUGH,38,61,0,21,10,"Norwood",049, ,1,0,0,131,295,"Norwood District Public School",20071010
+071,PETERBOROUGH,45,100,0,28,11,"Norwood",050, ,0,0,0,184,369,"Norwood District Public School",20071010
+071,PETERBOROUGH,45,81,1,17,14,"Ennismore",051, ,1,0,1,160,330,"Causeway Christian Assembly",20071010
+071,PETERBOROUGH,51,85,3,33,13,"Ennismore",052, ,0,0,0,185,393,"St. Martin's School",20071010
+071,PETERBOROUGH,66,83,2,33,12,"Bridgenorth",053, ,0,0,0,196,355,"Chemong Public School",20071010
+071,PETERBOROUGH,47,74,0,31,13,"Bridgenorth",054, ,0,0,0,165,320,"Chemong Public School",20071010
+071,PETERBOROUGH,81,67,3,35,27,"Peterborough",055, ,0,0,0,213,396,"Wayside Academy",20071010
+071,PETERBOROUGH,98,169,11,42,10,"Douro",056, ,0,2,0,332,479,"St. Joseph's School",20071010
+071,PETERBOROUGH,55,66,3,29,11,"Norwood",057, ,0,0,0,164,320,"St. Paul's School",20071010
+071,PETERBOROUGH,33,51,1,19,14,"Norwood",058, ,0,0,0,118,297,"St. Paul's School",20071010
+071,PETERBOROUGH,21,16,0,4,0,"Norwood",059s, ,1,0,0,42,59,"Maple View Retirement Centre",20071010
+071,PETERBOROUGH,5,18,1,1,1,"Norwood",060s, ,2,0,0,28,58,"Pleasant Meadow Manor",20071010
+071,PETERBOROUGH,61,99,0,41,12,"Norwood",061, ,0,0,0,213,367,"Norwood District Public School",20071010
+071,PETERBOROUGH,74,70,0,13,17,"Ennismore",062, ,0,0,0,174,337,"Causeway Christian Assembly",20071010
+071,PETERBOROUGH,74,124,5,21,19,"Bridgenorth",063, ,0,2,0,245,476,"Chemong Public School",20071010
+071,PETERBOROUGH,46,74,2,10,18,"Bridgenorth",064, ,1,0,0,151,308,"Chemong Public School",20071010
+071,PETERBOROUGH,71,76,4,19,5,"Bridgenorth",065, ,0,0,0,175,326,"Chemong Public School",20071010
+071,PETERBOROUGH,46,75,0,27,9,"Peterborough",066, ,1,0,0,158,266,"Wayside Academy",20071010
+071,PETERBOROUGH,43,126,1,29,16,"Peterborough",067, ,0,1,0,216,356,"Wayside Academy",20071010
+071,PETERBOROUGH,31,98,1,115,55,"Peterborough",068, ,2,3,0,305,448,"Peter Gzowski College - Trent University",20071010
+071,PETERBOROUGH,70,114,5,45,25,"Peterborough",069, ,0,0,0,259,432,"Baker's Hill Banquet Centre",20071010
+071,PETERBOROUGH,19,49,2,13,19,"Warsaw",070, ,0,1,0,103,226,"Warsaw Public School",20071010
+071,PETERBOROUGH,83,74,1,22,9,"Ennismore",071, ,0,0,0,189,378,"Causeway Christian Assembly",20071010
+071,PETERBOROUGH,59,68,2,21,18,"Bridgenorth",072, ,0,0,0,168,348,"Chemong Public School",20071010
+071,PETERBOROUGH,87,102,4,25,10,"Peterborough",073, ,0,0,0,228,434,"Gilmour Memorial Baptist Church",20071010
+071,PETERBOROUGH,71,159,7,50,17,"Peterborough",074, ,0,1,0,305,441,"R. F. Downey Public School",20071010
+071,PETERBOROUGH,59,93,2,30,19,"Peterborough",075, ,0,0,0,203,368,"Wayside Academy",20071010
+071,PETERBOROUGH,62,129,6,41,21,"Peterborough",076, ,1,0,0,260,397,"R. F. Downey Public School",20071010
+071,PETERBOROUGH,48,110,0,43,19,"Peterborough",077, ,0,0,0,220,383,"Edmison Heights Public School",20071010
+071,PETERBOROUGH,54,110,0,33,17,"Peterborough",078, ,0,0,0,214,358,"Edmison Heights Public School",20071010
+071,PETERBOROUGH,49,131,1,38,21,"Peterborough",079, ,0,2,0,242,370,"Edmison Heights Public School",20071010
+071,PETERBOROUGH,15,15,1,9,1,"Peterborough",080s, ,0,0,0,41,126,"Riverview Manor",20071010
+071,PETERBOROUGH,57,137,9,22,18,"Peterborough",081, ,3,0,0,246,405,"Edmison Heights Public School",20071010
+071,PETERBOROUGH,33,56,4,21,4,"Peterborough",082, ,0,0,0,118,259,"Edmison Heights Public School",20071010
+071,PETERBOROUGH,26,67,3,14,7,"Peterborough",083, ,0,1,0,118,223,"Thomas A. Stewart Secondary School",20071010
+071,PETERBOROUGH,61,131,0,10,17,"Peterborough",084, ,0,0,0,219,398,"Peter Gzowski College - Trent University",20071010
+071,PETERBOROUGH,73,138,2,23,16,"Peterborough",085, ,0,1,0,253,447,"Thomas A. Stewart Secondary School",20071010
+071,PETERBOROUGH,65,125,3,48,19,"Peterborough",086, ,0,0,0,260,422,"Baker's Hill Banquet Centre",20071010
+071,PETERBOROUGH,45,48,1,16,15,"Indian River",087, ,0,0,0,125,218,"Villiers Community Centre",20071010
+071,PETERBOROUGH,46,86,1,14,20,"Indian River",088, ,0,0,0,167,370,"Villiers Community Centre",20071010
+071,PETERBOROUGH,56,74,2,20,6,"Peterborough",089, ,0,0,0,158,353,"Gilmour Memorial Baptist Church",20071010
+071,PETERBOROUGH,66,94,3,26,14,"Peterborough",090, ,0,0,0,203,368,"Milroy Place",20071010
+071,PETERBOROUGH,36,103,3,36,20,"Peterborough",091, ,0,2,0,200,361,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,31,64,1,19,12,"Peterborough",092, ,0,0,0,127,299,"Highland Heights Public School",20071010
+071,PETERBOROUGH,25,79,1,21,17,"Peterborough",093, ,5,0,0,148,295,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,29,60,1,31,7,"Peterborough",094, ,0,0,0,128,303,"Milroy Place",20071010
+071,PETERBOROUGH,46,87,4,38,10,"Peterborough",095, ,0,1,0,186,350,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,64,81,1,27,13,"Peterborough",096, ,1,2,2,191,375,"Milroy Place",20071010
+071,PETERBOROUGH,31,77,0,18,17,"Peterborough",097, ,0,0,0,143,278,"Highland Heights Public School",20071010
+071,PETERBOROUGH,33,67,2,39,20,"Peterborough",098, ,0,0,0,161,345,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,66,108,1,21,13,"Peterborough",099, ,0,0,0,209,379,"R. F. Downey Public School",20071010
+071,PETERBOROUGH,24,107,3,38,22,"Peterborough",100, ,1,0,0,195,374,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,32,96,2,36,8,"Peterborough",101, ,2,0,0,176,301,"St. Anne's School",20071010
+071,PETERBOROUGH,8,21,0,14,2,"Peterborough",102s, ,0,0,0,45,88,"Towerhill Village",20071010
+071,PETERBOROUGH,49,105,3,35,21,"Peterborough",103, ,0,2,0,215,383,"St. Paul's School",20071010
+071,PETERBOROUGH,20,67,5,24,13,"Peterborough",104, ,0,0,0,129,326,"Christ Evangelical Lutheran Church",20071010
+071,PETERBOROUGH,33,113,5,22,24,"Peterborough",105, ,1,1,0,199,324,"St. Anne's School",20071010
+071,PETERBOROUGH,15,74,7,25,15,"Peterborough",106, ,0,2,0,138,312,"St. Andrew's United Church",20071010
+071,PETERBOROUGH,48,104,0,33,17,"Peterborough",107, ,2,0,0,204,365,"St. Anne's School",20071010
+071,PETERBOROUGH,24,86,4,43,25,"Peterborough",108, ,0,1,0,183,331,"Queen Elizabeth Public School",20071010
+071,PETERBOROUGH,6,19,5,1,1,"Peterborough",109s, ,0,0,0,32,44,"Hillmar Apartments",20071010
+071,PETERBOROUGH,32,80,0,27,4,"Peterborough",110, ,0,0,0,143,239,"St. Paul's School",20071010
+071,PETERBOROUGH,44,111,3,42,24,"Peterborough",111, ,0,0,0,224,394,"Queen Elizabeth Public School",20071010
+071,PETERBOROUGH,10,39,0,56,25,"Peterborough",112, ,2,0,0,132,296,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,30,81,2,51,33,"Peterborough",113, ,1,1,0,199,416,"Queen Elizabeth Public School",20071010
+071,PETERBOROUGH,31,71,1,29,19,"Peterborough",114, ,0,0,0,151,276,"St. Paul's School",20071010
+071,PETERBOROUGH,9,42,2,51,20,"Peterborough",115, ,0,1,0,125,299,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,40,82,1,29,14,"Peterborough",116, ,0,0,0,166,332,"St. Paul's School",20071010
+071,PETERBOROUGH,21,51,1,48,21,"Peterborough",117, ,1,0,0,143,362,"Queen Elizabeth Public School",20071010
+071,PETERBOROUGH,19,49,1,10,0,"Peterborough",118s, ,3,0,3,85,245,"Fairhaven",20071010
+071,PETERBOROUGH,4,31,0,43,22,"Peterborough",119, ,0,0,0,100,233,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,12,27,1,9,2,"Peterborough",120s, ,0,0,0,51,99,"Peterborough Manor",20071010
+071,PETERBOROUGH,10,45,3,38,12,"Peterborough",121, ,2,0,0,110,264,"Queen Elizabeth Public School",20071010
+071,PETERBOROUGH,35,59,2,32,16,"Peterborough",122, ,1,1,0,146,315,"St. Luke's Anglican Church",20071010
+071,PETERBOROUGH,61,68,2,18,6,"Peterborough",123, ,1,0,0,156,223,"Auburn Village",20071010
+071,PETERBOROUGH,21,54,2,26,13,"Peterborough",124, ,0,1,0,117,236,"Mark Street United Church",20071010
+071,PETERBOROUGH,69,136,8,55,24,"Peterborough",125, ,1,1,0,294,614,"Auburn Village",20071010
+071,PETERBOROUGH,44,82,0,20,11,"Peterborough",126, ,0,0,0,157,263,"Thomas A. Stewart Secondary School",20071010
+071,PETERBOROUGH,41,76,2,36,15,"Peterborough",127, ,0,0,0,170,341,"St. Luke's Anglican Church",20071010
+071,PETERBOROUGH,31,96,2,45,28,"Peterborough",128, ,0,0,0,202,412,"St. Luke's Anglican Church",20071010
+071,PETERBOROUGH,59,120,6,31,17,"Peterborough",129, ,0,1,0,234,418,"Baker's Hill Banquet Centre",20071010
+071,PETERBOROUGH,49,137,8,55,32,"Peterborough",130, ,0,0,0,281,568,"Armour Heights Public School",20071010
+071,PETERBOROUGH,19,42,0,8,4,"Peterborough",131, ,0,0,0,73,139,"Armour Heights Public School",20071010
+071,PETERBOROUGH,13,25,2,11,4,"Peterborough",132, ,0,0,0,55,134,"Free Methodist Church",20071010
+071,PETERBOROUGH,33,43,1,9,7,"Peterborough",133, ,0,0,0,93,186,"Milroy Place",20071010
+071,PETERBOROUGH,34,53,0,7,6,"Peterborough",134, ,0,1,0,101,210,"Immanuel Alliance Church",20071010
+071,PETERBOROUGH,78,185,0,26,18,"Peterborough",135, ,1,0,0,308,516,"St. Catherine School",20071010
+071,PETERBOROUGH,75,97,0,11,14,"Peterborough",136, ,0,0,0,197,320,"St. Catherine School",20071010
+071,PETERBOROUGH,59,71,0,17,5,"Peterborough",137, ,0,0,0,152,283,"St. Catherine School",20071010
+071,PETERBOROUGH,53,153,1,24,21,"Peterborough",138, ,0,0,0,252,459,"St. Catherine School",20071010
+071,PETERBOROUGH,32,56,1,8,3,"Peterborough",139s, ,1,0,0,101,127,"Sherbrooke Heights",20071010
+071,PETERBOROUGH,64,157,1,10,22,"Peterborough",140, ,1,0,0,255,458,"St. Teresa's School",20071010
+071,PETERBOROUGH,49,118,5,18,18,"Peterborough",141, ,0,0,0,208,358,"St. Peter's Secondary School",20071010
+071,PETERBOROUGH,59,116,1,19,21,"Peterborough",142, ,1,0,0,217,354,"St. Catherine School",20071010
+071,PETERBOROUGH,61,151,1,27,16,"Peterborough",143, ,0,1,0,257,446,"St. Catherine School",20071010
+071,PETERBOROUGH,55,169,3,25,44,"Peterborough",144, ,1,0,0,297,448,"St. Teresa's School",20071010
+071,PETERBOROUGH,54,112,1,31,33,"Peterborough",145, ,0,0,0,231,393,"St. Teresa's School",20071010
+071,PETERBOROUGH,48,108,2,43,17,"Peterborough",146, ,0,0,0,218,479,"St. Peter's Secondary School",20071010
+071,PETERBOROUGH,20,80,5,15,20,"Peterborough",147, ,0,0,0,140,296,"St. Teresa's School",20071010
+071,PETERBOROUGH,37,124,2,19,16,"Peterborough",148, ,0,0,0,198,296,"St. Peter's Secondary School",20071010
+071,PETERBOROUGH,6,27,0,17,7,"Peterborough",149, ,0,1,0,58,190,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,13,28,2,10,1,"Peterborough",150s, ,0,1,1,56,156,"Extendicare Peterborough",20071010
+071,PETERBOROUGH,17,65,1,29,6,"Peterborough",151, ,0,0,0,118,308,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,28,64,3,25,2,"Peterborough",152, ,0,0,0,122,284,"St. Peter's Secondary School",20071010
+071,PETERBOROUGH,30,75,0,19,5,"Peterborough",153, ,0,1,0,130,245,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,1,30,2,0,0,"Peterborough",154s, ,0,0,0,33,47,"Mount St. Joseph Infirmary",20071010
+071,PETERBOROUGH,3,43,0,7,2,"Peterborough",155s, ,1,0,0,56,67,"Marycrest At Inglewood",20071010
+071,PETERBOROUGH,45,113,0,38,27,"Peterborough",156, ,0,0,0,223,423,"Beth Israel Synagogue",20071010
+071,PETERBOROUGH,33,53,1,13,5,"Peterborough",157s, ,0,0,0,105,167,"Royal Gardens Retirement Community",20071010
+071,PETERBOROUGH,28,83,0,57,32,"Peterborough",158, ,0,0,0,200,413,"Beth Israel Synagogue",20071010
+071,PETERBOROUGH,23,70,0,36,19,"Peterborough",159, ,0,2,1,151,317,"St. Peter's Secondary School",20071010
+071,PETERBOROUGH,44,122,4,41,29,"Peterborough",160, ,0,0,0,240,402,"Beth Israel Synagogue",20071010
+071,PETERBOROUGH,28,79,2,39,20,"Peterborough",161, ,0,0,0,168,397,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,24,67,2,54,40,"Peterborough",162, ,0,0,0,187,372,"Beth Israel Synagogue",20071010
+071,PETERBOROUGH,31,89,3,31,11,"Peterborough",163, ,0,1,0,166,356,"Keith Wightman Public School",20071010
+071,PETERBOROUGH,44,78,2,56,42,"Peterborough",164, ,0,0,0,222,379,"Bishop Doyle Hall - Knights of Columbus",20071010
+071,PETERBOROUGH,12,54,0,45,34,"Peterborough",165, ,0,0,0,145,322,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,11,34,2,41,15,"Peterborough",166, ,0,0,0,103,274,"St. Andrew's United Church",20071010
+071,PETERBOROUGH,24,41,1,42,15,"Peterborough",167, ,0,0,0,123,305,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,12,32,3,21,3,"Peterborough",168s, ,0,0,0,71,105,"Brooklawn Seniors Centre",20071010
+071,PETERBOROUGH,20,76,0,52,51,"Peterborough",169, ,1,0,0,200,378,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,12,44,2,46,19,"Peterborough",170, ,1,0,0,124,275,"Bishop Doyle Hall - Knights of Columbus",20071010
+071,PETERBOROUGH,23,28,0,1,3,"Peterborough",171s, ,2,0,1,58,75,"Jackson Creek Retirement Residence",20071010
+071,PETERBOROUGH,19,47,1,31,21,"Peterborough",172, ,0,1,0,120,310,"Knox United Church",20071010
+071,PETERBOROUGH,5,35,0,35,9,"Peterborough",173, ,2,0,0,86,283,"St. Andrew's United Church",20071010
+071,PETERBOROUGH,21,57,6,28,9,"Peterborough",174, ,1,0,0,122,216,"Bishop Doyle Hall - Knights of Columbus",20071010
+071,PETERBOROUGH,26,59,2,27,17,"Peterborough",175, ,0,0,0,131,292,"St. Alphonsus School",20071010
+071,PETERBOROUGH,18,39,4,40,22,"Peterborough",176, ,0,0,0,123,339,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,2,7,0,2,2,"Peterborough",177s, ,0,0,1,14,14,"Hillstead Retirement Residence",20071010
+071,PETERBOROUGH,12,30,1,32,25,"Peterborough",178, ,0,0,0,100,290,"Bishop Doyle Hall - Knights of Columbus",20071010
+071,PETERBOROUGH,9,43,2,4,1,"Peterborough",179s, ,2,2,0,63,95,"Rubidge Retirement Residence",20071010
+071,PETERBOROUGH,8,25,2,39,16,"Peterborough",180, ,0,0,0,90,260,"Knox United Church",20071010
+071,PETERBOROUGH,7,24,0,21,18,"Peterborough",181, ,0,0,0,70,223,"Peterborough Public Library",20071010
+071,PETERBOROUGH,11,39,0,52,15,"Peterborough",182, ,3,0,0,120,272,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,16,33,0,8,2,"Peterborough",183s, ,0,0,0,59,85,"The Kingsford",20071010
+071,PETERBOROUGH,12,31,1,39,29,"Peterborough",184, ,0,1,0,113,255,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,6,27,1,32,9,"Peterborough",185, ,0,0,0,75,243,"Peterborough Public Library",20071010
+071,PETERBOROUGH,17,36,3,25,6,"Peterborough",186, ,0,1,0,88,305,"Knox United Church",20071010
+071,PETERBOROUGH,6,18,2,30,17,"Peterborough",187, ,0,0,0,73,225,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,13,48,3,28,21,"Peterborough",188, ,1,0,0,114,310,"St. James United Church",20071010
+071,PETERBOROUGH,5,29,1,20,19,"Peterborough",189, ,0,0,0,74,230,"Knox United Church",20071010
+071,PETERBOROUGH,20,56,3,35,11,"Peterborough",190, ,0,0,0,125,248,"St. James United Church",20071010
+071,PETERBOROUGH,12,25,1,15,10,"Peterborough",191, ,0,0,0,63,203,"All Saints' Anglican Church Parish Hall",20071010
+071,PETERBOROUGH,20,30,1,4,3,"Peterborough",192s, ,0,1,0,59,89,"Empress Gardens Retirement Residence",20071010
+071,PETERBOROUGH,10,42,2,25,7,"Peterborough",193s, ,2,0,2,90,130,"Weslake Tower",20071010
+071,PETERBOROUGH,17,36,2,2,4,"Peterborough",194s, ,0,0,0,61,131,"Princess Gardens Retirement Residence",20071010
+071,PETERBOROUGH,21,41,0,41,30,"Peterborough",195, ,1,1,0,135,250,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,7,46,2,65,21,"Peterborough",196, ,1,0,0,142,254,"St. Paul's Presbyterian Church",20071010
+071,PETERBOROUGH,31,49,1,20,9,"Peterborough",197, ,0,0,0,110,269,"St. James United Church",20071010
+071,PETERBOROUGH,30,88,3,25,32,"Peterborough",198, ,1,1,0,180,314,"Immaculate Conception School",20071010
+071,PETERBOROUGH,20,92,1,31,25,"Peterborough",199, ,1,0,0,170,331,"Mark Street United Church",20071010
+071,PETERBOROUGH,37,89,2,33,20,"Peterborough",200, ,0,0,1,182,312,"Immaculate Conception School",20071010
+071,PETERBOROUGH,14,84,0,19,10,"Peterborough",201, ,0,0,0,127,284,"St. James United Church",20071010
+071,PETERBOROUGH,31,87,1,21,18,"Peterborough",202, ,0,0,0,158,309,"Immaculate Conception School",20071010
+071,PETERBOROUGH,2,7,1,1,0,"Peterborough",203s, ,0,0,0,11,21,"Peterborough Regional Health Centre-Rogers Street",20071010
+071,PETERBOROUGH,39,61,3,36,28,"Peterborough",205, ,0,1,0,168,331,"Immaculate Conception School",20071010
+071,PETERBOROUGH,28,59,3,20,13,"Peterborough",206, ,0,0,0,123,301,"Monsignor O'Donoghue School",20071010
+071,PETERBOROUGH,53,99,3,36,7,"Peterborough",207, ,0,1,0,199,388,"Monsignor O'Donoghue School",20071010
+071,PETERBOROUGH,47,130,6,51,13,"Peterborough",208, ,0,2,0,249,431,"Monsignor O'Donoghue School",20071010
+071,PETERBOROUGH,47,132,3,18,15,"Peterborough",209, ,0,0,0,215,421,"Monsignor O'Donoghue School",20071010
+071,PETERBOROUGH,43,73,1,27,9,"Peterborough",210, ,0,0,0,153,352,"Free Methodist Church",20071010
+071,PETERBOROUGH,59,72,3,17,7,"Peterborough",211, ,0,0,0,158,310,"Free Methodist Church",20071010
+071,PETERBOROUGH,27,47,1,21,12,"Indian River",212, ,1,1,0,110,243,"Villiers Community Centre",20071010
+071,PETERBOROUGH,57,100,4,15,8,"Peterborough",213, ,0,0,1,185,366,"Immanuel Alliance Church",20071010
+071,PETERBOROUGH,42,108,0,10,19,"Peterborough",214, ,0,1,0,180,374,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,46,87,1,26,13,"Peterborough",215, ,0,0,0,173,367,"Kawartha Shrine Centre",20071010
+071,PETERBOROUGH,54,105,1,8,11,"Peterborough",216, ,0,0,0,179,383,"Kawartha Shrine Centre",20071010
+071,PETERBOROUGH,35,80,1,17,10,"Peterborough",217, ,1,0,0,144,359,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,47,114,0,12,10,"Peterborough",218, ,0,0,0,183,303,"Immanuel Alliance Church",20071010
+071,PETERBOROUGH,53,107,0,26,13,"Peterborough",219, ,0,0,0,199,390,"Kawartha Shrine Centre",20071010
+071,PETERBOROUGH,33,115,4,27,7,"Peterborough",220, ,0,0,0,186,365,"Westdale United Church",20071010
+071,PETERBOROUGH,44,83,0,20,5,"Peterborough",221, ,0,0,0,152,346,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,46,99,2,33,9,"Peterborough",222, ,0,1,0,190,334,"Westdale United Church",20071010
+071,PETERBOROUGH,59,99,2,24,11,"Peterborough",223, ,0,0,0,195,394,"Kawartha Shrine Centre",20071010
+071,PETERBOROUGH,55,75,2,15,9,"Peterborough",224, ,1,0,0,157,346,"Calvary Church",20071010
+071,PETERBOROUGH,53,77,1,15,11,"Peterborough",225, ,1,0,0,158,385,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,38,109,3,22,19,"Peterborough",226, ,1,0,0,192,425,"Kawartha Heights Public School",20071010
+071,PETERBOROUGH,57,100,1,38,27,"Peterborough",227, ,0,0,0,223,443,"Kawartha Heights Public School",20071010
+071,PETERBOROUGH,18,43,1,8,1,"Peterborough",228s, ,0,0,0,71,105,"Applewood Manor",20071010
+071,PETERBOROUGH,47,85,1,17,11,"Peterborough",229, ,0,0,0,161,349,"Calvary Church",20071010
+071,PETERBOROUGH,41,73,0,9,10,"Peterborough",230, ,0,0,0,133,232,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,41,96,2,18,19,"Peterborough",231, ,0,0,0,176,314,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,45,134,2,27,15,"Peterborough",232, ,0,0,0,223,384,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,32,69,7,24,15,"Peterborough",233, ,0,0,0,147,259,"Cephas Christian Reformed Church",20071010
+071,PETERBOROUGH,31,36,0,15,7,"Peterborough",234, ,0,1,0,90,237,"Roger Neilson Public School",20071010
+071,PETERBOROUGH,49,118,9,32,21,"Peterborough",235, ,1,0,0,230,460,"Keith Wightman Public School",20071010
+071,PETERBOROUGH,36,75,1,23,12,"Peterborough",236, ,0,1,0,148,360,"Keith Wightman Public School",20071010
+071,PETERBOROUGH,34,54,5,16,12,"Peterborough",237, ,0,0,0,121,370,"Roger Neilson Public School",20071010
+071,PETERBOROUGH,15,51,0,29,12,"Peterborough",238, ,1,0,0,108,270,"Keith Wightman Public School",20071010
+071,PETERBOROUGH,29,61,1,20,12,"Peterborough",239, ,1,0,0,124,304,"St. Alphonsus School",20071010
+071,PETERBOROUGH,27,77,2,14,3,"Peterborough",240, ,0,0,0,123,271,"St. Alphonsus School",20071010
+071,PETERBOROUGH,33,89,1,26,5,"Peterborough",241, ,0,2,0,156,318,"Grace United Church",20071010
+071,PETERBOROUGH,42,107,3,26,11,"Peterborough",242, ,3,0,0,192,409,"Grace United Church",20071010
+071,PETERBOROUGH,41,115,1,35,9,"Peterborough",243, ,0,1,0,202,419,"Roger Neilson Public School",20071010
+071,PETERBOROUGH,25,49,0,22,22,"Peterborough",244, ,0,0,0,118,298,"St. Alphonsus School",20071010
+071,PETERBOROUGH,16,60,2,18,2,"Peterborough",245, ,1,0,0,99,303,"Roger Neilson Public School",20071010
+071,PETERBOROUGH,45,78,0,15,12,"Peterborough",246, ,0,0,0,150,316,"St. John's School",20071010
+071,PETERBOROUGH,32,73,2,38,13,"Peterborough",247, ,0,0,0,158,311,"St. John's School",20071010
+071,PETERBOROUGH,48,73,3,31,12,"Peterborough",248, ,0,1,0,168,341,"Grace United Church",20071010
+071,PETERBOROUGH,36,76,0,28,7,"Peterborough",249, ,0,0,0,147,330,"Grace United Church",20071010
+071,PETERBOROUGH,34,84,5,14,10,"Peterborough",250, ,1,0,0,148,314,"Roger Neilson Public School",20071010
+071,PETERBOROUGH,38,55,1,35,8,"Peterborough",251, ,0,0,0,137,305,"St. James United Church",20071010
+071,PETERBOROUGH,30,80,3,18,7,"Peterborough",252, ,0,2,0,140,326,"St. John's School",20071010
+071,PETERBOROUGH,24,87,1,22,6,"Peterborough",253, ,0,0,0,140,295,"St. John's School",20071010
+071,PETERBOROUGH,35,92,6,50,11,"Peterborough",254, ,1,0,0,195,360,"St. Patrick's School",20071010
+071,PETERBOROUGH,32,107,4,25,19,"Peterborough",255, ,3,0,0,190,339,"St. John's School",20071010
+071,PETERBOROUGH,41,65,0,39,13,"Peterborough",256, ,1,0,0,159,341,"Otonabee Valley Public School",20071010
+071,PETERBOROUGH,20,79,0,26,19,"Peterborough",257, ,0,0,0,144,367,"St. John's School",20071010
+071,PETERBOROUGH,48,139,2,28,13,"Peterborough",258, ,0,0,0,230,413,"Otonabee Valley Public School",20071010
+071,PETERBOROUGH,37,103,1,28,22,"Peterborough",259, ,0,0,0,191,378,"Otonabee Valley Public School",20071010
+071,PETERBOROUGH,52,84,1,28,9,"Peterborough",260, ,2,1,0,177,410,"Otonabee Valley Public School",20071010
+071,PETERBOROUGH,70,117,2,30,18,"Peterborough",261, ,0,0,0,237,437,"St. Patrick's School",20071010
+071,PETERBOROUGH,49,93,1,37,13,"Peterborough",262, ,0,0,0,193,431,"St. Patrick's School",20071010
+071,PETERBOROUGH,33,91,0,23,15,"Peterborough",263, ,0,0,0,162,423,"Otonabee Valley Public School",20071010
+071,PETERBOROUGH,88,97,10,27,25,"Keene",264, ,0,0,0,247,485,"North Shore Public School",20071010
+071,PETERBOROUGH,82,105,1,43,28,"Indian River",265, ,1,0,0,260,447,"Villiers Community Centre",20071010
+071,PETERBOROUGH,37,59,2,25,13,"Peterborough",266, ,0,0,0,136,254,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,15,35,2,3,0,"Peterborough",267s, ,2,0,0,57,197,"St. Joseph's at Fleming",20071010
+071,PETERBOROUGH,39,56,2,19,6,"Peterborough",268, ,1,0,0,123,259,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,71,103,3,30,11,"Peterborough",269, ,3,0,0,221,507,"The Peterborough Sport & Wellness Centre",20071010
+071,PETERBOROUGH,48,79,3,15,12,"Peterborough",270, ,0,0,0,157,338,"St. Patrick's School",20071010
+071,PETERBOROUGH,73,78,4,33,12,"Keene",271, ,1,0,0,201,401,"North Shore Public School",20071010
+071,PETERBOROUGH,64,77,2,38,18,"Keene",272, ,0,1,0,200,340,"North Shore Public School",20071010
+071,PETERBOROUGH,110,83,0,28,6,"Peterborough",273, ,1,0,0,228,340,"Stewart Hall Community Centre",20071010
+071,PETERBOROUGH,96,110,4,27,16,"Peterborough",274, ,0,0,0,253,387,"Stewart Hall Community Centre",20071010
+071,PETERBOROUGH,92,122,4,39,19,"Keene",275, ,2,0,0,278,434,"North Shore Public School",20071010
+071,PETERBOROUGH,62,49,1,37,11,"Bailieboro",276, ,0,2,0,162,341,"South Monaghan Public School",20071010
+071,PETERBOROUGH,57,73,1,22,19,"Bailieboro",277, ,0,0,0,172,325,"South Monaghan Public School",20071010
+071,PETERBOROUGH,34,82,1,37,6,"Keene",278, ,5,0,0,165,313,"Hiawatha First Nation Council Hall",20071010
+071,PETERBOROUGH,70,70,2,27,22,"Bailieboro",279, ,0,1,0,192,382,"South Monaghan Public School",20071010
+071,PETERBOROUGH,26,54,2,21,3,"Peterborough",400, ,0,1,0,107,145,"Cambridge Court",20071010
+071,PETERBOROUGH,13,39,1,28,5,"Peterborough",401, ,0,0,0,86,141,"Kingswood Court North",20071010
+071,PETERBOROUGH,16,54,1,32,6,"Peterborough",402, ,0,0,0,109,186,"Kingswood Court",20071010
+071,PETERBOROUGH,11,28,1,35,8,"Peterborough",403, ,0,0,0,83,132,"Talwood Apartments",20071010
+071,PETERBOROUGH,19,42,1,37,13,"Peterborough",404, ,2,1,0,115,193,"Valley High 2",20071010
+071,PETERBOROUGH,28,75,0,31,10,"Peterborough",405, ,0,0,0,144,182,"Valley High 1",20071010
+071,PETERBOROUGH,13,68,1,38,23,"Peterborough",406, ,2,1,0,146,362,"Otonabee Place - Common Room",20071010
+071,PETERBOROUGH,16,41,1,10,2,"Peterborough",407, ,0,1,0,71,104,"St. John's Centre",20071010
+071,PETERBOROUGH,4,31,1,24,5,"Peterborough",408, ,0,0,0,65,103,"Churchill Manor",20071010
+071,PETERBOROUGH,16,54,0,20,3,"Peterborough",409, ,1,0,0,94,124,"Park Place",20071010
+071,PETERBOROUGH,7,26,1,21,9,"Peterborough",410, ,1,0,0,65,135,"Time Square",20071010
+071,PETERBOROUGH,7,51,0,15,4,"Peterborough",411, ,0,0,0,77,136,"Tarawood Place",20071010
+071,PETERBOROUGH,20,59,2,16,3,"Peterborough",412, ,0,2,0,102,152,"Kawartha Place",20071010
+071,PETERBOROUGH,7,34,0,14,3,"Peterborough",413, ,0,0,0,58,131,"Clonsilla Towers",20071010
+071,PETERBOROUGH,1008,1648,45,333,172,"Peterborough",Advanced Polls /  ADV001, ,6,8,0,3220,0,"Returning Office / Bureau du directeur du scrutin",20071010
+071,PETERBOROUGH,302,644,12,255,153,"Peterborough",Advanced Polls /  ADV002, ,3,0,0,1369,0,"Peterborough Square",20071010
+071,PETERBOROUGH,225,280,12,86,36,"Lakefield",Advanced Polls /  ADV003, ,0,0,0,639,0,"Lakefield Memorial Hall",20071010
+071,PETERBOROUGH,166,203,3,49,15,"Ennismore",Advanced Polls /  ADV004, ,1,2,0,439,0,"Ennismore Branch Library",20071010
+071,PETERBOROUGH,89,147,4,39,23,"Norwood",Advanced Polls /  ADV005, ,1,0,0,303,0,"Asphodel-Norwood Friendship Club",20071010
+071,PETERBOROUGH,168,113,0,41,29,"Havelock",Advanced Polls /  ADV006, ,1,0,0,352,0,"Rebekah/Oddfellows Hall",20071010
+TOTALS:, ,13176,24466,634,8523,4473, , , , , , , , , , 

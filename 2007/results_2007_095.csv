@@ -1,0 +1,240 @@
+ED_CODE,ED_NAME,BISBICIS,BRACKEN,KIDD,KRAEMER,ROWLANDS,SCOTT,TABUNS,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+095,TORONTO--DANFORTH,65,1,3,25,78,0,49,"Toronto",001, ,0,1,0,222,384,"Cosburn Middle School",20071010
+095,TORONTO--DANFORTH,51,1,0,18,65,0,81,"Toronto",002, ,2,0,0,218,392,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,48,0,0,25,74,2,58,"Toronto",003, ,0,0,0,207,362,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,32,0,1,10,73,1,49,"Toronto",004, ,2,1,0,169,365,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,43,0,0,9,62,2,57,"Toronto",005, ,1,0,0,174,333,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,48,0,0,24,68,0,71,"Toronto",006, ,0,0,0,211,383,"Cosburn Middle School",20071010
+095,TORONTO--DANFORTH,30,3,2,27,45,1,50,"Toronto",007, ,0,0,0,158,288,"Cosburn Middle School",20071010
+095,TORONTO--DANFORTH,37,0,0,8,36,0,47,"Toronto",008, ,1,0,0,129,271,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,7,1,2,0,14,1,2,"Toronto",009s, ,1,0,0,28,55,"Ina Grafton Gage Home",20071010
+095,TORONTO--DANFORTH,37,2,1,19,78,1,54,"Toronto",010, ,0,3,0,195,412,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,32,2,0,19,88,2,49,"Toronto",011, ,2,0,0,194,365,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,29,1,6,18,63,2,50,"Toronto",012, ,1,2,0,172,369,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,27,1,2,34,50,2,91,"Toronto",013, ,0,1,0,208,373,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,9,0,2,6,27,0,38,"Toronto",014, ,0,0,0,82,216,"Blair Court",20071010
+095,TORONTO--DANFORTH,33,2,1,25,71,1,67,"Toronto",015, ,0,0,0,200,376,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,45,1,0,22,68,1,83,"Toronto",016, ,1,2,0,223,434,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,22,1,1,21,65,5,58,"Toronto",017, ,1,2,0,176,333,"Cosburn Middle School",20071010
+095,TORONTO--DANFORTH,47,0,2,19,78,2,68,"Toronto",018, ,1,0,0,217,406,"Cosburn Middle School",20071010
+095,TORONTO--DANFORTH,26,1,1,13,54,2,61,"Toronto",019, ,2,0,0,160,327,"East York Civic Centre",20071010
+095,TORONTO--DANFORTH,44,1,0,14,77,1,71,"Toronto",020, ,3,0,0,211,385,"East York Civic Centre",20071010
+095,TORONTO--DANFORTH,34,1,1,21,38,1,44,"Toronto",021, ,0,3,0,143,305,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,13,2,4,4,36,0,34,"Toronto",022, ,1,0,0,94,250,"Westwood Middle School",20071010
+095,TORONTO--DANFORTH,28,2,0,9,49,3,43,"Toronto",023, ,3,0,0,137,307,"East York Community Centre",20071010
+095,TORONTO--DANFORTH,10,0,0,3,19,0,28,"Toronto",024, ,0,0,0,60,210,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,4,0,1,2,10,1,19,"Toronto",025, ,1,2,0,40,161,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,5,0,0,11,12,0,22,"Toronto",026, ,0,0,0,50,242,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,9,1,1,7,21,2,37,"Toronto",027, ,1,0,0,79,209,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,11,0,0,13,25,0,38,"Toronto",028, ,0,0,0,87,256,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,16,1,2,16,55,1,63,"Toronto",029, ,0,3,0,157,401,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,9,0,1,4,43,1,35,"Toronto",030, ,1,0,0,94,231,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,11,0,1,3,24,2,20,"Toronto",031, ,0,0,0,61,213,"Blair Court",20071010
+095,TORONTO--DANFORTH,16,0,4,12,59,2,79,"Toronto",032, ,0,0,1,173,333,"Blair Court",20071010
+095,TORONTO--DANFORTH,22,2,4,4,82,4,82,"Toronto",033, ,2,4,0,206,308,"Blair Court",20071010
+095,TORONTO--DANFORTH,35,0,1,13,74,3,76,"Toronto",034, ,0,0,0,202,402,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,27,5,3,22,72,0,71,"Toronto",035, ,0,1,0,201,426,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,32,0,1,27,59,2,117,"Toronto",036, ,0,0,0,238,427,"East York Civic Centre",20071010
+095,TORONTO--DANFORTH,31,0,0,19,70,1,78,"Toronto",037, ,0,1,0,200,385,"East York Civic Centre",20071010
+095,TORONTO--DANFORTH,32,2,3,19,56,3,54,"Toronto",038, ,5,0,0,174,368,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,......................COMBINED WITH POLL 038 ....................,,,,,,,"Toronto",039s, ,,,,,,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,18,3,0,15,43,0,54,"Toronto",040, ,0,1,0,134,311,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,18,0,1,6,37,4,44,"Toronto",041, ,0,1,0,111,262,"Westwood Middle School",20071010
+095,TORONTO--DANFORTH,19,0,0,16,49,0,53,"Toronto",042, ,1,2,0,140,307,"Westwood Middle School",20071010
+095,TORONTO--DANFORTH,15,1,2,18,47,1,78,"Toronto",043, ,1,2,0,165,381,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,27,5,2,27,62,2,70,"Toronto",044, ,0,1,0,196,418,"Centennial College",20071010
+095,TORONTO--DANFORTH,23,1,0,23,57,1,62,"Toronto",045, ,2,0,0,169,358,"Centennial College",20071010
+095,TORONTO--DANFORTH,29,1,2,14,69,3,79,"Toronto",046, ,5,1,0,203,395,"Blair Court",20071010
+095,TORONTO--DANFORTH,22,0,0,21,55,0,79,"Toronto",047, ,0,0,0,177,319,"Holy Cross Catholic School",20071010
+095,TORONTO--DANFORTH,31,1,2,30,51,1,61,"Toronto",048, ,0,1,0,178,362,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,17,3,0,22,87,1,69,"Toronto",049, ,0,0,0,199,401,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,18,1,2,14,50,0,58,"Toronto",050, ,6,0,0,149,332,"Greenwood Towers",20071010
+095,TORONTO--DANFORTH,15,5,3,20,39,1,104,"Toronto",051, ,2,0,0,189,397,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,25,3,2,18,47,0,89,"Toronto",052, ,4,0,0,188,353,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,15,2,1,31,51,1,104,"Toronto",053, ,4,0,0,209,409,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,21,6,1,20,55,1,79,"Toronto",054, ,0,1,2,186,353,"East York Civic Centre",20071010
+095,TORONTO--DANFORTH,21,1,1,17,53,1,88,"Toronto",055, ,2,0,0,184,377,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,19,4,0,23,56,3,56,"Toronto",056, ,2,2,0,165,315,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,40,2,0,27,57,0,83,"Toronto",057, ,0,0,0,209,375,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,41,5,0,36,80,2,98,"Toronto",058, ,0,0,0,262,472,"Westwood Middle School",20071010
+095,TORONTO--DANFORTH,23,1,0,29,65,1,104,"Toronto",059, ,1,0,0,224,390,"Centennial College",20071010
+095,TORONTO--DANFORTH,22,0,1,18,46,1,89,"Toronto",060, ,0,0,0,177,367,"Calvary Church",20071010
+095,TORONTO--DANFORTH,31,3,0,20,48,2,77,"Toronto",061, ,0,0,0,181,322,"Calvary Church",20071010
+095,TORONTO--DANFORTH,23,1,0,31,59,2,76,"Toronto",062, ,2,1,0,195,348,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,24,2,3,20,57,3,95,"Toronto",063, ,0,0,0,204,381,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,29,0,0,22,55,3,106,"Toronto",064, ,0,0,0,215,438,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,14,2,6,19,105,0,89,"Toronto",065, ,2,1,0,238,432,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,17,0,6,7,83,0,78,"Toronto",066, ,0,3,0,194,306,"Greenwood Towers",20071010
+095,TORONTO--DANFORTH,9,2,2,13,46,1,61,"Toronto",067, ,0,0,1,135,292,"Greenwood Towers",20071010
+095,TORONTO--DANFORTH,17,1,3,24,55,3,84,"Toronto",068, ,0,1,0,188,369,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,8,1,2,23,31,1,56,"Toronto",069, ,0,0,0,122,274,"City Home",20071010
+095,TORONTO--DANFORTH,27,2,0,17,42,2,67,"Toronto",070, ,1,2,0,160,329,"Holy Trinity Macedo-Bulgarian Orthodox Church",20071010
+095,TORONTO--DANFORTH,20,0,2,15,23,1,94,"Toronto",071, ,0,0,0,155,273,"St. Patrick Catholic Secondary School",20071010
+095,TORONTO--DANFORTH,17,1,3,18,35,1,86,"Toronto",072, ,0,0,0,161,314,"St. Patrick Catholic Secondary School",20071010
+095,TORONTO--DANFORTH,23,0,0,23,66,3,96,"Toronto",073, ,0,1,3,215,372,"The Church of Jesus Christ of Latter Day Saints",20071010
+095,TORONTO--DANFORTH,15,0,0,15,41,0,50,"Toronto",074, ,0,0,0,121,238,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,19,1,0,17,54,2,80,"Toronto",075, ,0,0,0,173,307,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,24,0,1,27,76,2,109,"Toronto",076, ,3,0,0,242,441,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,29,2,0,24,81,1,101,"Toronto",077, ,0,0,0,238,429,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,16,4,0,38,59,1,83,"Toronto",078, ,0,0,0,201,341,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,20,1,0,16,60,1,97,"Toronto",079, ,1,0,0,196,353,"Jackman Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,19,0,2,25,52,0,98,"Toronto",080, ,0,1,0,197,363,"St. Irene Greek Orthodox Church",20071010
+095,TORONTO--DANFORTH,10,0,0,14,29,0,63,"Toronto",081, ,0,0,0,116,264,"St. Irene Greek Orthodox Church",20071010
+095,TORONTO--DANFORTH,27,3,2,8,45,3,94,"Toronto",082, ,0,0,0,182,360,"St. Irene Greek Orthodox Church",20071010
+095,TORONTO--DANFORTH,23,1,2,17,70,0,88,"Toronto",083, ,1,2,0,204,392,"Calvary Church",20071010
+095,TORONTO--DANFORTH,11,1,0,1,13,2,7,"Toronto",084s, ,0,0,0,35,60,"Nisbet Lodge",20071010
+095,TORONTO--DANFORTH,13,0,1,8,33,1,67,"Toronto",085, ,1,0,0,124,288,"Calvary Church",20071010
+095,TORONTO--DANFORTH,20,1,2,22,43,2,87,"Toronto",086, ,3,0,0,180,424,"Earl Grey Senior Public School",20071010
+095,TORONTO--DANFORTH,22,0,1,14,54,1,88,"Toronto",087, ,2,0,0,182,346,"Wilkinson Junior Public School",20071010
+095,TORONTO--DANFORTH,15,1,0,17,31,0,67,"Toronto",088, ,1,0,0,132,323,"Greenwood Towers",20071010
+095,TORONTO--DANFORTH,14,2,0,21,56,1,125,"Toronto",089, ,0,1,0,220,421,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,9,0,3,12,23,1,27,"Toronto",090, ,0,1,0,76,187,"Greenwood Towers",20071010
+095,TORONTO--DANFORTH,10,1,1,15,41,1,65,"Toronto",091, ,0,0,0,134,334,"City Home",20071010
+095,TORONTO--DANFORTH,17,0,1,6,11,1,21,"Toronto",092, ,0,1,0,58,102,"100 Unity Road",20071010
+095,TORONTO--DANFORTH,12,0,0,15,35,1,60,"Toronto",093, ,0,0,0,123,292,"City Home",20071010
+095,TORONTO--DANFORTH,13,0,0,18,59,0,96,"Toronto",094, ,3,0,0,189,398,"St. Patrick Catholic Secondary School",20071010
+095,TORONTO--DANFORTH,16,0,0,13,44,5,89,"Toronto",095, ,0,1,0,168,319,"St. Patrick Catholic Secondary School",20071010
+095,TORONTO--DANFORTH,7,3,3,1,39,2,33,"Toronto",096, ,4,0,0,92,135,"Broadview Manor",20071010
+095,TORONTO--DANFORTH,8,0,1,11,32,0,39,"Toronto",097, ,2,1,0,94,202,"Broadview Manor",20071010
+095,TORONTO--DANFORTH,15,0,0,19,39,0,46,"Toronto",098, ,0,0,0,119,247,"Broadview Manor",20071010
+095,TORONTO--DANFORTH,12,0,1,28,46,2,65,"Toronto",099, ,0,0,0,154,336,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,10,4,0,36,65,1,106,"Toronto",100, ,0,3,1,226,393,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,22,1,0,31,78,1,101,"Toronto",101, ,0,2,0,236,398,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,10,0,0,25,43,1,63,"Toronto",102, ,1,0,0,143,304,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,13,1,0,32,59,1,77,"Toronto",103, ,0,0,0,183,379,"Riverdale Presbyterian Church",20071010
+095,TORONTO--DANFORTH,34,2,2,42,60,1,97,"Toronto",104, ,2,1,0,241,409,"Riverdale Presbyterian Church",20071010
+095,TORONTO--DANFORTH,10,2,1,28,37,0,112,"Toronto",105, ,0,0,0,190,342,"Earl Grey Senior Public School",20071010
+095,TORONTO--DANFORTH,25,0,0,23,45,2,89,"Toronto",106, ,0,1,0,185,364,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,15,0,1,14,46,3,72,"Toronto",107, ,2,1,0,154,357,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,14,0,0,29,37,0,114,"Toronto",108, ,4,0,0,198,354,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,16,1,0,32,35,0,109,"Toronto",109, ,2,1,0,196,376,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,15,1,2,22,51,2,74,"Toronto",110, ,2,0,0,169,356,"City Home",20071010
+095,TORONTO--DANFORTH,17,2,0,30,42,6,73,"Toronto",111, ,1,1,0,172,411,"St. Patrick Catholic Secondary School",20071010
+095,TORONTO--DANFORTH,14,2,3,8,31,0,52,"Toronto",112, ,0,0,1,111,288,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,24,5,0,22,51,3,76,"Toronto",113, ,0,0,0,181,386,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,23,4,4,17,27,0,80,"Toronto",114, ,4,2,0,161,324,"Glen Rhodes United Church",20071010
+095,TORONTO--DANFORTH,14,0,0,21,70,3,92,"Toronto",115, ,1,0,0,201,383,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,18,0,1,21,95,0,104,"Toronto",116, ,2,0,0,241,425,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,14,1,3,34,66,1,92,"Toronto",117, ,0,0,0,211,363,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,26,1,0,32,52,1,82,"Toronto",118, ,1,0,0,195,385,"Frankland Community School",20071010
+095,TORONTO--DANFORTH,19,0,0,27,67,1,79,"Toronto",119, ,1,0,0,194,367,"Riverdale Presbyterian Church",20071010
+095,TORONTO--DANFORTH,13,1,0,21,47,0,80,"Toronto",120, ,4,0,0,166,355,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,18,0,0,24,32,1,92,"Toronto",121, ,0,0,1,168,329,"Blake Street Junior Public School",20071010
+095,TORONTO--DANFORTH,12,0,1,22,52,2,96,"Toronto",122, ,0,1,1,187,382,"Riverdale Collegiate Institute",20071010
+095,TORONTO--DANFORTH,14,3,1,12,41,2,75,"Toronto",123, ,0,1,0,149,378,"Riverdale Collegiate Institute",20071010
+095,TORONTO--DANFORTH,10,0,2,17,32,1,79,"Toronto",124, ,0,0,0,141,382,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,6,1,1,4,31,1,34,"Toronto",125, ,0,0,0,78,247,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,9,0,0,11,38,0,84,"Toronto",126, ,0,1,0,143,284,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,9,0,0,38,35,0,74,"Toronto",127, ,0,0,0,156,302,"Roden Junior Public School",20071010
+095,TORONTO--DANFORTH,9,3,2,30,20,3,64,"Toronto",128, ,0,0,0,131,299,"Unitarian Universalist Congregation",20071010
+095,TORONTO--DANFORTH,28,1,3,22,46,3,114,"Toronto",129, ,3,5,2,227,434,"Glen Rhodes United Church",20071010
+095,TORONTO--DANFORTH,6,2,0,4,33,0,79,"Toronto",130, ,0,0,0,124,287,"Glen Rhodes United Church",20071010
+095,TORONTO--DANFORTH,22,0,1,36,75,0,152,"Toronto",131, ,2,1,0,289,544,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,23,0,0,37,61,0,107,"Toronto",132, ,2,0,0,230,429,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,30,1,0,28,56,132,0,"Toronto",133, ,0,1,0,248,421,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,21,1,0,18,51,2,62,"Toronto",134, ,2,2,0,159,357,"Frances Beavis Manor",20071010
+095,TORONTO--DANFORTH,20,0,0,20,54,1,97,"Toronto",135, ,0,1,0,193,436,"Frances Beavis Manor",20071010
+095,TORONTO--DANFORTH,7,2,1,2,34,3,59,"Toronto",136, ,1,2,1,112,157,"Frances Beavis Manor",20071010
+095,TORONTO--DANFORTH,9,0,0,26,42,0,90,"Toronto",137, ,0,1,0,168,433,"Blake Street Junior Public School",20071010
+095,TORONTO--DANFORTH,13,1,1,15,34,1,57,"Toronto",138, ,2,0,0,124,365,"Matty Eckler Community Centre",20071010
+095,TORONTO--DANFORTH,9,0,0,14,48,3,89,"Toronto",139, ,0,1,0,164,337,"Riverdale Collegiate Institute",20071010
+095,TORONTO--DANFORTH,2,1,1,14,40,1,58,"Toronto",140, ,1,1,0,119,348,"Riverdale Collegiate Institute",20071010
+095,TORONTO--DANFORTH,10,2,2,28,44,0,107,"Toronto",141, ,0,2,0,195,384,"Riverdale Collegiate Institute",20071010
+095,TORONTO--DANFORTH,13,2,1,21,39,2,65,"Toronto",142, ,1,1,0,145,329,"Leslieville Junior Public School",20071010
+095,TORONTO--DANFORTH,18,0,1,18,39,0,72,"Toronto",143, ,0,1,0,149,349,"Leslieville Junior Public School",20071010
+095,TORONTO--DANFORTH,16,0,0,18,43,2,84,"Toronto",144, ,0,0,0,163,418,"Unitarian Universalist Congregation",20071010
+095,TORONTO--DANFORTH,14,1,0,15,26,0,75,"Toronto",145, ,0,1,0,132,319,"Unitarian Universalist Congregation",20071010
+095,TORONTO--DANFORTH,30,1,1,24,32,5,82,"Toronto",146, ,0,0,0,175,337,"Unitarian Universalist Congregation",20071010
+095,TORONTO--DANFORTH,21,1,3,21,28,0,76,"Toronto",147, ,0,1,0,151,302,"Glen Rhodes United Church",20071010
+095,TORONTO--DANFORTH,15,0,0,36,39,2,54,"Toronto",148, ,0,1,0,147,308,"Glen Rhodes United Church",20071010
+095,TORONTO--DANFORTH,21,4,3,8,57,2,22,"Toronto",149s, ,2,6,0,125,301,"Bridgepoint Health",20071010
+095,TORONTO--DANFORTH,14,1,0,34,51,1,101,"Toronto",150, ,1,0,0,203,411,"Withrow Avenue Junior Public School",20071010
+095,TORONTO--DANFORTH,7,1,1,9,39,3,74,"Toronto",151, ,2,1,0,137,363,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,18,1,0,30,77,1,96,"Toronto",152, ,3,0,0,226,478,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,7,1,0,20,51,3,86,"Toronto",153, ,0,0,0,168,404,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,23,0,2,16,52,2,88,"Toronto",154, ,0,2,0,185,457,"Matty Eckler Community Centre",20071010
+095,TORONTO--DANFORTH,10,1,2,18,44,1,95,"Toronto",155, ,0,0,1,172,365,"Matty Eckler Community Centre",20071010
+095,TORONTO--DANFORTH,10,0,1,26,52,1,94,"Toronto",156, ,1,0,0,185,450,"Matty Eckler Community Centre",20071010
+095,TORONTO--DANFORTH,15,0,0,14,40,1,80,"Toronto",157, ,0,1,0,151,355,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,18,2,2,20,45,0,78,"Toronto",158, ,0,0,0,165,337,"Leslieville Junior Public School",20071010
+095,TORONTO--DANFORTH,6,0,4,2,35,0,35,"Toronto",159, ,1,1,0,84,101,"St. Joseph's Place",20071010
+095,TORONTO--DANFORTH,16,1,2,23,45,2,83,"Toronto",160, ,0,1,0,173,363,"St. Joseph's Place",20071010
+095,TORONTO--DANFORTH,16,0,0,19,48,1,88,"Toronto",161, ,0,0,0,172,387,"Leslieville Junior Public School",20071010
+095,TORONTO--DANFORTH,14,0,0,5,30,1,39,"Toronto",162, ,1,0,0,90,272,"Leslieville Junior Public School",20071010
+095,TORONTO--DANFORTH,18,2,0,19,33,0,71,"Toronto",163, ,0,0,0,143,333,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,15,0,2,23,51,1,121,"Toronto",164, ,1,1,0,215,465,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,18,2,4,15,44,1,83,"Toronto",165, ,2,0,0,169,295,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,19,0,0,20,33,5,73,"Toronto",166, ,0,3,0,153,312,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,13,0,0,26,37,0,70,"Toronto",167, ,0,0,1,147,323,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,9,2,2,18,49,1,71,"Toronto",168, ,0,0,0,152,384,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,16,0,0,12,37,0,88,"Toronto",169, ,0,1,0,154,399,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,8,1,5,9,41,2,106,"Toronto",170A, ,0,2,0,174,382,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,6,1,3,16,25,3,87,"Toronto",170B, ,0,1,0,142,349,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,28,0,0,29,47,0,84,"Toronto",171, ,0,0,0,188,384,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,16,0,0,31,50,1,69,"Toronto",172, ,1,0,0,168,358,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,9,0,1,18,52,2,97,"Toronto",173, ,0,0,1,180,353,"Metropolitan Community Church",20071010
+095,TORONTO--DANFORTH,13,1,0,4,73,1,30,"Toronto",174, ,0,5,0,127,176,"Ray McCleary Towers",20071010
+095,TORONTO--DANFORTH,17,1,1,21,45,2,89,"Toronto",175A, ,0,0,0,176,322,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,16,0,0,13,30,0,49,"Toronto",175B, ,0,0,2,110,282,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,19,0,2,17,38,0,80,"Toronto",176, ,1,0,0,157,365,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,21,0,1,33,55,0,117,"Toronto",177, ,0,0,0,227,421,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,8,0,0,23,45,1,72,"Toronto",178, ,1,1,0,151,287,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,11,1,1,7,26,0,81,"Toronto",179A, ,6,0,0,133,321,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,10,1,1,13,17,1,56,"Toronto",179B, ,0,0,0,99,280,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,6,0,1,8,25,3,33,"Toronto",180, ,0,1,0,77,171,"St. Joseph's Place",20071010
+095,TORONTO--DANFORTH,7,1,3,4,21,4,9,"Toronto",181s, ,1,2,2,54,99,"Heritage Nursing Home",20071010
+095,TORONTO--DANFORTH,6,0,1,0,13,0,3,"Toronto",182s, ,0,0,0,23,34,"Avondale Retirement Residence",20071010
+095,TORONTO--DANFORTH,6,0,0,12,29,2,48,"Toronto",183A, ,0,0,0,97,313,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,9,0,0,12,36,0,52,"Toronto",183B, ,0,0,0,109,300,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,24,2,3,25,35,7,94,"Toronto",184, ,0,0,0,190,505,"S. H. Armstrong Community Centre",20071010
+095,TORONTO--DANFORTH,2,0,1,0,4,0,22,"Toronto",185, ,0,0,0,29,37,"May Birchard Apartments",20071010
+095,TORONTO--DANFORTH,12,1,4,23,42,0,71,"Toronto",186, ,0,0,0,153,338,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,7,2,0,15,22,0,62,"Toronto",187, ,0,0,0,108,247,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,9,1,0,27,28,1,87,"Toronto",188, ,0,0,0,153,329,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,12,1,1,22,44,4,90,"Toronto",189, ,0,0,0,174,366,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,21,3,0,17,32,2,80,"Toronto",190, ,0,2,0,157,347,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,21,1,2,25,60,2,76,"Toronto",191, ,0,0,0,187,384,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,13,1,1,23,35,1,55,"Toronto",192, ,0,0,0,129,328,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,10,1,3,11,21,0,34,"Toronto",193, ,0,0,0,80,195,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,5,0,0,16,20,1,51,"Toronto",194, ,0,0,0,93,221,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,19,1,4,20,38,1,72,"Toronto",195, ,0,1,1,157,297,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,15,2,0,10,38,0,71,"Toronto",196, ,0,1,0,137,279,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,14,1,1,14,49,0,79,"Toronto",197, ,1,1,0,160,356,"Bruce Junior Public School",20071010
+095,TORONTO--DANFORTH,27,0,0,29,49,0,78,"Toronto",198, ,4,0,0,187,414,"Queen Alexandra Middle School",20071010
+095,TORONTO--DANFORTH,12,1,1,24,31,0,74,"Toronto",199, ,0,0,1,144,329,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,17,2,0,21,36,1,102,"Toronto",200, ,1,0,0,180,362,"Jimmie Simpson Recreation Centre",20071010
+095,TORONTO--DANFORTH,19,0,0,27,44,0,73,"Toronto",201, ,1,0,0,164,371,"Morse Street Junior Public School",20071010
+095,TORONTO--DANFORTH,9,2,2,8,34,2,52,"Toronto",400, ,2,1,0,112,178,"Marlester Manor Apartments",20071010
+095,TORONTO--DANFORTH,14,1,1,6,31,4,55,"Toronto",401, ,1,0,0,113,214,"Primrose Gardens",20071010
+095,TORONTO--DANFORTH,13,2,0,5,30,1,19,"Toronto",402, ,0,0,0,70,212,"Primrose Gardens",20071010
+095,TORONTO--DANFORTH,8,3,0,13,9,2,44,"Toronto",403, ,0,0,0,79,146,"55 Cosburn Apartments",20071010
+095,TORONTO--DANFORTH,21,1,1,18,36,0,47,"Toronto",404, ,0,0,0,124,229,"50 Cosburn Apartments",20071010
+095,TORONTO--DANFORTH,10,0,1,6,27,1,22,"Toronto",405, ,7,0,0,74,116,"Park South Apartments",20071010
+095,TORONTO--DANFORTH,8,3,2,4,21,0,37,"Toronto",406, ,0,0,0,75,130,"Gowan Court",20071010
+095,TORONTO--DANFORTH,15,4,2,11,29,2,43,"Toronto",407, ,0,2,0,108,215,"Tiara Mansions",20071010
+095,TORONTO--DANFORTH,7,0,1,5,46,2,19,"Toronto",408, ,2,1,0,83,137,"Columbia Apartments",20071010
+095,TORONTO--DANFORTH,6,2,2,5,40,5,37,"Toronto",409, ,1,3,0,101,175,"Gowan Gardens",20071010
+095,TORONTO--DANFORTH,10,0,0,4,47,0,39,"Toronto",410, ,1,0,0,101,193,"Concord",20071010
+095,TORONTO--DANFORTH,11,1,0,7,24,3,39,"Toronto",411, ,0,2,0,87,171,"Domino Court",20071010
+095,TORONTO--DANFORTH,7,0,3,5,41,0,36,"Toronto",412, ,1,3,0,96,166,"25 Cosburn Apartments",20071010
+095,TORONTO--DANFORTH,7,1,1,8,26,2,40,"Toronto",413, ,0,0,0,85,168,"Gowan Apartments",20071010
+095,TORONTO--DANFORTH,39,1,2,15,60,0,72,"Toronto",414, ,2,0,0,191,261,"Halliwell Terrace Condominiums",20071010
+095,TORONTO--DANFORTH,16,0,0,5,18,2,25,"Toronto",415, ,1,1,0,68,127,"Oldgate Terrace",20071010
+095,TORONTO--DANFORTH,7,0,0,8,30,1,22,"Toronto",416, ,1,1,0,70,120,"Broadview Terrace Apartments",20071010
+095,TORONTO--DANFORTH,2,0,0,5,39,5,45,"Toronto",417, ,4,0,0,100,163,"Top of the Don",20071010
+095,TORONTO--DANFORTH,6,0,1,5,26,1,47,"Toronto",418, ,0,1,0,87,149,"City Home",20071010
+095,TORONTO--DANFORTH,23,0,0,7,24,4,55,"Toronto",419, ,0,2,0,115,172,"100 Unity Road",20071010
+095,TORONTO--DANFORTH,18,0,1,13,37,2,65,"Toronto",420, ,4,2,0,142,224,"Broadview Manor",20071010
+095,TORONTO--DANFORTH,16,2,3,16,32,2,83,"Toronto",421, ,3,1,0,158,270,"Rosedale East Apartments",20071010
+095,TORONTO--DANFORTH,10,0,0,18,47,2,77,"Toronto",422, ,2,0,0,156,307,"Rosedale East Apartments",20071010
+095,TORONTO--DANFORTH,16,0,0,24,76,0,111,"Toronto",423, ,0,1,1,229,344,"Montcrest Towers 1",20071010
+095,TORONTO--DANFORTH,20,2,4,18,74,1,109,"Toronto",424, ,2,0,0,230,316,"Montcrest Towers 2",20071010
+095,TORONTO--DANFORTH,8,0,0,0,34,2,37,"Toronto",425, ,1,0,0,82,217,"Eastview Community Centre",20071010
+095,TORONTO--DANFORTH,5,3,3,4,45,3,123,"Toronto",426, ,2,2,0,190,449,"10 Boultbee Avenue",20071010
+095,TORONTO--DANFORTH,6,1,2,23,6,0,209,"Toronto",427, ,1,1,0,249,371,"Bain Community Centre",20071010
+095,TORONTO--DANFORTH,..........................NO POLL HELD........................,,,,,,,"Toronto",428, ,0,0,0,0,0,"",20071010
+095,TORONTO--DANFORTH,11,1,1,7,32,2,85,"Toronto",429, ,0,6,0,145,197,"Woodgreen Community Housing",20071010
+095,TORONTO--DANFORTH,172,7,13,177,498,11,898,"Toronto",Advanced Polls /  ADV001, ,3,4,2,1785,0,"Returning Office / Bureau du directeur du scrutin",20071010
+095,TORONTO--DANFORTH,87,2,2,55,193,5,287,"Toronto",Advanced Polls /  ADV002, ,5,3,1,640,0,"Bethany Baptist Church",20071010
+095,TORONTO--DANFORTH,46,3,1,65,176,2,421,"Toronto",Advanced Polls /  ADV003, ,0,2,3,719,0,"Matty Eckler Community Centre",20071010
+TOTALS:, ,4423,253,273,4372,11448,460,17975, , , , , , , , , , 

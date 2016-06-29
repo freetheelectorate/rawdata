@@ -1,0 +1,251 @@
+ED_CODE,ED_NAME,BRYDEN,DWYER,KUHLMANN,RUNCIMAN,WARNOCK,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+042,LEEDS--GRENVILLE,47,0,10,79,9,"Kemptville",001, ,0,0,0,145,290,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,38,2,15,97,16,"Kemptville",002, ,0,0,0,168,357,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,48,0,6,93,15,"Kemptville",003, ,1,1,0,164,325,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,80,0,9,119,23,"Oxford Mills",004, ,1,0,0,232,571,"Oxford-on-Rideau Public School",20071010
+042,LEEDS--GRENVILLE,33,0,3,105,13,"Oxford Mills",005, ,0,0,0,154,367,"Oxford-on-Rideau Public School",20071010
+042,LEEDS--GRENVILLE,45,2,15,73,20,"Kemptville",006, ,3,0,0,158,325,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,31,0,9,63,12,"Kemptville",007, ,2,0,0,117,258,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,13,0,2,34,2,"Kemptville",008s, ,0,0,0,51,122,"Bayfield Manor Nursing Home",20071010
+042,LEEDS--GRENVILLE,29,1,8,70,4,"Kemptville",009, ,0,0,0,112,277,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,47,0,6,74,10,"Kemptville",010, ,0,3,0,140,337,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,53,1,8,119,7,"Kemptville",011, ,0,0,0,188,308,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,40,4,8,88,6,"Kemptville",012, ,0,0,0,146,293,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,28,0,7,56,12,"Kemptville",013, ,0,0,0,103,257,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,61,3,4,72,19,"Kemptville",015, ,1,0,0,160,329,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,46,0,8,71,10,"Kemptville",016, ,0,0,0,135,300,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,53,1,12,105,21,"Kemptville",017, ,0,0,0,192,403,"Purvis Hall Kemptville College",20071010
+042,LEEDS--GRENVILLE,43,4,10,100,13,"Kemptville",018, ,1,0,0,171,376,"W.B. George Centre Kemptville College",20071010
+042,LEEDS--GRENVILLE,50,4,14,130,28,"Burritts Rapids",019, ,0,0,0,226,461,"Burritt's Rapids Community Hall",20071010
+042,LEEDS--GRENVILLE,73,2,9,102,15,"Burritts Rapids",020, ,0,0,0,201,504,"Burritt's Rapids Community Hall",20071010
+042,LEEDS--GRENVILLE,85,5,15,150,26,"Oxford Mills",021, ,0,1,0,282,503,"Oxford-on-Rideau Public School",20071010
+042,LEEDS--GRENVILLE,48,2,10,124,11,"Oxford Station",022, ,0,0,0,195,433,"Oxford Furniture",20071010
+042,LEEDS--GRENVILLE,41,4,13,131,16,"Oxford Station",023, ,2,1,1,209,465,"Oxford Furniture",20071010
+042,LEEDS--GRENVILLE,27,1,12,86,8,"Oxford Station",024, ,1,0,0,135,278,"Oxford Furniture",20071010
+042,LEEDS--GRENVILLE,54,3,22,129,49,"Burritts Rapids",025, ,0,0,0,257,459,"Burritt's Rapids Community Hall",20071010
+042,LEEDS--GRENVILLE,52,1,13,106,27,"Burritts Rapids",026, ,0,0,0,199,498,"Burritt's Rapids Community Hall",20071010
+042,LEEDS--GRENVILLE,41,1,12,111,13,"Bishops Mills",027, ,0,0,0,178,443,"St. Andrew's United Church Hall",20071010
+042,LEEDS--GRENVILLE,54,3,10,159,16,"Oxford Station",028, ,1,0,0,243,434,"Oxford Furniture",20071010
+042,LEEDS--GRENVILLE,25,1,5,40,10,"Spencerville",029, ,0,0,0,81,146,"North Edwardsburg Public School",20071010
+042,LEEDS--GRENVILLE,39,1,11,49,30,"Merrickville",030, ,0,0,0,130,213,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,41,3,13,65,26,"Merrickville",031, ,0,0,0,148,258,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,8,0,1,13,1,"Merrickville",032s, ,0,0,0,23,57,"Hilltop Manor Nursing Home",20071010
+042,LEEDS--GRENVILLE,47,2,23,89,34,"Merrickville",033, ,0,0,0,195,277,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,64,1,17,158,43,"Merrickville",034, ,0,0,0,283,519,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,53,2,19,153,52,"Bishops Mills",035, ,2,0,0,281,527,"St. Andrew's United Church Hall",20071010
+042,LEEDS--GRENVILLE,41,0,5,138,23,"Spencerville",036, ,0,1,0,208,450,"Drummond Building",20071010
+042,LEEDS--GRENVILLE,51,0,14,73,15,"Spencerville",037, ,0,0,0,153,332,"Drummond Building",20071010
+042,LEEDS--GRENVILLE,63,0,16,90,8,"Lombardy",038, ,1,0,0,178,353,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,32,2,10,65,4,"Lombardy",039, ,0,0,0,113,320,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,30,1,7,73,14,"Spencerville",040, ,1,0,0,126,347,"Drummond Building",20071010
+042,LEEDS--GRENVILLE,31,6,13,75,3,"Spencerville",041A, ,1,1,0,130,315,"North Edwardsburg Public School",20071010
+042,LEEDS--GRENVILLE,25,3,11,62,4,"Spencerville",041B, ,1,0,0,106,319,"North Edwardsburg Public School",20071010
+042,LEEDS--GRENVILLE,68,2,13,109,10,"Lombardy",042, ,0,0,0,202,453,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,79,3,20,95,13,"Lombardy",043A, ,0,0,0,210,388,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,85,2,12,99,8,"Lombardy",043B, ,0,1,0,207,385,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,21,1,10,50,4,"Frankville",044, ,0,0,0,86,209,"St. Thomas Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,52,2,23,112,16,"Merrickville",045, ,0,0,0,205,478,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,7,5,2,19,1,"Jasper",046s, ,0,0,0,34,72,"Rosebridge Manor",20071010
+042,LEEDS--GRENVILLE,29,3,5,64,8,"Merrickville",047, ,0,0,0,109,236,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,15,1,12,60,11,"Merrickville",048, ,0,0,0,99,187,"Merrickville Memorial Community Centre",20071010
+042,LEEDS--GRENVILLE,25,2,15,95,13,"Roebuck",049, ,0,2,0,152,301,"Roebuck Community Centre",20071010
+042,LEEDS--GRENVILLE,26,0,5,57,5,"Spencerville",050, ,2,0,0,95,214,"Drummond Building",20071010
+042,LEEDS--GRENVILLE,20,2,3,55,3,"Cardinal",051, ,0,0,0,83,208,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,35,0,8,59,2,"Cardinal",052, ,0,0,0,104,190,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,40,2,6,74,6,"Cardinal",053, ,0,0,0,128,339,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,55,2,11,86,14,"Cardinal",054, ,0,0,0,168,404,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,37,0,13,117,9,"Cardinal",055, ,1,0,0,177,350,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,62,1,18,110,11,"Cardinal",056, ,0,0,0,202,380,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,46,1,9,105,9,"Lombardy",057, ,0,0,0,170,318,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,47,3,15,97,17,"Lombardy",058, ,0,0,0,179,331,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,8,0,1,13,1,"Lombardy",059s, ,0,0,0,23,41,"Lombard Manor",20071010
+042,LEEDS--GRENVILLE,41,0,7,83,5,"Lombardy",060, ,0,0,0,136,270,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,19,1,13,64,6,"Frankville",061, ,0,0,0,103,279,"St. Thomas Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,41,1,18,151,13,"North Augusta",062, ,1,1,0,226,522,"North Augusta Community Hall",20071010
+042,LEEDS--GRENVILLE,39,0,17,126,8,"Roebuck",063A, ,0,0,0,190,413,"Roebuck Community Centre",20071010
+042,LEEDS--GRENVILLE,47,0,19,104,11,"Roebuck",063B, ,1,0,0,182,391,"Roebuck Community Centre",20071010
+042,LEEDS--GRENVILLE,19,2,7,39,14,"Johnstown",064, ,0,0,0,81,206,"South Edwardsburg Community Centre",20071010
+042,LEEDS--GRENVILLE,76,4,19,151,13,"Johnstown",065, ,0,0,0,263,418,"South Edwardsburg Community Centre",20071010
+042,LEEDS--GRENVILLE,40,1,10,51,7,"Johnstown",066, ,0,0,0,109,237,"South Edwardsburg Community Centre",20071010
+042,LEEDS--GRENVILLE,43,1,12,114,15,"Lombardy",067, ,0,0,0,185,420,"South Elmsley Municipal Complex",20071010
+042,LEEDS--GRENVILLE,69,2,32,129,7,"Newbliss",068, ,0,0,0,239,421,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,23,2,10,87,9,"Newbliss",069, ,1,0,0,132,335,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,30,0,15,91,8,"New Dublin",070, ,0,0,0,144,284,"New Dublin Fire Hall",20071010
+042,LEEDS--GRENVILLE,33,1,19,110,16,"North Augusta",071, ,1,0,0,180,378,"North Augusta Community Hall",20071010
+042,LEEDS--GRENVILLE,43,0,4,80,14,"Maynard",072, ,0,0,0,141,321,"Grenville Snowmobile Club",20071010
+042,LEEDS--GRENVILLE,52,5,14,119,10,"Prescott",073, ,0,1,0,201,452,"Masonic Complex",20071010
+042,LEEDS--GRENVILLE,40,1,7,65,6,"Prescott",074, ,2,2,0,123,303,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,50,2,8,64,11,"Prescott",075, ,0,0,0,135,297,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,8,0,0,10,0,"Prescott",076s, ,0,0,0,18,60,"Wellington House",20071010
+042,LEEDS--GRENVILLE,42,4,11,59,7,"Prescott",077, ,0,0,0,123,285,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,8,0,6,33,0,"Prescott",078s, ,1,1,0,49,58,"Mayfield Retirement Home",20071010
+042,LEEDS--GRENVILLE,32,1,6,69,8,"Prescott",079, ,1,0,0,117,286,"St. Andrew's Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,40,3,5,49,2,"Prescott",080, ,1,0,0,100,269,"St. Andrew's Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,..........................NO POLL HELD........................,,,,,"Prescott",081, ,0,0,0,0,0,"",20071010
+042,LEEDS--GRENVILLE,43,2,6,59,9,"Prescott",082, ,0,0,0,119,255,"St. Andrew's Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,23,1,2,29,2,"Prescott",083, ,0,0,0,57,194,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,27,2,6,65,6,"Prescott",084, ,0,0,0,106,276,"St. Andrew's Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,46,2,8,84,11,"Prescott",085, ,1,0,0,152,288,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,36,0,8,68,3,"Prescott",086, ,0,0,0,115,250,"St. Andrew's Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,21,1,7,58,5,"Johnstown",087, ,0,0,0,92,190,"South Edwardsburg Community Centre",20071010
+042,LEEDS--GRENVILLE,50,1,13,91,17,"Portland",088, ,2,0,0,174,373,"Portland Community Hall",20071010
+042,LEEDS--GRENVILLE,41,2,11,107,13,"Newbliss",089, ,0,0,0,174,440,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,58,2,25,83,20,"New Dublin",090, ,1,0,0,189,385,"New Dublin Fire Hall",20071010
+042,LEEDS--GRENVILLE,47,1,12,129,9,"Algonquin",091, ,5,0,0,203,429,"Algonquin United Church Hall",20071010
+042,LEEDS--GRENVILLE,27,0,1,71,5,"Maitland",092, ,0,0,0,104,249,"St. James Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,54,0,20,114,6,"Prescott",093, ,2,0,0,196,393,"Masonic Complex",20071010
+042,LEEDS--GRENVILLE,44,0,2,80,9,"Prescott",094, ,0,0,0,135,265,"Masonic Complex",20071010
+042,LEEDS--GRENVILLE,46,2,12,66,6,"Prescott",096, ,1,0,0,133,331,"I.O.O.F. Friendship Hall",20071010
+042,LEEDS--GRENVILLE,29,1,17,87,10,"Westport",097, ,0,0,0,144,244,"North Crosby Community Centre",20071010
+042,LEEDS--GRENVILLE,41,0,7,66,12,"Crosby",098, ,0,0,0,126,232,"Crosby Community Hall",20071010
+042,LEEDS--GRENVILLE,58,0,15,121,18,"Portland",099, ,0,0,0,212,308,"Portland Community Hall",20071010
+042,LEEDS--GRENVILLE,..........................NO POLL HELD........................,,,,,"Delta",100, ,0,0,0,0,0,"",20071010
+042,LEEDS--GRENVILLE,56,0,11,114,10,"Athens",101, ,1,0,0,192,374,"Athens Fire Hall",20071010
+042,LEEDS--GRENVILLE,21,1,12,66,4,"New Dublin",102, ,2,0,0,106,246,"New Dublin Fire Hall",20071010
+042,LEEDS--GRENVILLE,53,0,14,67,6,"New Dublin",103, ,1,0,0,141,261,"New Dublin Fire Hall",20071010
+042,LEEDS--GRENVILLE,50,3,13,150,12,"Brockville",104, ,0,0,0,228,421,"Spring Valley Community Hall",20071010
+042,LEEDS--GRENVILLE,..........................NO POLL HELD........................,,,,,"Maitland",105, ,0,0,0,0,0,"",20071010
+042,LEEDS--GRENVILLE,87,1,14,139,15,"Maitland",106, ,0,0,0,256,443,"St. James Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,38,0,14,89,13,"Maitland",107, ,1,0,0,155,300,"St. James Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,62,2,12,93,14,"Westport",108, ,1,0,0,184,362,"North Crosby Community Centre",20071010
+042,LEEDS--GRENVILLE,68,3,20,181,32,"Westport",109, ,2,0,0,306,468,"Westport Fire Hall",20071010
+042,LEEDS--GRENVILLE,59,1,8,87,13,"Westport",110, ,1,0,0,169,309,"North Crosby Community Centre",20071010
+042,LEEDS--GRENVILLE,54,1,6,78,7,"Forfar",111, ,0,0,0,146,302,"Forfar Community Hall",20071010
+042,LEEDS--GRENVILLE,54,1,11,118,11,"Delta",112, ,0,0,0,195,425,"Delta Fair Grounds",20071010
+042,LEEDS--GRENVILLE,20,0,18,97,9,"Athens",113, ,0,0,0,144,283,"Athens Fire Hall",20071010
+042,LEEDS--GRENVILLE,38,1,11,101,4,"Athens",114, ,0,0,0,155,326,"St. Denis Catholic Church Hall",20071010
+042,LEEDS--GRENVILLE,45,2,7,111,12,"Athens",115, ,0,2,0,179,373,"Athens Fire Hall",20071010
+042,LEEDS--GRENVILLE,1,0,0,13,0,"Athens",116s, ,0,0,0,14,60,"Maple View Lodge",20071010
+042,LEEDS--GRENVILLE,60,1,14,137,10,"Athens",117, ,1,0,0,223,424,"St. Denis Catholic Church Hall",20071010
+042,LEEDS--GRENVILLE,53,4,11,111,10,"Addison",118, ,0,0,0,189,352,"Addison United Church Hall",20071010
+042,LEEDS--GRENVILLE,..........................NO POLL HELD........................,,,,,"Brockville",119, ,0,0,0,0,0,"",20071010
+042,LEEDS--GRENVILLE,49,0,10,102,4,"Brockville",120, ,1,0,0,166,300,"Spring Valley Community Hall",20071010
+042,LEEDS--GRENVILLE,62,3,15,94,12,"Brockville",121, ,0,0,0,186,403,"Bethel Christian Reformed Church Hall",20071010
+042,LEEDS--GRENVILLE,87,1,2,157,13,"Brockville",122, ,0,0,0,260,433,"St. John Bosco Church Hall",20071010
+042,LEEDS--GRENVILLE,31,2,9,37,1,"Brockville",123, ,0,0,0,80,264,"St. John Bosco Church Hall",20071010
+042,LEEDS--GRENVILLE,13,0,2,38,8,"Brockville",124, ,0,0,0,61,158,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,4,1,5,27,2,"Brockville",125, ,1,0,0,40,196,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,10,0,8,28,4,"Brockville",126, ,0,0,0,50,242,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,11,0,8,22,2,"Brockville",127, ,0,0,0,43,198,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,45,0,12,106,3,"Brockville",128, ,1,1,0,168,305,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,85,3,12,119,12,"Brockville",129, ,1,0,0,232,465,"St. John Bosco Church Hall",20071010
+042,LEEDS--GRENVILLE,79,1,8,130,5,"Brockville",130, ,0,0,0,223,364,"St. John Bosco Church Hall",20071010
+042,LEEDS--GRENVILLE,86,3,9,112,9,"Brockville",131, ,0,0,0,219,395,"Bethel Christian Reformed Church Hall",20071010
+042,LEEDS--GRENVILLE,109,2,9,108,18,"Brockville",132, ,0,0,0,246,426,"St. John Bosco Church Hall",20071010
+042,LEEDS--GRENVILLE,57,1,15,80,7,"Brockville",133, ,0,1,0,161,330,"Highway Pentecostal Fellowship Hall",20071010
+042,LEEDS--GRENVILLE,10,0,2,44,2,"Brockville",134s, ,0,0,0,58,65,"Bridlewood Manor",20071010
+042,LEEDS--GRENVILLE,63,1,13,114,7,"Brockville",135, ,0,0,0,198,359,"Bethel Christian Reformed Church Hall",20071010
+042,LEEDS--GRENVILLE,66,1,10,109,11,"Brockville",136, ,1,0,0,198,420,"Bethel Christian Reformed Church Hall",20071010
+042,LEEDS--GRENVILLE,24,0,11,66,0,"Brockville",137, ,1,0,0,102,235,"Brockville Seniors (Club 85)",20071010
+042,LEEDS--GRENVILLE,39,1,10,66,8,"Brockville",138, ,0,0,0,124,289,"Brockville Wesleyan Church Hall",20071010
+042,LEEDS--GRENVILLE,55,1,14,98,12,"Brockville",139, ,0,0,0,180,322,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,47,1,7,88,6,"Brockville",140, ,1,0,0,150,333,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,39,1,16,54,8,"Brockville",141, ,1,1,0,120,288,"Brockville Wesleyan Church Hall",20071010
+042,LEEDS--GRENVILLE,18,3,10,71,5,"Brockville",142, ,0,0,0,107,287,"Brockville Wesleyan Church Hall",20071010
+042,LEEDS--GRENVILLE,35,1,16,129,6,"Brockville",143, ,0,0,0,187,366,"Brockville Wesleyan Church Hall",20071010
+042,LEEDS--GRENVILLE,29,1,16,80,6,"Brockville",144, ,0,0,0,132,311,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,29,1,12,59,0,"Brockville",145, ,0,0,0,101,236,"Brockville Seniors (Club 85)",20071010
+042,LEEDS--GRENVILLE,14,1,5,31,6,"Brockville",146, ,0,0,0,57,218,"Brockville Seniors (Club 85)",20071010
+042,LEEDS--GRENVILLE,32,4,6,45,4,"Brockville",147, ,1,0,0,92,298,"Wall Street United Church Hall",20071010
+042,LEEDS--GRENVILLE,36,2,9,68,3,"Brockville",148, ,0,0,0,118,268,"Brockville Wesleyan Church Hall",20071010
+042,LEEDS--GRENVILLE,74,2,12,126,14,"Brockville",150, ,2,0,0,230,388,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,35,3,4,85,6,"Brockville",151A, ,0,0,0,133,282,"Bethel United Church Hall",20071010
+042,LEEDS--GRENVILLE,57,2,5,78,17,"Brockville",151B, ,0,0,0,159,313,"Bethel United Church Hall",20071010
+042,LEEDS--GRENVILLE,41,0,7,73,19,"Brockville",152, ,1,0,0,141,344,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,69,2,8,91,17,"Brockville",153, ,1,0,0,188,335,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,79,0,10,78,5,"Brockville",154, ,0,0,1,173,348,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,59,2,9,56,13,"Brockville",155, ,2,3,0,144,257,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,9,2,2,15,3,"Elizabethtown-Kitley",156s, ,0,0,0,31,54,"Brockville Mental Health Centre",20071010
+042,LEEDS--GRENVILLE,58,0,10,68,12,"Brockville",157, ,0,0,0,148,270,"Commonwealth Elementary School",20071010
+042,LEEDS--GRENVILLE,19,3,1,53,1,"Brockville",158s, ,1,0,0,78,216,"St. Lawrence Lodge",20071010
+042,LEEDS--GRENVILLE,5,0,1,28,1,"Brockville",159s, ,0,2,0,37,105,"Sherwood Park Manor",20071010
+042,LEEDS--GRENVILLE,6,1,1,24,0,"Brockville",160s, ,0,1,0,33,52,"Rosedale Retirement Centre",20071010
+042,LEEDS--GRENVILLE,81,10,14,200,17,"Maitland",161, ,1,0,0,323,566,"St. James Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,20,3,13,63,13,"Newboro",162, ,0,0,0,112,171,"Newboro Community Hall",20071010
+042,LEEDS--GRENVILLE,38,1,11,85,10,"Crosby",163, ,0,0,0,145,262,"Crosby Community Hall",20071010
+042,LEEDS--GRENVILLE,47,2,17,74,9,"Elgin",164, ,0,0,0,149,314,"Lions Club Hall",20071010
+042,LEEDS--GRENVILLE,39,2,11,102,15,"Delta",165, ,0,0,0,169,346,"Delta Fair Grounds",20071010
+042,LEEDS--GRENVILLE,40,1,8,93,16,"Athens",166, ,0,0,0,158,276,"Holy Trinity Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,57,1,13,161,19,"Athens",167, ,0,0,0,251,460,"St. Denis Catholic Church Hall",20071010
+042,LEEDS--GRENVILLE,35,1,6,85,10,"Lyn",168, ,0,0,0,137,257,"Christ United Church Hall",20071010
+042,LEEDS--GRENVILLE,39,3,11,79,11,"Lyn",169, ,0,1,0,144,302,"Christ United Church Hall",20071010
+042,LEEDS--GRENVILLE,47,3,6,84,13,"Lyn",170, ,0,1,3,157,350,"Christ United Church Hall",20071010
+042,LEEDS--GRENVILLE,41,0,11,110,12,"Brockville",171, ,3,0,0,177,359,"Spring Valley Community Hall",20071010
+042,LEEDS--GRENVILLE,63,1,19,104,14,"Lyn",172, ,4,0,0,205,436,"Lyn Fire Hall",20071010
+042,LEEDS--GRENVILLE,24,0,3,77,4,"Brockville",173, ,2,0,0,110,263,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,94,4,12,91,19,"Brockville",174, ,0,0,0,220,379,"Coleman Hall (Trinity Church)",20071010
+042,LEEDS--GRENVILLE,37,6,26,104,11,"Brockville",175, ,0,0,0,184,390,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,61,0,13,141,18,"Brockville",176, ,1,0,1,235,428,"Coleman Hall (Trinity Church)",20071010
+042,LEEDS--GRENVILLE,36,1,14,70,6,"Brockville",177, ,0,0,0,127,295,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,28,1,9,65,6,"Brockville",178, ,1,1,0,111,257,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,53,3,6,83,22,"Brockville",179, ,0,0,0,167,311,"Coleman Hall (Trinity Church)",20071010
+042,LEEDS--GRENVILLE,29,1,3,69,12,"Brockville",180, ,0,0,0,114,272,"Brockville Arts Centre",20071010
+042,LEEDS--GRENVILLE,52,0,4,111,9,"Brockville",181, ,1,1,0,178,292,"Coleman Hall (Trinity Church)",20071010
+042,LEEDS--GRENVILLE,54,1,20,65,14,"Brockville",182, ,0,0,0,154,367,"First Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,30,2,2,44,5,"Brockville",183, ,1,0,0,84,268,"Royal Canadian Legion Branch 96",20071010
+042,LEEDS--GRENVILLE,25,1,9,48,6,"Brockville",184, ,1,0,0,90,303,"First Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,43,4,6,41,4,"Brockville",185, ,1,0,1,100,210,"Brockville Arts Centre",20071010
+042,LEEDS--GRENVILLE,28,0,11,44,5,"Brockville",186, ,0,0,0,88,248,"First Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,26,0,6,32,7,"Brockville",187, ,0,0,0,71,185,"Brockville Arts Centre",20071010
+042,LEEDS--GRENVILLE,50,2,7,42,14,"Brockville",188, ,0,0,0,115,254,"Wall Street United Church Hall",20071010
+042,LEEDS--GRENVILLE,6,0,3,14,2,"Brockville",189s, ,0,1,0,26,41,"Brockville General Hospital Garden Street Site",20071010
+042,LEEDS--GRENVILLE,39,0,5,31,10,"Brockville",190, ,1,0,0,86,208,"Wall Street United Church Hall",20071010
+042,LEEDS--GRENVILLE,40,4,5,47,9,"Brockville",191, ,0,0,2,107,245,"Wall Street United Church Hall",20071010
+042,LEEDS--GRENVILLE,45,3,9,60,9,"Brockville",192, ,0,0,0,126,244,"Brockville Arts Centre",20071010
+042,LEEDS--GRENVILLE,49,0,6,54,14,"Brockville",193, ,0,0,0,123,267,"First Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,42,0,6,60,15,"Brockville",194, ,0,0,0,123,271,"Wall Street United Church Hall",20071010
+042,LEEDS--GRENVILLE,48,1,19,59,6,"Elgin",195, ,0,0,0,133,258,"Lions Club Hall",20071010
+042,LEEDS--GRENVILLE,25,3,9,40,3,"Elgin",196, ,0,1,0,81,209,"Lions Club Hall",20071010
+042,LEEDS--GRENVILLE,65,3,21,117,20,"Lyndhurst",197, ,0,0,0,226,449,"Royal Canadian Legion Branch 596",20071010
+042,LEEDS--GRENVILLE,46,0,14,93,17,"Mallorytown",198, ,1,1,0,172,394,"Front of Yonge Community Centre",20071010
+042,LEEDS--GRENVILLE,40,0,22,89,17,"Mallorytown",199, ,0,0,0,168,417,"Front of Yonge Community Centre",20071010
+042,LEEDS--GRENVILLE,44,2,9,101,12,"Lyn",200, ,1,0,0,169,261,"Lyn Fire Hall",20071010
+042,LEEDS--GRENVILLE,60,0,7,116,14,"Lyn",201, ,0,1,0,198,347,"Lyn Fire Hall",20071010
+042,LEEDS--GRENVILLE,36,1,8,67,12,"Morton",202, ,0,0,0,124,282,"Morton Community Hall",20071010
+042,LEEDS--GRENVILLE,51,1,7,71,13,"Lyndhurst",203, ,0,0,0,143,295,"Royal Canadian Legion Branch 596",20071010
+042,LEEDS--GRENVILLE,75,1,24,170,21,"Mallorytown",204, ,0,2,0,293,593,"Front of Yonge Community Centre",20071010
+042,LEEDS--GRENVILLE,83,0,13,108,24,"Mallorytown",205, ,2,0,0,230,463,"Front of Yonge Community Centre",20071010
+042,LEEDS--GRENVILLE,75,2,28,103,18,"Seeley's Bay",206, ,0,1,0,227,462,"Seeley's Bay Community Hall",20071010
+042,LEEDS--GRENVILLE,70,1,21,80,29,"Seeley's Bay",207, ,0,0,0,201,477,"Seeley's Bay Community Hall",20071010
+042,LEEDS--GRENVILLE,37,0,8,52,26,"Lyndhurst",208, ,0,0,1,124,306,"Royal Canadian Legion Branch 596",20071010
+042,LEEDS--GRENVILLE,34,1,9,48,7,"Lansdowne",209, ,1,0,0,100,199,"Landsdowne Council Chambers",20071010
+042,LEEDS--GRENVILLE,37,0,15,82,19,"Mallorytown",210, ,0,0,2,155,255,"Front of Yonge Community Centre",20071010
+042,LEEDS--GRENVILLE,39,5,17,121,17,"Lansdowne",211, ,0,0,0,199,416,"Landsdowne Council Chambers",20071010
+042,LEEDS--GRENVILLE,40,0,9,80,8,"Lansdowne",212, ,0,0,0,137,242,"Landsdowne Council Chambers",20071010
+042,LEEDS--GRENVILLE,79,2,17,102,20,"Rockport",213, ,0,1,0,221,446,"Rockport Recreation Hall",20071010
+042,LEEDS--GRENVILLE,54,0,19,78,7,"Gananoque",214, ,1,0,0,159,376,"Calvary Pentecostal Church Hall",20071010
+042,LEEDS--GRENVILLE,56,3,13,119,7,"Lansdowne",215, ,0,0,0,198,475,"Thousand Islands Elementary School",20071010
+042,LEEDS--GRENVILLE,58,1,11,114,11,"Lansdowne",216, ,4,2,0,201,394,"Thousand Islands Elementary School",20071010
+042,LEEDS--GRENVILLE,54,0,19,83,12,"Rockport",217, ,1,1,0,170,318,"Rockport Recreation Hall",20071010
+042,LEEDS--GRENVILLE,64,2,12,104,6,"Gananoque",218, ,0,0,0,188,367,"Calvary Pentecostal Church Hall",20071010
+042,LEEDS--GRENVILLE,60,2,9,70,17,"Gananoque",219, ,0,2,0,160,407,"Calvary Pentecostal Church Hall",20071010
+042,LEEDS--GRENVILLE,45,0,6,41,14,"Lansdowne",220, ,0,0,0,106,229,"Thousand Islands Elementary School",20071010
+042,LEEDS--GRENVILLE,39,2,6,85,11,"Rockport",221, ,0,0,0,143,276,"Rockport Recreation Hall",20071010
+042,LEEDS--GRENVILLE,63,2,16,80,11,"Gananoque",222, ,1,0,0,173,366,"Calvary Pentecostal Church Hall",20071010
+042,LEEDS--GRENVILLE,55,3,10,47,6,"Gananoque",223, ,0,1,0,122,305,"Linklater Public School",20071010
+042,LEEDS--GRENVILLE,31,1,8,53,8,"Gananoque",224, ,0,0,0,101,212,"Linklater Public School",20071010
+042,LEEDS--GRENVILLE,51,5,23,36,9,"Gananoque",225, ,0,0,1,125,362,"Linklater Public School",20071010
+042,LEEDS--GRENVILLE,30,4,14,44,6,"Gananoque",226, ,0,1,0,99,281,"Gananoque Secondary School",20071010
+042,LEEDS--GRENVILLE,20,2,8,22,7,"Gananoque",227, ,0,0,0,59,219,"Linklater Public School",20071010
+042,LEEDS--GRENVILLE,36,0,8,39,5,"Gananoque",228, ,0,0,0,88,193,"Gananoque Secondary School",20071010
+042,LEEDS--GRENVILLE,24,1,4,33,17,"Gananoque",229, ,0,0,0,79,169,"Christ Anglican Church Parish Hall",20071010
+042,LEEDS--GRENVILLE,51,1,11,76,11,"Gananoque",230, ,1,2,0,153,368,"Gananoque Secondary School",20071010
+042,LEEDS--GRENVILLE,51,0,13,49,12,"Gananoque",232, ,0,0,0,125,344,"Gananoque Secondary School",20071010
+042,LEEDS--GRENVILLE,15,1,6,56,1,"Gananoque",233s, ,0,0,0,79,128,"Carveth Care Centre",20071010
+042,LEEDS--GRENVILLE,44,2,15,57,10,"Gananoque",234, ,0,1,0,129,208,"Riverview Seniors Citizens Apartments",20071010
+042,LEEDS--GRENVILLE,50,1,17,49,14,"Gananoque",235, ,0,2,0,133,325,"Christ Anglican Church Parish Hall",20071010
+042,LEEDS--GRENVILLE,40,3,17,62,5,"Gananoque",236, ,0,0,0,127,232,"Riverview Seniors Citizens Apartments",20071010
+042,LEEDS--GRENVILLE,68,1,13,96,10,"Gananoque",237, ,1,0,0,189,433,"Christ Anglican Church Parish Hall",20071010
+042,LEEDS--GRENVILLE,53,1,10,77,3,"Gananoque",238, ,0,1,0,145,239,"Calvary Pentecostal Church Hall",20071010
+042,LEEDS--GRENVILLE,56,2,20,55,19,"Gananoque",239, ,0,0,0,152,305,"Christ Anglican Church Parish Hall",20071010
+042,LEEDS--GRENVILLE,269,9,61,792,78,"Brockville",Advanced Polls /  ADV001, ,5,2,0,1216,0,"Returning Office / Bureau du directeur du scrutin",20071010
+042,LEEDS--GRENVILLE,194,8,42,388,52,"Gananoque",Advanced Polls /  ADV002, ,1,1,0,686,0,"Canadian Tire Corporation",20071010
+042,LEEDS--GRENVILLE,107,2,26,193,21,"Elgin",Advanced Polls /  ADV003, ,1,0,0,350,0,"Lions Club Hall",20071010
+042,LEEDS--GRENVILLE,65,0,7,211,14,"Athens",Advanced Polls /  ADV004, ,1,0,0,298,0,"Athens Fire Hall",20071010
+042,LEEDS--GRENVILLE,161,6,36,392,37,"Brockville",Advanced Polls /  ADV005, ,4,1,0,637,0,"First Presbyterian Church Hall",20071010
+042,LEEDS--GRENVILLE,67,1,26,242,7,"Newbliss",Advanced Polls /  ADV006, ,3,1,0,347,0,"St. Paul's Anglican Church Hall",20071010
+042,LEEDS--GRENVILLE,35,1,14,156,6,"Algonquin",Advanced Polls /  ADV007, ,0,0,0,212,0,"Algonquin United Church Hall",20071010
+042,LEEDS--GRENVILLE,160,4,34,458,26,"Prescott",Advanced Polls /  ADV008, ,3,1,0,686,0,"O'Reilly's Your Independent Grocer",20071010
+042,LEEDS--GRENVILLE,52,1,14,114,18,"Spencerville",Advanced Polls /  ADV009, ,1,0,0,200,0,"Drummond Building",20071010
+042,LEEDS--GRENVILLE,215,1,37,552,52,"Kemptville",Advanced Polls /  ADV010, ,0,0,0,857,0,"W.B. George Centre Kemptville College",20071010
+TOTALS:, ,11602,377,2821,22755,2907, , , , , , , , , , 

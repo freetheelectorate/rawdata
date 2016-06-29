@@ -1,0 +1,245 @@
+ED_CODE,ED_NAME,BRYAN,FRERE,HUDAK,LOSTRACCO,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+055,NIAGARA WEST--GLANBROOK,30,11,83,61,"Grimsby",001, ,0,0,0,185,387,"Smith Public School",20071010
+055,NIAGARA WEST--GLANBROOK,22,15,109,84,"Grimsby",002, ,1,0,0,231,399,"Our Lady of Fatima Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,14,15,102,69,"Grimsby",003, ,0,1,0,201,354,"Our Lady of Fatima Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,25,24,80,69,"Grimsby",004, ,0,0,0,198,369,"Our Lady of Fatima Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,13,3,56,67,"Stoney Creek",005, ,0,0,0,139,321,"St. Paul Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,18,4,49,53,"Stoney Creek",006, ,2,3,0,129,346,"Paramount Drive Alliance Church",20071010
+055,NIAGARA WEST--GLANBROOK,29,15,102,117,"Stoney Creek",007, ,1,0,0,264,509,"St. Paul Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,56,13,96,121,"Stoney Creek",008, ,1,1,2,290,528,"St. Paul Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,25,4,47,56,"Stoney Creek",009, ,1,0,0,133,262,"St. Paul Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,42,19,105,120,"Stoney Creek",010, ,3,0,0,289,557,"Paramount Drive Alliance Church",20071010
+055,NIAGARA WEST--GLANBROOK,43,17,74,76,"Stoney Creek",011, ,2,1,1,214,443,"Paramount Drive Alliance Church",20071010
+055,NIAGARA WEST--GLANBROOK,26,12,51,49,"Stoney Creek",012, ,0,0,0,138,335,"Tapleytown Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,33,13,103,62,"Grimsby",013, ,0,0,0,211,452,"Smith Public School",20071010
+055,NIAGARA WEST--GLANBROOK,30,24,123,97,"Grimsby",014, ,2,1,0,277,506,"Smith Public School",20071010
+055,NIAGARA WEST--GLANBROOK,19,13,94,61,"Grimsby",015, ,0,0,0,187,360,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,18,9,76,52,"Grimsby",016, ,0,0,0,155,333,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,13,12,109,83,"Grimsby",017, ,5,0,0,222,417,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,31,19,86,55,"Grimsby",018, ,1,0,0,192,369,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,21,14,75,43,"Grimsby",019, ,0,0,0,153,313,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,18,16,59,57,"Grimsby",020, ,0,0,0,150,288,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,22,16,90,98,"Grimsby",021, ,2,0,0,228,442,"Blessed Trinity Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,26,16,122,68,"Grimsby",022, ,1,0,0,233,429,"Our Lady of Fatima Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,15,13,85,69,"Grimsby",023, ,0,0,0,182,389,"Central Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,20,23,63,41,"Grimsby",024, ,0,0,0,147,295,"Central Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,8,13,47,25,"Grimsby",025, ,1,0,0,94,217,"Central Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,28,10,90,78,"Grimsby",026, ,2,0,0,208,361,"Lakeview Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,21,23,92,51,"Grimsby",027, ,1,0,0,188,317,"Nelles Public School",20071010
+055,NIAGARA WEST--GLANBROOK,18,9,57,59,"Grimsby",028, ,0,0,0,143,322,"Nelles Public School",20071010
+055,NIAGARA WEST--GLANBROOK,3,1,6,2,"Grimsby",029s, ,0,0,0,12,23,"Kilean Lodge",20071010
+055,NIAGARA WEST--GLANBROOK,5,2,15,13,"Grimsby",030s, ,1,0,0,36,63,"Maplecrest Village",20071010
+055,NIAGARA WEST--GLANBROOK,15,25,90,56,"Grimsby",031, ,0,0,0,186,383,"Lakeview Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,23,28,124,76,"Grimsby",032, ,0,0,0,251,470,"Nelles Public School",20071010
+055,NIAGARA WEST--GLANBROOK,12,5,104,65,"Grimsby",033, ,1,0,0,187,350,"Lakeview Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,19,7,121,74,"Grimsby",034, ,0,0,0,221,365,"Centennial Park Baptist Church",20071010
+055,NIAGARA WEST--GLANBROOK,11,21,112,112,"Grimsby",035, ,0,0,0,256,425,"Lakeview Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,0,0,2,1,"Grimsby",036s, ,0,0,0,3,18,"West Lincoln Memorial Hospital Chronic Care Ward",20071010
+055,NIAGARA WEST--GLANBROOK,1,0,16,7,"Grimsby",037s, ,0,0,0,24,62,"Deer Park Villa",20071010
+055,NIAGARA WEST--GLANBROOK,29,20,137,83,"Grimsby",038, ,0,0,0,269,532,"Centennial Park Baptist Church",20071010
+055,NIAGARA WEST--GLANBROOK,21,11,81,55,"Grimsby",039, ,1,0,2,171,369,"West Niagara Family Centre",20071010
+055,NIAGARA WEST--GLANBROOK,23,20,116,62,"Grimsby",040, ,0,0,1,222,403,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,20,27,110,57,"Grimsby",041, ,0,0,0,214,401,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,18,25,83,62,"Grimsby",042, ,1,0,0,189,351,"West Niagara Family Centre",20071010
+055,NIAGARA WEST--GLANBROOK,2,0,11,10,"Grimsby",043s, ,0,0,0,23,27,"Lincoln Park",20071010
+055,NIAGARA WEST--GLANBROOK,5,1,60,5,"Grimsby",044s, ,1,9,0,81,156,"Shalom Manor",20071010
+055,NIAGARA WEST--GLANBROOK,29,21,77,54,"Grimsby",045, ,0,0,0,181,343,"West Niagara Family Centre",20071010
+055,NIAGARA WEST--GLANBROOK,14,6,134,84,"Grimsby",046, ,0,0,0,238,408,"West Niagara Family Centre",20071010
+055,NIAGARA WEST--GLANBROOK,20,15,60,39,"Grimsby",047, ,0,0,0,134,327,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,20,12,116,75,"Grimsby",048, ,0,0,0,223,377,"West Niagara Family Centre",20071010
+055,NIAGARA WEST--GLANBROOK,10,9,92,33,"Beamsville",049, ,0,0,1,145,298,"The Vineyard Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,11,11,110,65,"Vineland Station",050, ,0,0,0,197,321,"Vineland United Church",20071010
+055,NIAGARA WEST--GLANBROOK,24,4,94,80,"Mount Hope",051, ,1,1,1,205,395,"Villages of Glancaster Country Club",20071010
+055,NIAGARA WEST--GLANBROOK,35,11,77,42,"Mount Hope",052, ,1,1,0,167,363,"Villages of Glancaster Country Club",20071010
+055,NIAGARA WEST--GLANBROOK,20,5,100,80,"Mount Hope",053, ,1,1,0,207,285,"Villages of Glancaster Country Club",20071010
+055,NIAGARA WEST--GLANBROOK,23,14,114,87,"Mount Hope",054, ,2,0,0,240,360,"Villages of Glancaster Country Club",20071010
+055,NIAGARA WEST--GLANBROOK,66,9,163,144,"Mount Hope",055, ,1,1,0,384,601,"Villages of Glancaster Country Club",20071010
+055,NIAGARA WEST--GLANBROOK,..........................NO POLL HELD........................,,,,"Mount Hope",056, ,0,0,0,0,0,"",20071010
+055,NIAGARA WEST--GLANBROOK,26,6,123,69,"Mount Hope",057, ,2,1,0,227,445,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,60,7,127,103,"Mount Hope",058, ,0,1,0,298,393,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,31,9,127,111,"Mount Hope",059, ,0,0,0,278,365,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,41,9,92,50,"Mount Hope",060, ,2,1,0,195,387,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,45,13,95,94,"Mount Hope",061, ,0,0,0,247,457,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,34,16,65,49,"Stoney Creek",062, ,0,0,0,164,322,"Janet Lee Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,41,13,93,89,"Stoney Creek",063, ,2,0,1,239,474,"Janet Lee Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,8,3,2,10,"Stoney Creek",064s, ,2,0,1,26,112,"Ridgeview Long Term Care Centre",20071010
+055,NIAGARA WEST--GLANBROOK,29,5,79,75,"Stoney Creek",065, ,0,0,0,188,366,"Janet Lee Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,32,9,57,66,"Stoney Creek",066, ,1,0,0,165,360,"Janet Lee Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,39,11,52,77,"Stoney Creek",067, ,0,0,0,179,438,"Janet Lee Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,29,9,74,69,"Stoney Creek",068, ,0,0,0,181,378,"Mount Albion Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,38,18,78,88,"Stoney Creek",069, ,0,1,1,224,464,"Mount Albion Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,62,16,78,62,"Stoney Creek",070, ,0,0,1,219,474,"Mount Albion Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,45,2,23,26,"Stoney Creek",071, ,2,1,0,99,255,"Paramount Drive Alliance Church",20071010
+055,NIAGARA WEST--GLANBROOK,17,2,43,27,"Stoney Creek",072s, ,1,2,0,92,164,"Heritage Green Retirement Home",20071010
+055,NIAGARA WEST--GLANBROOK,48,15,72,106,"Stoney Creek",073, ,0,1,0,242,473,"Mount Albion Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,6,1,29,21,"Stoney Creek",074s, ,0,1,0,58,157,"Heritage Green Nursing Home",20071010
+055,NIAGARA WEST--GLANBROOK,28,13,50,97,"Stoney Creek",075, ,0,0,0,188,403,"Gatestone School",20071010
+055,NIAGARA WEST--GLANBROOK,39,16,75,120,"Stoney Creek",076, ,0,1,0,251,463,"Mount Albion Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,33,13,100,88,"Stoney Creek",077, ,2,0,0,236,450,"Gatestone School",20071010
+055,NIAGARA WEST--GLANBROOK,51,13,68,87,"Stoney Creek",078, ,1,0,0,220,465,"St. James the Apostle Catholic Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,53,16,54,66,"Stoney Creek",079, ,0,0,0,189,437,"St. James the Apostle Catholic Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,38,13,74,81,"Stoney Creek",080, ,0,0,0,206,445,"St. James the Apostle Catholic Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,16,10,71,77,"Stoney Creek",081, ,0,1,0,175,388,"Saltfleet Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,33,10,45,61,"Stoney Creek",082, ,0,1,0,150,404,"Saltfleet Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,46,12,56,75,"Stoney Creek",083, ,1,2,0,192,389,"Tapleytown Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,38,18,73,71,"Stoney Creek",084, ,1,0,0,201,383,"Tapleytown Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,21,25,101,47,"Grimsby",085, ,0,0,0,194,370,"Smith Public School",20071010
+055,NIAGARA WEST--GLANBROOK,25,26,93,43,"Grimsby",086, ,1,0,0,188,383,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,13,14,117,80,"Grimsby",087, ,1,1,0,226,417,"Centennial Park Baptist Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,18,110,88,"Grimsby",088, ,0,1,0,236,387,"Centennial Park Baptist Church",20071010
+055,NIAGARA WEST--GLANBROOK,17,11,120,86,"Grimsby",089, ,3,1,0,238,426,"Centennial Park Baptist Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,20,113,73,"Grimsby",090, ,0,0,0,225,365,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,11,15,116,62,"Grimsby",091, ,0,0,0,204,379,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,17,15,196,98,"Grimsby",092, ,1,2,0,329,530,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,22,10,79,57,"Grimsby",093, ,1,1,0,170,313,"Mountainview Christian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,15,10,135,50,"Beamsville",094, ,1,0,0,211,407,"Senator Gibson Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,17,7,126,48,"Beamsville",095, ,1,1,0,200,353,"Jacob Beam Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,17,11,117,56,"Beamsville",096, ,0,1,0,202,408,"Beamsville District Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,18,13,121,61,"Beamsville",097, ,1,0,0,214,387,"Beamsville District Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,15,10,66,34,"Beamsville",098, ,0,0,0,125,262,"Beamsville District Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,18,3,112,46,"Beamsville",099, ,1,0,0,180,366,"Senator Gibson Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,26,13,111,37,"Beamsville",100, ,2,0,0,189,332,"Beamsville District Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,14,6,101,32,"Beamsville",101, ,1,1,0,155,362,"Senator Gibson Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,15,12,131,41,"Beamsville",102, ,1,0,0,200,361,"Senator Gibson Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,20,15,91,32,"Beamsville",103, ,0,2,0,160,316,"Beamsville Church of Christ",20071010
+055,NIAGARA WEST--GLANBROOK,15,13,61,51,"Beamsville",104, ,0,0,1,141,299,"Beamsville Church of Christ",20071010
+055,NIAGARA WEST--GLANBROOK,14,9,114,33,"Beamsville",105, ,2,1,0,173,323,"Beamsville Church of Christ",20071010
+055,NIAGARA WEST--GLANBROOK,34,4,61,43,"Beamsville",106, ,0,0,0,142,314,"The Vineyard Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,16,18,177,62,"Beamsville",107, ,0,0,0,273,485,"The Vineyard Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,7,152,60,"Vineland Station",108, ,1,0,0,239,370,"Vineland United Church",20071010
+055,NIAGARA WEST--GLANBROOK,15,11,163,52,"Jordan",109, ,0,0,0,241,404,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,39,10,62,54,"Mount Hope",110, ,0,0,0,165,392,"Twenty Place Club House",20071010
+055,NIAGARA WEST--GLANBROOK,30,12,67,41,"Binbrook",111, ,0,0,0,150,313,"Participation House",20071010
+055,NIAGARA WEST--GLANBROOK,16,4,39,38,"Stoney Creek",112, ,0,0,0,97,256,"Rymal Road Community Church of the Free Methodist",20071010
+055,NIAGARA WEST--GLANBROOK,20,12,31,66,"Stoney Creek",113, ,1,0,1,131,331,"Rymal Road Community Church of the Free Methodist",20071010
+055,NIAGARA WEST--GLANBROOK,34,14,65,87,"Stoney Creek",114, ,2,0,0,202,433,"Gatestone School",20071010
+055,NIAGARA WEST--GLANBROOK,30,6,40,63,"Stoney Creek",115, ,0,0,0,139,304,"Gatestone School",20071010
+055,NIAGARA WEST--GLANBROOK,22,20,77,84,"Stoney Creek",116, ,0,0,0,203,395,"Gatestone School",20071010
+055,NIAGARA WEST--GLANBROOK,28,7,16,21,"Stoney Creek",117, ,0,0,0,72,272,"Saltfleet Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,33,11,65,66,"Stoney Creek",118, ,3,0,0,178,404,"Saltfleet Secondary School",20071010
+055,NIAGARA WEST--GLANBROOK,23,21,78,41,"Stoney Creek",119, ,3,0,0,166,378,"Tapleytown Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,28,17,125,40,"Grimsby",120, ,3,2,0,215,407,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,30,15,130,47,"Grimsby",121, ,3,0,0,225,420,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,9,10,108,43,"Grimsby",122, ,1,0,0,171,372,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,3,14,118,35,"Beamsville",123, ,0,0,0,170,298,"St. Mark Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,19,26,97,67,"Beamsville",124, ,0,0,0,209,359,"Jacob Beam Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,25,8,113,80,"Beamsville",125, ,0,1,0,227,385,"St. Mark Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,15,19,85,67,"Beamsville",126, ,0,0,0,186,327,"Jacob Beam Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,26,16,116,47,"Beamsville",127, ,0,1,0,206,346,"St. Mark Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,11,10,88,34,"Beamsville",128, ,0,0,0,143,284,"Jacob Beam Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,5,4,20,25,"Beamsville",129s, ,0,2,0,56,230,"Albright Manor",20071010
+055,NIAGARA WEST--GLANBROOK,12,8,61,42,"Beamsville",130, ,0,0,0,123,184,"St. Mark Catholic School",20071010
+055,NIAGARA WEST--GLANBROOK,8,12,63,43,"Beamsville",131, ,0,0,0,126,284,"Calvary Gospel Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,17,178,57,"Beamsville",132, ,0,0,0,271,464,"Calvary Gospel Church",20071010
+055,NIAGARA WEST--GLANBROOK,13,11,149,68,"Vineland",133, ,2,0,0,243,375,"First Mennonite Church Vineland",20071010
+055,NIAGARA WEST--GLANBROOK,19,11,138,79,"Vineland",134, ,0,2,0,249,330,"Heritage Village Recreation Club",20071010
+055,NIAGARA WEST--GLANBROOK,4,3,15,13,"Vineland",135s, ,0,0,0,35,45,"The Orchards Retirement Community",20071010
+055,NIAGARA WEST--GLANBROOK,11,10,117,56,"Vineland",136, ,0,1,0,195,267,"Heritage Village Recreation Club",20071010
+055,NIAGARA WEST--GLANBROOK,5,7,93,27,"Vineland",137, ,1,0,0,133,213,"Vineland Public School",20071010
+055,NIAGARA WEST--GLANBROOK,5,2,5,7,"Vineland",138s, ,1,0,3,23,23,"Lincoln Lodge",20071010
+055,NIAGARA WEST--GLANBROOK,18,8,124,39,"Vineland",139, ,0,0,0,189,317,"Vineland Public School",20071010
+055,NIAGARA WEST--GLANBROOK,16,7,112,48,"Vineland",140, ,0,0,0,183,301,"Vineland Public School",20071010
+055,NIAGARA WEST--GLANBROOK,3,1,35,21,"Vineland",141s, ,0,1,0,61,172,"United Mennonite Home",20071010
+055,NIAGARA WEST--GLANBROOK,21,26,188,59,"Vineland",142, ,2,0,0,296,450,"Vineland Public School",20071010
+055,NIAGARA WEST--GLANBROOK,10,4,136,45,"Vineland",143, ,1,0,0,196,314,"First Mennonite Church Vineland",20071010
+055,NIAGARA WEST--GLANBROOK,14,14,123,62,"Jordan",144, ,0,0,0,213,344,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,19,19,144,37,"Jordan",145, ,1,0,0,220,337,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,26,15,149,52,"Jordan",146, ,0,0,1,243,395,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,21,14,74,60,"Mount Hope",147, ,0,0,0,169,388,"Mount Hope Public School",20071010
+055,NIAGARA WEST--GLANBROOK,36,15,84,34,"Mount Hope",148, ,0,1,0,170,379,"Bell Stone Public School",20071010
+055,NIAGARA WEST--GLANBROOK,34,12,97,39,"Binbrook",149, ,1,1,0,184,417,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,20,7,75,41,"Fulton",150, ,0,1,0,144,396,"Fulton Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,31,6,59,33,"Fulton",151, ,1,0,0,130,375,"Fulton Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,16,12,107,50,"Grimsby",152, ,0,0,0,185,343,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,10,7,69,25,"Beamsville",153, ,0,0,0,111,221,"Calvary Gospel Church",20071010
+055,NIAGARA WEST--GLANBROOK,37,14,178,35,"Campden",154, ,0,1,0,265,448,"Campden Public School",20071010
+055,NIAGARA WEST--GLANBROOK,11,8,141,36,"Jordan",155, ,1,0,0,197,316,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,26,20,126,35,"Mount Hope",156, ,0,0,1,208,402,"Mount Hope Public School",20071010
+055,NIAGARA WEST--GLANBROOK,14,6,27,12,"Mount Hope",157, ,0,0,3,62,165,"Bell Stone Public School",20071010
+055,NIAGARA WEST--GLANBROOK,19,5,43,33,"Mount Hope",158, ,0,0,0,100,244,"Mount Hope Public School",20071010
+055,NIAGARA WEST--GLANBROOK,26,19,87,43,"Mount Hope",159, ,2,1,0,178,400,"Bell Stone Public School",20071010
+055,NIAGARA WEST--GLANBROOK,17,24,100,47,"Binbrook",160, ,1,0,0,189,382,"Participation House",20071010
+055,NIAGARA WEST--GLANBROOK,48,16,139,51,"Binbrook",161, ,2,0,0,256,492,"Participation House",20071010
+055,NIAGARA WEST--GLANBROOK,11,12,120,45,"Fulton",162, ,0,0,0,188,315,"Fulton Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,8,4,118,18,"Grimsby",163, ,0,0,0,148,305,"Covenant Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,23,19,208,63,"Campden",164, ,0,2,0,315,516,"Campden Public School",20071010
+055,NIAGARA WEST--GLANBROOK,34,9,77,63,"Binbrook",165A, ,0,1,0,184,409,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,30,7,63,49,"Binbrook",165B, ,1,0,0,150,355,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,42,10,113,37,"Binbrook",166, ,0,0,0,202,322,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,26,11,83,66,"Binbrook",167, ,0,1,0,187,409,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,26,12,97,70,"Binbrook",168, ,0,0,0,205,403,"Binbrook United Church",20071010
+055,NIAGARA WEST--GLANBROOK,29,15,117,78,"Binbrook",169, ,0,1,1,241,460,"Binbrook United Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,10,90,40,"Fulton",170, ,0,0,0,159,384,"Fulton Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,9,14,73,32,"Smithville",171, ,0,0,2,130,222,"Smithville Christian High School",20071010
+055,NIAGARA WEST--GLANBROOK,17,10,116,36,"Smithville",172, ,0,0,0,179,364,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,22,11,131,45,"Smithville",173, ,0,0,0,209,347,"Canadian Reformed Church",20071010
+055,NIAGARA WEST--GLANBROOK,7,13,91,28,"Campden",174, ,1,0,0,140,261,"Campden Public School",20071010
+055,NIAGARA WEST--GLANBROOK,22,13,89,33,"Jordan",175, ,0,0,0,157,307,"Jordan Public School",20071010
+055,NIAGARA WEST--GLANBROOK,52,20,113,37,"Binbrook",176, ,0,0,1,223,457,"Participation House",20071010
+055,NIAGARA WEST--GLANBROOK,44,31,117,48,"Binbrook",177, ,1,0,0,241,446,"Binbrook Agricultural Society",20071010
+055,NIAGARA WEST--GLANBROOK,25,19,152,23,"Caistor Centre",178, ,1,0,0,220,420,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,17,11,149,66,"Caistor Centre",179, ,0,0,1,244,478,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,20,7,106,24,"Smithville",180, ,1,0,0,158,330,"Smithville Christian High School",20071010
+055,NIAGARA WEST--GLANBROOK,19,10,118,38,"Smithville",181, ,0,0,0,185,363,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,13,6,139,25,"Smithville",182, ,0,0,0,183,373,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,16,10,123,31,"Smithville",183, ,1,0,0,181,330,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,14,3,67,23,"Smithville",184, ,1,0,0,108,218,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,6,1,30,7,"Smithville",185s, ,0,0,0,44,71,"Legion Villa",20071010
+055,NIAGARA WEST--GLANBROOK,10,11,128,27,"Smithville",186, ,0,1,0,177,293,"South Lincoln High School",20071010
+055,NIAGARA WEST--GLANBROOK,23,8,115,25,"Smithville",187, ,0,1,0,172,306,"Smithville Christian High School",20071010
+055,NIAGARA WEST--GLANBROOK,13,14,90,30,"Campden",188, ,0,1,0,148,289,"Campden Public School",20071010
+055,NIAGARA WEST--GLANBROOK,19,27,92,32,"Fenwick",189, ,0,0,0,170,259,"Pelham Centre School",20071010
+055,NIAGARA WEST--GLANBROOK,23,18,117,48,"Binbrook",190, ,0,0,0,206,425,"Binbrook United Church",20071010
+055,NIAGARA WEST--GLANBROOK,20,8,122,28,"Smithville",191, ,0,0,0,178,325,"Smithville Christian High School",20071010
+055,NIAGARA WEST--GLANBROOK,22,7,131,46,"St. Ann's",192, ,1,1,0,208,391,"Gainsborough Central Public School",20071010
+055,NIAGARA WEST--GLANBROOK,21,18,98,52,"Fenwick",193, ,0,0,0,189,392,"Pelham Centre School",20071010
+055,NIAGARA WEST--GLANBROOK,19,10,106,43,"Caistor Centre",194, ,0,0,1,179,336,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,30,17,168,48,"Smithville",195, ,0,3,0,266,430,"Smithville Christian High School",20071010
+055,NIAGARA WEST--GLANBROOK,13,10,125,32,"St. Ann's",196, ,0,0,0,180,318,"Gainsborough Central Public School",20071010
+055,NIAGARA WEST--GLANBROOK,12,13,90,45,"Fenwick",197, ,1,1,0,162,281,"Pelham Centre School",20071010
+055,NIAGARA WEST--GLANBROOK,31,12,87,41,"Fonthill",198, ,0,0,0,171,317,"Holy Trinity Anglican Church",20071010
+055,NIAGARA WEST--GLANBROOK,20,13,59,41,"Fonthill",199, ,0,0,0,133,247,"Holy Trinity Anglican Church",20071010
+055,NIAGARA WEST--GLANBROOK,7,1,6,4,"Fonthill",200s, ,0,0,0,18,27,"Shorthills Villa Retirement Community",20071010
+055,NIAGARA WEST--GLANBROOK,25,17,82,59,"Fonthill",201, ,1,1,0,185,347,"Holy Trinity Anglican Church",20071010
+055,NIAGARA WEST--GLANBROOK,..........................NO POLL HELD........................,,,,"Smithville",202s, ,0,0,0,0,0,"",20071010
+055,NIAGARA WEST--GLANBROOK,19,10,105,58,"Fonthill",203, ,0,0,1,193,346,"Holy Trinity Anglican Church",20071010
+055,NIAGARA WEST--GLANBROOK,33,8,65,50,"Fonthill",204, ,3,0,1,160,279,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,13,15,86,33,"Caistor Centre",205, ,0,0,0,147,277,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,30,4,116,48,"Fenwick",206, ,0,0,0,198,360,"E.W. Farr Memorial Public School",20071010
+055,NIAGARA WEST--GLANBROOK,28,30,126,77,"Fenwick",207, ,0,2,0,263,457,"E.W. Farr Memorial Public School",20071010
+055,NIAGARA WEST--GLANBROOK,23,24,97,83,"Fonthill",208, ,0,0,1,228,445,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,21,11,105,93,"Fonthill",209, ,0,0,0,230,391,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,28,23,95,82,"Fonthill",210, ,0,1,0,229,370,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,20,10,109,91,"Fonthill",211, ,0,0,0,230,430,"Pelham Evangelical Friends Church",20071010
+055,NIAGARA WEST--GLANBROOK,25,10,85,86,"Fonthill",212, ,0,0,0,206,417,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,30,15,80,79,"Fonthill",213, ,0,0,0,204,332,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,25,10,78,73,"Fonthill",214, ,0,2,0,188,337,"A. K. Wigg Public School",20071010
+055,NIAGARA WEST--GLANBROOK,32,20,80,88,"Fenwick",215, ,1,0,0,221,439,"Concordia Lutheran Church",20071010
+055,NIAGARA WEST--GLANBROOK,36,11,86,90,"Fonthill",216, ,0,0,0,223,410,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,39,19,59,72,"Fonthill",217, ,1,0,0,190,361,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,26,22,97,75,"Fonthill",218, ,2,0,0,222,388,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,20,15,75,76,"Fonthill",219, ,1,1,0,188,350,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,21,8,111,33,"Caistor Centre",220, ,0,0,1,174,325,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,27,12,149,51,"St. Ann's",221, ,0,2,0,241,393,"Gainsborough Central Public School",20071010
+055,NIAGARA WEST--GLANBROOK,22,14,106,47,"Fenwick",222, ,0,0,0,189,338,"E.W. Farr Memorial Public School",20071010
+055,NIAGARA WEST--GLANBROOK,27,14,55,36,"Fenwick",223, ,0,0,0,132,261,"E.W. Farr Memorial Public School",20071010
+055,NIAGARA WEST--GLANBROOK,34,25,102,48,"Fenwick",224, ,1,0,0,210,364,"St. Ann Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,27,32,115,74,"Fenwick",225, ,0,0,0,248,416,"Pelham Centre School",20071010
+055,NIAGARA WEST--GLANBROOK,14,12,81,67,"Fonthill",226, ,0,1,0,175,315,"Pelham Evangelical Friends Church",20071010
+055,NIAGARA WEST--GLANBROOK,19,13,76,89,"Fonthill",227, ,0,1,0,198,386,"Pelham Evangelical Friends Church",20071010
+055,NIAGARA WEST--GLANBROOK,27,19,100,70,"Fenwick",228, ,0,0,0,216,417,"Concordia Lutheran Church",20071010
+055,NIAGARA WEST--GLANBROOK,6,3,8,14,"Fonthill",229s, ,1,1,0,33,116,"Woodlands of Sunset Nursing Home",20071010
+055,NIAGARA WEST--GLANBROOK,40,11,64,62,"Fonthill",230, ,0,0,0,177,328,"Glynn A. Green Public School",20071010
+055,NIAGARA WEST--GLANBROOK,11,14,86,32,"Caistor Centre",231, ,1,0,0,144,260,"Caistor Central School",20071010
+055,NIAGARA WEST--GLANBROOK,21,11,210,48,"St. Ann's",232, ,1,0,0,291,497,"Gainsborough Central Public School",20071010
+055,NIAGARA WEST--GLANBROOK,16,8,92,21,"Fenwick",233, ,0,0,0,137,278,"St. Ann Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,31,13,80,50,"Fenwick",234, ,5,1,1,181,314,"Pelham Centre School",20071010
+055,NIAGARA WEST--GLANBROOK,27,10,107,28,"Fenwick",235, ,0,0,0,172,305,"St. Ann Elementary School",20071010
+055,NIAGARA WEST--GLANBROOK,..........................NO POLL HELD........................,,,,"Grimsby",400, ,0,0,0,0,0,"",20071010
+055,NIAGARA WEST--GLANBROOK,78,47,478,195,"Smithville",Advanced Polls /  ADV001, ,0,0,0,798,0,"Returning Office / Bureau du directeur du scrutin",20071010
+055,NIAGARA WEST--GLANBROOK,107,70,600,296,"Fonthill",Advanced Polls /  ADV002, ,5,3,0,1081,0,"Pelham Fire Department Station #1",20071010
+055,NIAGARA WEST--GLANBROOK,64,37,454,208,"Beamsville",Advanced Polls /  ADV003, ,0,0,0,763,0,"Lincoln Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,100,95,581,381,"Grimsby",Advanced Polls /  ADV004, ,1,7,0,1165,0,"Grimsby Public Library",20071010
+055,NIAGARA WEST--GLANBROOK,76,29,254,190,"Stoney Creek",Advanced Polls /  ADV005, ,1,2,0,552,0,"Valley Park Community Centre",20071010
+055,NIAGARA WEST--GLANBROOK,51,25,257,144,"Binbrook",Advanced Polls /  ADV006, ,2,2,1,482,0,"Participation House",20071010
+TOTALS:, ,5809,3206,24311,14290, , , , , , , , , , 

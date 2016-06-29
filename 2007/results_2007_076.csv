@@ -1,0 +1,311 @@
+ED_CODE,ED_NAME,BOSCH,BRADLEY,GOTS,HAMMOND,SMITH,TIMMS,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+076,ST. CATHARINES,29,44,1,0,9,27,"St. Catharines",001, ,0,0,0,110,261,"Club LaSalle",20071010
+076,ST. CATHARINES,14,58,0,0,11,63,"St. Catharines",002, ,0,1,0,147,277,"Club LaSalle",20071010
+076,ST. CATHARINES,14,120,0,0,13,88,"St. Catharines",003, ,0,0,1,236,405,"Club LaSalle",20071010
+076,ST. CATHARINES,35,112,1,1,14,71,"St. Catharines",004, ,0,0,0,234,381,"Club LaSalle",20071010
+076,ST. CATHARINES,35,47,2,0,13,30,"St. Catharines",005, ,0,1,0,128,263,"Port Weller Community Centre",20071010
+076,ST. CATHARINES,27,96,2,0,14,79,"St. Catharines",006, ,0,0,0,218,387,"Port Weller Community Centre",20071010
+076,ST. CATHARINES,16,35,2,1,14,31,"St. Catharines",007, ,0,0,0,99,235,"Port Weller Community Centre",20071010
+076,ST. CATHARINES,18,140,0,0,13,77,"St. Catharines",008, ,1,0,0,249,426,"Prince Philip Public School",20071010
+076,ST. CATHARINES,16,144,0,1,12,66,"St. Catharines",009, ,0,3,1,243,438,"Prince Philip Public School",20071010
+076,ST. CATHARINES,18,24,0,0,2,34,"St. Catharines",010, ,0,1,0,79,200,"Port Weller Community Centre",20071010
+076,ST. CATHARINES,41,126,3,1,19,59,"St. Catharines",011, ,0,1,0,250,412,"Port Weller Community Centre",20071010
+076,ST. CATHARINES,13,124,1,0,12,41,"St. Catharines",012, ,0,0,0,191,344,"Assumption Catholic School",20071010
+076,ST. CATHARINES,23,129,1,0,17,56,"St. Catharines",013, ,0,0,0,226,390,"Assumption Catholic School",20071010
+076,ST. CATHARINES,18,124,0,2,14,51,"St. Catharines",014, ,1,0,1,211,357,"Michael J. Brennan Catholic School",20071010
+076,ST. CATHARINES,13,86,1,0,11,62,"St. Catharines",015, ,0,0,0,173,326,"Michael J. Brennan Catholic School",20071010
+076,ST. CATHARINES,10,119,2,1,13,72,"St. Catharines",016, ,0,2,0,219,409,"St. John Ukrainian Catholic Church",20071010
+076,ST. CATHARINES,21,102,0,0,17,68,"St. Catharines",017, ,2,0,0,210,363,"St. John Ukrainian Catholic Church",20071010
+076,ST. CATHARINES,13,101,2,0,8,57,"St. Catharines",018, ,0,1,0,182,370,"St. John Ukrainian Catholic Church",20071010
+076,ST. CATHARINES,28,101,0,1,11,44,"St. Catharines",019, ,0,1,1,187,310,"Prince Philip Public School",20071010
+076,ST. CATHARINES,19,33,1,0,8,21,"St. Catharines",020, ,0,0,0,82,188,"Assumption Catholic School",20071010
+076,ST. CATHARINES,16,107,0,0,7,65,"St. Catharines",021, ,0,0,0,195,344,"Prince Philip Public School",20071010
+076,ST. CATHARINES,16,115,2,2,5,61,"St. Catharines",022, ,0,0,0,201,333,"Assumption Catholic School",20071010
+076,ST. CATHARINES,17,105,0,0,13,63,"St. Catharines",023, ,1,0,0,199,360,"Assumption Catholic School",20071010
+076,ST. CATHARINES,40,63,0,3,11,52,"St. Catharines",024, ,0,0,0,169,373,"Lockview Public School",20071010
+076,ST. CATHARINES,17,54,1,0,9,28,"St. Catharines",025, ,0,0,0,109,241,"Gracefield Public School",20071010
+076,ST. CATHARINES,17,108,0,0,23,81,"St. Catharines",026, ,2,1,0,232,378,"Michael J. Brennan Catholic School",20071010
+076,ST. CATHARINES,30,91,0,0,16,62,"St. Catharines",027, ,1,0,0,200,404,"Michael J. Brennan Catholic School",20071010
+076,ST. CATHARINES,11,92,1,0,2,52,"St. Catharines",028, ,0,0,0,158,303,"St. John Ukrainian Catholic Church",20071010
+076,ST. CATHARINES,31,116,0,1,7,78,"St. Catharines",029, ,0,0,0,233,382,"St. John Ukrainian Catholic Church",20071010
+076,ST. CATHARINES,24,61,1,1,12,62,"St. Catharines",030, ,0,0,0,161,273,"St. James Catholic School",20071010
+076,ST. CATHARINES,36,128,0,0,17,49,"St. Catharines",031, ,0,0,0,230,411,"Governor Simcoe Secondary School",20071010
+076,ST. CATHARINES,28,107,0,0,12,87,"St. Catharines",032, ,1,1,0,236,397,"Prince Philip Public School",20071010
+076,ST. CATHARINES,29,105,1,0,18,55,"St. Catharines",033, ,1,0,0,209,378,"Governor Simcoe Secondary School",20071010
+076,ST. CATHARINES,20,65,1,0,4,41,"St. Catharines",034s, ,3,5,0,139,215,"Niagara Ina Grafton Gage Buildings A & B #1-32",20071010
+076,ST. CATHARINES,6,61,0,0,2,34,"St. Catharines",035s, ,2,0,0,105,160,"Niagara Ina Grafton Gage Buildings D & E #33-47",20071010
+076,ST. CATHARINES,18,78,0,0,16,55,"St. Catharines",036, ,0,0,0,167,311,"Holy Cross Catholic Secondary School",20071010
+076,ST. CATHARINES,31,70,2,0,22,29,"St. Catharines",037, ,0,1,0,155,322,"Holy Cross Catholic Secondary School",20071010
+076,ST. CATHARINES,25,113,1,0,10,54,"St. Catharines",038, ,0,0,0,203,409,"Holy Cross Catholic Secondary School",20071010
+076,ST. CATHARINES,17,39,0,0,8,24,"St. Catharines",039, ,0,0,0,88,248,"Lockview Public School",20071010
+076,ST. CATHARINES,40,144,0,1,8,56,"St. Catharines",040, ,0,1,0,250,403,"Lockview Public School",20071010
+076,ST. CATHARINES,23,90,1,0,14,45,"St. Catharines",041, ,0,1,0,174,328,"Lockview Public School",20071010
+076,ST. CATHARINES,15,91,0,1,17,34,"St. Catharines",042, ,1,0,0,159,266,"Gracefield Public School",20071010
+076,ST. CATHARINES,14,66,0,0,18,48,"St. Catharines",043, ,0,0,0,146,246,"Gracefield Public School",20071010
+076,ST. CATHARINES,16,54,1,0,18,35,"St. Catharines",044, ,1,1,0,126,244,"Gracefield Public School",20071010
+076,ST. CATHARINES,15,47,0,0,14,41,"St. Catharines",045, ,0,0,0,117,289,"Sheridan Park Elementary School",20071010
+076,ST. CATHARINES,16,56,2,0,6,41,"St. Catharines",046, ,0,0,0,121,248,"Michael J. Brennan Catholic School",20071010
+076,ST. CATHARINES,32,88,0,0,8,47,"St. Catharines",047A, ,0,0,0,175,304,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,17,95,0,1,20,49,"St. Catharines",047B, ,1,0,0,183,308,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,13,61,0,0,4,22,"St. Catharines",048, ,0,2,0,102,217,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,17,70,3,0,5,19,"St. Catharines",049s, ,0,4,0,118,195,"Heidehof Home for the Aged",20071010
+076,ST. CATHARINES,36,90,0,1,9,47,"St. Catharines",050, ,2,0,0,185,368,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,27,103,0,0,10,66,"St. Catharines",051, ,0,0,0,206,377,"St. James Catholic School",20071010
+076,ST. CATHARINES,36,102,3,0,10,70,"St. Catharines",052, ,0,0,1,222,395,"Parnall Public School",20071010
+076,ST. CATHARINES,33,80,0,0,7,50,"St. Catharines",053, ,0,0,0,170,327,"St. James Catholic School",20071010
+076,ST. CATHARINES,38,100,0,1,15,62,"St. Catharines",054, ,1,2,0,219,384,"Governor Simcoe Secondary School",20071010
+076,ST. CATHARINES,18,109,0,0,11,66,"St. Catharines",055, ,0,0,0,204,368,"Governor Simcoe Secondary School",20071010
+076,ST. CATHARINES,20,118,0,1,15,55,"St. Catharines",056, ,2,0,0,211,407,"Holy Cross Catholic Secondary School",20071010
+076,ST. CATHARINES,38,112,2,2,9,62,"St. Catharines",057, ,0,0,0,225,402,"Holy Cross Catholic Secondary School",20071010
+076,ST. CATHARINES,34,135,1,0,12,65,"St. Catharines",058, ,0,0,0,247,435,"Canadian Martyrs Catholic School",20071010
+076,ST. CATHARINES,38,109,0,0,7,65,"St. Catharines",059, ,0,0,0,219,365,"Lockview Public School",20071010
+076,ST. CATHARINES,30,107,1,0,10,46,"St. Catharines",060, ,0,0,1,195,348,"Canadian Martyrs Catholic School",20071010
+076,ST. CATHARINES,20,121,0,1,18,82,"St. Catharines",061, ,0,2,0,244,462,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,14,147,1,2,21,52,"St. Catharines",062, ,0,1,0,238,382,"Gracefield Public School",20071010
+076,ST. CATHARINES,15,96,1,0,17,73,"St. Catharines",063, ,2,0,0,204,323,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,28,94,1,0,33,47,"St. Catharines",064, ,2,0,0,205,340,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,25,92,0,0,7,81,"St. Catharines",065, ,0,0,0,205,411,"Sheridan Park Elementary School",20071010
+076,ST. CATHARINES,34,56,0,0,12,32,"St. Catharines",066, ,1,0,0,135,270,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,21,52,0,1,11,37,"St. Catharines",067, ,0,0,0,122,267,"Lakeport Secondary School",20071010
+076,ST. CATHARINES,22,101,0,0,6,59,"St. Catharines",068, ,0,0,2,190,336,"Grantham Optimist Youth Centre",20071010
+076,ST. CATHARINES,14,71,4,1,4,50,"St. Catharines",069, ,0,0,0,144,376,"Grantham Optimist Youth Centre",20071010
+076,ST. CATHARINES,28,93,0,1,11,52,"St. Catharines",070, ,0,0,0,185,326,"Parnall Public School",20071010
+076,ST. CATHARINES,34,82,0,3,13,65,"St. Catharines",071, ,0,0,1,198,384,"St. James Catholic School",20071010
+076,ST. CATHARINES,43,119,0,1,24,82,"St. Catharines",072, ,0,0,0,269,466,"Parnall Public School",20071010
+076,ST. CATHARINES,27,100,0,0,12,77,"St. Catharines",073, ,0,0,0,216,393,"Our Lady of Fatima Catholic School",20071010
+076,ST. CATHARINES,1,37,0,0,2,118,"St. Catharines",074s, ,2,2,0,162,245,"Tabor Manor",20071010
+076,ST. CATHARINES,25,94,0,0,9,57,"St. Catharines",075, ,3,0,1,189,400,"Our Lady of Fatima Catholic School",20071010
+076,ST. CATHARINES,9,26,0,0,2,24,"St. Catharines",076s, ,0,0,0,61,87,"Niagara Retirement Manor",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",077, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,28,104,3,0,9,63,"St. Catharines",078, ,0,0,0,207,380,"Our Lady of Fatima Catholic School",20071010
+076,ST. CATHARINES,6,11,1,1,2,5,"St. Catharines",079s, ,0,0,0,26,50,"Scott Street Senior Housing",20071010
+076,ST. CATHARINES,17,42,0,0,11,36,"St. Catharines",080, ,1,0,0,107,228,"Canadian Martyrs Catholic School",20071010
+076,ST. CATHARINES,25,153,2,1,14,78,"St. Catharines",081, ,1,0,0,274,459,"Canadian Martyrs Catholic School",20071010
+076,ST. CATHARINES,17,82,0,1,12,56,"St. Catharines",082, ,1,0,0,169,310,"Canadian Martyrs Catholic School",20071010
+076,ST. CATHARINES,25,51,1,0,7,38,"St. Catharines",083, ,0,0,0,122,228,"St. Lawrence Village",20071010
+076,ST. CATHARINES,24,70,5,0,6,44,"St. Catharines",084, ,0,0,0,149,260,"St. Lawrence Village",20071010
+076,ST. CATHARINES,14,26,0,1,2,17,"St. Catharines",085, ,0,0,1,61,149,"St. Lawrence Village",20071010
+076,ST. CATHARINES,29,98,1,0,18,63,"St. Catharines",086, ,0,0,0,209,407,"St. Lawrence Village",20071010
+076,ST. CATHARINES,6,113,0,0,11,68,"St. Catharines",087, ,0,0,0,198,347,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,23,145,0,0,14,92,"St. Catharines",088, ,0,2,0,276,459,"Sheridan Park Elementary School",20071010
+076,ST. CATHARINES,13,106,0,0,12,58,"St. Catharines",089, ,1,0,0,190,316,"Sheridan Park Elementary School",20071010
+076,ST. CATHARINES,4,66,1,0,2,25,"St. Catharines",090s, ,2,0,0,100,126,"Anchor Pointe",20071010
+076,ST. CATHARINES,6,24,0,0,2,12,"St. Catharines",091s, ,0,0,1,45,159,"Henley House",20071010
+076,ST. CATHARINES,36,82,4,0,14,78,"St. Catharines",092, ,0,0,0,214,428,"Sheridan Park Elementary School",20071010
+076,ST. CATHARINES,25,112,5,1,10,79,"St. Catharines",093, ,0,1,0,233,411,"Meadowvale Public School",20071010
+076,ST. CATHARINES,17,59,0,1,6,42,"St. Catharines",094, ,0,1,0,126,291,"Grantham Optimist Youth Centre",20071010
+076,ST. CATHARINES,21,85,3,1,5,39,"St. Catharines",095, ,3,0,0,157,316,"Grantham Optimist Youth Centre",20071010
+076,ST. CATHARINES,34,112,3,0,18,57,"St. Catharines",096, ,2,0,0,226,466,"Parnall Public School",20071010
+076,ST. CATHARINES,24,66,2,1,7,67,"St. Catharines",097, ,0,0,0,167,329,"Parnall Public School",20071010
+076,ST. CATHARINES,21,59,3,0,7,85,"St. Catharines",098, ,1,0,0,176,327,"Our Lady of Fatima Catholic School",20071010
+076,ST. CATHARINES,18,75,2,1,4,44,"St. Catharines",099, ,0,0,0,144,295,"Lincoln Centennial Public School",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",100, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,13,19,0,0,6,5,"St. Catharines",101, ,1,1,0,45,174,"Laura Secord Secondary School",20071010
+076,ST. CATHARINES,17,31,0,1,3,22,"St. Catharines",102, ,0,0,0,74,267,"Laura Secord Secondary School",20071010
+076,ST. CATHARINES,39,101,0,1,12,43,"St. Catharines",103, ,1,1,0,198,371,"Laura Secord Secondary School",20071010
+076,ST. CATHARINES,36,56,1,4,9,22,"St. Catharines",104s, ,2,0,0,130,211,"Carlton Seniors Complex",20071010
+076,ST. CATHARINES,13,60,0,0,11,28,"St. Catharines",105, ,3,0,0,115,220,"Carleton Public School",20071010
+076,ST. CATHARINES,37,117,5,0,7,59,"St. Catharines",106, ,1,2,1,229,404,"Carleton Public School",20071010
+076,ST. CATHARINES,44,145,5,0,8,56,"St. Catharines",107, ,0,0,0,258,409,"Carleton Public School",20071010
+076,ST. CATHARINES,27,118,0,0,11,59,"St. Catharines",108, ,0,1,0,216,379,"Carleton Public School",20071010
+076,ST. CATHARINES,37,54,0,1,5,20,"St. Catharines",109, ,1,0,1,119,217,"St. Lawrence Village",20071010
+076,ST. CATHARINES,24,60,1,1,15,42,"St. Catharines",110, ,0,0,0,143,304,"Carleton Public School",20071010
+076,ST. CATHARINES,35,73,0,0,16,79,"St. Catharines",111, ,0,0,0,203,405,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,19,50,0,0,4,19,"St. Catharines",112A, ,0,1,0,93,279,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,12,43,1,0,7,38,"St. Catharines",112B, ,0,1,0,102,262,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,13,67,1,0,10,94,"St. Catharines",113, ,0,0,0,185,277,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,8,77,0,0,17,70,"St. Catharines",114, ,1,0,0,173,331,"St. Ann Catholic School",20071010
+076,ST. CATHARINES,11,25,0,1,0,9,"St. Catharines",115s, ,0,0,0,46,232,"Linhaven",20071010
+076,ST. CATHARINES,36,108,0,1,18,101,"St. Catharines",116, ,3,0,0,267,444,"Meadowvale Public School",20071010
+076,ST. CATHARINES,26,70,0,1,17,48,"St. Catharines",117, ,0,0,0,162,320,"Meadowvale Public School",20071010
+076,ST. CATHARINES,22,106,2,0,8,73,"St. Catharines",118, ,1,0,0,212,462,"Meadowvale Public School",20071010
+076,ST. CATHARINES,1,36,1,0,3,9,"St. Catharines",119s, ,0,0,0,50,86,"St. Catharines Place",20071010
+076,ST. CATHARINES,20,62,3,0,21,66,"St. Catharines",120, ,0,1,0,173,350,"Meadowvale Public School",20071010
+076,ST. CATHARINES,2,44,1,0,2,14,"St. Catharines",121s, ,3,3,0,69,160,"Versa Care Centre",20071010
+076,ST. CATHARINES,22,75,1,0,18,55,"St. Catharines",122, ,0,0,0,171,361,"Grantham Optimist Youth Centre",20071010
+076,ST. CATHARINES,9,49,0,0,6,40,"St. Catharines",123, ,0,0,0,104,202,"Lincoln Centennial Public School",20071010
+076,ST. CATHARINES,23,84,2,0,13,41,"St. Catharines",124, ,2,0,0,165,325,"Lincoln Centennial Public School",20071010
+076,ST. CATHARINES,21,53,1,0,7,24,"St. Catharines",125, ,0,0,0,106,256,"Royal Canadian Legion - Polish Veterans Branch 418",20071010
+076,ST. CATHARINES,22,41,0,1,8,24,"St. Catharines",126, ,0,1,0,97,219,"Royal Canadian Legion - Polish Veterans Branch 418",20071010
+076,ST. CATHARINES,10,44,1,0,1,10,"St. Catharines",127s, ,1,0,0,67,79,"La Residence",20071010
+076,ST. CATHARINES,30,82,1,1,7,34,"St. Catharines",128, ,0,0,0,155,329,"Royal Canadian Legion - Polish Veterans Branch 418",20071010
+076,ST. CATHARINES,32,79,5,1,11,44,"St. Catharines",129, ,4,0,0,176,382,"Laura Secord Secondary School",20071010
+076,ST. CATHARINES,25,43,0,2,7,24,"St. Catharines",130, ,0,0,3,104,247,"Prince of Wales Elementary School",20071010
+076,ST. CATHARINES,19,87,1,0,15,38,"St. Catharines",131, ,4,0,0,164,312,"Prince of Wales Elementary School",20071010
+076,ST. CATHARINES,17,23,2,0,4,21,"St. Catharines",132, ,0,0,0,67,196,"Prince of Wales Elementary School",20071010
+076,ST. CATHARINES,22,78,1,0,7,32,"St. Catharines",133, ,0,2,0,142,348,"Prince of Wales Elementary School",20071010
+076,ST. CATHARINES,25,92,0,1,9,22,"St. Catharines",134, ,0,0,0,149,312,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,18,31,0,0,10,18,"St. Catharines",135, ,0,0,0,77,222,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,35,78,0,0,11,43,"St. Catharines",136, ,1,0,0,168,408,"E.I. McCulley Elementary School",20071010
+076,ST. CATHARINES,40,49,0,0,12,29,"St. Catharines",137, ,0,0,0,130,363,"Maywood Public School",20071010
+076,ST. CATHARINES,......................COMBINED WITH POLL 139 ....................,,,,,,"St. Catharines",138s, ,,,,,,"Scott Manor",20071010
+076,ST. CATHARINES,24,73,2,0,9,31,"St. Catharines",139, ,2,0,0,141,304,"Maywood Public School",20071010
+076,ST. CATHARINES,28,58,0,0,17,41,"St. Catharines",140, ,1,0,0,145,362,"St. Denis Parish Hall",20071010
+076,ST. CATHARINES,30,57,3,0,9,22,"St. Catharines",141, ,0,0,0,121,286,"St. Denis Parish Hall",20071010
+076,ST. CATHARINES,29,28,0,0,14,29,"St. Catharines",142, ,0,1,0,101,252,"St. Denis Catholic School",20071010
+076,ST. CATHARINES,16,37,1,0,5,15,"St. Catharines",143, ,0,0,0,74,190,"St. Alfred Catholic School",20071010
+076,ST. CATHARINES,35,66,1,0,12,38,"St. Catharines",144, ,0,0,0,152,310,"Queen Mary Public School",20071010
+076,ST. CATHARINES,14,41,3,1,11,33,"St. Catharines",145, ,2,0,0,105,254,"St. Alfred Catholic School",20071010
+076,ST. CATHARINES,25,54,4,0,18,32,"St. Catharines",146, ,2,0,0,135,296,"St. Alfred Catholic School",20071010
+076,ST. CATHARINES,19,45,1,1,8,17,"St. Catharines",147, ,1,0,0,92,276,"Laura Secord Secondary School",20071010
+076,ST. CATHARINES,27,47,0,0,11,22,"St. Catharines",148, ,0,0,0,107,255,"Queen Elizabeth Community Centre",20071010
+076,ST. CATHARINES,16,36,1,0,5,16,"St. Catharines",149, ,1,0,0,75,248,"Queen Elizabeth Community Centre",20071010
+076,ST. CATHARINES,15,33,0,0,5,25,"St. Catharines",150, ,1,0,0,79,218,"Ukrainian Black Sea Hall",20071010
+076,ST. CATHARINES,14,50,0,2,28,17,"St. Catharines",151, ,1,0,0,112,263,"Queen Elizabeth Community Centre",20071010
+076,ST. CATHARINES,37,30,1,1,9,24,"St. Catharines",152, ,2,0,0,104,250,"Ukrainian Black Sea Hall",20071010
+076,ST. CATHARINES,18,69,1,0,6,27,"St. Catharines",153, ,1,0,0,122,240,"Ukrainian Black Sea Hall",20071010
+076,ST. CATHARINES,22,41,1,0,7,9,"St. Catharines",154, ,0,0,0,80,195,"Ukrainian Black Sea Hall",20071010
+076,ST. CATHARINES,12,60,0,1,9,58,"St. Catharines",155, ,0,0,0,140,296,"Ukrainian Black Sea Hall",20071010
+076,ST. CATHARINES,20,81,4,0,26,115,"St. Catharines",156, ,0,0,0,246,443,"Mother Teresa Catholic School",20071010
+076,ST. CATHARINES,22,123,0,0,10,57,"St. Catharines",157, ,1,0,0,213,402,"Grapeview Public School",20071010
+076,ST. CATHARINES,18,95,0,0,9,54,"St. Catharines",158, ,1,0,0,177,290,"Grapeview Public School",20071010
+076,ST. CATHARINES,16,57,2,0,3,70,"St. Catharines",159, ,0,0,1,149,303,"Armenian Community Centre",20071010
+076,ST. CATHARINES,26,55,0,0,13,28,"St. Catharines",160, ,1,0,0,123,347,"Maywood Public School",20071010
+076,ST. CATHARINES,30,25,1,0,8,15,"St. Catharines",161, ,1,0,0,80,234,"St. Denis Parish Hall",20071010
+076,ST. CATHARINES,27,34,1,1,13,29,"St. Catharines",162, ,0,0,0,105,267,"St. Denis Parish Hall",20071010
+076,ST. CATHARINES,31,38,0,0,13,28,"St. Catharines",163, ,0,0,0,110,278,"St. Denis Catholic School",20071010
+076,ST. CATHARINES,43,56,0,1,14,52,"St. Catharines",164, ,0,0,0,166,281,"St. Denis Catholic School",20071010
+076,ST. CATHARINES,40,36,0,1,17,31,"St. Catharines",165, ,2,0,0,127,264,"Alexandra Public School",20071010
+076,ST. CATHARINES,29,51,2,0,12,33,"St. Catharines",166, ,0,0,0,127,295,"Queen Mary Public School",20071010
+076,ST. CATHARINES,28,49,0,1,8,27,"St. Catharines",167, ,0,0,0,113,266,"Russell Avenue Community Centre",20071010
+076,ST. CATHARINES,18,41,1,0,10,14,"St. Catharines",168, ,0,0,0,84,215,"Russell Avenue Community Centre",20071010
+076,ST. CATHARINES,32,49,1,0,12,39,"St. Catharines",169, ,1,0,0,134,301,"Russell Avenue Community Centre",20071010
+076,ST. CATHARINES,21,59,0,0,9,26,"St. Catharines",170, ,0,1,0,116,268,"Queen Mary Public School",20071010
+076,ST. CATHARINES,......................COMBINED WITH POLL 172s ....................,,,,,,"St. Catharines",171s, ,,,,,,"Niagara Arms Retirement Hotel & Residence 2",20071010
+076,ST. CATHARINES,10,30,1,0,3,18,"St. Catharines",172s, ,0,0,0,62,122,"Niagara Arms Retirement Hotel & Residence 1",20071010
+076,ST. CATHARINES,11,26,1,0,4,18,"St. Catharines",173, ,0,0,0,60,206,"Queen Elizabeth Community Centre",20071010
+076,ST. CATHARINES,6,34,0,0,3,16,"St. Catharines",174, ,0,0,0,59,171,"Queen Elizabeth Community Centre",20071010
+076,ST. CATHARINES,26,32,0,1,7,24,"St. Catharines",175, ,0,0,0,90,265,"C. A. W. Banquet Centre",20071010
+076,ST. CATHARINES,11,127,0,0,9,64,"St. Catharines",176, ,3,0,0,214,384,"Mother Teresa Catholic School",20071010
+076,ST. CATHARINES,14,117,2,0,13,93,"St. Catharines",177, ,0,1,0,240,457,"Grapeview Public School",20071010
+076,ST. CATHARINES,27,45,0,0,8,28,"St. Catharines",178, ,0,0,0,108,257,"Armenian Community Centre",20071010
+076,ST. CATHARINES,23,18,1,0,3,11,"St. Catharines",179, ,0,0,0,56,275,"St. Denis Parish Hall",20071010
+076,ST. CATHARINES,32,55,0,0,13,30,"St. Catharines",180, ,0,0,0,130,321,"St. Denis Catholic School",20071010
+076,ST. CATHARINES,30,40,1,0,16,32,"St. Catharines",181, ,1,2,0,122,318,"Alexandra Public School",20071010
+076,ST. CATHARINES,42,63,1,2,23,20,"St. Catharines",182, ,1,1,1,154,307,"Alexandra Public School",20071010
+076,ST. CATHARINES,37,55,0,2,27,23,"St. Catharines",183, ,0,2,0,146,295,"Alexandra Public School",20071010
+076,ST. CATHARINES,27,33,0,1,16,19,"St. Catharines",184, ,0,0,0,96,214,"Alexandra Public School",20071010
+076,ST. CATHARINES,25,38,0,0,8,32,"St. Catharines",185, ,1,0,0,104,239,"St. Catharines Collegiate",20071010
+076,ST. CATHARINES,20,45,0,1,20,26,"St. Catharines",186, ,0,0,0,112,246,"St. Catharines Collegiate",20071010
+076,ST. CATHARINES,35,68,1,0,13,20,"St. Catharines",187, ,1,0,0,138,270,"Russell Avenue Community Centre",20071010
+076,ST. CATHARINES,19,28,0,1,6,8,"St. Catharines",188, ,0,0,0,62,191,"St. Catharines Collegiate",20071010
+076,ST. CATHARINES,10,36,1,0,9,14,"St. Catharines",189, ,0,1,0,71,204,"St. Catharines Collegiate",20071010
+076,ST. CATHARINES,19,33,1,0,7,21,"St. Catharines",190, ,0,1,0,82,179,"St. Catharines Collegiate",20071010
+076,ST. CATHARINES,25,36,0,0,16,15,"St. Catharines",191, ,0,0,0,92,250,"Russell Avenue Community Centre",20071010
+076,ST. CATHARINES,8,10,1,0,2,9,"St. Catharines",192, ,4,0,1,35,198,"Jack Gatecliff Arena",20071010
+076,ST. CATHARINES,18,13,0,0,6,7,"St. Catharines",193, ,1,0,0,45,200,"Connaught Public School",20071010
+076,ST. CATHARINES,19,22,0,0,5,15,"St. Catharines",194, ,0,0,0,61,187,"Connaught Public School",20071010
+076,ST. CATHARINES,17,18,0,1,2,11,"St. Catharines",195, ,0,0,0,49,215,"Connaught Public School",20071010
+076,ST. CATHARINES,22,21,1,0,1,14,"St. Catharines",197, ,0,0,0,59,171,"Connaught Public School",20071010
+076,ST. CATHARINES,5,31,2,2,4,9,"St. Catharines",198s, ,4,3,0,60,65,"Queen Chester Terrace",20071010
+076,ST. CATHARINES,15,12,2,0,7,20,"St. Catharines",199, ,1,0,0,57,197,"Kernahan Park Secondary School",20071010
+076,ST. CATHARINES,26,57,0,0,13,28,"St. Catharines",200, ,0,1,0,125,302,"Kernahan Park Secondary School",20071010
+076,ST. CATHARINES,34,62,3,0,16,32,"St. Catharines",201, ,0,0,0,147,356,"C. A. W. Banquet Centre",20071010
+076,ST. CATHARINES,29,78,0,0,15,30,"St. Catharines",202, ,0,0,1,153,344,"C. A. W. Banquet Centre",20071010
+076,ST. CATHARINES,39,94,2,1,4,62,"St. Catharines",203, ,0,0,0,202,346,"C. A. W. Banquet Centre",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",204, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,13,37,0,0,9,25,"St. Catharines",205, ,0,0,0,84,257,"Mother Teresa Catholic School",20071010
+076,ST. CATHARINES,23,94,0,0,17,58,"St. Catharines",206, ,0,0,0,192,353,"Grapeview Public School",20071010
+076,ST. CATHARINES,14,74,0,4,4,74,"St. Catharines",207A, ,0,0,0,170,318,"Mother Teresa Catholic School",20071010
+076,ST. CATHARINES,23,63,1,0,10,73,"St. Catharines",207B, ,1,0,0,171,306,"Mother Teresa Catholic School",20071010
+076,ST. CATHARINES,24,120,1,1,16,89,"St. Catharines",208, ,1,0,0,252,463,"Armenian Community Centre",20071010
+076,ST. CATHARINES,15,47,0,0,12,27,"St. Catharines",209, ,0,2,0,103,225,"Armenian Community Centre",20071010
+076,ST. CATHARINES,22,91,3,0,18,86,"St. Catharines",210, ,0,0,0,220,405,"Armenian Community Centre",20071010
+076,ST. CATHARINES,19,62,0,1,10,30,"St. Catharines",211, ,0,0,0,122,254,"Memorial Public School",20071010
+076,ST. CATHARINES,27,66,2,0,17,28,"St. Catharines",212, ,0,0,1,141,343,"Memorial Public School",20071010
+076,ST. CATHARINES,27,55,0,1,12,24,"St. Catharines",216, ,0,0,0,119,260,"Memorial Public School",20071010
+076,ST. CATHARINES,12,40,1,1,19,22,"St. Catharines",218, ,0,4,0,99,220,"Memorial Public School",20071010
+076,ST. CATHARINES,20,39,1,0,15,15,"St. Catharines",219, ,0,0,0,90,278,"St. Catharines Boys' Optimist Club",20071010
+076,ST. CATHARINES,17,18,0,0,14,19,"St. Catharines",220, ,0,0,0,68,167,"St. Catharines Boys' Optimist Club",20071010
+076,ST. CATHARINES,15,37,0,2,11,14,"St. Catharines",221, ,0,0,0,79,207,"St. George's Anglican Church",20071010
+076,ST. CATHARINES,19,28,1,0,11,7,"St. Catharines",222, ,0,0,0,66,186,"St. Catharines Boys' Optimist Club",20071010
+076,ST. CATHARINES,18,18,1,1,14,5,"St. Catharines",223, ,0,0,0,57,209,"St. George's Anglican Church",20071010
+076,ST. CATHARINES,3,22,1,0,0,8,"St. Catharines",224s, ,0,0,0,34,59,"The Loyalist",20071010
+076,ST. CATHARINES,16,48,0,2,3,19,"St. Catharines",225s, ,8,0,0,96,135,"14 Centre Street Seniors' Apartments",20071010
+076,ST. CATHARINES,17,32,1,1,11,12,"St. Catharines",226, ,1,0,0,75,291,"Jack Gatecliff Arena",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",227, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,25,34,1,0,9,22,"St. Catharines",228, ,0,0,0,91,238,"Jack Gatecliff Arena",20071010
+076,ST. CATHARINES,24,32,5,1,6,4,"St. Catharines",229, ,0,0,0,72,184,"Jack Gatecliff Arena",20071010
+076,ST. CATHARINES,15,61,0,1,4,42,"St. Catharines",230, ,1,0,0,124,275,"St. Thomas Aquinas Church",20071010
+076,ST. CATHARINES,25,35,1,0,6,23,"St. Catharines",231, ,0,0,0,90,229,"St. Thomas Aquinas Church",20071010
+076,ST. CATHARINES,2,21,1,1,0,9,"St. Catharines",232s, ,0,4,2,40,112,"Tufford Nursing Home and Tufford Manor",20071010
+076,ST. CATHARINES,31,53,0,1,9,39,"St. Catharines",233, ,0,0,0,133,254,"St. Thomas Aquinas Church",20071010
+076,ST. CATHARINES,25,72,0,0,10,43,"St. Catharines",234, ,0,0,0,150,301,"Kernahan Park Secondary School",20071010
+076,ST. CATHARINES,25,33,0,0,1,22,"St. Catharines",235, ,0,0,0,81,193,"Kernahan Park Secondary School",20071010
+076,ST. CATHARINES,26,41,0,1,8,36,"St. Catharines",236, ,0,0,0,112,227,"Kernahan Park Secondary School",20071010
+076,ST. CATHARINES,27,51,0,0,9,53,"St. Catharines",237, ,0,0,0,140,337,"St. Christopher Catholic School",20071010
+076,ST. CATHARINES,16,15,1,0,5,6,"St. Catharines",238s, ,0,0,0,43,82,"Ridley Terrace Apartments",20071010
+076,ST. CATHARINES,20,27,0,1,2,3,"St. Catharines",239, ,0,0,0,53,174,"Seymour-Hannah Sports & Entertainment Complex",20071010
+076,ST. CATHARINES,21,112,1,0,10,57,"St. Catharines",240, ,1,0,0,202,437,"Seymour-Hannah Sports & Entertainment Complex",20071010
+076,ST. CATHARINES,4,22,0,0,0,10,"St. Catharines",241s, ,1,0,0,37,51,"Mount Carmel Nursing Home",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",242, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,14,55,0,0,16,25,"St. Catharines",244, ,0,1,0,111,223,"St. George's Anglican Church",20071010
+076,ST. CATHARINES,8,94,1,0,14,34,"St. Catharines",245, ,1,0,0,152,262,"Glen Ridge Public School",20071010
+076,ST. CATHARINES,12,86,0,0,11,56,"St. Catharines",246, ,0,0,0,165,282,"Glen Ridge Public School",20071010
+076,ST. CATHARINES,21,25,0,0,13,25,"St. Catharines",247, ,0,0,0,84,250,"St. Thomas Aquinas Church",20071010
+076,ST. CATHARINES,30,38,2,0,9,30,"St. Catharines",248, ,0,0,0,109,274,"Ferndale Elementary School",20071010
+076,ST. CATHARINES,37,46,0,0,11,33,"St. Catharines",249, ,1,1,0,129,298,"St. Christopher Catholic School",20071010
+076,ST. CATHARINES,43,70,2,0,20,26,"St. Catharines",250, ,1,0,0,162,355,"St. Christopher Catholic School",20071010
+076,ST. CATHARINES,37,74,0,0,14,42,"St. Catharines",251, ,1,1,0,169,348,"St. Christopher Catholic School",20071010
+076,ST. CATHARINES,10,18,0,0,5,15,"St. Catharines",252, ,0,0,0,48,144,"Applewood Public School",20071010
+076,ST. CATHARINES,17,56,0,0,9,30,"St. Catharines",253, ,0,0,0,112,328,"St. Christopher Catholic School",20071010
+076,ST. CATHARINES,32,37,0,1,6,21,"St. Catharines",254, ,1,0,0,98,244,"Applewood Public School",20071010
+076,ST. CATHARINES,21,65,4,3,8,88,"St. Catharines",255, ,0,0,0,189,378,"Seymour-Hannah Sports & Entertainment Complex",20071010
+076,ST. CATHARINES,22,52,0,0,12,40,"St. Catharines",256, ,0,0,0,126,288,"Seymour-Hannah Sports & Entertainment Complex",20071010
+076,ST. CATHARINES,18,53,0,2,17,33,"St. Catharines",257, ,0,0,0,123,284,"Seymour-Hannah Sports & Entertainment Complex",20071010
+076,ST. CATHARINES,12,106,0,0,13,43,"St. Catharines",258, ,0,0,0,174,298,"Glen Ridge Public School",20071010
+076,ST. CATHARINES,24,110,3,1,16,55,"St. Catharines",259, ,0,0,0,209,352,"Glen Ridge Public School",20071010
+076,ST. CATHARINES,25,32,0,0,15,29,"St. Catharines",260, ,0,0,0,101,279,"Merritton Community Centre",20071010
+076,ST. CATHARINES,27,68,2,0,13,45,"St. Catharines",261, ,0,1,0,156,393,"Ferndale Elementary School",20071010
+076,ST. CATHARINES,49,73,1,1,26,61,"St. Catharines",262, ,0,0,0,211,402,"Ferndale Elementary School",20071010
+076,ST. CATHARINES,36,53,0,1,11,40,"St. Catharines",263, ,0,0,0,141,328,"Merritton Community Centre",20071010
+076,ST. CATHARINES,45,59,2,0,10,44,"St. Catharines",264, ,0,2,0,162,390,"Ferndale Elementary School",20071010
+076,ST. CATHARINES,22,25,1,0,5,24,"St. Catharines",265, ,1,0,0,78,262,"Ferndale Elementary School",20071010
+076,ST. CATHARINES,33,90,2,1,12,49,"St. Catharines",266, ,1,0,0,188,380,"Applewood Public School",20071010
+076,ST. CATHARINES,35,49,2,0,18,34,"St. Catharines",267, ,0,0,0,138,301,"Applewood Public School",20071010
+076,ST. CATHARINES,20,49,0,0,14,33,"St. Catharines",268, ,0,0,0,116,254,"Southridge Community Church",20071010
+076,ST. CATHARINES,19,76,1,1,11,64,"St. Catharines",269, ,0,1,1,174,304,"Southridge Community Church",20071010
+076,ST. CATHARINES,28,32,0,0,7,24,"St. Catharines",270, ,0,0,0,91,254,"Merritton Community Centre",20071010
+076,ST. CATHARINES,25,23,0,0,8,22,"St. Catharines",271, ,0,0,0,78,200,"Merritton Community Centre",20071010
+076,ST. CATHARINES,50,67,6,0,8,42,"St. Catharines",272, ,0,0,0,173,384,"Merritton Community Centre",20071010
+076,ST. CATHARINES,27,48,0,1,8,25,"St. Catharines",273A, ,0,1,0,110,262,"Applewood Public School",20071010
+076,ST. CATHARINES,30,48,1,1,3,30,"St. Catharines",273B, ,1,0,0,114,249,"Applewood Public School",20071010
+076,ST. CATHARINES,20,65,0,0,14,44,"St. Catharines",274, ,0,3,0,146,330,"Southridge Community Church",20071010
+076,ST. CATHARINES,22,79,1,0,14,50,"St. Catharines",275, ,0,0,0,166,316,"Denis Morris Catholic High School",20071010
+076,ST. CATHARINES,30,82,1,0,11,39,"St. Catharines",276, ,1,1,0,165,330,"Denis Morris Catholic High School",20071010
+076,ST. CATHARINES,25,72,0,0,6,37,"St. Catharines",277, ,1,1,0,142,279,"Denis Morris Catholic High School",20071010
+076,ST. CATHARINES,28,67,1,0,12,28,"St. Catharines",278, ,1,0,0,137,326,"Denis Morris Catholic High School",20071010
+076,ST. CATHARINES,......................COMBINED WITH POLL 401 ....................,,,,,,"St. Catharines",400, ,,,,,,"Lockview Public School",20071010
+076,ST. CATHARINES,38,69,1,0,10,45,"St. Catharines",401, ,0,0,0,163,334,"Parkwood Towers",20071010
+076,ST. CATHARINES,..........................NO POLL HELD........................,,,,,,"St. Catharines",402, ,0,0,0,0,0,"",20071010
+076,ST. CATHARINES,22,36,0,1,5,24,"St. Catharines",403, ,0,1,0,89,151,"Briarwood Apartments",20071010
+076,ST. CATHARINES,21,48,0,1,6,31,"St. Catharines",404, ,0,0,0,107,176,"Vine Street Village",20071010
+076,ST. CATHARINES,14,40,1,0,3,17,"St. Catharines",405, ,0,1,0,76,223,"Lincoln Centennial Public School",20071010
+076,ST. CATHARINES,14,39,0,2,1,16,"St. Catharines",406, ,2,1,0,75,126,"Scottview Gardens",20071010
+076,ST. CATHARINES,17,40,0,1,3,36,"St. Catharines",407, ,0,0,0,97,126,"The Parkland",20071010
+076,ST. CATHARINES,10,44,1,0,3,28,"St. Catharines",408, ,0,0,0,86,122,"Geneva Court",20071010
+076,ST. CATHARINES,20,30,2,1,3,22,"St. Catharines",409, ,0,0,0,78,120,"Geneva On The Park",20071010
+076,ST. CATHARINES,14,24,0,0,2,24,"St. Catharines",410, ,0,0,0,64,142,"Lincoln Centennial Public School",20071010
+076,ST. CATHARINES,30,23,1,1,5,20,"St. Catharines",411, ,1,0,0,81,137,"Ivanhoe Towers",20071010
+076,ST. CATHARINES,15,25,1,1,4,8,"St. Catharines",412, ,0,0,0,54,112,"El Camino Apartments",20071010
+076,ST. CATHARINES,17,36,0,1,9,29,"St. Catharines",413, ,1,0,0,93,124,"Yorkshire Apartments",20071010
+076,ST. CATHARINES,16,20,1,0,0,3,"St. Catharines",414, ,0,0,0,40,123,"St. Alfred Catholic School",20071010
+076,ST. CATHARINES,12,25,0,1,2,14,"St. Catharines",415, ,1,1,0,56,102,"The Chelsea",20071010
+076,ST. CATHARINES,19,33,0,2,2,24,"St. Catharines",416, ,0,0,0,80,161,"Roehampton Place",20071010
+076,ST. CATHARINES,22,53,0,1,9,37,"St. Catharines",417, ,2,0,0,124,153,"Meadowvale Condominiums",20071010
+076,ST. CATHARINES,24,72,3,0,4,28,"St. Catharines",418, ,1,1,0,133,197,"Brockton Apartments",20071010
+076,ST. CATHARINES,11,12,0,0,4,10,"St. Catharines",419, ,0,0,0,37,91,"Garden Terrace Apartments",20071010
+076,ST. CATHARINES,8,21,0,0,4,8,"St. Catharines",420, ,3,0,0,44,102,"Valleyview",20071010
+076,ST. CATHARINES,24,69,0,0,5,60,"St. Catharines",421, ,0,0,0,158,237,"Millrun Condominiums",20071010
+076,ST. CATHARINES,19,58,0,1,6,17,"St. Catharines",422, ,1,2,0,104,162,"Gale Street Seniors' Complex",20071010
+076,ST. CATHARINES,17,16,0,0,2,12,"St. Catharines",423, ,0,0,0,47,71,"Emerald Towers",20071010
+076,ST. CATHARINES,19,36,1,0,1,30,"St. Catharines",424, ,2,0,0,89,134,"Glencourt Apartments",20071010
+076,ST. CATHARINES,21,59,1,1,7,48,"St. Catharines",425, ,1,0,0,138,185,"Crown Towers",20071010
+076,ST. CATHARINES,7,52,0,0,3,37,"St. Catharines",426, ,0,0,0,99,125,"South Gate Towers",20071010
+076,ST. CATHARINES,11,46,0,0,8,39,"St. Catharines",427, ,0,1,0,105,159,"Canadian Towers",20071010
+076,ST. CATHARINES,23,43,1,0,9,10,"St. Catharines",428, ,0,0,0,86,122,"Eden Gardens",20071010
+076,ST. CATHARINES,14,41,1,0,6,26,"St. Catharines",429, ,0,0,0,88,118,"Centennial Towers",20071010
+076,ST. CATHARINES,323,1376,16,6,138,767,"St. Catharines",Advanced Polls /  ADV001, ,6,3,0,2635,0,"Returning Office / Bureau du directeur du scrutin",20071010
+076,ST. CATHARINES,67,346,1,3,28,236,"St. Catharines",Advanced Polls /  ADV002, ,0,0,0,681,0,"Armenian Community Centre",20071010
+076,ST. CATHARINES,62,202,5,1,22,122,"St. Catharines",Advanced Polls /  ADV003, ,0,0,0,414,0,"Jack Gatecliff Arena",20071010
+TOTALS:, ,7069,21029,267,139,3152,12864, , , , , , , , , , 

@@ -1,0 +1,281 @@
+ED_CODE,ED_NAME,ANDERSON,CHILVERS,ELLIOTT,FRAMPTON,GOBIN,HAMMER,MOSES,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+100,WHITBY--OSHAWA,13,2,120,1,1,44,23,"Oshawa",001, ,1,0,0,205,409,"Columbus United Church",20071010
+100,WHITBY--OSHAWA,15,5,92,1,0,56,16,"Oshawa",002, ,0,0,0,185,329,"Columbus United Church",20071010
+100,WHITBY--OSHAWA,17,1,96,0,0,56,7,"Whitby",003, ,0,1,0,178,356,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,11,1,69,0,0,42,14,"Whitby",004, ,0,1,0,138,304,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,23,1,103,0,0,30,10,"Whitby",005, ,0,0,0,167,350,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,7,4,85,0,2,48,12,"Oshawa",006, ,0,0,0,158,307,"Columbus United Church",20071010
+100,WHITBY--OSHAWA,12,0,130,1,1,71,9,"Whitby",007, ,0,0,0,224,378,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,22,1,149,1,2,106,15,"Whitby",008, ,1,0,0,297,618,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,17,1,96,0,0,34,6,"Whitby",009, ,0,1,0,155,332,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,12,1,95,0,0,74,14,"Whitby",010A, ,3,0,0,199,385,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,11,0,79,0,1,61,6,"Whitby",010B, ,0,0,0,158,311,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,14,1,87,0,1,59,11,"Whitby",010C, ,0,0,0,173,330,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,11,1,98,1,3,61,23,"Whitby",011, ,2,0,0,200,386,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,14,0,117,0,1,66,15,"Whitby",012, ,1,1,0,215,420,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,9,0,100,0,0,76,9,"Whitby",013, ,1,0,0,195,356,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,16,0,112,0,1,74,9,"Whitby",014, ,0,0,0,212,380,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,11,0,105,1,1,86,18,"Whitby",015, ,0,0,0,222,395,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,8,0,79,0,2,71,22,"Whitby",016A, ,1,0,0,183,356,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,8,0,72,1,0,52,14,"Whitby",016B, ,0,1,0,148,296,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,9,1,52,0,2,67,16,"Whitby",016C, ,1,1,0,149,292,"St. Leo Catholic School",20071010
+100,WHITBY--OSHAWA,13,3,101,1,0,62,12,"Whitby",017, ,0,0,0,192,383,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,21,0,115,0,0,79,17,"Whitby",018, ,0,0,0,232,413,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,16,0,116,0,1,70,20,"Whitby",019, ,0,1,0,224,412,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,4,0,108,2,2,66,10,"Whitby",020, ,1,0,0,193,364,"St. Bridget Catholic School",20071010
+100,WHITBY--OSHAWA,11,2,77,1,2,33,18,"Whitby",021, ,1,0,0,145,283,"Brooklin Community Centre",20071010
+100,WHITBY--OSHAWA,20,2,79,0,1,51,18,"Brooklin",022, ,0,0,0,171,313,"St. Thomas Anglican Church",20071010
+100,WHITBY--OSHAWA,17,3,112,0,0,77,15,"Brooklin",023, ,0,1,0,225,386,"St. Thomas Anglican Church",20071010
+100,WHITBY--OSHAWA,18,0,126,0,2,63,8,"Brooklin",024, ,0,0,0,217,403,"St. Thomas Anglican Church",20071010
+100,WHITBY--OSHAWA,20,0,86,0,0,87,12,"Whitby",025, ,0,0,0,205,373,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,11,0,80,1,2,65,16,"Whitby",027, ,0,0,0,175,337,"Winchester Public School",20071010
+100,WHITBY--OSHAWA,12,0,99,0,0,46,22,"Whitby",028, ,1,0,0,180,373,"Brooklin Community Centre",20071010
+100,WHITBY--OSHAWA,16,1,70,0,0,71,13,"Whitby",029, ,0,0,0,171,374,"Brooklin Community Centre",20071010
+100,WHITBY--OSHAWA,9,1,55,0,3,36,14,"Oshawa",030, ,2,0,0,120,258,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,22,0,35,1,3,76,57,"Oshawa",031, ,1,0,1,196,393,"UOIT/Durham College",20071010
+100,WHITBY--OSHAWA,11,1,50,0,0,32,9,"Brooklin",032, ,0,0,0,103,208,"St. Thomas Anglican Church",20071010
+100,WHITBY--OSHAWA,6,1,76,2,1,43,17,"Oshawa",033, ,0,0,0,146,316,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,13,1,72,0,2,60,25,"Oshawa",034, ,0,0,0,173,337,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,12,0,91,1,2,63,51,"Oshawa",035, ,0,0,0,220,429,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,10,0,75,0,2,47,25,"Oshawa",036, ,0,0,0,159,360,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,17,0,88,0,2,82,24,"Whitby",037, ,0,0,0,213,519,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,11,1,62,0,0,48,14,"Whitby",038, ,0,0,0,136,336,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,9,0,59,0,1,55,8,"Whitby",039, ,0,0,0,132,369,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,13,2,41,1,2,33,30,"Oshawa",040, ,1,0,0,123,276,"Oshawa Shrine Club",20071010
+100,WHITBY--OSHAWA,11,1,98,0,3,63,23,"Oshawa",041, ,0,1,0,200,434,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,5,0,34,1,0,27,25,"Oshawa",042, ,0,0,0,92,235,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,13,2,96,0,0,54,29,"Oshawa",043, ,2,0,2,198,407,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,5,1,50,1,1,33,17,"Oshawa",044, ,0,0,0,108,271,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,10,2,38,0,0,53,16,"Whitby",045, ,0,0,0,119,307,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,12,0,98,0,3,98,21,"Whitby",046, ,5,0,0,237,496,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,16,1,68,0,1,62,23,"Whitby",047, ,2,0,0,173,381,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,13,0,68,0,2,51,15,"Whitby",048, ,2,0,0,151,363,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,19,0,95,1,2,82,19,"Whitby",049, ,0,2,0,220,458,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,13,0,77,1,2,69,24,"Whitby",050, ,0,0,0,186,391,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,17,0,107,1,4,92,20,"Whitby",051, ,1,0,0,242,472,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,8,0,80,2,0,66,11,"Whitby",052, ,0,0,0,167,416,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,12,1,65,1,5,82,20,"Whitby",053, ,2,1,0,189,383,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,10,0,102,0,2,61,41,"Oshawa",054, ,0,0,0,216,426,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,12,0,75,1,2,58,39,"Oshawa",055, ,1,3,1,192,411,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,17,0,56,2,1,38,25,"Oshawa",056, ,0,0,0,139,332,"Sunset Heights Public School",20071010
+100,WHITBY--OSHAWA,14,0,84,1,4,47,10,"Whitby",057, ,0,0,0,160,333,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,12,0,99,0,2,100,9,"Whitby",058, ,1,1,0,224,445,"Sinclair Secondary School",20071010
+100,WHITBY--OSHAWA,8,1,54,0,1,46,9,"Whitby",059, ,1,0,0,120,272,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,2,0,15,0,0,8,2,"Whitby",060s, ,0,0,0,27,112,"The Village of Taunton Mills",20071010
+100,WHITBY--OSHAWA,16,0,119,0,0,109,25,"Whitby",061, ,0,1,0,270,519,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,9,1,84,0,2,92,10,"Whitby",062, ,0,0,0,198,409,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,16,1,102,0,0,139,30,"Whitby",063, ,1,0,0,289,540,"Fallingbrook Public School",20071010
+100,WHITBY--OSHAWA,15,0,141,0,1,115,8,"Whitby",064, ,1,0,0,281,458,"Fallingbrook Public School",20071010
+100,WHITBY--OSHAWA,14,0,70,0,3,99,11,"Whitby",065, ,0,0,1,198,400,"Father Leo J. Austin Catholic High School",20071010
+100,WHITBY--OSHAWA,4,1,37,2,1,33,9,"Whitby",066s, ,1,1,0,89,129,"The Court at Pringle Creek",20071010
+100,WHITBY--OSHAWA,13,0,89,1,1,111,16,"Whitby",067, ,0,0,0,231,516,"Fallingbrook Public School",20071010
+100,WHITBY--OSHAWA,3,1,83,0,2,68,15,"Whitby",068, ,0,0,0,172,367,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,10,0,79,0,1,65,15,"Whitby",069, ,1,0,0,171,365,"Sir Samuel Steele Public School",20071010
+100,WHITBY--OSHAWA,14,0,90,0,0,63,14,"Whitby",070, ,1,0,0,182,399,"St. Mark the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,14,0,120,0,1,121,21,"Whitby",071, ,1,0,0,278,494,"John Dryden Public School",20071010
+100,WHITBY--OSHAWA,10,0,54,2,2,49,21,"Whitby",072, ,2,0,0,140,360,"St. Mark the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,8,0,56,0,4,54,18,"Whitby",073, ,0,0,0,140,262,"St. Mark the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,11,2,80,0,1,76,22,"Whitby",074, ,1,0,1,194,404,"John Dryden Public School",20071010
+100,WHITBY--OSHAWA,17,2,66,1,0,46,24,"Whitby",075, ,2,0,0,158,341,"John Dryden Public School",20071010
+100,WHITBY--OSHAWA,10,1,83,1,2,66,34,"Whitby",076, ,2,1,0,200,416,"John Dryden Public School",20071010
+100,WHITBY--OSHAWA,10,3,83,0,5,98,27,"Oshawa",077, ,2,0,0,228,481,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,7,2,88,0,2,75,24,"Oshawa",078, ,1,1,0,200,384,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,13,4,86,1,3,83,29,"Oshawa",079, ,2,0,0,221,422,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,9,2,62,0,2,39,26,"Oshawa",080, ,1,0,0,141,283,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,16,5,86,0,2,81,19,"Oshawa",081, ,0,0,0,209,360,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,11,2,85,0,4,71,25,"Oshawa",082, ,0,0,0,198,380,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,19,4,80,0,0,55,18,"Oshawa",083, ,0,0,0,176,330,"Monsignor Paul Dwyer Catholic High School",20071010
+100,WHITBY--OSHAWA,13,1,40,0,1,62,22,"Whitby",084, ,1,0,0,140,365,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,7,1,60,0,1,47,16,"Whitby",085, ,0,0,1,133,321,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,7,1,71,0,2,68,10,"Whitby",086, ,0,0,0,159,377,"Captain Michael Vandenbos Public School",20071010
+100,WHITBY--OSHAWA,6,0,51,0,0,57,11,"Whitby",087, ,0,0,0,125,348,"Captain Michael Vandenbos Public School",20071010
+100,WHITBY--OSHAWA,10,2,97,1,2,90,8,"Whitby",088, ,1,0,0,211,439,"Captain Michael Vandenbos Public School",20071010
+100,WHITBY--OSHAWA,8,1,87,0,2,104,9,"Whitby",089, ,7,1,0,219,418,"Captain Michael Vandenbos Public School",20071010
+100,WHITBY--OSHAWA,0,1,18,0,1,5,0,"Whitby",090s, ,0,1,0,26,34,"Lynde Creek Manor",20071010
+100,WHITBY--OSHAWA,10,0,85,1,2,55,11,"Whitby",091, ,0,1,0,165,298,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,12,0,68,0,1,62,15,"Whitby",092, ,0,1,0,159,371,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,11,2,64,0,0,43,13,"Whitby",093, ,0,0,0,133,300,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,8,0,39,1,1,51,17,"Whitby",094, ,1,0,0,118,288,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,16,0,78,1,0,59,27,"Whitby",095, ,0,0,0,181,409,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,23,4,110,0,3,61,15,"Whitby",096, ,0,0,0,216,438,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,23,0,121,0,0,97,30,"Whitby",097, ,0,0,0,271,589,"St. Matthew Catholic School",20071010
+100,WHITBY--OSHAWA,13,0,83,0,1,75,25,"Whitby",098, ,0,0,0,197,392,"St. Matthew Catholic School",20071010
+100,WHITBY--OSHAWA,18,3,99,0,1,116,18,"Whitby",099, ,3,2,0,260,481,"Ormiston Public School",20071010
+100,WHITBY--OSHAWA,13,0,100,2,0,128,24,"Whitby",100, ,0,0,0,267,503,"Father Leo J. Austin Catholic High School",20071010
+100,WHITBY--OSHAWA,14,0,135,1,0,107,22,"Whitby",101, ,1,1,0,281,486,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,13,0,125,1,0,109,17,"Whitby",102, ,0,0,0,265,487,"Father Leo J. Austin Catholic High School",20071010
+100,WHITBY--OSHAWA,14,3,135,1,1,105,24,"Whitby",103, ,0,0,0,283,538,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,16,0,129,1,0,92,19,"Whitby",104, ,1,0,2,260,515,"Father Leo J. Austin Catholic High School",20071010
+100,WHITBY--OSHAWA,16,1,114,0,3,95,19,"Whitby",105, ,0,0,0,248,475,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,10,0,115,1,3,108,10,"Whitby",106, ,0,2,0,249,493,"Father Leo J. Austin Catholic High School",20071010
+100,WHITBY--OSHAWA,14,1,75,0,0,84,23,"Whitby",107, ,1,0,0,198,405,"Westminster United Church",20071010
+100,WHITBY--OSHAWA,16,4,72,0,2,102,25,"Whitby",108, ,1,0,0,222,497,"John Dryden Public School",20071010
+100,WHITBY--OSHAWA,11,1,98,0,0,72,14,"Whitby",109, ,0,1,0,197,414,"Westminster United Church",20071010
+100,WHITBY--OSHAWA,6,0,106,1,1,72,43,"Whitby",110, ,0,0,0,229,453,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,10,1,98,0,4,65,28,"Whitby",111, ,0,0,0,206,435,"Westminster United Church",20071010
+100,WHITBY--OSHAWA,26,2,111,0,2,73,35,"Whitby",112, ,1,0,0,250,420,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,8,0,70,1,0,54,37,"Oshawa",113, ,0,0,0,170,368,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,15,0,108,1,2,88,31,"Oshawa",114, ,3,0,0,248,462,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,23,3,74,3,3,87,43,"Oshawa",115, ,0,0,1,237,419,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,10,0,103,0,1,73,21,"Oshawa",116, ,0,0,0,208,399,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,13,1,62,0,2,46,36,"Oshawa",117, ,1,0,0,161,421,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,12,2,70,1,2,58,33,"Oshawa",118, ,1,0,0,179,312,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,13,1,80,1,0,58,38,"Oshawa",119, ,0,2,1,194,335,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,5,0,82,0,3,59,49,"Oshawa",120, ,1,1,0,200,377,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,12,3,68,0,3,63,36,"Oshawa",121, ,1,0,0,186,373,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,9,1,83,1,1,45,41,"Oshawa",122, ,0,1,0,182,351,"St. Christopher Catholic School",20071010
+100,WHITBY--OSHAWA,14,1,59,2,0,72,49,"Oshawa",123, ,1,0,0,198,408,"St. Christopher Catholic School",20071010
+100,WHITBY--OSHAWA,11,5,69,0,2,54,39,"Oshawa",124, ,2,0,0,182,366,"St. Christopher Catholic School",20071010
+100,WHITBY--OSHAWA,9,1,66,3,2,73,17,"Whitby",125, ,1,0,0,172,417,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,22,0,63,0,1,65,23,"Whitby",126, ,0,0,0,174,362,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,16,1,94,0,2,85,20,"Whitby",127, ,3,1,0,222,477,"Williamsburg Public School",20071010
+100,WHITBY--OSHAWA,11,1,74,1,1,98,18,"Whitby",128, ,0,0,1,205,374,"Captain Michael Vandenbos Public School",20071010
+100,WHITBY--OSHAWA,9,1,93,0,1,74,13,"Whitby",129, ,0,0,0,191,368,"All Saints Catholic Secondary School",20071010
+100,WHITBY--OSHAWA,20,3,106,0,2,110,10,"Whitby",130, ,1,3,0,255,421,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,14,1,96,3,1,76,21,"Whitby",131, ,0,0,0,212,392,"Palmerston Avenue Public School",20071010
+100,WHITBY--OSHAWA,5,0,68,0,0,42,10,"Whitby",132, ,0,1,0,126,319,"Jack Miner Public School",20071010
+100,WHITBY--OSHAWA,8,0,62,0,3,53,14,"Whitby",133, ,0,0,0,140,371,"St. Matthew Catholic School",20071010
+100,WHITBY--OSHAWA,14,0,45,0,2,72,17,"Whitby",134, ,0,1,0,151,378,"St. Matthew Catholic School",20071010
+100,WHITBY--OSHAWA,17,1,128,0,4,65,14,"Whitby",135, ,0,1,0,230,563,"Whitby Municipal Office",20071010
+100,WHITBY--OSHAWA,16,0,70,0,0,41,17,"Whitby",136, ,0,0,0,144,372,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,24,0,120,0,0,116,18,"Whitby",137, ,1,0,1,280,517,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,19,2,132,0,1,126,10,"Whitby",138, ,1,1,0,292,545,"Pringle Creek Public School",20071010
+100,WHITBY--OSHAWA,14,0,97,0,6,104,11,"Whitby",139, ,0,0,0,232,484,"Glen Dhu Public School",20071010
+100,WHITBY--OSHAWA,16,0,87,0,1,47,29,"Whitby",140, ,1,0,0,181,411,"Pringle Creek Public School",20071010
+100,WHITBY--OSHAWA,18,0,122,3,1,106,21,"Whitby",141, ,0,0,0,271,543,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,13,0,108,0,0,82,25,"Whitby",142, ,2,0,0,230,471,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,13,0,57,0,1,39,20,"Whitby",143, ,0,0,0,130,273,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,27,2,103,0,1,86,26,"Whitby",144, ,0,0,0,245,433,"St. Paul Catholic School",20071010
+100,WHITBY--OSHAWA,25,2,91,1,1,65,32,"Whitby",145, ,0,0,0,217,389,"Dr. Robert Thornton Public School",20071010
+100,WHITBY--OSHAWA,17,1,106,0,0,81,38,"Oshawa",146, ,1,0,0,244,461,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,21,1,88,2,7,102,45,"Oshawa",147, ,3,0,0,269,505,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,24,0,80,0,2,57,31,"Oshawa",148, ,1,0,0,195,414,"Stephen G. Saywell Public School",20071010
+100,WHITBY--OSHAWA,14,0,71,1,1,70,31,"Oshawa",149, ,0,1,0,189,365,"R.S. McLaughlin Central Collegiate Institute",20071010
+100,WHITBY--OSHAWA,16,4,72,0,1,45,24,"Oshawa",150, ,1,0,0,163,369,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,18,0,95,1,4,92,35,"Oshawa",151, ,4,1,0,250,465,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,10,0,45,0,3,49,34,"Oshawa",152, ,1,1,0,143,343,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,14,1,34,3,2,43,28,"Oshawa",153, ,0,2,0,127,328,"Fernhill-Nipigon Community Centre",20071010
+100,WHITBY--OSHAWA,6,2,28,2,1,11,13,"Oshawa",154, ,0,0,0,63,240,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,5,3,23,1,0,21,31,"Oshawa",155, ,1,0,0,85,366,"Woodcrest Public School",20071010
+100,WHITBY--OSHAWA,9,1,48,3,2,47,27,"Oshawa",156, ,0,0,0,137,407,"St. Christopher Catholic School",20071010
+100,WHITBY--OSHAWA,3,0,24,0,1,13,27,"Oshawa",157, ,0,1,0,69,232,"Fernhill-Nipigon Community Centre",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 156 ....................,,,,,,,"Oshawa",158, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,2,0,13,2,3,14,12,"Oshawa",159s, ,1,0,0,47,173,"Extendicare Oshawa",20071010
+100,WHITBY--OSHAWA,12,1,44,0,2,39,28,"Oshawa",160, ,1,0,0,127,301,"St. Christopher Catholic School",20071010
+100,WHITBY--OSHAWA,21,3,126,0,0,79,13,"Whitby",161, ,1,0,0,243,436,"All Saints Catholic Secondary School",20071010
+100,WHITBY--OSHAWA,17,1,83,0,3,70,31,"Whitby",162A, ,0,2,0,207,381,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,11,1,70,0,2,54,23,"Whitby",162B, ,0,0,2,163,361,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,19,0,123,0,0,96,13,"Whitby",163, ,0,0,0,251,466,"All Saints Catholic Secondary School",20071010
+100,WHITBY--OSHAWA,16,4,100,0,2,79,35,"Whitby",164, ,0,0,0,236,408,"Palmerston Avenue Public School",20071010
+100,WHITBY--OSHAWA,25,1,73,0,2,86,21,"Whitby",165, ,0,0,0,208,412,"E.A. Fairman Public School",20071010
+100,WHITBY--OSHAWA,17,1,91,4,1,56,31,"Whitby",166, ,0,0,0,201,389,"Palmerston Avenue Public School",20071010
+100,WHITBY--OSHAWA,7,0,77,0,1,41,17,"Whitby",167, ,1,0,0,144,309,"Palmerston Avenue Public School",20071010
+100,WHITBY--OSHAWA,3,0,42,0,1,19,20,"Whitby",168, ,0,0,0,85,179,"Palmerston Avenue Public School",20071010
+100,WHITBY--OSHAWA,1,1,21,0,1,16,3,"Whitby",169s, ,2,0,1,46,82,"The Colonial Retirement Home",20071010
+100,WHITBY--OSHAWA,7,0,66,0,1,61,18,"Whitby",170, ,1,0,0,154,362,"Whitby Municipal Office",20071010
+100,WHITBY--OSHAWA,12,0,85,0,3,72,14,"Whitby",171, ,0,0,0,186,375,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,19,0,92,0,0,83,24,"Whitby",172, ,0,0,0,218,397,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,19,0,119,0,1,86,24,"Whitby",173, ,1,0,0,250,425,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,19,0,131,1,3,73,16,"Whitby",174, ,0,1,0,244,417,"Pringle Creek Public School",20071010
+100,WHITBY--OSHAWA,8,2,62,0,0,51,22,"Whitby",175, ,0,1,0,146,349,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,16,1,88,1,1,63,13,"Whitby",176, ,2,0,0,185,336,"Pringle Creek Public School",20071010
+100,WHITBY--OSHAWA,29,0,89,0,2,76,38,"Whitby",177, ,1,0,0,235,484,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,11,3,87,0,2,112,23,"Whitby",178, ,0,0,0,238,454,"Pringle Creek Public School",20071010
+100,WHITBY--OSHAWA,14,0,76,0,1,57,35,"Whitby",179, ,1,0,0,184,364,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,18,0,105,1,2,72,17,"Whitby",180, ,0,1,0,216,435,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,19,2,115,2,2,77,15,"Whitby",181, ,1,2,0,235,491,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,9,0,60,0,3,52,23,"Whitby",182, ,1,0,0,148,303,"Dr. Robert Thornton Public School",20071010
+100,WHITBY--OSHAWA,15,0,112,1,2,72,22,"Whitby",183, ,0,1,2,227,457,"Dr. Robert Thornton Public School",20071010
+100,WHITBY--OSHAWA,0,0,15,2,5,9,2,"Whitby",184s, ,1,0,0,34,127,"Sunnycrest Nursing Home",20071010
+100,WHITBY--OSHAWA,8,3,69,3,5,50,16,"Whitby",185, ,0,0,0,154,365,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,20,2,92,1,1,100,21,"Whitby",186, ,0,0,0,237,437,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,18,2,127,1,2,71,24,"Whitby",187, ,0,0,0,245,456,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,15,0,104,0,2,83,32,"Whitby",188, ,0,0,0,236,434,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,17,0,106,0,3,137,11,"Whitby",189, ,0,0,0,274,456,"St. John the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,23,0,116,0,0,88,20,"Whitby",190, ,0,0,0,247,461,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,24,1,125,0,1,97,17,"Whitby",191, ,1,0,0,266,477,"Colonel J.E. Farewell Public School",20071010
+100,WHITBY--OSHAWA,10,0,111,0,0,78,10,"Whitby",192, ,1,0,0,210,394,"St. John the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,22,1,58,0,0,72,28,"Whitby",193, ,0,0,0,181,345,"St. John the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,21,2,95,1,1,57,21,"Whitby",194, ,1,0,0,199,350,"E.A. Fairman Public School",20071010
+100,WHITBY--OSHAWA,25,0,66,0,3,57,31,"Whitby",195, ,2,0,0,184,332,"E.A. Fairman Public School",20071010
+100,WHITBY--OSHAWA,14,2,60,2,1,60,15,"Whitby",196, ,1,0,0,155,299,"E.A. Fairman Public School",20071010
+100,WHITBY--OSHAWA,21,2,46,0,2,54,19,"Whitby",197, ,0,0,0,144,304,"E.A. Fairman Public School",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 165 ....................,,,,,,,"Whitby",198, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,24,0,87,0,1,74,39,"Whitby",199, ,1,0,0,226,503,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,11,1,33,0,0,47,19,"Whitby",200, ,1,0,0,112,312,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,1,0,20,0,2,8,8,"Whitby",201, ,0,0,1,40,159,"St. Mark's United Church",20071010
+100,WHITBY--OSHAWA,14,0,45,1,0,40,23,"Whitby",202, ,1,0,0,124,273,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,8,1,61,2,0,53,19,"Whitby",203, ,0,0,0,144,269,"Whitby Baptist Church",20071010
+100,WHITBY--OSHAWA,14,0,35,0,1,49,15,"Whitby",204, ,1,0,0,115,314,"Leslie McFarlane Public School",20071010
+100,WHITBY--OSHAWA,11,0,53,1,2,57,37,"Whitby",205, ,1,0,0,162,348,"École élémentaire catholique Jean-Paul II",20071010
+100,WHITBY--OSHAWA,4,0,32,2,1,18,21,"Whitby",206, ,1,0,0,79,211,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,10,0,64,0,0,52,27,"Whitby",207, ,0,0,0,153,316,"École élémentaire catholique Jean-Paul II",20071010
+100,WHITBY--OSHAWA,4,1,26,0,2,24,16,"Whitby",208, ,0,0,0,73,281,"École élémentaire catholique Jean-Paul II",20071010
+100,WHITBY--OSHAWA,9,0,72,0,2,72,22,"Whitby",209, ,1,0,0,178,456,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,7,0,36,0,1,27,9,"Whitby",211, ,1,0,0,81,272,"Anderson Collegiate Vocational Institute",20071010
+100,WHITBY--OSHAWA,27,0,97,0,5,84,18,"Whitby",212, ,0,0,0,231,423,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,18,3,65,0,0,87,24,"Whitby",213, ,0,1,0,198,403,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,22,6,106,1,2,128,35,"Whitby",214, ,2,1,0,303,582,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,15,0,83,0,6,87,29,"Whitby",215, ,0,0,0,220,471,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,12,2,104,1,2,98,19,"Whitby",216, ,0,1,1,240,486,"Bellwood Public School",20071010
+100,WHITBY--OSHAWA,17,1,88,0,2,82,13,"Whitby",217, ,1,0,0,204,432,"St. John the Evangelist Catholic School",20071010
+100,WHITBY--OSHAWA,21,0,83,0,2,80,26,"Whitby",218, ,0,0,0,212,399,"West Lynde Public School",20071010
+100,WHITBY--OSHAWA,15,1,100,2,1,65,23,"Whitby",219, ,0,2,1,210,413,"West Lynde Public School",20071010
+100,WHITBY--OSHAWA,14,2,103,2,3,65,15,"Whitby",220, ,1,0,1,206,387,"West Lynde Public School",20071010
+100,WHITBY--OSHAWA,4,0,13,0,5,10,6,"Whitby",221s, ,0,0,0,38,158,"Fairview Lodge",20071010
+100,WHITBY--OSHAWA,22,0,82,0,2,74,16,"Whitby",222, ,0,1,1,198,403,"St. Marguerite d'Youville Catholic School",20071010
+100,WHITBY--OSHAWA,12,0,28,0,1,21,15,"Whitby",223, ,0,0,0,77,238,"St. Mark's United Church",20071010
+100,WHITBY--OSHAWA,24,1,104,0,1,76,30,"Whitby",224, ,2,1,0,239,404,"Henry Street High School",20071010
+100,WHITBY--OSHAWA,22,1,33,0,1,33,10,"Whitby",225, ,1,0,0,101,231,"St. Mark's United Church",20071010
+100,WHITBY--OSHAWA,3,0,22,1,0,27,19,"Whitby",226, ,0,0,0,72,103,"Windsor Place",20071010
+100,WHITBY--OSHAWA,18,1,74,0,2,76,18,"Whitby",227, ,1,0,0,190,347,"Henry Street High School",20071010
+100,WHITBY--OSHAWA,18,2,78,0,1,65,21,"Whitby",228, ,0,0,0,185,396,"Whitby Baptist Church",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 228 ....................,,,,,,,"Whitby",229, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,2,2,12,1,0,31,14,"Whitby",230, ,0,0,0,62,80,"Bowling Green Towers",20071010
+100,WHITBY--OSHAWA,25,1,79,0,1,81,20,"Whitby",231, ,2,0,0,209,350,"Whitby Baptist Church",20071010
+100,WHITBY--OSHAWA,10,1,99,1,1,85,20,"Whitby",232, ,0,0,0,217,385,"Sir William Stephenson Public School",20071010
+100,WHITBY--OSHAWA,16,1,109,3,2,69,24,"Whitby",233, ,0,2,0,226,399,"Sir William Stephenson Public School",20071010
+100,WHITBY--OSHAWA,9,2,81,0,2,64,29,"Whitby",234, ,1,0,0,188,366,"École élémentaire catholique Jean-Paul II",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 214 ....................,,,,,,,"Whitby",235, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,13,0,71,1,1,42,29,"Whitby",236, ,0,0,0,157,347,"St. Marguerite d'Youville Catholic School",20071010
+100,WHITBY--OSHAWA,18,1,99,0,0,59,22,"Whitby",237, ,0,0,0,199,386,"West Lynde Public School",20071010
+100,WHITBY--OSHAWA,28,0,103,1,2,85,24,"Whitby",238, ,0,0,0,243,463,"St. Marguerite d'Youville Catholic School",20071010
+100,WHITBY--OSHAWA,8,2,45,0,4,28,14,"Whitby",239, ,1,0,0,102,215,"Henry Street High School",20071010
+100,WHITBY--OSHAWA,23,0,86,0,1,44,28,"Whitby",240, ,1,1,0,184,336,"Henry Street High School",20071010
+100,WHITBY--OSHAWA,9,0,47,0,1,29,16,"Whitby",241, ,2,0,0,104,279,"Henry Street High School",20071010
+100,WHITBY--OSHAWA,13,0,67,1,0,53,18,"Whitby",242, ,0,0,1,153,284,"Sir William Stephenson Public School",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 214 ....................,,,,,,,"Whitby",243, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,14,0,64,0,0,27,6,"Whitby",244, ,0,0,0,111,273,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,3,0,43,0,0,45,2,"Whitby",244s, ,0,0,0,93,127,"The Court at Brooklin",20071010
+100,WHITBY--OSHAWA,18,1,54,1,1,86,7,"Whitby",245, ,1,0,0,169,360,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,15,1,72,0,2,62,9,"Whitby",246, ,0,0,0,161,398,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,..........................NO POLL HELD........................,,,,,,,"Whitby",247s, ,0,0,0,0,0,"",20071010
+100,WHITBY--OSHAWA,9,1,45,0,1,22,19,"Whitby",248, ,0,0,0,97,269,"Sir William Stephenson Public School",20071010
+100,WHITBY--OSHAWA,10,1,24,0,1,22,12,"Whitby",249, ,0,0,0,70,270,"Sir William Stephenson Public School",20071010
+100,WHITBY--OSHAWA,......................COMBINED WITH POLL 249 ....................,,,,,,,"Whitby",250, ,,,,,,"",20071010
+100,WHITBY--OSHAWA,7,0,64,0,0,62,13,"Whitby",251, ,0,0,0,146,309,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,19,0,80,2,1,76,23,"Whitby",252, ,0,0,0,201,405,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,1,0,12,4,0,17,14,"Whitby",253s, ,0,0,0,48,127,"Whitby Mental Health Centre",20071010
+100,WHITBY--OSHAWA,17,1,80,0,0,57,13,"Whitby",254, ,0,0,0,168,382,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,13,3,79,0,2,66,21,"Whitby",255, ,1,1,0,186,353,"Iroquois Park Sports Centre",20071010
+100,WHITBY--OSHAWA,6,1,35,1,2,45,18,"Whitby",400, ,0,0,0,108,243,"Prisma Residences",20071010
+100,WHITBY--OSHAWA,2,0,16,1,2,21,11,"Whitby",401, ,0,0,0,53,120,"Dryden Heights",20071010
+100,WHITBY--OSHAWA,5,1,43,0,1,28,18,"Oshawa",402, ,0,0,0,96,179,"Rosslyn Arms Apartments",20071010
+100,WHITBY--OSHAWA,6,2,66,2,0,68,8,"Whitby",403, ,0,0,0,152,222,"Connoisseur Condominiums",20071010
+100,WHITBY--OSHAWA,6,0,37,0,1,39,16,"Whitby",404, ,0,0,0,99,161,"Walldorf Condominiums",20071010
+100,WHITBY--OSHAWA,10,0,18,1,1,19,19,"Oshawa",405, ,0,0,0,68,140,"Casa Mana Apartments",20071010
+100,WHITBY--OSHAWA,13,0,26,0,2,34,13,"Whitby",406, ,0,0,0,88,150,"Bluewater Park",20071010
+100,WHITBY--OSHAWA,3,0,34,0,0,23,15,"Whitby",407, ,1,0,0,76,115,"Regency Place Apartments",20071010
+100,WHITBY--OSHAWA,11,0,36,0,0,30,15,"Whitby",408, ,1,0,0,93,125,"Regency Place Apartments",20071010
+100,WHITBY--OSHAWA,7,2,18,0,1,33,19,"Whitby",409, ,3,0,0,83,153,"Cormack Station",20071010
+100,WHITBY--OSHAWA,15,1,146,4,2,48,17,"Whitby",410, ,0,2,0,235,299,"Providence Place",20071010
+100,WHITBY--OSHAWA,9,3,20,1,1,31,20,"Whitby",411, ,3,1,0,89,251,"Highland Towers - 100",20071010
+100,WHITBY--OSHAWA,9,2,18,1,5,37,15,"Whitby",412, ,0,1,0,88,201,"Highland Towers - 200",20071010
+100,WHITBY--OSHAWA,2,2,20,1,2,26,21,"Whitby",413, ,0,0,0,74,218,"Highland Towers - 101",20071010
+100,WHITBY--OSHAWA,12,0,34,0,1,35,12,"Whitby",414, ,0,0,0,94,196,"Highland Towers - 201",20071010
+100,WHITBY--OSHAWA,12,0,84,0,2,88,13,"Whitby",415, ,0,0,0,199,291,"Sailwinds",20071010
+100,WHITBY--OSHAWA,98,14,822,1,13,602,134,"Whitby",Advanced Polls /  ADV001, ,4,3,0,1691,0,"Returning Office / Bureau du directeur du scrutin",20071010
+100,WHITBY--OSHAWA,42,6,283,4,4,264,58,"Whitby",Advanced Polls /  ADV002, ,2,1,0,664,0,"Centennial Building",20071010
+100,WHITBY--OSHAWA,66,10,611,0,6,454,65,"Whitby",Advanced Polls /  ADV003, ,3,3,0,1218,0,"Whitby Municipal Office",20071010
+100,WHITBY--OSHAWA,40,2,346,0,2,221,84,"Oshawa",Advanced Polls /  ADV004, ,1,0,0,696,0,"General Sikorski Polish Veterans' Hall",20071010
+TOTALS:, ,3745,275,22694,150,414,18560,5734, , , , , , , , , , 

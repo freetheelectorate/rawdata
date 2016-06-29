@@ -1,0 +1,198 @@
+ED_CODE,ED_NAME,AEGARD,JOHNSON,MAURO,RAFFERTY,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+090,THUNDER BAY--ATIKOKAN,5,70,46,43,"Upsala",001, ,0,0,0,164,180,"Upsala Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,..........................NO POLL HELD........................,,,,"Upsala",002, ,0,0,0,0,0,"",20071010
+090,THUNDER BAY--ATIKOKAN,1,8,50,85,"Atikokan",003, ,2,0,0,146,286,"Atikokan Native Friendship Centre",20071010
+090,THUNDER BAY--ATIKOKAN,3,23,65,59,"Atikokan",004, ,0,0,0,150,339,"Canadian Legion #145",20071010
+090,THUNDER BAY--ATIKOKAN,1,9,26,54,"Atikokan",005, ,0,0,0,90,234,"Canadian Legion #145",20071010
+090,THUNDER BAY--ATIKOKAN,3,17,29,50,"Atikokan",006, ,0,0,0,99,275,"Canadian Legion #145",20071010
+090,THUNDER BAY--ATIKOKAN,3,12,24,20,"Atikokan",007, ,0,0,0,59,184,"Canadian Legion #145",20071010
+090,THUNDER BAY--ATIKOKAN,3,25,49,82,"Atikokan",008, ,0,0,0,159,340,"Atikokan Native Friendship Centre",20071010
+090,THUNDER BAY--ATIKOKAN,5,24,77,82,"Atikokan",009, ,0,0,0,188,449,"Atikokan Native Friendship Centre",20071010
+090,THUNDER BAY--ATIKOKAN,0,3,5,1,"Atikokan",010s, ,0,0,1,10,27,"Atikokan General Hospital",20071010
+090,THUNDER BAY--ATIKOKAN,7,9,33,67,"Atikokan",011, ,0,0,0,116,310,"Atikokan Native Friendship Centre",20071010
+090,THUNDER BAY--ATIKOKAN,0,1,5,6,"Atikokan",012, ,0,0,0,12,23,"Atikokan Native Friendship Centre",20071010
+090,THUNDER BAY--ATIKOKAN,..........................NO POLL HELD........................,,,,"Atikokan",013, ,0,0,0,0,0,"",20071010
+090,THUNDER BAY--ATIKOKAN,0,5,4,2,"Raith",014, ,0,0,0,11,50,"Julie Vacca Residence",20071010
+090,THUNDER BAY--ATIKOKAN,......................COMBINED WITH POLL 001 ....................,,,,"Shebandowan",015, ,,,,,,"Shebandowan Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,27,24,35,"Atikokan",016, ,0,0,0,92,190,"Niobe Lake Fire Hall",20071010
+090,THUNDER BAY--ATIKOKAN,2,4,11,22,"Kakabeka Falls",017, ,0,0,0,39,108,"Conmee Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,8,25,27,23,"Kakabeka Falls",018, ,0,0,0,83,140,"Conmee Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,35,23,38,"Kakabeka Falls",019, ,0,1,0,104,210,"Conmee Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,12,41,69,59,"Murillo",020, ,0,0,0,181,369,"Murillo Community Hall",20071010
+090,THUNDER BAY--ATIKOKAN,8,63,46,65,"Murillo",021, ,1,0,0,183,357,"Townline Barn",20071010
+090,THUNDER BAY--ATIKOKAN,11,28,35,50,"Thunder Bay",022, ,0,0,0,124,296,"North McIntyre Recreation Centre",20071010
+090,THUNDER BAY--ATIKOKAN,11,44,48,56,"Thunder Bay",023, ,0,1,0,160,399,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,11,29,42,51,"Thunder Bay",024, ,0,1,0,134,351,"North McIntyre Recreation Centre",20071010
+090,THUNDER BAY--ATIKOKAN,9,41,64,47,"Thunder Bay",025, ,0,0,0,161,369,"North McIntyre Recreation Centre",20071010
+090,THUNDER BAY--ATIKOKAN,3,33,62,48,"Thunder Bay",026, ,0,2,0,148,321,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,5,37,52,58,"Thunder Bay",027, ,0,1,0,153,321,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,2,42,79,43,"Thunder Bay",028, ,0,0,0,166,392,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,4,26,26,29,"Thunder Bay",029, ,0,0,0,85,204,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,1,11,25,22,"Thunder Bay",030, ,0,1,0,60,159,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,4,31,36,44,"Thunder Bay",031, ,1,0,0,116,261,"Five Mile Public School",20071010
+090,THUNDER BAY--ATIKOKAN,9,25,16,37,"Kakabeka Falls",032, ,0,0,0,87,190,"O'Connor Municipal Building",20071010
+090,THUNDER BAY--ATIKOKAN,6,60,35,40,"Kakabeka Falls",033, ,0,0,0,141,291,"Redeemer Lutheran Church",20071010
+090,THUNDER BAY--ATIKOKAN,10,68,44,62,"Murillo",034, ,0,1,0,185,387,"Murillo Community Hall",20071010
+090,THUNDER BAY--ATIKOKAN,9,52,52,78,"Murillo",035, ,1,0,0,192,491,"Townline Barn",20071010
+090,THUNDER BAY--ATIKOKAN,10,43,44,34,"Thunder Bay",036, ,0,0,0,131,319,"Jackpine Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,31,49,26,"Thunder Bay",037, ,0,0,0,110,281,"Jackpine Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,24,29,32,"Thunder Bay",038, ,1,0,0,93,222,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,9,45,82,37,"Thunder Bay",039, ,1,0,0,174,352,"Lakehead Baptist Church",20071010
+090,THUNDER BAY--ATIKOKAN,13,48,105,56,"Thunder Bay",040, ,0,0,0,222,410,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,11,44,95,68,"Thunder Bay",041, ,0,1,0,219,505,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,11,51,109,63,"Thunder Bay",042, ,1,0,6,241,454,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,5,20,62,42,"Thunder Bay",043, ,0,0,0,129,314,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,6,37,92,54,"Thunder Bay",044, ,1,0,0,190,413,"Woodcrest School",20071010
+090,THUNDER BAY--ATIKOKAN,0,7,20,6,"Nolalu",045, ,0,0,0,33,67,"Nolalu Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,46,29,56,"Kakabeka Falls",046, ,0,1,0,138,270,"O'Connor Municipal Building",20071010
+090,THUNDER BAY--ATIKOKAN,15,61,46,71,"Kakabeka Falls",047, ,0,0,0,193,404,"Nor-West Arena Recreation Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,68,52,49,"Thunder Bay",048, ,0,0,0,176,370,"Rosslyn Village Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,77,80,47,"Thunder Bay",049, ,1,2,0,214,424,"Rosslyn Village Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,12,54,104,77,"Thunder Bay",050, ,0,1,0,248,484,"North Neebing Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,53,95,53,"Thunder Bay",051, ,1,0,0,209,426,"West Arthur Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,10,47,88,78,"Thunder Bay",052, ,0,2,0,225,430,"North Neebing Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,63,74,47,"Thunder Bay",053, ,0,0,0,190,374,"West Arthur Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,3,20,59,93,"Thunder Bay",054, ,0,0,0,175,364,"North Neebing Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,10,22,14,"Thunder Bay",055, ,0,0,0,50,98,"West Arthur Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,21,46,43,"Thunder Bay",056, ,0,0,0,117,257,"West Arthur Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,8,40,64,61,"Thunder Bay",057, ,1,0,0,174,381,"Jackpine Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,..........................NO POLL HELD........................,,,,"Thunder Bay",058, ,0,0,0,0,0,"",20071010
+090,THUNDER BAY--ATIKOKAN,3,3,13,22,"Thunder Bay",059, ,0,0,0,41,137,"St. Ann's School",20071010
+090,THUNDER BAY--ATIKOKAN,8,54,103,88,"Thunder Bay",060, ,0,0,0,253,516,"Valhalla Inn",20071010
+090,THUNDER BAY--ATIKOKAN,4,20,58,73,"Thunder Bay",061, ,0,0,0,155,361,"St. Ann's School",20071010
+090,THUNDER BAY--ATIKOKAN,1,35,64,41,"Thunder Bay",062, ,0,0,0,141,281,"Valhalla Inn",20071010
+090,THUNDER BAY--ATIKOKAN,4,4,29,41,"Thunder Bay",063, ,0,0,0,78,269,"St. Ann's School",20071010
+090,THUNDER BAY--ATIKOKAN,1,22,38,77,"Thunder Bay",064, ,2,1,0,141,290,"St. Ann's School",20071010
+090,THUNDER BAY--ATIKOKAN,3,28,61,90,"Thunder Bay",065, ,1,2,0,185,377,"St. Ann's School",20071010
+090,THUNDER BAY--ATIKOKAN,4,38,36,32,"Thunder Bay",066, ,0,0,0,110,194,"Travelodge (Airlane) Hotel",20071010
+090,THUNDER BAY--ATIKOKAN,9,37,103,61,"Thunder Bay",067, ,1,0,0,211,383,"St. Francis Elementary School",20071010
+090,THUNDER BAY--ATIKOKAN,5,22,56,63,"Thunder Bay",068, ,1,1,0,148,290,"Broadway United Church",20071010
+090,THUNDER BAY--ATIKOKAN,5,45,62,72,"Thunder Bay",069, ,0,0,0,184,373,"St. Francis Elementary School",20071010
+090,THUNDER BAY--ATIKOKAN,11,39,117,63,"Thunder Bay",070, ,0,0,0,230,408,"St. Francis Elementary School",20071010
+090,THUNDER BAY--ATIKOKAN,18,39,106,77,"Thunder Bay",071, ,1,0,0,241,458,"St. Francis Elementary School",20071010
+090,THUNDER BAY--ATIKOKAN,1,3,6,8,"Thunder Bay",072s, ,0,0,0,18,57,"Thunder Bay Interim Long Term Care",20071010
+090,THUNDER BAY--ATIKOKAN,11,30,75,64,"Thunder Bay",073, ,2,0,0,182,383,"Travelodge (Airlane) Hotel",20071010
+090,THUNDER BAY--ATIKOKAN,5,33,72,69,"Thunder Bay",074, ,0,0,0,179,405,"St. Francis Elementary School",20071010
+090,THUNDER BAY--ATIKOKAN,6,52,84,74,"Thunder Bay",075, ,0,0,0,216,413,"Exaltation of the Holy Cross",20071010
+090,THUNDER BAY--ATIKOKAN,2,35,90,94,"Thunder Bay",076, ,0,0,0,221,472,"Travelodge (Airlane) Hotel",20071010
+090,THUNDER BAY--ATIKOKAN,8,24,109,83,"Thunder Bay",077, ,1,0,0,225,428,"Exaltation of the Holy Cross",20071010
+090,THUNDER BAY--ATIKOKAN,3,17,48,65,"Thunder Bay",078, ,1,0,0,134,290,"Spence Court",20071010
+090,THUNDER BAY--ATIKOKAN,6,13,44,52,"Thunder Bay",079, ,0,2,0,117,325,"Westmount School",20071010
+090,THUNDER BAY--ATIKOKAN,1,9,21,34,"Thunder Bay",080, ,0,0,0,65,264,"Vale Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,2,33,78,77,"Thunder Bay",081, ,0,0,0,190,389,"St. Dominic's Church",20071010
+090,THUNDER BAY--ATIKOKAN,8,28,104,56,"Thunder Bay",082, ,0,0,0,196,420,"Vale Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,28,56,64,"Thunder Bay",083, ,0,0,0,155,341,"Vale Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,3,14,25,57,"Thunder Bay",084, ,0,0,0,99,305,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,11,34,59,"Thunder Bay",085, ,0,1,0,109,299,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,3,31,106,59,"Thunder Bay",086, ,0,0,0,199,366,"St. Dominic's Church",20071010
+090,THUNDER BAY--ATIKOKAN,3,18,36,48,"Thunder Bay",087, ,2,1,0,108,248,"Calvary Lutheran Church",20071010
+090,THUNDER BAY--ATIKOKAN,6,27,70,66,"Thunder Bay",088, ,0,0,0,169,373,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,10,18,71,74,"Thunder Bay",089, ,0,0,0,173,374,"Westmount School",20071010
+090,THUNDER BAY--ATIKOKAN,7,25,53,62,"Thunder Bay",090, ,1,0,0,148,340,"Sherbrooke Public School",20071010
+090,THUNDER BAY--ATIKOKAN,5,32,98,74,"Thunder Bay",091, ,0,0,0,209,352,"Exaltation of the Holy Cross",20071010
+090,THUNDER BAY--ATIKOKAN,21,54,176,110,"Thunder Bay",092, ,0,2,0,363,691,"Vale Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,20,41,37,"Thunder Bay",093, ,0,1,0,103,239,"St. Dominic's Church",20071010
+090,THUNDER BAY--ATIKOKAN,4,29,63,57,"Thunder Bay",094, ,0,1,0,154,309,"Calvary Lutheran Church",20071010
+090,THUNDER BAY--ATIKOKAN,5,20,41,81,"Thunder Bay",095, ,2,0,0,149,302,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,5,17,49,92,"Thunder Bay",096, ,1,0,0,164,342,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,6,29,45,"Thunder Bay",097, ,0,0,0,84,233,"Da Vinci Centre",20071010
+090,THUNDER BAY--ATIKOKAN,8,43,133,101,"Thunder Bay",098, ,3,0,0,288,615,"Sherbrooke Public School",20071010
+090,THUNDER BAY--ATIKOKAN,7,33,111,61,"Thunder Bay",099, ,3,0,0,215,425,"Vale Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,13,16,48,69,"Thunder Bay",100, ,0,0,0,146,304,"Da Vinci Centre",20071010
+090,THUNDER BAY--ATIKOKAN,12,20,70,61,"Thunder Bay",101, ,2,0,0,165,318,"Westmount School",20071010
+090,THUNDER BAY--ATIKOKAN,5,29,82,55,"Thunder Bay",102, ,0,0,0,171,344,"St. Dominic's Church",20071010
+090,THUNDER BAY--ATIKOKAN,6,29,83,34,"Thunder Bay",103, ,0,1,0,153,295,"Grandview Lodge Home for the Aged",20071010
+090,THUNDER BAY--ATIKOKAN,5,25,63,41,"Thunder Bay",104, ,1,0,0,135,263,"Calvary Lutheran Church",20071010
+090,THUNDER BAY--ATIKOKAN,4,13,91,56,"Thunder Bay",105, ,0,0,0,164,360,"Exaltation of the Holy Cross",20071010
+090,THUNDER BAY--ATIKOKAN,5,15,36,67,"Thunder Bay",106, ,0,1,0,124,302,"First Church United",20071010
+090,THUNDER BAY--ATIKOKAN,4,14,33,39,"Thunder Bay",107, ,0,0,0,90,195,"Grandview Lodge Home for the Aged",20071010
+090,THUNDER BAY--ATIKOKAN,8,17,60,62,"Thunder Bay",108, ,1,0,0,148,348,"Kingsway Park Public School",20071010
+090,THUNDER BAY--ATIKOKAN,4,17,64,81,"Thunder Bay",109, ,2,2,0,170,349,"Da Vinci Centre",20071010
+090,THUNDER BAY--ATIKOKAN,2,9,6,8,"Thunder Bay",110s, ,1,3,0,29,93,"Hogarth Riverview",20071010
+090,THUNDER BAY--ATIKOKAN,0,5,13,9,"Thunder Bay",111s, ,2,2,0,31,139,"Grandview Lodge Home for the Aged",20071010
+090,THUNDER BAY--ATIKOKAN,11,33,88,85,"Thunder Bay",112, ,1,1,0,219,384,"Jim McCuaig Education Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,21,49,47,"Thunder Bay",113, ,0,0,0,121,316,"St. Patrick's High School",20071010
+090,THUNDER BAY--ATIKOKAN,1,24,60,45,"Thunder Bay",114, ,0,0,0,130,286,"St. Dominic's Church",20071010
+090,THUNDER BAY--ATIKOKAN,7,16,71,66,"Thunder Bay",115, ,0,0,0,160,372,"First Church United",20071010
+090,THUNDER BAY--ATIKOKAN,19,6,10,18,"Thunder Bay",116, ,0,0,0,53,109,"Confederation College of Applied Arts and Tech",20071010
+090,THUNDER BAY--ATIKOKAN,11,35,49,33,"Thunder Bay",117, ,0,0,0,128,263,"St. Patrick's High School",20071010
+090,THUNDER BAY--ATIKOKAN,6,19,26,47,"Thunder Bay",118, ,0,0,0,98,258,"Jim McCuaig Education Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,14,43,47,"Thunder Bay",119, ,0,1,0,112,265,"Masonic Temple",20071010
+090,THUNDER BAY--ATIKOKAN,5,18,55,68,"Thunder Bay",120, ,1,1,0,148,357,"St. Elizabeth's School",20071010
+090,THUNDER BAY--ATIKOKAN,8,35,76,55,"Thunder Bay",121, ,0,0,0,174,379,"St. Patrick's High School",20071010
+090,THUNDER BAY--ATIKOKAN,1,21,50,67,"Thunder Bay",122, ,0,1,0,140,318,"St. Elizabeth's School",20071010
+090,THUNDER BAY--ATIKOKAN,5,23,71,57,"Thunder Bay",123, ,0,0,0,156,342,"Masonic Temple",20071010
+090,THUNDER BAY--ATIKOKAN,23,37,83,73,"Thunder Bay",124, ,1,0,0,217,387,"St. Patrick's High School",20071010
+090,THUNDER BAY--ATIKOKAN,4,17,31,50,"Thunder Bay",125, ,0,2,0,104,292,"Herb Carroll Centre",20071010
+090,THUNDER BAY--ATIKOKAN,9,8,44,50,"Thunder Bay",126, ,0,0,0,111,314,"Masonic Temple",20071010
+090,THUNDER BAY--ATIKOKAN,11,28,43,43,"Thunder Bay",127, ,2,0,0,127,287,"St. Paul's Anglican Church",20071010
+090,THUNDER BAY--ATIKOKAN,7,15,37,52,"Thunder Bay",128, ,0,0,0,111,302,"St. Paul's Anglican Church",20071010
+090,THUNDER BAY--ATIKOKAN,10,20,36,71,"Thunder Bay",129, ,0,0,0,137,307,"Masonic Temple",20071010
+090,THUNDER BAY--ATIKOKAN,12,22,60,52,"Thunder Bay",130, ,1,0,0,147,319,"Herb Carroll Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,11,37,44,"Thunder Bay",131, ,0,1,0,97,267,"Thunder Bay Christian Fellowship",20071010
+090,THUNDER BAY--ATIKOKAN,1,4,13,30,"Thunder Bay",132, ,1,0,0,49,217,"Herb Carroll Centre",20071010
+090,THUNDER BAY--ATIKOKAN,7,7,16,41,"Thunder Bay",133, ,1,0,0,72,217,"McKellar Park Central Public School",20071010
+090,THUNDER BAY--ATIKOKAN,0,15,24,8,"Thunder Bay",134s, ,2,1,0,50,109,"Versa Care Centre",20071010
+090,THUNDER BAY--ATIKOKAN,11,35,35,56,"Thunder Bay",135, ,0,0,0,137,311,"St. Paul's Anglican Church",20071010
+090,THUNDER BAY--ATIKOKAN,4,9,31,46,"Thunder Bay",136, ,0,1,0,91,250,"McKellar Park Central Public School",20071010
+090,THUNDER BAY--ATIKOKAN,6,19,35,53,"Thunder Bay",137, ,0,0,0,113,293,"Thunder Bay Christian Fellowship",20071010
+090,THUNDER BAY--ATIKOKAN,2,9,27,43,"Thunder Bay",138, ,0,0,0,81,212,"St. Paul's Anglican Church",20071010
+090,THUNDER BAY--ATIKOKAN,13,25,50,50,"Thunder Bay",139, ,0,0,0,138,327,"Wesley United Church",20071010
+090,THUNDER BAY--ATIKOKAN,6,24,35,73,"Thunder Bay",140, ,0,1,0,139,332,"Thunder Bay Christian Fellowship",20071010
+090,THUNDER BAY--ATIKOKAN,4,14,36,47,"Thunder Bay",141, ,1,0,0,102,244,"McKellar Park Central Public School",20071010
+090,THUNDER BAY--ATIKOKAN,6,10,18,24,"Thunder Bay",142, ,2,0,0,60,172,"Wesley United Church",20071010
+090,THUNDER BAY--ATIKOKAN,10,25,32,49,"Thunder Bay",143, ,0,0,0,116,260,"Thunder Bay Christian Fellowship",20071010
+090,THUNDER BAY--ATIKOKAN,8,9,31,37,"Thunder Bay",144, ,0,0,0,85,234,"Thunder Bay Christian Fellowship",20071010
+090,THUNDER BAY--ATIKOKAN,4,9,19,13,"Thunder Bay",145, ,0,0,0,45,194,"McKellar Park Central Public School",20071010
+090,THUNDER BAY--ATIKOKAN,6,7,17,37,"Thunder Bay",146, ,0,0,0,67,250,"McKellar Park Central Public School",20071010
+090,THUNDER BAY--ATIKOKAN,8,10,36,44,"Thunder Bay",147, ,3,0,0,101,293,"Ogden Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,8,21,39,52,"Thunder Bay",148, ,0,0,0,120,288,"Cle Cardinal Room",20071010
+090,THUNDER BAY--ATIKOKAN,10,10,23,60,"Thunder Bay",149, ,0,0,0,103,280,"Ogden Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,0,2,17,23,"Thunder Bay",150s, ,0,2,0,44,80,"Walter Assef Court",20071010
+090,THUNDER BAY--ATIKOKAN,5,5,23,37,"Thunder Bay",151, ,2,0,0,72,225,"Ogden Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,1,5,12,7,"Thunder Bay",152, ,1,0,0,26,126,"Cle Cardinal Room",20071010
+090,THUNDER BAY--ATIKOKAN,6,4,36,27,"Thunder Bay",153, ,1,0,0,74,206,"Slovak Legion #129",20071010
+090,THUNDER BAY--ATIKOKAN,1,15,36,36,"Thunder Bay",154, ,0,0,0,88,263,"Cle Cardinal Room",20071010
+090,THUNDER BAY--ATIKOKAN,2,12,47,54,"Thunder Bay",155, ,1,0,0,116,310,"Slovak Legion #129",20071010
+090,THUNDER BAY--ATIKOKAN,3,22,37,55,"Thunder Bay",156, ,1,0,0,118,313,"Slovak Legion #129",20071010
+090,THUNDER BAY--ATIKOKAN,5,13,32,47,"Thunder Bay",157, ,0,1,0,98,282,"Slovak Legion #129",20071010
+090,THUNDER BAY--ATIKOKAN,19,35,23,62,"Kakabeka Falls",158, ,0,0,0,139,226,"Whitefish Valley School",20071010
+090,THUNDER BAY--ATIKOKAN,7,107,37,56,"Thunder Bay",159, ,0,1,0,208,379,"Valley Central School",20071010
+090,THUNDER BAY--ATIKOKAN,6,86,57,60,"Thunder Bay",160, ,1,0,0,210,401,"Valley Central School",20071010
+090,THUNDER BAY--ATIKOKAN,4,78,46,38,"Thunder Bay",161, ,1,0,0,167,300,"Rosslyn Village Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,13,45,61,88,"Thunder Bay",162, ,0,0,0,207,403,"Vickers Heights Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,27,52,29,"Thunder Bay",163, ,0,0,0,114,219,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,11,52,88,29,"Thunder Bay",164, ,1,0,0,181,323,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,7,46,71,78,"Thunder Bay",165, ,0,1,0,203,407,"Vickers Heights Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,8,36,81,54,"Thunder Bay",166A, ,1,1,0,181,370,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,10,55,98,72,"Thunder Bay",166B, ,0,0,0,235,402,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,11,54,71,60,"Thunder Bay",166C, ,0,1,0,197,368,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,5,38,67,56,"Thunder Bay",167, ,0,0,1,167,326,"Nor'Wester View Public School",20071010
+090,THUNDER BAY--ATIKOKAN,10,27,60,60,"Thunder Bay",168, ,0,0,0,157,388,"Vickers Heights Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,4,8,33,53,"Thunder Bay",169, ,0,0,0,98,245,"Broadway United Church",20071010
+090,THUNDER BAY--ATIKOKAN,5,21,52,68,"Thunder Bay",170, ,0,2,0,148,301,"Broadway United Church",20071010
+090,THUNDER BAY--ATIKOKAN,4,14,22,56,"Thunder Bay",171, ,0,0,1,97,283,"West Thunder Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,25,43,42,"Thunder Bay",172, ,1,0,0,117,267,"First Church United",20071010
+090,THUNDER BAY--ATIKOKAN,2,17,38,92,"Thunder Bay",173, ,0,1,0,150,354,"First Church United",20071010
+090,THUNDER BAY--ATIKOKAN,7,20,38,64,"Thunder Bay",174, ,0,0,0,129,371,"St. Elizabeth's School",20071010
+090,THUNDER BAY--ATIKOKAN,4,11,21,61,"Thunder Bay",175, ,0,0,0,97,248,"Broadway United Church",20071010
+090,THUNDER BAY--ATIKOKAN,8,28,29,58,"Kakabeka Falls",176, ,0,0,0,123,352,"Whitefish Valley School",20071010
+090,THUNDER BAY--ATIKOKAN,9,25,25,41,"Thunder Bay",177, ,0,0,0,100,223,"Valley Central School",20071010
+090,THUNDER BAY--ATIKOKAN,2,13,66,45,"Thunder Bay",178, ,0,0,0,126,603,"Fort William First Nations Community Centre",20071010
+090,THUNDER BAY--ATIKOKAN,22,35,33,57,"Kakabeka Falls",179, ,3,0,0,150,325,"Whitefish Valley School",20071010
+090,THUNDER BAY--ATIKOKAN,10,57,48,39,"Neebing",180, ,0,0,0,154,318,"Neebing Municipal Office",20071010
+090,THUNDER BAY--ATIKOKAN,8,24,6,29,"Neebing",181, ,0,0,0,67,177,"Neebing Municipal Office",20071010
+090,THUNDER BAY--ATIKOKAN,12,35,31,58,"Neebing",182, ,0,0,0,136,307,"Neebing Municipal Office",20071010
+090,THUNDER BAY--ATIKOKAN,0,12,22,5,"Thunder Bay",183s, ,0,0,0,39,122,"Pinewood Court",20071010
+090,THUNDER BAY--ATIKOKAN,1,12,39,29,"Thunder Bay",400, ,0,1,0,82,101,"Manion Court",20071010
+090,THUNDER BAY--ATIKOKAN,1,11,43,26,"Thunder Bay",401, ,1,2,0,84,110,"Paterson Court",20071010
+090,THUNDER BAY--ATIKOKAN,0,12,44,49,"Thunder Bay",402, ,2,0,0,107,170,"Spence Court",20071010
+090,THUNDER BAY--ATIKOKAN,0,19,26,38,"Thunder Bay",403, ,1,0,0,84,117,"McIvor Court",20071010
+090,THUNDER BAY--ATIKOKAN,40,246,481,342,"Thunder Bay",Advanced Polls /  ADV001, ,4,1,0,1114,0,"Returning Office / Bureau du directeur du scrutin",20071010
+090,THUNDER BAY--ATIKOKAN,7,67,171,146,"Atikokan",Advanced Polls /  ADV002, ,1,3,1,396,0,"Satellite Office / Bureau satellite",20071010
+090,THUNDER BAY--ATIKOKAN,9,94,100,97,"Thunder Bay",Advanced Polls /  ADV003, ,0,1,0,301,0,"North McIntyre Recreation Centre",20071010
+090,THUNDER BAY--ATIKOKAN,6,88,147,143,"Thunder Bay",Advanced Polls /  ADV004, ,2,0,0,386,0,"Slovak Legion #129",20071010
+090,THUNDER BAY--ATIKOKAN,14,99,76,107,"Kakabeka Falls",Advanced Polls /  ADV005, ,2,2,0,300,0,"Kakabeka Legion #225",20071010
+090,THUNDER BAY--ATIKOKAN,3,43,37,37,"Neebing",Advanced Polls /  ADV006, ,0,0,0,120,0,"Neebing Municipal Office",20071010
+090,THUNDER BAY--ATIKOKAN,27,297,576,465,"Thunder Bay",Advanced Polls /  ADV007, ,0,2,0,1367,0,"North Edward Place",20071010
+TOTALS:, ,1270,5918,10928,10878, , , , , , , , , , 

@@ -1,0 +1,361 @@
+ED_CODE,ED_NAME,HORWATH,MANN,ORMOND,ROBERTSON,RUDDICK,SCIME,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+031,HAMILTON CENTRE,58,0,20,15,23,1,"Hamilton",001, ,0,1,0,118,238,"Bennetto Recreation Centre",20071010
+031,HAMILTON CENTRE,76,1,16,15,22,0,"Hamilton",002, ,1,0,0,131,286,"Bennetto Recreation Centre",20071010
+031,HAMILTON CENTRE,74,0,6,9,18,3,"Hamilton",003, ,0,0,0,110,253,"St. Lawrence Elementary School",20071010
+031,HAMILTON CENTRE,43,0,4,6,18,2,"Hamilton",004, ,0,0,0,73,265,"Eva Rothwell Resource Centre",20071010
+031,HAMILTON CENTRE,65,0,16,23,45,0,"Hamilton",005, ,1,1,0,151,282,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,70,1,26,10,27,1,"Hamilton",006, ,7,1,0,143,308,"Bennetto Recreation Centre",20071010
+031,HAMILTON CENTRE,64,0,7,3,16,0,"Hamilton",007, ,0,0,0,90,220,"St. Lawrence Elementary School",20071010
+031,HAMILTON CENTRE,31,1,0,8,4,2,"Hamilton",008, ,0,0,0,46,288,"Eva Rothwell Resource Centre",20071010
+031,HAMILTON CENTRE,83,0,28,12,29,3,"Hamilton",009, ,1,0,0,156,303,"Strathcona Elementary School",20071010
+031,HAMILTON CENTRE,60,0,20,14,26,3,"Hamilton",010, ,0,0,0,123,265,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,34,0,13,4,34,1,"Hamilton",011, ,0,0,0,86,196,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,42,2,14,8,37,5,"Hamilton",012, ,2,4,0,114,334,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,32,2,13,7,38,2,"Hamilton",013, ,1,1,0,96,323,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,49,1,21,3,24,0,"Hamilton",014, ,0,0,0,98,251,"Bennetto Recreation Centre",20071010
+031,HAMILTON CENTRE,48,2,14,7,30,3,"Hamilton",015, ,0,0,0,104,257,"Bennetto Elementary School",20071010
+031,HAMILTON CENTRE,79,1,10,9,46,6,"Hamilton",016, ,0,0,1,152,323,"St. Lawrence Elementary School",20071010
+031,HAMILTON CENTRE,54,0,10,11,15,3,"Hamilton",017, ,0,0,0,93,289,"St. Lawrence Elementary School",20071010
+031,HAMILTON CENTRE,64,0,5,10,30,0,"Hamilton",018, ,0,0,0,109,325,"St. Lawrence Elementary School",20071010
+031,HAMILTON CENTRE,52,1,5,14,14,0,"Hamilton",019, ,0,0,0,86,317,"Eva Rothwell Resource Centre",20071010
+031,HAMILTON CENTRE,45,2,7,11,30,1,"Hamilton",020, ,0,1,0,97,218,"Southern Ontario College",20071010
+031,HAMILTON CENTRE,61,0,11,3,36,1,"Hamilton",021, ,0,0,0,112,287,"Bennetto Elementary School",20071010
+031,HAMILTON CENTRE,31,0,3,1,9,0,"Hamilton",022, ,1,0,0,45,167,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,32,0,6,11,25,3,"Hamilton",023, ,4,0,0,81,214,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,68,2,13,16,49,1,"Hamilton",024, ,0,1,0,150,327,"Bennetto Elementary School",20071010
+031,HAMILTON CENTRE,61,1,4,11,16,4,"Hamilton",025, ,0,0,0,97,303,"Eva Rothwell Resource Centre",20071010
+031,HAMILTON CENTRE,56,0,3,10,21,0,"Hamilton",026, ,0,0,0,90,335,"Eva Rothwell Resource Centre",20071010
+031,HAMILTON CENTRE,60,0,20,15,26,1,"Hamilton",027, ,0,1,0,123,227,"Strathcona Elementary School",20071010
+031,HAMILTON CENTRE,11,0,2,3,8,0,"Hamilton",028s, ,0,0,0,24,90,"St. Olga's Lifecare Centre",20071010
+031,HAMILTON CENTRE,62,0,18,24,42,4,"Hamilton",029, ,0,0,0,150,268,"Strathcona Elementary School",20071010
+031,HAMILTON CENTRE,68,1,30,10,45,1,"Hamilton",030, ,0,0,0,155,297,"Erskine Presbyterian Church",20071010
+031,HAMILTON CENTRE,16,0,4,9,7,1,"Hamilton",031s, ,0,0,0,37,133,"Queens Garden Long Term Care Residence",20071010
+031,HAMILTON CENTRE,54,0,8,17,48,3,"Hamilton",032, ,2,0,0,132,328,"Sir John A. Macdonald High School",20071010
+031,HAMILTON CENTRE,26,0,5,20,38,3,"Hamilton",033, ,0,0,0,92,234,"Sir John A. Macdonald High School",20071010
+031,HAMILTON CENTRE,32,1,2,3,22,3,"Hamilton",034, ,2,1,0,66,246,"Sir John A. Macdonald High School",20071010
+031,HAMILTON CENTRE,4,0,1,3,5,0,"Hamilton",035s, ,0,0,0,13,18,"Faith Hope Manor",20071010
+031,HAMILTON CENTRE,30,3,3,12,25,1,"Hamilton",036, ,2,2,0,78,344,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,4,0,0,4,8,1,"Hamilton",037s, ,0,0,0,17,23,"Cathmar Manor",20071010
+031,HAMILTON CENTRE,33,0,1,3,29,3,"Hamilton",038, ,0,0,0,69,200,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,46,1,5,4,25,2,"Hamilton",039, ,0,1,1,85,182,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,37,0,3,7,18,0,"Hamilton",040, ,0,0,1,66,209,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,52,0,5,3,21,4,"Hamilton",041, ,0,0,0,85,231,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,24,0,3,6,18,0,"Hamilton",042, ,0,1,0,52,183,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,33,1,7,17,7,0,"Hamilton",043, ,1,1,0,67,278,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,50,0,5,7,5,1,"Hamilton",044, ,0,0,0,68,205,"St. Ann Elementary School",20071010
+031,HAMILTON CENTRE,37,0,15,13,18,6,"Hamilton",045, ,0,2,0,91,240,"Strathcona Elementary School",20071010
+031,HAMILTON CENTRE,65,1,12,8,30,2,"Hamilton",046, ,0,0,1,119,212,"First Unitarian Church of Hamilton",20071010
+031,HAMILTON CENTRE,39,0,19,7,25,4,"Hamilton",047, ,0,0,0,94,228,"First Unitarian Church of Hamilton",20071010
+031,HAMILTON CENTRE,8,1,1,8,11,1,"Hamilton",048s, ,2,0,0,32,125,"Parkview Nursing Centre",20071010
+031,HAMILTON CENTRE,42,0,28,15,33,1,"Hamilton",049, ,0,0,0,119,252,"Erskine Presbyterian Church",20071010
+031,HAMILTON CENTRE,27,1,13,10,21,1,"Hamilton",050, ,1,1,0,75,173,"First Unitarian Church of Hamilton",20071010
+031,HAMILTON CENTRE,31,0,15,12,20,1,"Hamilton",051, ,0,0,0,79,207,"Erskine Presbyterian Church",20071010
+031,HAMILTON CENTRE,38,0,15,10,25,1,"Hamilton",052, ,0,0,0,89,209,"Erskine Presbyterian Church",20071010
+031,HAMILTON CENTRE,20,0,2,2,9,0,"Hamilton",053, ,0,0,0,33,119,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,41,2,12,12,32,1,"Hamilton",054, ,3,0,0,103,313,"Central Elementary School",20071010
+031,HAMILTON CENTRE,31,0,14,4,22,0,"Hamilton",055, ,0,1,0,72,311,"Central Elementary School",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",056s, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,45,4,6,6,25,1,"Hamilton",057, ,0,0,0,87,307,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,23,5,5,9,12,0,"Hamilton",058, ,0,0,1,55,209,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,18,0,5,8,12,0,"Hamilton",059, ,0,0,0,43,187,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,5,2,0,2,5,2,"Hamilton",060s, ,0,0,0,16,74,"Victoria Gardens Nursing Home",20071010
+031,HAMILTON CENTRE,36,1,4,6,16,1,"Hamilton",061, ,1,0,0,65,243,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,36,0,4,5,13,0,"Hamilton",062, ,2,0,0,60,196,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,20,1,2,8,20,0,"Hamilton",063, ,0,1,0,52,235,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,42,1,5,10,22,0,"Hamilton",064, ,0,0,0,80,222,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,46,0,7,10,28,2,"Hamilton",065, ,0,0,0,93,279,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,43,3,1,9,19,0,"Hamilton",066, ,1,0,0,76,229,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,23,1,8,14,24,0,"Hamilton",067, ,0,0,1,71,228,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,24,0,4,1,22,0,"Hamilton",068, ,9,0,0,60,195,"St. Ann Elementary School",20071010
+031,HAMILTON CENTRE,36,1,3,7,32,3,"Hamilton",069, ,4,0,0,86,295,"St. Ann Elementary School",20071010
+031,HAMILTON CENTRE,46,2,8,12,53,2,"Hamilton",070, ,0,0,0,123,301,"St. Ann Elementary School",20071010
+031,HAMILTON CENTRE,55,0,3,12,6,0,"Hamilton",071, ,0,0,0,76,259,"St. Vladimir Ukrainian Orthodox Church",20071010
+031,HAMILTON CENTRE,68,0,29,23,40,2,"Hamilton",072, ,1,0,0,163,281,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,71,0,18,17,31,0,"Hamilton",073, ,1,3,0,141,272,"First Unitarian Church of Hamilton",20071010
+031,HAMILTON CENTRE,59,0,26,16,30,0,"Hamilton",074, ,0,1,0,132,245,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,71,1,14,8,22,3,"Hamilton",075, ,0,0,1,120,243,"First Unitarian Church of Hamilton",20071010
+031,HAMILTON CENTRE,45,1,11,16,28,0,"Hamilton",076, ,0,0,0,101,171,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,45,2,14,22,28,0,"Hamilton",077, ,0,1,0,112,235,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,35,0,4,17,21,0,"Hamilton",078, ,0,0,0,77,189,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,36,0,11,33,43,0,"Hamilton",079, ,4,0,1,128,298,"Central Elementary School",20071010
+031,HAMILTON CENTRE,45,1,14,13,21,1,"Hamilton",080, ,0,0,1,96,201,"Central Elementary School",20071010
+031,HAMILTON CENTRE,4,0,0,2,4,0,"Hamilton",081s, ,0,0,0,10,18,"Townsview Retirement Residence",20071010
+031,HAMILTON CENTRE,3,2,4,9,5,0,"Hamilton",082s, ,0,2,0,25,84,"Townsview Lifecare Centre",20071010
+031,HAMILTON CENTRE,27,0,5,3,16,1,"Hamilton",083, ,0,0,0,52,132,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,46,1,4,5,14,0,"Hamilton",084, ,0,0,0,70,236,"First Pilgrim United Church",20071010
+031,HAMILTON CENTRE,37,0,1,9,13,1,"Hamilton",085, ,0,0,0,61,173,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,49,1,15,14,23,3,"Hamilton",086, ,3,0,0,108,244,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,45,2,8,6,27,2,"Hamilton",087, ,4,1,0,95,265,"St. John & St. Andrew Presbyterian Church",20071010
+031,HAMILTON CENTRE,36,2,3,12,19,0,"Hamilton",088, ,0,0,0,72,216,"Cathedral High School",20071010
+031,HAMILTON CENTRE,28,0,4,7,15,4,"Hamilton",089, ,0,0,0,58,213,"Cathedral High School",20071010
+031,HAMILTON CENTRE,17,0,2,5,14,0,"Hamilton",090, ,0,0,0,38,161,"Germania Club",20071010
+031,HAMILTON CENTRE,28,1,4,8,22,3,"Hamilton",091, ,1,0,0,67,273,"Cathedral High School",20071010
+031,HAMILTON CENTRE,48,0,6,12,17,3,"Hamilton",092, ,1,0,0,87,357,"Cathy Weaver Elementary School",20071010
+031,HAMILTON CENTRE,33,0,5,13,12,3,"Hamilton",093, ,0,0,0,66,236,"Germania Club",20071010
+031,HAMILTON CENTRE,39,0,1,15,10,3,"Hamilton",094, ,1,0,1,70,227,"Germania Club",20071010
+031,HAMILTON CENTRE,53,0,7,13,32,1,"Hamilton",095, ,1,0,0,107,322,"Germania Club",20071010
+031,HAMILTON CENTRE,37,0,4,10,30,4,"Hamilton",096, ,1,0,0,86,294,"Germania Club",20071010
+031,HAMILTON CENTRE,50,4,13,9,25,5,"Hamilton",097, ,0,0,0,106,302,"Germania Club",20071010
+031,HAMILTON CENTRE,59,1,7,19,39,3,"Hamilton",098, ,2,1,0,131,303,"New Westminster Presbyterian Church",20071010
+031,HAMILTON CENTRE,35,2,6,7,18,3,"Hamilton",099, ,1,0,0,72,298,"St. Vladimir Ukrainian Orthodox Church",20071010
+031,HAMILTON CENTRE,62,0,5,8,23,5,"Hamilton",100, ,2,4,0,109,302,"St. Vladimir Ukrainian Orthodox Church",20071010
+031,HAMILTON CENTRE,62,2,2,14,26,0,"Hamilton",101, ,2,0,0,108,311,"St. Vladimir Ukrainian Orthodox Church",20071010
+031,HAMILTON CENTRE,78,1,9,16,32,1,"Hamilton",102, ,0,0,0,137,308,"United Steelworkers District 6",20071010
+031,HAMILTON CENTRE,39,2,18,17,25,2,"Hamilton",103, ,0,0,0,103,204,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,103,0,24,15,38,1,"Hamilton",104, ,2,0,0,183,310,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,13,0,4,9,13,1,"Hamilton",105s, ,1,0,7,48,66,"Aberdeen Gardens",20071010
+031,HAMILTON CENTRE,75,0,24,17,30,2,"Hamilton",106, ,1,0,0,149,256,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,71,0,26,19,48,1,"Hamilton",107, ,0,0,0,165,254,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,90,0,18,11,25,2,"Hamilton",108, ,0,0,0,146,279,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,44,1,35,19,30,0,"Hamilton",109, ,0,1,0,130,240,"Melrose United Church",20071010
+031,HAMILTON CENTRE,58,2,21,12,24,1,"Hamilton",110, ,1,0,0,119,212,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,67,0,33,22,22,0,"Hamilton",111, ,0,0,0,144,261,"Central Presbyterian Church",20071010
+031,HAMILTON CENTRE,51,0,14,15,30,3,"Hamilton",112, ,0,0,0,113,307,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,41,0,5,15,42,0,"Hamilton",113, ,1,1,0,105,146,"120 Duke Street",20071010
+031,HAMILTON CENTRE,53,0,27,9,22,2,"Hamilton",114, ,0,0,0,113,214,"Central Presbyterian Church",20071010
+031,HAMILTON CENTRE,39,1,6,10,5,0,"Hamilton",115, ,0,1,0,62,172,"Ryerson Elementary School",20071010
+031,HAMILTON CENTRE,14,1,1,8,24,1,"Hamilton",116, ,0,0,0,49,151,"Central Elementary School",20071010
+031,HAMILTON CENTRE,45,0,6,15,34,1,"Hamilton",117, ,0,0,0,101,190,"Central Elementary School",20071010
+031,HAMILTON CENTRE,20,0,4,7,7,1,"Hamilton",118, ,0,0,0,39,121,"Central Elementary School",20071010
+031,HAMILTON CENTRE,28,1,11,15,13,0,"Hamilton",119, ,0,0,0,68,180,"Central Elementary School",20071010
+031,HAMILTON CENTRE,17,0,2,13,17,2,"Hamilton",120s, ,0,0,0,51,69,"The Residences on Augusta",20071010
+031,HAMILTON CENTRE,21,0,1,9,13,0,"Hamilton",121, ,0,1,0,45,132,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,28,1,16,5,11,0,"Hamilton",122, ,3,0,0,64,137,"St. Charles School",20071010
+031,HAMILTON CENTRE,0,0,0,1,6,1,"Hamilton",123s, ,0,0,0,8,9,"Verolens Rest Home",20071010
+031,HAMILTON CENTRE,32,0,10,11,18,1,"Hamilton",124, ,0,0,0,72,180,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,26,1,4,15,16,0,"Hamilton",125, ,0,0,0,62,197,"First Pilgrim United Church",20071010
+031,HAMILTON CENTRE,82,1,7,7,27,2,"Hamilton",126, ,1,1,1,129,459,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,31,0,8,12,21,2,"Hamilton",127, ,1,1,1,77,189,"First Pilgrim United Church",20071010
+031,HAMILTON CENTRE,30,0,2,8,17,2,"Hamilton",128, ,0,0,0,59,176,"First Pilgrim United Church",20071010
+031,HAMILTON CENTRE,34,0,7,6,9,1,"Hamilton",129, ,0,0,0,57,155,"Central Memorial Recreation Centre",20071010
+031,HAMILTON CENTRE,15,2,1,2,8,2,"Hamilton",130s, ,0,0,0,30,89,"Versa-Care Centre",20071010
+031,HAMILTON CENTRE,32,1,6,4,19,4,"Hamilton",131, ,2,0,0,68,197,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",132s, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,5,4,1,3,4,0,"Hamilton",133s, ,0,0,0,17,33,"Emerald Manor",20071010
+031,HAMILTON CENTRE,25,1,3,13,23,0,"Hamilton",134, ,0,0,0,65,237,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,50,0,8,9,15,0,"Hamilton",135, ,0,0,0,82,204,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,13,0,1,2,8,1,"Hamilton",136, ,0,0,0,25,134,"Cathedral High School",20071010
+031,HAMILTON CENTRE,15,0,1,11,10,0,"Hamilton",137s, ,3,5,0,45,67,"Atrium Villa",20071010
+031,HAMILTON CENTRE,11,0,0,5,5,2,"Hamilton",138s, ,0,0,0,23,48,"Northview Seniors Residence",20071010
+031,HAMILTON CENTRE,14,0,4,5,9,0,"Hamilton",139, ,0,0,0,32,167,"Cathedral High School",20071010
+031,HAMILTON CENTRE,30,0,7,4,18,0,"Hamilton",140, ,1,0,0,60,212,"Cathedral High School",20071010
+031,HAMILTON CENTRE,127,6,4,10,53,4,"Hamilton",141s, ,3,2,0,209,350,"Sanford Gardens Seniors",20071010
+031,HAMILTON CENTRE,25,1,3,7,9,0,"Hamilton",143, ,0,0,0,45,167,"Cathedral High School",20071010
+031,HAMILTON CENTRE,12,2,1,3,19,1,"Hamilton",144, ,0,0,0,38,207,"Cathedral High School",20071010
+031,HAMILTON CENTRE,53,1,11,12,19,0,"Hamilton",145, ,1,0,0,97,262,"St. Giles United Church",20071010
+031,HAMILTON CENTRE,40,0,8,10,15,1,"Hamilton",146, ,1,0,0,75,185,"Germania Club",20071010
+031,HAMILTON CENTRE,36,0,10,16,19,2,"Hamilton",147, ,0,0,0,83,238,"St. Giles United Church",20071010
+031,HAMILTON CENTRE,33,2,2,5,21,1,"Hamilton",148, ,0,0,0,64,164,"Germania Club",20071010
+031,HAMILTON CENTRE,30,0,6,13,12,2,"Hamilton",149, ,0,0,0,63,187,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,19,2,3,3,21,0,"Hamilton",150, ,0,0,0,48,182,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,31,0,9,11,29,0,"Hamilton",151, ,0,1,0,81,219,"Germania Club",20071010
+031,HAMILTON CENTRE,28,0,3,6,10,2,"Hamilton",152, ,1,0,0,50,183,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,54,0,11,5,11,2,"Hamilton",153, ,0,0,0,83,226,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,43,0,12,8,27,2,"Hamilton",154, ,1,0,0,93,233,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,45,0,6,15,18,2,"Hamilton",155, ,1,0,0,87,236,"New Westminster Presbyterian Church",20071010
+031,HAMILTON CENTRE,48,1,0,9,32,0,"Hamilton",156, ,1,0,0,91,266,"New Westminster Presbyterian Church",20071010
+031,HAMILTON CENTRE,66,0,3,7,34,1,"Hamilton",157, ,0,0,0,111,326,"Holy Name of Jesus Elementary School",20071010
+031,HAMILTON CENTRE,62,0,5,13,20,0,"Hamilton",158, ,0,0,0,100,264,"Holy Name of Jesus Elementary School",20071010
+031,HAMILTON CENTRE,68,1,6,13,15,0,"Hamilton",159, ,0,0,0,103,273,"United Steelworkers District 6",20071010
+031,HAMILTON CENTRE,69,2,0,16,32,3,"Hamilton",160, ,1,0,0,123,272,"United Steelworkers District 6",20071010
+031,HAMILTON CENTRE,94,1,43,49,65,0,"Hamilton",161, ,0,0,2,254,456,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",162, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,109,0,49,48,70,0,"Hamilton",163, ,1,0,0,277,421,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,62,0,34,41,42,0,"Hamilton",164, ,0,0,0,179,300,"Earl Kitchener Elementary School",20071010
+031,HAMILTON CENTRE,66,1,26,22,60,0,"Hamilton",165, ,0,0,0,175,296,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,73,1,23,13,35,0,"Hamilton",166, ,0,0,0,145,268,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,73,0,38,21,39,0,"Hamilton",167, ,0,0,0,171,280,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,46,0,28,23,37,1,"Hamilton",168, ,0,0,0,135,241,"Melrose United Church",20071010
+031,HAMILTON CENTRE,60,0,40,30,46,1,"Hamilton",169, ,0,0,0,177,296,"Melrose United Church",20071010
+031,HAMILTON CENTRE,41,0,29,8,31,0,"Hamilton",170, ,0,0,0,109,219,"Melrose United Church",20071010
+031,HAMILTON CENTRE,47,1,19,6,28,0,"Hamilton",171, ,0,0,0,101,220,"First Christian Reformed Church of Hamilton",20071010
+031,HAMILTON CENTRE,41,0,18,22,17,0,"Hamilton",172, ,2,0,0,100,219,"First Christian Reformed Church of Hamilton",20071010
+031,HAMILTON CENTRE,44,0,15,13,20,1,"Hamilton",173, ,0,0,0,93,209,"First Christian Reformed Church of Hamilton",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",174s, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,52,0,9,22,43,1,"Hamilton",175, ,2,1,0,130,231,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,15,0,4,11,8,0,"Hamilton",176s, ,0,0,0,38,66,"Durand Seniors Residence",20071010
+031,HAMILTON CENTRE,73,1,9,40,41,1,"Hamilton",177, ,0,0,6,171,263,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,......................COMBINED WITH POLL 177 ....................,,,,,,"Hamilton",178s, ,,,,,,"St. Joseph's Healthcare",20071010
+031,HAMILTON CENTRE,35,0,2,13,12,0,"Hamilton",179, ,0,0,0,62,196,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,4,0,0,5,5,1,"Hamilton",180s, ,0,0,0,15,26,"Hillside Park Residence",20071010
+031,HAMILTON CENTRE,32,2,4,4,22,0,"Hamilton",181, ,0,0,0,64,148,"St. Charles School",20071010
+031,HAMILTON CENTRE,24,1,4,8,11,0,"Hamilton",182, ,0,0,0,48,139,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,36,1,1,5,15,2,"Hamilton",183, ,1,0,0,61,150,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,50,1,8,18,14,0,"Hamilton",184, ,0,0,0,91,246,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,28,0,3,2,5,0,"Hamilton",185, ,0,0,0,38,148,"Central Memorial Recreation Centre",20071010
+031,HAMILTON CENTRE,44,0,4,3,19,0,"Hamilton",186, ,0,0,0,70,174,"Central Memorial Recreation Centre",20071010
+031,HAMILTON CENTRE,33,0,4,6,16,2,"Hamilton",187, ,0,0,0,61,154,"Central Memorial Recreation Centre",20071010
+031,HAMILTON CENTRE,6,0,2,1,11,2,"Hamilton",188s, ,0,0,1,23,43,"Victoria Manor",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",189s, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,47,1,8,13,16,0,"Hamilton",190, ,0,1,0,86,204,"Central Memorial Recreation Centre",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",191s, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,11,0,1,3,7,0,"Hamilton",192, ,3,0,0,25,120,"St. Patrick Elementary School",20071010
+031,HAMILTON CENTRE,49,1,7,7,23,1,"Hamilton",193, ,0,0,0,88,203,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,34,0,14,8,20,0,"Hamilton",194, ,0,0,0,76,197,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,29,0,7,11,11,0,"Hamilton",195, ,4,0,0,62,215,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,4,1,2,1,5,0,"Hamilton",196s, ,0,0,0,13,60,"Hamilton Continuing Care",20071010
+031,HAMILTON CENTRE,43,0,11,15,13,1,"Hamilton",197, ,0,0,0,83,206,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,25,1,4,3,8,0,"Hamilton",198, ,1,0,0,42,141,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,41,0,11,6,16,0,"Hamilton",199, ,0,0,0,74,214,"Cathedral High School",20071010
+031,HAMILTON CENTRE,63,0,20,19,33,3,"Hamilton",200, ,0,0,0,138,270,"St. Giles United Church",20071010
+031,HAMILTON CENTRE,3,1,0,1,3,1,"Hamilton",201s, ,0,2,0,11,17,"Proctor Manor Nursing Home Limited",20071010
+031,HAMILTON CENTRE,53,0,5,13,27,3,"Hamilton",202, ,1,1,0,103,222,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,15,0,5,12,9,0,"Hamilton",203, ,1,0,0,42,158,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,29,0,3,15,16,0,"Hamilton",204, ,1,0,0,64,196,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,39,0,15,11,31,1,"Hamilton",205, ,0,0,0,97,241,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,41,0,12,4,30,1,"Hamilton",206, ,0,0,1,89,246,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,41,1,13,13,18,1,"Hamilton",207, ,2,0,0,89,231,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,70,1,13,9,22,0,"Hamilton",208, ,1,0,0,116,281,"Holy Name of Jesus Elementary School",20071010
+031,HAMILTON CENTRE,59,2,4,8,22,2,"Hamilton",209, ,3,0,0,100,255,"Holy Name of Jesus Elementary School",20071010
+031,HAMILTON CENTRE,73,2,8,18,25,1,"Hamilton",210, ,0,0,2,129,330,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,75,2,10,17,27,0,"Hamilton",211, ,1,0,0,132,279,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,58,0,2,11,29,0,"Hamilton",212, ,0,0,0,100,280,"Holy Name of Jesus Elementary School",20071010
+031,HAMILTON CENTRE,74,1,12,18,19,3,"Hamilton",213, ,0,0,0,127,300,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,54,0,10,48,83,2,"Hamilton",214, ,0,5,0,202,394,"St. Teresa of Avila Elementary School",20071010
+031,HAMILTON CENTRE,94,0,81,37,78,1,"Hamilton",215, ,1,0,0,292,434,"St. Joseph Elementary School",20071010
+031,HAMILTON CENTRE,55,0,21,55,55,0,"Hamilton",216, ,1,0,0,187,369,"Central Presbyterian Church",20071010
+031,HAMILTON CENTRE,35,0,24,43,49,1,"Hamilton",217, ,0,0,1,153,257,"Central Presbyterian Church",20071010
+031,HAMILTON CENTRE,44,2,20,8,18,0,"Hamilton",218, ,0,0,0,92,200,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,41,1,12,11,15,0,"Hamilton",219, ,1,1,0,82,181,"Church of the Ascension",20071010
+031,HAMILTON CENTRE,53,1,10,1,13,0,"Hamilton",220, ,0,0,0,78,216,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,56,0,8,10,27,0,"Hamilton",221, ,0,0,0,101,244,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,48,0,13,13,20,1,"Hamilton",222, ,0,0,0,95,258,"Good Shepherd Centre",20071010
+031,HAMILTON CENTRE,84,0,10,12,24,2,"Hamilton",223, ,0,0,0,132,284,"St. Giles United Church",20071010
+031,HAMILTON CENTRE,62,1,18,15,42,0,"Hamilton",224, ,0,0,0,138,305,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,46,0,19,11,30,1,"Hamilton",225, ,0,0,0,107,257,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,80,1,14,17,17,0,"Hamilton",226, ,0,0,0,129,280,"Adelaide Hoodless Elementary School",20071010
+031,HAMILTON CENTRE,23,0,2,6,15,2,"Hamilton",227s, ,2,0,0,50,115,"St. Peter's Hospital",20071010
+031,HAMILTON CENTRE,46,1,11,9,25,0,"Hamilton",228, ,1,0,0,93,272,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,76,1,13,19,15,0,"Hamilton",229, ,0,1,0,125,279,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,64,0,5,17,10,1,"Hamilton",230, ,1,2,0,100,253,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,71,2,9,32,54,2,"Hamilton",231, ,3,0,0,173,281,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,25,0,5,9,19,2,"Hamilton",232, ,0,0,1,61,188,"Parkview Secondary School",20071010
+031,HAMILTON CENTRE,12,0,0,5,7,0,"Hamilton",233s, ,0,1,0,25,38,"The Rosslyn - Hamilton",20071010
+031,HAMILTON CENTRE,73,1,19,9,25,1,"Hamilton",234, ,2,2,0,132,298,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,66,0,28,39,78,1,"Hamilton",235, ,0,0,0,212,374,"Chedoke Twin Pad Arena",20071010
+031,HAMILTON CENTRE,29,0,13,55,77,1,"Hamilton",236, ,0,0,0,175,291,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,29,4,11,16,18,5,"Hamilton",237s, ,1,1,0,85,97,"St. Joseph's Centre for Mountain Health Services",20071010
+031,HAMILTON CENTRE,76,0,7,15,25,2,"Hamilton",238, ,0,0,0,125,350,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,78,1,36,22,34,0,"Hamilton",239, ,0,0,0,171,346,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,76,1,16,18,53,2,"Hamilton",240, ,2,0,0,168,371,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,58,0,4,11,22,0,"Hamilton",241, ,0,0,0,95,232,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,66,1,24,41,80,2,"Hamilton",242, ,0,2,0,216,354,"St. Teresa of Avila Elementary School",20071010
+031,HAMILTON CENTRE,69,0,24,44,88,4,"Hamilton",243, ,0,0,1,230,411,"St. Teresa of Avila Elementary School",20071010
+031,HAMILTON CENTRE,21,1,3,8,17,3,"Hamilton",244s, ,2,2,1,58,207,"St. Peter's at Chedoke",20071010
+031,HAMILTON CENTRE,45,1,17,49,111,6,"Hamilton",245, ,0,0,1,230,367,"Chedoke Twin Pad Arena",20071010
+031,HAMILTON CENTRE,73,0,22,49,72,3,"Hamilton",246, ,0,2,0,221,367,"Chedoke Twin Pad Arena",20071010
+031,HAMILTON CENTRE,110,2,9,52,61,5,"Hamilton",247, ,1,0,0,240,357,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",248, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,75,0,13,47,58,4,"Hamilton",249, ,0,0,0,197,353,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,71,2,17,49,68,6,"Hamilton",250, ,0,0,0,213,389,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,90,1,19,37,76,2,"Hamilton",251, ,0,2,1,228,374,"Buchanan Park Elementary School",20071010
+031,HAMILTON CENTRE,8,0,1,2,6,1,"Hamilton",252, ,0,0,0,18,59,"Buchanan Park Elementary School",20071010
+031,HAMILTON CENTRE,74,0,12,26,29,0,"Hamilton",253, ,1,1,0,143,260,"Memorial Elementary School",20071010
+031,HAMILTON CENTRE,55,1,10,49,78,4,"Hamilton",254, ,0,0,0,197,373,"St. Teresa of Avila Elementary School",20071010
+031,HAMILTON CENTRE,5,1,0,13,17,0,"Hamilton",255s, ,0,0,0,36,114,"Extendicare Hamilton",20071010
+031,HAMILTON CENTRE,44,0,19,42,63,3,"Hamilton",256, ,0,0,0,171,340,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,13,1,5,14,20,1,"Hamilton",257s, ,1,0,0,55,190,"Idlewyld Manor",20071010
+031,HAMILTON CENTRE,79,2,14,49,78,5,"Hamilton",258, ,2,0,0,229,403,"Chedoke Twin Pad Arena",20071010
+031,HAMILTON CENTRE,85,2,10,32,48,4,"Hamilton",259, ,0,0,0,181,296,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,87,2,13,57,56,5,"Hamilton",260, ,2,0,0,222,397,"Chedoke Elementary School",20071010
+031,HAMILTON CENTRE,76,3,23,53,82,5,"Hamilton",261, ,0,0,1,243,396,"Buchanan Park Elementary School",20071010
+031,HAMILTON CENTRE,79,0,6,21,34,2,"Hamilton",262, ,0,1,0,143,319,"Taras Shevchenko",20071010
+031,HAMILTON CENTRE,54,1,9,26,64,0,"Hamilton",263, ,0,0,0,154,313,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,62,0,14,42,75,2,"Hamilton",264, ,2,2,0,199,420,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,30,0,9,18,22,2,"Hamilton",265, ,0,0,0,81,183,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,58,1,7,26,73,6,"Hamilton",266, ,1,0,0,172,354,"Church of the Resurrection",20071010
+031,HAMILTON CENTRE,89,1,13,36,80,8,"Hamilton",267, ,0,3,0,230,373,"Buchanan Park Elementary School",20071010
+031,HAMILTON CENTRE,69,0,9,38,85,3,"Hamilton",268, ,1,1,0,206,384,"Buchanan Park Elementary School",20071010
+031,HAMILTON CENTRE,92,0,14,44,87,2,"Hamilton",269, ,0,3,0,242,470,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,70,0,11,30,91,2,"Hamilton",270, ,1,0,0,205,425,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,64,5,14,25,82,1,"Hamilton",271, ,1,1,0,193,345,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,94,0,5,38,58,4,"Hamilton",272, ,0,0,0,199,411,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,14,7,5,9,32,5,"Hamilton",273s, ,1,0,0,73,112,"Villa Italia",20071010
+031,HAMILTON CENTRE,6,1,0,8,20,0,"Hamilton",274s, ,0,0,0,35,127,"Regina Gardens Long Term Care Residence",20071010
+031,HAMILTON CENTRE,43,2,6,14,51,3,"Hamilton",275, ,0,0,0,119,339,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,56,1,9,33,59,4,"Hamilton",276, ,0,0,0,162,323,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,70,1,11,33,77,6,"Hamilton",277, ,2,0,0,200,370,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,73,0,14,36,75,2,"Hamilton",278, ,1,0,0,201,411,"Church of the Resurrection",20071010
+031,HAMILTON CENTRE,70,1,10,34,54,5,"Hamilton",279, ,0,0,0,174,327,"Church of the Resurrection",20071010
+031,HAMILTON CENTRE,98,0,13,37,91,2,"Hamilton",280, ,3,0,0,244,417,"Church of the Resurrection",20071010
+031,HAMILTON CENTRE,97,0,11,34,54,5,"Hamilton",281, ,0,1,0,202,405,"Sir Allan MacNab Secondary School",20071010
+031,HAMILTON CENTRE,55,3,12,45,130,3,"Hamilton",282, ,6,2,0,256,497,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,38,1,8,28,30,3,"Hamilton",283, ,0,0,0,108,318,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,42,0,13,30,50,0,"Hamilton",284, ,0,0,0,135,351,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,90,2,15,34,104,2,"Hamilton",285, ,0,0,0,247,469,"Westmount High School",20071010
+031,HAMILTON CENTRE,83,1,17,39,72,4,"Hamilton",286, ,2,0,1,219,424,"Westmount High School",20071010
+031,HAMILTON CENTRE,12,0,3,8,17,1,"Hamilton",287, ,1,0,0,42,181,"Westmount High School",20071010
+031,HAMILTON CENTRE,53,0,13,29,40,2,"Hamilton",288, ,0,0,0,137,350,"Westmount High School",20071010
+031,HAMILTON CENTRE,11,1,0,1,8,1,"Hamilton",289, ,0,0,0,22,66,"Westmount High School",20071010
+031,HAMILTON CENTRE,54,1,5,8,32,4,"Hamilton",290, ,0,1,0,105,306,"Westmount High School",20071010
+031,HAMILTON CENTRE,75,0,11,32,74,5,"Hamilton",291, ,1,1,0,199,400,"Westmount High School",20071010
+031,HAMILTON CENTRE,40,0,10,8,20,1,"Hamilton",400, ,1,0,0,80,144,"35 Brock Street",20071010
+031,HAMILTON CENTRE,48,1,10,6,26,0,"Hamilton",401, ,0,0,0,91,173,"Marina Towers Apartments",20071010
+031,HAMILTON CENTRE,38,0,7,6,11,1,"Hamilton",402, ,0,0,0,63,131,"500 MacNab Street North",20071010
+031,HAMILTON CENTRE,94,2,5,16,34,1,"Hamilton",403, ,4,1,0,157,246,"Strathcona Gardens",20071010
+031,HAMILTON CENTRE,69,0,11,36,52,2,"Hamilton",404, ,0,3,1,174,245,"75 Queen Street North",20071010
+031,HAMILTON CENTRE,69,4,8,21,80,4,"Hamilton",405, ,3,4,0,193,460,"151 Queen Street North",20071010
+031,HAMILTON CENTRE,58,0,5,11,17,2,"Hamilton",406, ,1,1,0,95,168,"Parliament Tower",20071010
+031,HAMILTON CENTRE,37,4,5,6,20,0,"Hamilton",407, ,1,0,0,73,140,"Empire Apartments",20071010
+031,HAMILTON CENTRE,36,1,11,18,26,4,"Hamilton",408, ,2,0,0,98,233,"Queen Elizabeth Apartments",20071010
+031,HAMILTON CENTRE,29,0,2,7,15,1,"Hamilton",409, ,0,0,1,55,106,"155 Market Street",20071010
+031,HAMILTON CENTRE,27,0,6,8,27,0,"Hamilton",410, ,0,0,0,68,114,"160 Market Street",20071010
+031,HAMILTON CENTRE,18,0,5,8,21,0,"Hamilton",411, ,1,0,0,53,100,"150 Market Street",20071010
+031,HAMILTON CENTRE,30,1,7,12,12,3,"Hamilton",412, ,0,0,0,65,93,"111 Market Street",20071010
+031,HAMILTON CENTRE,12,2,4,6,14,0,"Hamilton",413, ,0,0,0,38,139,"Dr. J. Edgar Davey Elementary School",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",414, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,23,0,4,5,13,0,"Hamilton",415, ,0,0,0,45,86,"145 Queen Street South",20071010
+031,HAMILTON CENTRE,33,2,8,3,17,0,"Hamilton",416, ,0,0,0,63,146,"205 Hunter Street West",20071010
+031,HAMILTON CENTRE,25,1,3,5,13,0,"Hamilton",417, ,0,0,0,47,78,"Jackson Villa Apartments",20071010
+031,HAMILTON CENTRE,19,0,6,7,14,0,"Hamilton",418, ,0,0,0,46,82,"Place Suites",20071010
+031,HAMILTON CENTRE,53,1,7,8,31,3,"Hamilton",419, ,0,0,0,103,250,"Vanier Towers",20071010
+031,HAMILTON CENTRE,45,0,17,10,19,2,"Hamilton",420, ,0,0,0,93,175,"180 Bold Street",20071010
+031,HAMILTON CENTRE,85,5,12,25,47,2,"Hamilton",421, ,1,2,0,179,322,"191 Main Street West",20071010
+031,HAMILTON CENTRE,69,0,9,5,30,1,"Hamilton",422, ,1,0,0,115,220,"181 Jackson Street West",20071010
+031,HAMILTON CENTRE,46,0,10,29,44,1,"Hamilton",423, ,1,0,0,131,226,"121 Hunter Street West",20071010
+031,HAMILTON CENTRE,24,0,1,6,23,1,"Hamilton",424, ,0,0,0,55,111,"136 Bay Street South",20071010
+031,HAMILTON CENTRE,52,0,11,11,34,3,"Hamilton",425, ,0,1,0,112,178,"100 Bay Street South",20071010
+031,HAMILTON CENTRE,16,1,3,3,12,1,"Hamilton",426, ,0,0,0,36,57,"YMCA",20071010
+031,HAMILTON CENTRE,35,2,5,11,32,2,"Hamilton",427, ,2,0,0,89,272,"100 Main Street East",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",428, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,63,5,6,7,32,3,"Hamilton",429, ,0,2,0,118,177,"226 Rebecca Street",20071010
+031,HAMILTON CENTRE,26,1,1,3,21,1,"Hamilton",430, ,0,0,0,53,109,"235 Rebecca Street",20071010
+031,HAMILTON CENTRE,29,0,1,11,17,2,"Hamilton",431, ,0,0,0,60,93,"30 West Avenue North",20071010
+031,HAMILTON CENTRE,29,1,11,12,19,2,"Hamilton",432, ,1,0,0,75,123,"165 Queen Street South",20071010
+031,HAMILTON CENTRE,47,0,10,9,22,0,"Hamilton",433, ,0,1,0,89,149,"140 Robinson Apartments",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",434, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,73,0,16,24,55,1,"Hamilton",435, ,1,0,0,170,321,"200 Bay Street South",20071010
+031,HAMILTON CENTRE,23,0,8,10,28,0,"Hamilton",436, ,1,0,0,70,135,"90 Duke Street",20071010
+031,HAMILTON CENTRE,41,0,4,9,18,2,"Hamilton",437, ,0,0,0,74,121,"75 Bold Street",20071010
+031,HAMILTON CENTRE,33,1,13,8,28,0,"Hamilton",438, ,0,0,0,83,155,"187 Park Street South",20071010
+031,HAMILTON CENTRE,129,5,10,19,57,4,"Hamilton",439, ,4,1,0,229,375,"155 Park Street South",20071010
+031,HAMILTON CENTRE,49,1,12,18,28,1,"Hamilton",440, ,0,0,0,109,162,"33 Robinson Street",20071010
+031,HAMILTON CENTRE,46,1,4,14,38,3,"Hamilton",441, ,0,0,1,107,138,"17 Robinson Street",20071010
+031,HAMILTON CENTRE,21,1,10,19,25,0,"Hamilton",442, ,1,1,0,78,118,"135 James Street South",20071010
+031,HAMILTON CENTRE,34,0,7,8,11,1,"Hamilton",443, ,1,0,0,62,110,"50 Young Street",20071010
+031,HAMILTON CENTRE,..........................NO POLL HELD........................,,,,,,"Hamilton",444, ,0,0,0,0,0,"",20071010
+031,HAMILTON CENTRE,17,3,6,3,12,1,"Hamilton",445, ,0,1,0,43,88,"23 Spring Street",20071010
+031,HAMILTON CENTRE,84,1,5,27,59,2,"Hamilton",446A, ,2,0,0,180,267,"First Place Hamilton",20071010
+031,HAMILTON CENTRE,81,0,3,20,42,6,"Hamilton",446B, ,0,2,0,154,227,"First Place Hamilton",20071010
+031,HAMILTON CENTRE,97,3,6,9,40,3,"Hamilton",447, ,3,0,0,161,248,"St. John Place",20071010
+031,HAMILTON CENTRE,27,0,8,13,24,3,"Hamilton",448, ,0,0,0,75,139,"Villa Maria Holdings",20071010
+031,HAMILTON CENTRE,29,1,5,8,18,1,"Hamilton",449, ,0,0,0,62,112,"Villa Maria Apartments",20071010
+031,HAMILTON CENTRE,53,2,12,21,16,0,"Hamilton",450, ,1,1,0,106,181,"100 Forest Avenue",20071010
+031,HAMILTON CENTRE,67,3,18,24,41,2,"Hamilton",451, ,7,0,0,162,282,"Olympia Apartments",20071010
+031,HAMILTON CENTRE,46,0,13,11,37,1,"Hamilton",452, ,0,1,0,109,187,"Oakland Square Apartments",20071010
+031,HAMILTON CENTRE,22,0,4,1,14,1,"Hamilton",453, ,0,0,1,43,105,"195 Wellington Street South",20071010
+031,HAMILTON CENTRE,34,0,8,15,18,1,"Hamilton",454, ,1,0,0,77,146,"The Arkledun",20071010
+031,HAMILTON CENTRE,47,0,2,6,21,0,"Hamilton",455, ,1,0,0,77,162,"Cumberland Gage Apartments",20071010
+031,HAMILTON CENTRE,47,0,4,6,19,0,"Hamilton",456, ,7,1,0,84,133,"Gage Park Manor",20071010
+031,HAMILTON CENTRE,30,1,11,24,49,0,"Hamilton",457, ,1,0,0,116,177,"Supreme Apartments",20071010
+031,HAMILTON CENTRE,38,0,9,19,21,5,"Hamilton",458, ,0,0,0,92,134,"55 Wendover Drive",20071010
+031,HAMILTON CENTRE,92,2,11,51,99,5,"Hamilton",459, ,0,0,0,260,501,"760 Mohawk Road West",20071010
+031,HAMILTON CENTRE,46,21,10,22,38,1,"Hamilton",460, ,4,1,4,147,190,"75 Wendover Drive",20071010
+031,HAMILTON CENTRE,29,0,2,20,33,2,"Hamilton",461, ,0,0,0,86,127,"750 Mohawk Road West",20071010
+031,HAMILTON CENTRE,25,1,5,4,16,1,"Hamilton",462, ,7,0,0,59,135,"11 Kendale Court",20071010
+031,HAMILTON CENTRE,29,1,10,7,24,1,"Hamilton",463, ,1,0,0,73,148,"21 Kendale Court",20071010
+031,HAMILTON CENTRE,593,9,120,181,370,15,"Hamilton",Advanced Polls /  ADV001, ,3,3,4,1298,0,"Returning Office / Bureau du directeur du scrutin",20071010
+031,HAMILTON CENTRE,318,4,43,234,339,9,"Hamilton",Advanced Polls /  ADV002, ,0,0,3,950,0,"St. Andrew's Church",20071010
+031,HAMILTON CENTRE,240,3,37,75,123,12,"Hamilton",Advanced Polls /  ADV003, ,3,1,0,494,0,"St. Giles United Church",20071010
+031,HAMILTON CENTRE,94,2,16,41,45,0,"Hamilton",Advanced Polls /  ADV004, ,2,0,0,200,0,"Eva Rothwell Resource Centre",20071010
+TOTALS:, ,17176,302,3610,5673,11096,550, , , , , , , , , , 

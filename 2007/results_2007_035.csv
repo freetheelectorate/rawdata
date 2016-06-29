@@ -1,0 +1,233 @@
+ED_CODE,ED_NAME,HAMPTON,HOLIDAY,LUCAS,WOOD,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+035,KENORA--RAINY RIVER,45,2,0,6,"Fort Severn",001, ,1,0,0,54,158,"Fort Severn - First Nation",20071010
+035,KENORA--RAINY RIVER,42,0,1,7,"Sachigo Lake",002, ,0,0,0,50,232,"Sachigo Lake First Nation",20071010
+035,KENORA--RAINY RIVER,70,0,0,3,"Bearskin Lake",003, ,0,0,0,73,279,"Bearskin Lake - First Nation",20071010
+035,KENORA--RAINY RIVER,95,1,2,7,"Kitchenuhmaykoosib Aaki 84",004, ,7,0,0,112,600,"Kitchenuhmaykoosib Inninuwug First Nation",20071010
+035,KENORA--RAINY RIVER,75,1,0,3,"Wapekeka 2",005, ,4,0,0,83,231,"Wapekeka 2 First Nation",20071010
+035,KENORA--RAINY RIVER,51,1,3,48,"Kasabonika Lake",006, ,0,0,0,103,288,"Kasabonika First Nation",20071010
+035,KENORA--RAINY RIVER,21,1,1,77,"Sandy Lake",007A, ,2,0,0,102,229,"Sandy Lake First Nation",20071010
+035,KENORA--RAINY RIVER,14,4,1,93,"Sandy Lake",007B, ,0,0,0,112,318,"Sandy Lake First Nation",20071010
+035,KENORA--RAINY RIVER,18,2,0,17,"Kee-Way-Win",008, ,0,0,0,37,52,"Keewaywin First Nation",20071010
+035,KENORA--RAINY RIVER,24,2,0,15,"Muskrat Dam",009, ,0,0,0,41,260,"Muskrat Dam First Nation",20071010
+035,KENORA--RAINY RIVER,78,1,2,2,"Wunnumin 2",010, ,9,8,0,100,211,"Wunnumin Lake 2 First Nation",20071010
+035,KENORA--RAINY RIVER,64,1,1,30,"Deer Lake",011, ,0,0,0,96,659,"Deer Lake - First Nation",20071010
+035,KENORA--RAINY RIVER,66,5,2,14,"Weagamow Lake 87",012, ,0,0,0,87,459,"Weagamow Lake 87 - North Caribou Lake First Nation",20071010
+035,KENORA--RAINY RIVER,112,0,0,4,"Kingfisher Lake 1",013, ,0,0,0,116,259,"Kingfisher Lake 1 - First Nation",20071010
+035,KENORA--RAINY RIVER,7,0,1,10,"North Spirit Lake",016, ,1,0,0,19,175,"North Spirit Lake First Nation",20071010
+035,KENORA--RAINY RIVER,58,3,0,11,"Summer Beaver",017, ,0,0,0,72,274,"Summer Beaver - Nibinamik First Nation",20071010
+035,KENORA--RAINY RIVER,124,2,8,23,"Webequie",018, ,2,0,0,159,311,"Webequie First Nation",20071010
+035,KENORA--RAINY RIVER,18,4,4,67,"Poplar Hill",019, ,0,0,0,93,139,"Poplar Hill First Nation",20071010
+035,KENORA--RAINY RIVER,43,1,1,5,"Lansdowne House",021, ,1,0,0,51,210,"Neskantaga First Nation",20071010
+035,KENORA--RAINY RIVER,15,3,2,8,"Pikangikum",022A, ,0,0,0,28,43,"Pikangikum Band Office",20071010
+035,KENORA--RAINY RIVER,9,1,2,7,"Pikangikum",022B, ,0,0,0,19,537,"Pikangikum Band Office",20071010
+035,KENORA--RAINY RIVER,31,1,2,33,"Cat Lake 63C",025, ,1,0,0,68,280,"Cat Lake First Nation",20071010
+035,KENORA--RAINY RIVER,140,10,19,34,"Pickle Lake",026, ,2,0,0,205,319,"Pickle Lake Community Hall",20071010
+035,KENORA--RAINY RIVER,132,16,32,100,"Red Lake",027A, ,10,0,0,290,696,"Red Lake Regional Heritage Centre",20071010
+035,KENORA--RAINY RIVER,86,15,25,47,"Red Lake",027B, ,1,1,0,175,537,"Red Lake Regional Heritage Centre",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 026 ....................,,,,"Fort Hope 64",028A, ,,,,,,"Fort Hope 64 - Eabametoong First Nation",20071010
+035,KENORA--RAINY RIVER,40,4,4,22,"Fort Hope 64",028B, ,0,1,0,71,313,"Fort Hope 64 - Eabametoong First Nation",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",029, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,96,9,8,45,"Red Lake",030, ,0,1,0,159,406,"Cochenour Community Hall",20071010
+035,KENORA--RAINY RIVER,4,3,2,5,"Red Lake",031s, ,0,0,0,14,18,"Northwood Lodge",20071010
+035,KENORA--RAINY RIVER,75,6,14,46,"Red Lake",032, ,0,1,0,142,387,"Balmertown Fire Hall",20071010
+035,KENORA--RAINY RIVER,133,5,34,80,"Red Lake",033, ,0,1,0,253,596,"Balmertown Fire Hall",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",034s, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,78,8,10,41,"Red Lake",035, ,1,0,1,139,398,"Red Lake Regional Heritage Centre",20071010
+035,KENORA--RAINY RIVER,32,5,8,15,"Ear Falls",036, ,0,0,0,60,207,"Royal Canadian Legion Branch 238",20071010
+035,KENORA--RAINY RIVER,11,0,0,20,"Slate Falls",037, ,0,0,0,31,126,"New Slate Falls First Nation",20071010
+035,KENORA--RAINY RIVER,21,0,1,12,"Osnaburgh 63A",038, ,1,0,0,35,177,"Osnaburgh 63A First Nation",20071010
+035,KENORA--RAINY RIVER,110,6,24,37,"Ear Falls",040, ,2,2,0,181,613,"Royal Canadian Legion Branch 238",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 027A ....................,,,,"Whitedog",041, ,,,,,,"Islington 29 - Wabaseemoong Ind. First Nation",20071010
+035,KENORA--RAINY RIVER,26,5,10,22,"Redditt",042, ,0,0,0,63,97,"Redditt Fire Hall",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 047 ....................,,,,"Wabauskang 21",043, ,,,,,,"Wabauskang 21 - First Nation",20071010
+035,KENORA--RAINY RIVER,9,1,4,2,"Savant Lake",044, ,0,0,0,16,33,"Contact North Office",20071010
+035,KENORA--RAINY RIVER,36,4,3,20,"English River 21",045, ,16,0,0,79,621,"Grassy Narrows",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",046, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,89,1,17,28,"Vermilion Bay",047, ,0,0,0,135,176,"Happy Go Lucky Activity Centre",20071010
+035,KENORA--RAINY RIVER,77,6,10,36,"Dryden",048, ,0,0,0,129,367,"Ukrainian Literacy Society",20071010
+035,KENORA--RAINY RIVER,10,0,1,5,"Lac Seul",049, ,0,0,0,16,16,"Lac Seul, First Nations, Whitefish Bay",20071010
+035,KENORA--RAINY RIVER,19,2,3,22,"Lac Seul",050, ,1,0,0,47,92,"Lac Seul, First Nations, Kejick Bay",20071010
+035,KENORA--RAINY RIVER,18,0,8,21,"Kenora",051, ,0,0,0,47,105,"Minaki Community Centre",20071010
+035,KENORA--RAINY RIVER,133,17,53,41,"Laclu",052, ,0,0,1,245,507,"Pellat Community Centre",20071010
+035,KENORA--RAINY RIVER,21,0,0,10,"Kenora",053, ,2,1,0,34,81,"The Dalles 38C - Ochiichagwe'Babigo'Ining Ojibway",20071010
+035,KENORA--RAINY RIVER,52,8,16,23,"Kenora",054, ,1,1,0,101,224,"Rideout Community Centre",20071010
+035,KENORA--RAINY RIVER,112,8,31,37,"Kenora",055, ,1,0,0,189,436,"Berean Bartist Church",20071010
+035,KENORA--RAINY RIVER,94,4,18,47,"Kenora",056, ,0,1,0,164,378,"Calvary Church",20071010
+035,KENORA--RAINY RIVER,89,7,24,31,"Kenora",057, ,1,1,0,153,348,"Church of Jesus Christ Latter Day Saints",20071010
+035,KENORA--RAINY RIVER,132,4,29,51,"Vermilion Bay",058, ,0,0,0,216,431,"Happy Go Lucky Activity Centre",20071010
+035,KENORA--RAINY RIVER,44,7,23,36,"Hudson",059, ,0,0,0,110,169,"Lost Lake Drop-In Centre",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",060, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,83,8,3,16,"Sioux Lookout",061, ,0,0,0,110,269,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,50,7,16,29,"Sioux Lookout",062, ,0,0,8,110,305,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,56,6,8,17,"Sioux Lookout",063, ,1,0,1,89,266,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",064s, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,47,4,10,27,"Sioux Lookout",065, ,1,0,0,89,277,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 062 ....................,,,,"Sioux Lookout",066s, ,,,,,,"William A. George Extended Care",20071010
+035,KENORA--RAINY RIVER,84,5,10,33,"Sioux Lookout",067, ,0,0,0,132,421,"Patricia Plaza",20071010
+035,KENORA--RAINY RIVER,64,2,6,16,"Sioux Lookout",068, ,0,0,0,88,240,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,52,6,4,37,"Sioux Lookout",069, ,1,0,0,100,351,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,196,14,41,69,"Sioux Lookout",070, ,1,0,2,323,1036,"Royal Canadian Legion Branch 78",20071010
+035,KENORA--RAINY RIVER,0,0,0,0,"Savant Lake",071, ,0,0,0,0,3,"Contact North Office",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 074 ....................,,,,"Kejick",072, ,,,,,,"Shoal Lake #40 Medical Centre",20071010
+035,KENORA--RAINY RIVER,28,5,2,20,"Shoal Lake 39",074, ,0,0,0,55,247,"Shoal Lake First Nation #39",20071010
+035,KENORA--RAINY RIVER,15,0,10,13,"Kenora",075, ,0,0,0,38,54,"Clearwater Bay Fire Hall",20071010
+035,KENORA--RAINY RIVER,29,0,22,19,"Keewatin",076, ,0,0,0,70,110,"St. Louis Catholic School",20071010
+035,KENORA--RAINY RIVER,24,3,5,6,"Keewatin",077, ,0,0,0,38,133,"Washagamis Bay Rat Portage 38A",20071010
+035,KENORA--RAINY RIVER,93,7,24,40,"Keewatin",078, ,0,0,0,164,359,"St. Louis Catholic School",20071010
+035,KENORA--RAINY RIVER,50,3,30,53,"Keewatin",079, ,0,0,0,136,265,"St. Louis Catholic School",20071010
+035,KENORA--RAINY RIVER,63,10,16,32,"Keewatin",080, ,1,0,0,122,274,"St. Louis Catholic School",20071010
+035,KENORA--RAINY RIVER,84,11,19,49,"Kenora",081, ,0,0,0,163,328,"Maples Senior Apartments",20071010
+035,KENORA--RAINY RIVER,80,5,9,37,"Keewatin",082, ,0,0,0,131,254,"Bay Terrace Senior Building",20071010
+035,KENORA--RAINY RIVER,78,17,16,40,"Kenora",083, ,2,0,0,153,321,"Keewatin Patricia School Board",20071010
+035,KENORA--RAINY RIVER,75,5,16,38,"Kenora",084, ,1,0,0,135,306,"Southward Villa",20071010
+035,KENORA--RAINY RIVER,43,4,23,25,"Kenora",085, ,0,0,0,95,267,"Super 8 Motel",20071010
+035,KENORA--RAINY RIVER,25,0,5,16,"Kenora",086s, ,1,0,1,48,93,"Birchwood Terrace Nursing Home",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",087s, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,131,14,15,39,"Kenora",088, ,0,1,0,200,521,"Rideout Community Centre",20071010
+035,KENORA--RAINY RIVER,89,3,11,19,"Kenora",089, ,1,2,1,126,360,"Rideout Community Centre",20071010
+035,KENORA--RAINY RIVER,71,6,18,47,"Kenora",090, ,0,1,0,143,342,"Southward Villa",20071010
+035,KENORA--RAINY RIVER,47,4,21,46,"Kenora",091, ,0,0,0,118,225,"Benedickson Court",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",092s, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,78,12,21,51,"Kenora",093, ,1,1,0,164,384,"Gardner House Seniors Apartments",20071010
+035,KENORA--RAINY RIVER,69,4,21,30,"Kenora",094, ,1,2,0,127,346,"King George VI School",20071010
+035,KENORA--RAINY RIVER,62,7,20,39,"Kenora",095, ,0,0,0,128,342,"King George VI School",20071010
+035,KENORA--RAINY RIVER,48,5,12,35,"Kenora",096, ,1,1,0,102,293,"Evergreen Public School",20071010
+035,KENORA--RAINY RIVER,46,2,12,34,"Kenora",097, ,0,1,0,95,169,"Parkview Senior Apartments",20071010
+035,KENORA--RAINY RIVER,71,4,21,25,"Kenora",098, ,0,0,0,121,338,"Rideout Community Centre",20071010
+035,KENORA--RAINY RIVER,98,3,24,37,"Kenora",099, ,0,1,0,163,317,"Water of Life Family Church",20071010
+035,KENORA--RAINY RIVER,81,3,11,33,"Kenora",100, ,0,0,0,128,286,"Evergreen Public School",20071010
+035,KENORA--RAINY RIVER,48,5,22,38,"Kenora",101, ,1,0,0,114,247,"Confederation College",20071010
+035,KENORA--RAINY RIVER,52,1,14,34,"Kenora",102, ,0,1,0,102,226,"Kenora Comfort Inn",20071010
+035,KENORA--RAINY RIVER,46,1,9,21,"Kenora",103, ,0,0,0,77,254,"Water of Life Family Church",20071010
+035,KENORA--RAINY RIVER,85,5,20,42,"Kenora",104, ,0,0,0,152,345,"Parkview Senior Apartments",20071010
+035,KENORA--RAINY RIVER,37,5,7,13,"Kenora",105, ,0,0,0,62,226,"École Ste. Marguerite Bourgeoys Catholic School",20071010
+035,KENORA--RAINY RIVER,24,1,4,13,"Kenora",106s, ,0,0,0,42,110,"Pinecrest Home for the Aged",20071010
+035,KENORA--RAINY RIVER,76,5,27,50,"Kenora",107, ,0,0,0,158,374,"École Ste. Marguerite Bourgeoys Catholic School",20071010
+035,KENORA--RAINY RIVER,53,2,19,17,"Kenora",108, ,0,1,0,92,227,"Valleyview School",20071010
+035,KENORA--RAINY RIVER,18,2,1,9,"Kenora",109, ,0,0,0,30,82,"Calvary Church",20071010
+035,KENORA--RAINY RIVER,121,3,26,67,"Kenora",110, ,0,0,0,217,426,"Valleyview School",20071010
+035,KENORA--RAINY RIVER,23,1,1,9,"Kenora",111, ,0,0,0,34,102,"Wauzhushak Omigum Nation Rat Portage 38B",20071010
+035,KENORA--RAINY RIVER,28,2,16,26,"Kenora",112, ,0,0,0,72,186,"Confederation College",20071010
+035,KENORA--RAINY RIVER,93,4,31,24,"Kenora",113, ,1,1,0,154,297,"Church of Jesus Christ Latter Day Saints",20071010
+035,KENORA--RAINY RIVER,40,3,11,11,"Kenora",114, ,0,0,0,65,99,"Kenora Fire Station # 4",20071010
+035,KENORA--RAINY RIVER,73,14,19,22,"Kenora",115, ,0,0,0,128,174,"Redden's Laundromat",20071010
+035,KENORA--RAINY RIVER,25,2,10,10,"Kenora",116, ,1,0,0,48,82,"Kenora Fire Station # 4",20071010
+035,KENORA--RAINY RIVER,37,1,9,10,"Oxdrift",117, ,0,0,0,57,152,"Oxdrift Community Hall",20071010
+035,KENORA--RAINY RIVER,31,1,0,6,"Migisi Sahgaigan",118, ,0,0,0,38,38,"Eagle Lake First Nation Community Hall",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",119, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,79,2,26,26,"Oxdrift",120A, ,0,0,0,133,340,"Oxdrift Community Hall",20071010
+035,KENORA--RAINY RIVER,111,7,19,44,"Oxdrift",120B, ,0,0,0,181,404,"Oxdrift Community Hall",20071010
+035,KENORA--RAINY RIVER,76,8,13,49,"Dryden",121, ,0,0,0,146,330,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,72,6,6,33,"Dryden",122, ,1,1,0,119,300,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",123, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,67,0,8,61,"Dryden",124, ,0,0,0,136,249,"330 Van Horne Senior Citizens Apartments",20071010
+035,KENORA--RAINY RIVER,72,5,16,39,"Dryden",125, ,0,0,0,132,323,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,85,9,6,77,"Dryden",126, ,2,0,0,179,356,"10 Victoria Senior Citizens Apartments",20071010
+035,KENORA--RAINY RIVER,78,3,10,52,"Dryden",127, ,0,0,0,143,266,"10 Victoria Senior Citizens Apartments",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",128s, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,99,2,11,38,"Dryden",129, ,0,0,0,150,379,"Ukrainian Literacy Society",20071010
+035,KENORA--RAINY RIVER,98,4,4,42,"Dryden",130, ,0,0,0,148,317,"Dryden Go Getters Activity Centre",20071010
+035,KENORA--RAINY RIVER,21,0,5,9,"Dryden",131s, ,0,0,0,35,76,"Princess Court Nursing Home",20071010
+035,KENORA--RAINY RIVER,72,4,14,60,"Dryden",132, ,0,0,0,150,354,"St. Joseph's Separate School",20071010
+035,KENORA--RAINY RIVER,61,3,8,36,"Dryden",133, ,0,0,0,108,256,"St. Joseph's Separate School",20071010
+035,KENORA--RAINY RIVER,89,3,12,60,"Dryden",134, ,1,0,0,165,369,"St. Joseph's Separate School",20071010
+035,KENORA--RAINY RIVER,94,5,11,59,"Dryden",135, ,0,0,0,169,328,"Dryden Go Getters Activity Centre",20071010
+035,KENORA--RAINY RIVER,64,5,8,53,"Dryden",136, ,0,0,0,130,319,"Patricia Gardens Supportive Housing",20071010
+035,KENORA--RAINY RIVER,103,4,13,52,"Dryden",137, ,0,0,0,172,321,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,62,1,6,35,"Dryden",138, ,0,0,0,104,294,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,102,1,15,42,"Dryden",139, ,1,0,0,161,352,"Ukrainian Literacy Society",20071010
+035,KENORA--RAINY RIVER,60,4,13,39,"Dryden",140, ,0,0,0,116,259,"St. Joseph's Separate School",20071010
+035,KENORA--RAINY RIVER,54,1,8,24,"Dryden",142, ,0,0,0,87,258,"Dryden Recreation Complex",20071010
+035,KENORA--RAINY RIVER,74,3,7,65,"Dryden",144, ,2,0,0,151,307,"Holiday Inn Express",20071010
+035,KENORA--RAINY RIVER,56,1,10,31,"Dryden",145, ,0,2,0,100,182,"Barclay Community Hall",20071010
+035,KENORA--RAINY RIVER,59,4,18,32,"Dryden",146, ,0,0,0,113,253,"Holiday Inn Express",20071010
+035,KENORA--RAINY RIVER,66,5,10,36,"Dryden",147, ,2,0,0,119,244,"Holiday Inn Express",20071010
+035,KENORA--RAINY RIVER,3,0,0,3,"Northwest Angle 33B",148, ,0,0,0,6,138,"Northwest Angle 33B First Nation (Angle Inlet)",20071010
+035,KENORA--RAINY RIVER,0,0,0,0,"Kenora",150, ,0,0,0,0,13,"King George VI School",20071010
+035,KENORA--RAINY RIVER,70,3,9,32,"Oxdrift",151, ,0,0,0,114,356,"Oxdrift Community Hall",20071010
+035,KENORA--RAINY RIVER,31,1,0,11,"Wabigoon Lake 27",152, ,0,0,0,43,389,"Wabigoon Lake First Nation",20071010
+035,KENORA--RAINY RIVER,174,13,34,57,"Dryden",153, ,0,0,0,278,474,"Barclay Community Hall",20071010
+035,KENORA--RAINY RIVER,46,3,24,35,"Sioux Narrows - Nestor Falls",155, ,0,0,0,108,141,"Sioux Narrows Community Hall",20071010
+035,KENORA--RAINY RIVER,41,1,1,18,"Whitefish Bay 34A",157, ,0,0,0,61,370,"Whitefish Bay First Nation",20071010
+035,KENORA--RAINY RIVER,6,0,1,1,"Sioux Narrows",158, ,0,0,0,8,9,"Northwest Angle 33 (Dog Paw)",20071010
+035,KENORA--RAINY RIVER,28,1,14,16,"Ignace",161, ,0,0,0,59,129,"Royal Canadian Legion Branch 168",20071010
+035,KENORA--RAINY RIVER,29,1,18,8,"Morson",162, ,0,0,0,56,79,"Morson Community Hall",20071010
+035,KENORA--RAINY RIVER,12,0,0,0,"Morson",163, ,2,0,0,14,119,"Big Grassy First Nation",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 162 ....................,,,,"Morson",164, ,,,,,,"Band Office - Anishaninabe Of Naongashiing",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",165, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,47,2,23,20,"Sioux Narrows - Nestor Falls",166, ,1,0,0,93,224,"Nestor Falls Community Hall",20071010
+035,KENORA--RAINY RIVER,52,3,0,3,"Sabaskong Bay 35D",167, ,0,0,0,58,155,"Ojibways of Onegaming First Nation",20071010
+035,KENORA--RAINY RIVER,5,0,1,2,"Fort Frances",168, ,0,0,0,8,51,"Halkirk Fire Hall",20071010
+035,KENORA--RAINY RIVER,71,1,3,23,"Ignace",169, ,0,0,0,98,237,"Ignace Silver Tops",20071010
+035,KENORA--RAINY RIVER,200,8,13,28,"Ignace",170, ,0,1,0,250,669,"Ignace Silver Tops",20071010
+035,KENORA--RAINY RIVER,44,3,15,15,"Sleeman",171, ,1,0,0,78,161,"Bergland Community Hall",20071010
+035,KENORA--RAINY RIVER,28,0,4,10,"Stratton",172, ,0,0,0,42,197,"Stratton Friendship Centre",20071010
+035,KENORA--RAINY RIVER,82,0,0,4,"Devlin",173, ,0,0,0,86,133,"Dance Hall",20071010
+035,KENORA--RAINY RIVER,26,1,0,2,"Fort Frances",174, ,0,0,0,29,78,"Elizabeth Manor Seniors Apartments",20071010
+035,KENORA--RAINY RIVER,20,0,5,6,"Rainy River",175, ,0,0,0,31,123,"Rainy River Community Centre",20071010
+035,KENORA--RAINY RIVER,40,3,14,11,"Rainy River",176, ,0,0,0,68,119,"Rainy River Community Centre",20071010
+035,KENORA--RAINY RIVER,6,0,0,3,"Rainy River",177s, ,0,0,0,9,15,"Rainy River Health Centre",20071010
+035,KENORA--RAINY RIVER,127,4,33,31,"Rainy River",178, ,0,0,0,195,559,"Rainy River Community Centre",20071010
+035,KENORA--RAINY RIVER,20,1,14,3,"Rainy River",179, ,0,0,0,38,67,"Rainy River Community Centre",20071010
+035,KENORA--RAINY RIVER,57,2,11,3,"Dawson",180, ,0,0,0,73,138,"Pinewood Community Centre",20071010
+035,KENORA--RAINY RIVER,78,6,44,28,"Stratton",181, ,0,2,0,158,278,"Stratton Friendship Centre",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 181 ....................,,,,"Stratton",182, ,,,,,,"Stratton Friendship Centre",20071010
+035,KENORA--RAINY RIVER,70,3,20,11,"Barwick",183, ,0,0,0,104,241,"Chapple Municipal Office",20071010
+035,KENORA--RAINY RIVER,35,4,12,10,"Emo",184, ,0,0,0,61,91,"Halverson Residence",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 173 ....................,,,,"Devlin",185, ,,,,,,"Band Office - Naicatchewenin First Nation",20071010
+035,KENORA--RAINY RIVER,84,5,17,14,"Devlin",186, ,0,0,0,120,277,"Devlin Community Center",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 174 ....................,,,,"Fort Frances",187, ,,,,,,"Band Office - Stanjikoming First Nation",20071010
+035,KENORA--RAINY RIVER,0,0,0,0,"Mine Centre",188, ,0,0,0,0,7,"Mine Centre School",20071010
+035,KENORA--RAINY RIVER,31,0,0,0,"Emo",189, ,5,0,0,36,76,"Rainy River First Nation",20071010
+035,KENORA--RAINY RIVER,80,7,19,15,"Emo",190, ,8,1,0,130,229,"Knox United Church",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",191s, ,0,0,0,0,1,"",20071010
+035,KENORA--RAINY RIVER,89,4,37,9,"Emo",192, ,0,0,0,139,267,"Knox United Church",20071010
+035,KENORA--RAINY RIVER,107,7,83,24,"Emo",193, ,0,0,0,221,417,"Knox United Church",20071010
+035,KENORA--RAINY RIVER,37,0,7,9,"Devlin",194, ,0,0,0,53,126,"McKinnon Residence",20071010
+035,KENORA--RAINY RIVER,136,2,26,22,"Devlin",195, ,0,0,0,186,334,"Devlin Community Center",20071010
+035,KENORA--RAINY RIVER,104,11,20,15,"Fort Frances",196, ,0,0,0,150,230,"Alberton Municipal Office",20071010
+035,KENORA--RAINY RIVER,114,5,27,23,"Fort Frances",197, ,0,0,1,170,411,"Alberton Municipal Office",20071010
+035,KENORA--RAINY RIVER,123,7,22,34,"Fort Frances",198, ,2,0,0,188,390,"St. Francis Catholic School",20071010
+035,KENORA--RAINY RIVER,109,0,19,17,"Fort Frances",199, ,1,0,0,146,309,"St. Francis Catholic School",20071010
+035,KENORA--RAINY RIVER,75,0,8,8,"Fort Frances",200, ,0,0,0,91,250,"Sunset Country Ford",20071010
+035,KENORA--RAINY RIVER,113,6,12,32,"Fort Frances",201, ,0,1,0,164,372,"Confederation College Fort Frances",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",202, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,113,2,11,19,"Fort Frances",203, ,0,0,1,146,297,"Confederation College Fort Frances",20071010
+035,KENORA--RAINY RIVER,77,2,9,15,"Fort Frances",204, ,0,0,0,103,256,"Confederation College Fort Frances",20071010
+035,KENORA--RAINY RIVER,45,4,6,9,"Fort Frances",205, ,0,0,0,64,206,"Sister Kennedy Centre",20071010
+035,KENORA--RAINY RIVER,99,0,6,18,"Fort Frances",206, ,1,0,0,124,260,"Sunset Country Ford",20071010
+035,KENORA--RAINY RIVER,104,1,13,19,"Fort Frances",207, ,1,1,0,139,304,"Sister Kennedy Centre",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 207 ....................,,,,"Fort Frances",208s, ,,,,,,"La Verendrye Hospital",20071010
+035,KENORA--RAINY RIVER,90,3,11,20,"Fort Frances",209, ,1,0,0,125,297,"Robert Moore Elementary School",20071010
+035,KENORA--RAINY RIVER,105,1,10,20,"Fort Frances",210, ,0,1,0,137,325,"Robert Moore Elementary School",20071010
+035,KENORA--RAINY RIVER,22,0,5,9,"Fort Frances",211s, ,1,0,0,37,152,"Rainy Crest Home for the Aged",20071010
+035,KENORA--RAINY RIVER,84,0,7,18,"Fort Frances",212, ,1,0,0,110,305,"Sunset Country Ford",20071010
+035,KENORA--RAINY RIVER,100,2,15,29,"Fort Frances",213, ,0,0,0,146,337,"Fort Frances Sportsplex",20071010
+035,KENORA--RAINY RIVER,128,1,19,34,"Fort Frances",214, ,0,2,0,184,369,"Fort Frances Sportsplex",20071010
+035,KENORA--RAINY RIVER,144,2,25,62,"Fort Frances",215, ,0,1,1,235,439,"Green Manor Seniors Apartments",20071010
+035,KENORA--RAINY RIVER,141,2,9,19,"Fort Frances",216, ,0,0,0,171,361,"Fort Frances Sportsplex",20071010
+035,KENORA--RAINY RIVER,93,1,8,10,"Fort Frances",217, ,0,0,0,112,371,"Fort Frances Sportsplex",20071010
+035,KENORA--RAINY RIVER,183,3,9,43,"Fort Frances",218, ,0,0,0,238,586,"Elizabeth Manor Seniors Apartments",20071010
+035,KENORA--RAINY RIVER,135,0,0,19,"Fort Frances",219, ,0,1,0,155,408,"Couchiching 16A First Nation",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",220, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,82,5,10,22,"Fort Frances",221, ,1,0,0,120,161,"Great Bear Store",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",222, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,49,0,3,6,"Fort Frances",223, ,0,0,0,58,96,"Halkirk Fire Hall",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 223 ....................,,,,"Fort Frances",224, ,,,,,,"Halkirk Fire Hall",20071010
+035,KENORA--RAINY RIVER,......................COMBINED WITH POLL 227 ....................,,,,"Fort Frances",225, ,,,,,,"Halkirk Fire Hall",20071010
+035,KENORA--RAINY RIVER,58,5,5,4,"Mine Centre",226, ,10,0,0,82,171,"Seine River 23A First Nation",20071010
+035,KENORA--RAINY RIVER,15,1,5,7,"Mine Centre",227, ,0,0,0,28,69,"Mine Centre School",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Fort Frances",228, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",229, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,..........................NO POLL HELD........................,,,,"Kenora",400, ,0,0,0,0,0,"",20071010
+035,KENORA--RAINY RIVER,402,22,182,208,"Kenora",Advanced Polls /  ADV001, ,1,4,1,820,0,"Returning Office / Bureau du directeur du scrutin",20071010
+035,KENORA--RAINY RIVER,43,1,11,14,"Red Lake",Advanced Polls /  ADV002, ,0,0,0,69,0,"Cochenour Community Hall",20071010
+035,KENORA--RAINY RIVER,62,6,24,33,"Ear Falls",Advanced Polls /  ADV003, ,2,0,0,127,0,"Ear Falls Municipal Office",20071010
+035,KENORA--RAINY RIVER,89,2,21,12,"Rainy River",Advanced Polls /  ADV004, ,0,0,1,125,0,"Old Municipal Hall",20071010
+035,KENORA--RAINY RIVER,65,5,11,16,"Ignace",Advanced Polls /  ADV005, ,0,0,0,97,0,"Ignace Public Library",20071010
+035,KENORA--RAINY RIVER,161,20,56,57,"Sioux Lookout",Advanced Polls /  ADV006, ,0,1,0,295,0,"Knights of Columbus",20071010
+035,KENORA--RAINY RIVER,75,1,24,7,"Emo",Advanced Polls /  ADV007, ,0,0,0,107,0,"Knox United Church",20071010
+035,KENORA--RAINY RIVER,360,8,63,245,"Dryden",Advanced Polls /  ADV008, ,0,0,0,676,0,"Dryden Satellite Office / Bureau satellite",20071010
+035,KENORA--RAINY RIVER,89,4,16,58,"Red Lake",Advanced Polls /  ADV009, ,0,1,0,168,0,"Red Lake Satellite Office / Bureau satellite",20071010
+035,KENORA--RAINY RIVER,425,13,64,75,"Fort Frances",Advanced Polls /  ADV010, ,2,0,0,579,0,"Fort Frances Satellite Office / Bureau satellite",20071010
+TOTALS:, ,14281,769,2757,5752, , , , , , , , , , 

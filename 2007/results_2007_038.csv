@@ -1,0 +1,257 @@
+ED_CODE,ED_NAME,CAIRNS,DRIVER,HARRIS,JONES,PENDERGAST,SOLOMON,STEVENS,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+038,KITCHENER--CONESTOGA,4,0,73,12,40,7,0,"Floradale",001, ,0,1,0,137,364,"Floradale Public School",20071010
+038,KITCHENER--CONESTOGA,8,1,86,11,73,1,0,"Elmira",002, ,1,0,0,181,513,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,15,0,42,4,58,1,2,"Linwood",003, ,0,0,0,122,396,"Linwood Public School",20071010
+038,KITCHENER--CONESTOGA,21,0,57,6,53,0,0,"Elmira",004, ,0,1,0,138,294,"St. Theresa Separate School",20071010
+038,KITCHENER--CONESTOGA,21,0,74,8,77,3,0,"Elmira",005, ,0,2,0,185,345,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,19,1,81,12,65,3,2,"Elmira",006, ,0,1,0,184,354,"St. James Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,16,0,70,6,69,2,0,"Elmira",007, ,0,0,0,163,304,"John Mahood Public School",20071010
+038,KITCHENER--CONESTOGA,4,1,26,1,26,0,0,"Elmira",008s, ,0,0,1,59,123,"Chateau Gardens Nursing Home",20071010
+038,KITCHENER--CONESTOGA,36,1,58,17,95,2,0,"Elmira",009, ,0,1,1,211,366,"St. James Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,14,0,50,4,59,1,0,"Elmira",010, ,1,0,0,129,246,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,14,0,44,15,45,2,1,"Elmira",011, ,0,1,1,123,324,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,26,0,50,16,59,1,1,"Elmira",012, ,1,0,0,154,299,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,16,0,96,13,75,1,0,"Elmira",013, ,0,0,0,201,383,"Park Manor Public School",20071010
+038,KITCHENER--CONESTOGA,1,1,8,0,11,0,1,"Elmira",014s, ,0,0,0,22,83,"Leisureworld Caregiving Centre",20071010
+038,KITCHENER--CONESTOGA,14,1,77,18,78,1,1,"Elmira",015, ,1,0,0,191,378,"St. Theresa Separate School",20071010
+038,KITCHENER--CONESTOGA,21,1,85,11,54,1,0,"Elmira",016, ,0,0,0,173,362,"Park Manor Public School",20071010
+038,KITCHENER--CONESTOGA,20,0,58,5,70,8,0,"Elmira",017, ,0,0,0,161,306,"St. Theresa Separate School",20071010
+038,KITCHENER--CONESTOGA,15,1,79,18,94,4,0,"Elmira",018, ,0,0,0,211,416,"Park Manor Public School",20071010
+038,KITCHENER--CONESTOGA,18,0,65,8,71,2,3,"Elmira",019, ,0,0,0,167,386,"St. Theresa Separate School",20071010
+038,KITCHENER--CONESTOGA,11,0,77,7,63,0,2,"Elmira",020, ,0,0,0,160,301,"John Mahood Public School",20071010
+038,KITCHENER--CONESTOGA,9,0,121,11,118,4,0,"Elmira",021, ,0,2,0,265,460,"John Mahood Public School",20071010
+038,KITCHENER--CONESTOGA,14,0,69,10,83,3,0,"Elmira",022, ,4,0,0,183,345,"John Mahood Public School",20071010
+038,KITCHENER--CONESTOGA,17,0,61,22,68,3,2,"Elmira",023, ,0,0,0,173,353,"Riverside Public School",20071010
+038,KITCHENER--CONESTOGA,1,0,7,2,11,3,0,"Linwood",024, ,0,0,0,24,362,"Linwood Public School",20071010
+038,KITCHENER--CONESTOGA,11,0,76,5,79,1,0,"Elmira",025, ,0,1,0,173,371,"Park Manor Public School",20071010
+038,KITCHENER--CONESTOGA,24,0,142,21,122,1,2,"Winterbourne",026, ,0,0,1,313,592,"Foundation Christian School",20071010
+038,KITCHENER--CONESTOGA,11,1,64,12,90,1,1,"Linwood",027, ,0,0,0,180,558,"Linwood Public School",20071010
+038,KITCHENER--CONESTOGA,3,0,87,1,27,3,0,"Hawkesville",028, ,1,0,0,122,329,"Hawkesville Community Centre",20071010
+038,KITCHENER--CONESTOGA,0,0,5,0,2,0,0,"St. Jacobs",029, ,0,0,0,7,131,"Three Bridges Public School",20071010
+038,KITCHENER--CONESTOGA,5,0,44,5,47,3,0,"Conestogo",030, ,4,1,0,109,246,"Conestogo Public School",20071010
+038,KITCHENER--CONESTOGA,22,0,93,19,102,5,0,"St. Jacobs",031, ,1,1,0,243,495,"St. Jacobs Public School",20071010
+038,KITCHENER--CONESTOGA,19,0,113,11,107,4,0,"Conestogo",032, ,0,0,0,254,427,"Conestogo Public School",20071010
+038,KITCHENER--CONESTOGA,23,0,91,13,95,3,2,"Maryhill",033, ,0,0,0,227,392,"Maryhill Fire Hall",20071010
+038,KITCHENER--CONESTOGA,0,0,1,1,7,0,0,"Maryhill",034s, ,0,0,0,9,38,"Twin Oaks of Maryhill",20071010
+038,KITCHENER--CONESTOGA,..........................NO POLL HELD........................,,,,,,,"Maryhill",035s, ,0,0,0,0,0,"",20071010
+038,KITCHENER--CONESTOGA,2,0,9,1,11,1,0,"St. Jacobs",036s, ,0,1,0,25,41,"St. Jacobs Place",20071010
+038,KITCHENER--CONESTOGA,27,3,138,24,169,4,1,"St. Jacobs",037, ,1,1,0,368,622,"St. Jacobs Public School",20071010
+038,KITCHENER--CONESTOGA,5,0,44,0,16,0,0,"St. Jacobs",038s, ,0,0,2,67,84,"Valleyview Manor",20071010
+038,KITCHENER--CONESTOGA,2,1,11,1,16,1,0,"St. Jacobs",039s, ,2,0,0,34,70,"Derbecker's Heritage House",20071010
+038,KITCHENER--CONESTOGA,16,1,120,22,129,4,2,"Conestogo",040, ,9,0,0,303,573,"Conestogo Public School",20071010
+038,KITCHENER--CONESTOGA,20,2,114,11,124,2,0,"St. Clements",041, ,6,1,0,280,522,"St. Clements Community Centre",20071010
+038,KITCHENER--CONESTOGA,25,0,70,16,92,2,0,"St. Clements",042, ,0,1,0,206,425,"St. Clements Community Centre",20071010
+038,KITCHENER--CONESTOGA,20,0,111,23,128,4,0,"Heidelberg",043, ,0,0,0,286,458,"St. Peter's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,13,0,55,10,42,0,0,"Heidelberg",044, ,0,0,0,120,346,"St. Peter's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,16,2,57,8,48,6,0,"St. Jacobs",045, ,2,1,0,140,269,"St. Jacobs Public School",20071010
+038,KITCHENER--CONESTOGA,..........................NO POLL HELD........................,,,,,,,"Bloomingdale",046s, ,0,0,0,0,0,"",20071010
+038,KITCHENER--CONESTOGA,20,4,104,13,114,3,2,"Maryhill",047, ,2,0,0,262,452,"Maryhill Fire Hall",20071010
+038,KITCHENER--CONESTOGA,4,0,48,3,22,1,0,"Wellesley",048, ,0,0,0,78,470,"Wellesley Public School",20071010
+038,KITCHENER--CONESTOGA,8,0,79,6,75,3,3,"St. Clements",049, ,0,0,0,174,429,"St. Clements Community Centre",20071010
+038,KITCHENER--CONESTOGA,27,2,101,10,107,4,0,"St. Clements",050, ,3,0,0,254,479,"St. Clements Community Centre",20071010
+038,KITCHENER--CONESTOGA,25,0,100,28,92,9,3,"Bloomingdale",051, ,0,1,0,258,437,"Bloomingdale Mennonite Church",20071010
+038,KITCHENER--CONESTOGA,7,0,65,8,39,1,0,"Wellesley",052, ,0,3,0,123,335,"Wellesley Public School",20071010
+038,KITCHENER--CONESTOGA,23,0,102,15,89,8,2,"Wellesley",053, ,3,3,0,245,405,"Wellesley Public School",20071010
+038,KITCHENER--CONESTOGA,12,0,56,14,69,2,1,"Breslau",054, ,0,1,0,155,316,"Breslau Public School",20071010
+038,KITCHENER--CONESTOGA,30,0,101,14,77,1,4,"Breslau",055, ,0,0,0,227,466,"Breslau Public School",20071010
+038,KITCHENER--CONESTOGA,9,1,98,14,77,1,0,"Wellesley",056, ,3,0,0,203,433,"Wellesley Community Centre",20071010
+038,KITCHENER--CONESTOGA,7,1,78,11,74,4,2,"Wellesley",057, ,0,1,0,178,345,"Wellesley Public School",20071010
+038,KITCHENER--CONESTOGA,24,1,98,23,111,4,1,"Wellesley",058, ,1,2,0,265,532,"Wellesley Community Centre",20071010
+038,KITCHENER--CONESTOGA,8,0,76,20,85,5,0,"St. Agatha",059, ,0,0,0,194,362,"St. Agatha Community Centre",20071010
+038,KITCHENER--CONESTOGA,23,0,85,22,81,1,0,"St. Agatha",060, ,1,0,0,213,389,"St. Agatha Community Centre",20071010
+038,KITCHENER--CONESTOGA,27,0,33,6,42,0,3,"Kitchener",061, ,1,0,0,112,245,"Kingsdale Community Centre",20071010
+038,KITCHENER--CONESTOGA,8,0,14,10,34,1,0,"Kitchener",062, ,2,0,0,69,248,"Kingsdale Community Centre",20071010
+038,KITCHENER--CONESTOGA,28,0,34,7,49,0,1,"Kitchener",063, ,1,0,0,120,270,"Kingsdale Community Centre",20071010
+038,KITCHENER--CONESTOGA,21,1,22,4,37,2,1,"Kitchener",064, ,3,0,0,91,284,"Kingsdale Community Centre",20071010
+038,KITCHENER--CONESTOGA,29,0,57,10,60,5,2,"Kitchener",065, ,0,0,0,163,368,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,17,1,39,2,71,2,4,"Kitchener",066s, ,0,1,0,137,290,"Trinity Village Care Centre",20071010
+038,KITCHENER--CONESTOGA,7,0,55,21,72,1,0,"New Hamburg",067, ,0,1,0,157,315,"Region of Waterloo Library Headquarters",20071010
+038,KITCHENER--CONESTOGA,15,0,76,7,39,6,1,"St. Agatha",068, ,1,0,0,145,261,"St. Agatha Community Centre",20071010
+038,KITCHENER--CONESTOGA,14,1,17,7,29,5,0,"Kitchener",069, ,0,0,0,73,288,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,19,0,68,15,53,3,1,"Kitchener",070, ,3,0,0,162,438,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,10,0,11,5,30,0,1,"Kitchener",071, ,0,0,0,57,184,"Chandler Mowat Community Centre",20071010
+038,KITCHENER--CONESTOGA,16,5,27,9,24,2,2,"Kitchener",072, ,0,1,0,86,248,"Chandler Mowat Community Centre",20071010
+038,KITCHENER--CONESTOGA,30,2,68,15,71,2,1,"Kitchener",073, ,0,0,1,190,415,"Trillium Public School",20071010
+038,KITCHENER--CONESTOGA,18,0,24,6,35,0,2,"Kitchener",074, ,0,0,1,86,296,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,10,0,10,3,42,0,1,"Kitchener",075, ,0,1,0,67,193,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,9,0,6,4,21,0,0,"Kitchener",076, ,0,0,0,40,186,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,27,1,59,19,70,1,0,"Kitchener",077, ,1,0,0,178,450,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,15,1,42,5,89,3,1,"Kitchener",078, ,0,1,0,157,336,"Alpine Public School",20071010
+038,KITCHENER--CONESTOGA,26,1,79,25,90,6,0,"Kitchener",079, ,1,1,0,229,438,"Alpine Public School",20071010
+038,KITCHENER--CONESTOGA,8,0,27,5,47,0,0,"Kitchener",080, ,1,0,0,88,158,"Alpine Public School",20071010
+038,KITCHENER--CONESTOGA,32,0,39,15,45,3,1,"Kitchener",081, ,1,1,0,137,289,"Our Lady of Grace Separate School",20071010
+038,KITCHENER--CONESTOGA,28,1,42,3,45,0,0,"Kitchener",082, ,0,0,0,119,306,"Our Lady of Grace Separate School",20071010
+038,KITCHENER--CONESTOGA,31,2,42,9,26,0,3,"Kitchener",083, ,1,1,1,116,340,"Our Lady of Grace Separate School",20071010
+038,KITCHENER--CONESTOGA,15,1,20,5,34,1,2,"Kitchener",084, ,0,0,1,79,284,"Our Lady of Grace Separate School",20071010
+038,KITCHENER--CONESTOGA,19,0,42,15,93,10,3,"Kitchener",085, ,4,2,0,188,386,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,25,1,43,2,62,3,1,"Kitchener",086, ,3,0,0,140,361,"Rockway Public School",20071010
+038,KITCHENER--CONESTOGA,14,0,24,7,50,2,2,"Kitchener",087, ,0,1,0,100,289,"Rockway Public School",20071010
+038,KITCHENER--CONESTOGA,39,0,61,21,98,2,1,"Kitchener",088, ,1,0,1,224,415,"Rockway Public School",20071010
+038,KITCHENER--CONESTOGA,35,1,43,10,44,2,1,"Kitchener",089, ,3,2,0,141,341,"Wilson Avenue Public School",20071010
+038,KITCHENER--CONESTOGA,8,0,2,2,7,0,0,"Kitchener",090, ,0,0,0,19,102,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,22,0,29,7,44,1,1,"Kitchener",091, ,4,0,0,108,313,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,35,1,56,8,82,2,3,"Kitchener",092, ,0,0,0,187,366,"Wilson Avenue Public School",20071010
+038,KITCHENER--CONESTOGA,6,0,11,3,14,0,4,"Kitchener",093, ,0,0,0,38,148,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,27,1,41,7,62,3,2,"Kitchener",094, ,0,0,0,143,367,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,18,0,16,1,24,1,0,"Kitchener",095, ,0,0,0,60,235,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,37,1,54,12,83,1,3,"Kitchener",096, ,0,0,0,191,419,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,22,0,63,12,66,0,4,"Kitchener",097, ,1,0,0,168,363,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,9,0,28,5,28,1,2,"Kitchener",098, ,0,0,0,73,238,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,14,2,9,2,25,2,4,"Kitchener",099, ,0,0,0,58,294,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,29,0,35,11,63,0,1,"Kitchener",100, ,2,0,0,141,370,"St. Aloysius Separate School",20071010
+038,KITCHENER--CONESTOGA,10,0,124,6,147,2,0,"Baden",101, ,0,0,0,289,385,"Foxboro Green Recreation Centre",20071010
+038,KITCHENER--CONESTOGA,19,1,72,18,70,2,1,"St. Agatha",102, ,1,2,0,186,374,"St. Agatha Community Centre",20071010
+038,KITCHENER--CONESTOGA,11,0,39,14,42,3,0,"Kitchener",103, ,0,0,0,109,338,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,18,0,52,7,48,0,0,"Kitchener",104, ,0,0,0,125,367,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,13,0,56,18,71,0,1,"Kitchener",105, ,1,0,0,160,412,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,20,0,28,8,35,1,1,"Kitchener",106, ,1,1,0,95,302,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,18,1,47,13,44,1,1,"Kitchener",107, ,1,0,0,126,339,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,5,2,11,5,16,0,0,"Kitchener",108s, ,1,0,0,40,160,"The Westmount",20071010
+038,KITCHENER--CONESTOGA,22,0,42,13,65,5,1,"Kitchener",109, ,2,1,0,151,381,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,9,2,6,5,18,0,0,"Kitchener",110, ,0,0,0,40,218,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,12,1,53,5,62,4,4,"Kitchener",111, ,4,0,0,145,352,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,17,0,34,16,46,0,0,"Kitchener",112, ,2,0,0,115,349,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,23,2,41,10,72,0,2,"Kitchener",113, ,0,1,0,151,371,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,20,3,30,10,28,0,0,"Kitchener",114, ,2,0,0,93,234,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,22,1,65,13,65,1,1,"Kitchener",115, ,2,0,0,170,380,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,12,0,37,9,33,2,2,"Kitchener",116, ,0,0,0,95,245,"John Sweeney Separate School",20071010
+038,KITCHENER--CONESTOGA,26,0,45,22,77,1,3,"Kitchener",117, ,0,0,0,174,398,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,18,0,44,13,46,3,2,"Kitchener",118, ,3,1,0,130,337,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,21,1,36,9,60,4,1,"Kitchener",119, ,0,0,0,132,348,"Williamsburg Public School",20071010
+038,KITCHENER--CONESTOGA,19,0,57,6,50,5,1,"Kitchener",120, ,1,0,0,139,307,"Country Hills Church",20071010
+038,KITCHENER--CONESTOGA,24,0,53,12,54,2,2,"Kitchener",121, ,4,0,0,151,368,"Glencairn Mennonite Brethren Church",20071010
+038,KITCHENER--CONESTOGA,17,0,75,19,50,1,1,"Kitchener",122, ,0,0,1,164,378,"Trillium Public School",20071010
+038,KITCHENER--CONESTOGA,5,1,34,2,46,2,1,"Kitchener",123s, ,3,1,0,95,258,"The Village of Winston Park",20071010
+038,KITCHENER--CONESTOGA,8,3,45,8,54,1,1,"Kitchener",124, ,0,3,0,123,240,"Glencairn Public School",20071010
+038,KITCHENER--CONESTOGA,28,1,64,19,113,4,0,"Kitchener",125, ,0,2,0,231,442,"Trillium Public School",20071010
+038,KITCHENER--CONESTOGA,21,1,63,7,79,0,1,"Kitchener",126, ,1,0,1,174,417,"Glencairn Public School",20071010
+038,KITCHENER--CONESTOGA,20,2,75,15,72,5,2,"Kitchener",127, ,3,1,0,195,416,"Glencairn Public School",20071010
+038,KITCHENER--CONESTOGA,30,1,69,9,94,6,1,"Kitchener",128, ,1,0,0,211,460,"Glencairn Public School",20071010
+038,KITCHENER--CONESTOGA,38,0,94,16,96,4,2,"Kitchener",129, ,0,0,1,251,514,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,34,2,57,16,113,2,1,"Kitchener",130, ,4,0,0,229,444,"Blessed Sacrament Separate School",20071010
+038,KITCHENER--CONESTOGA,20,2,50,15,76,0,2,"Kitchener",131, ,0,0,1,166,342,"Glencairn Mennonite Brethren Church",20071010
+038,KITCHENER--CONESTOGA,30,0,42,10,49,3,0,"Kitchener",132, ,0,0,0,134,342,"Monsignor Haller Separate School",20071010
+038,KITCHENER--CONESTOGA,27,2,52,11,99,1,2,"Kitchener",133, ,0,0,0,194,428,"Blessed Sacrament Separate School",20071010
+038,KITCHENER--CONESTOGA,27,0,43,15,80,2,0,"Kitchener",134, ,0,0,0,167,390,"Blessed Sacrament Separate School",20071010
+038,KITCHENER--CONESTOGA,29,0,51,9,49,0,4,"Kitchener",135, ,3,0,1,146,339,"Blessed Sacrament Separate School",20071010
+038,KITCHENER--CONESTOGA,28,2,64,17,117,2,0,"Kitchener",136, ,4,0,0,234,493,"Blessed Sacrament Separate School",20071010
+038,KITCHENER--CONESTOGA,23,1,69,11,84,4,1,"Kitchener",137, ,0,0,0,193,462,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,23,0,49,9,72,3,0,"Kitchener",138, ,1,1,0,158,284,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,32,0,51,18,47,5,1,"Kitchener",139, ,0,1,0,155,336,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,24,1,65,19,99,8,0,"Kitchener",140, ,2,1,0,219,377,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,18,0,56,7,56,2,1,"Kitchener",141, ,3,0,0,143,305,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,17,0,54,15,103,5,1,"Kitchener",142, ,0,0,0,195,377,"Country Hills Public School",20071010
+038,KITCHENER--CONESTOGA,2,0,22,1,16,0,0,"Kitchener",143, ,0,0,0,41,87,"Our Lady of Grace Separate School",20071010
+038,KITCHENER--CONESTOGA,14,0,32,6,41,4,0,"Kitchener",144, ,13,0,0,110,279,"Wilson Avenue Public School",20071010
+038,KITCHENER--CONESTOGA,3,0,109,18,89,0,0,"Kitchener",145, ,0,0,0,219,445,"Faith Evangelical Missionary Church",20071010
+038,KITCHENER--CONESTOGA,15,1,103,13,98,0,1,"Kitchener",146, ,0,0,0,231,432,"Faith Evangelical Missionary Church",20071010
+038,KITCHENER--CONESTOGA,5,0,67,11,88,0,1,"Kitchener",147, ,7,0,0,179,342,"Faith Evangelical Missionary Church",20071010
+038,KITCHENER--CONESTOGA,10,0,107,6,71,3,0,"Kitchener",148, ,3,0,0,200,385,"Faith Evangelical Missionary Church",20071010
+038,KITCHENER--CONESTOGA,16,0,68,17,60,1,1,"Baden",149, ,0,0,0,163,342,"Baden Public School",20071010
+038,KITCHENER--CONESTOGA,33,0,88,21,66,1,2,"Baden",150, ,0,1,0,212,387,"Centennial Building (Recreation Centre)",20071010
+038,KITCHENER--CONESTOGA,17,1,65,13,92,5,1,"Baden",151, ,0,0,0,194,367,"Baden Public School",20071010
+038,KITCHENER--CONESTOGA,13,1,55,12,52,1,1,"Baden",152, ,0,0,0,135,327,"Centennial Building (Recreation Centre)",20071010
+038,KITCHENER--CONESTOGA,19,0,82,11,83,0,1,"Baden",153, ,2,0,0,198,376,"Baden Public School",20071010
+038,KITCHENER--CONESTOGA,13,1,84,13,79,1,1,"Baden",154, ,2,0,0,194,397,"Baden Public School",20071010
+038,KITCHENER--CONESTOGA,4,0,71,15,68,0,0,"Petersburg",155, ,1,2,1,162,332,"Mannheim Community Centre",20071010
+038,KITCHENER--CONESTOGA,14,1,22,7,51,4,1,"Kitchener",156, ,2,0,0,102,312,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,19,0,41,6,66,1,1,"Kitchener",157, ,1,0,0,135,390,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,14,0,34,7,47,3,1,"Kitchener",158, ,2,0,0,108,326,"William Townshend Public School",20071010
+038,KITCHENER--CONESTOGA,10,0,37,12,39,2,1,"Kitchener",159, ,0,0,0,101,360,"Williamsburg Public School",20071010
+038,KITCHENER--CONESTOGA,16,0,34,9,51,0,2,"Kitchener",160, ,4,0,1,117,351,"Williamsburg Public School",20071010
+038,KITCHENER--CONESTOGA,21,1,30,9,56,1,2,"Kitchener",161, ,1,0,0,121,377,"Williamsburg Public School",20071010
+038,KITCHENER--CONESTOGA,24,1,38,12,73,1,3,"Kitchener",162, ,2,1,0,155,403,"Williamsburg Public School",20071010
+038,KITCHENER--CONESTOGA,6,0,22,4,44,1,0,"Kitchener",163, ,0,0,0,77,178,"Community Christian Reformed Church",20071010
+038,KITCHENER--CONESTOGA,18,0,82,18,93,3,2,"Kitchener",164, ,3,0,0,219,413,"Pioneer Park Christian Fellowship Church",20071010
+038,KITCHENER--CONESTOGA,24,2,93,14,93,0,0,"Kitchener",165, ,0,0,0,226,438,"Brigadoon Public School",20071010
+038,KITCHENER--CONESTOGA,27,3,42,19,80,0,1,"Kitchener",166, ,0,0,0,172,355,"Pioneer Park Christian Fellowship Church",20071010
+038,KITCHENER--CONESTOGA,37,0,92,14,126,2,0,"Kitchener",167, ,1,0,2,274,505,"Blessed Kateri Separate School",20071010
+038,KITCHENER--CONESTOGA,36,3,63,15,75,3,2,"Kitchener",168, ,0,0,0,197,404,"Blessed Kateri Separate School",20071010
+038,KITCHENER--CONESTOGA,47,0,70,22,104,3,1,"Kitchener",169, ,0,0,0,247,489,"Blessed Kateri Separate School",20071010
+038,KITCHENER--CONESTOGA,18,0,16,7,43,0,1,"Kitchener",170, ,0,0,0,85,258,"Blessed Kateri Separate School",20071010
+038,KITCHENER--CONESTOGA,32,2,58,16,94,4,0,"Kitchener",171, ,1,0,0,207,376,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,22,0,48,23,71,3,3,"Kitchener",172, ,1,1,1,173,385,"Pioneer Park Public School",20071010
+038,KITCHENER--CONESTOGA,27,0,39,10,59,1,3,"Kitchener",173, ,1,0,1,141,326,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,11,1,17,3,27,1,0,"Kitchener",174s, ,0,0,0,60,74,"Doon Village Retirement Residence",20071010
+038,KITCHENER--CONESTOGA,52,2,95,19,84,5,1,"Kitchener",175, ,2,1,0,261,488,"Pioneer Park Public School",20071010
+038,KITCHENER--CONESTOGA,15,0,42,10,71,0,0,"Kitchener",176, ,0,0,0,138,279,"Pioneer Park Public School",20071010
+038,KITCHENER--CONESTOGA,12,1,30,12,39,1,1,"Kitchener",177, ,0,1,0,97,235,"Pioneer Park Public School",20071010
+038,KITCHENER--CONESTOGA,11,2,11,8,13,0,0,"Kitchener",178, ,0,0,0,45,122,"Doon Pioneer Park Community Centre",20071010
+038,KITCHENER--CONESTOGA,20,0,54,9,37,2,1,"Kitchener",179, ,1,0,0,124,285,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,12,0,32,12,26,0,0,"Kitchener",180, ,0,0,0,82,253,"Doon Pioneer Park Community Centre",20071010
+038,KITCHENER--CONESTOGA,29,0,28,7,60,4,0,"Kitchener",181, ,0,0,0,128,273,"Doon Pioneer Park Community Centre",20071010
+038,KITCHENER--CONESTOGA,31,0,67,17,122,1,1,"Kitchener",182, ,3,0,0,242,416,"Doon Presbyterian Church",20071010
+038,KITCHENER--CONESTOGA,..........................NO POLL HELD........................,,,,,,,"Kitchener",183s, ,0,0,0,0,0,"",20071010
+038,KITCHENER--CONESTOGA,14,0,13,12,10,0,0,"Kitchener",184, ,1,0,0,50,96,"Conestoga College of Applied Arts and Tech",20071010
+038,KITCHENER--CONESTOGA,14,1,92,25,101,2,1,"Kitchener",185, ,1,0,0,237,384,"Doon Presbyterian Church",20071010
+038,KITCHENER--CONESTOGA,13,0,82,16,92,1,1,"New Hamburg",186, ,2,0,0,207,353,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,29,0,36,6,25,4,0,"New Hamburg",187, ,0,0,0,100,263,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,20,0,81,21,61,3,1,"New Hamburg",188, ,3,0,0,190,411,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,17,1,43,11,56,0,1,"New Hamburg",189, ,0,0,0,129,326,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,15,2,42,17,62,7,2,"New Hamburg",190, ,0,0,0,147,341,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,6,1,74,13,56,2,1,"New Hamburg",191, ,1,0,0,154,284,"Forest Glen Public School",20071010
+038,KITCHENER--CONESTOGA,17,0,88,9,69,4,1,"Baden",192, ,0,0,0,188,376,"Centennial Building (Recreation Centre)",20071010
+038,KITCHENER--CONESTOGA,19,1,89,14,76,2,0,"Petersburg",193, ,0,0,0,201,424,"Wilmot Centre Missionary Church",20071010
+038,KITCHENER--CONESTOGA,14,0,124,19,113,6,0,"Petersburg",194, ,0,2,0,278,507,"Mannheim Community Centre",20071010
+038,KITCHENER--CONESTOGA,1,0,23,11,29,1,0,"Kitchener",195, ,0,0,0,65,168,"Community Christian Reformed Church",20071010
+038,KITCHENER--CONESTOGA,9,1,24,5,31,0,0,"Kitchener",196, ,1,0,0,71,222,"Community Christian Reformed Church",20071010
+038,KITCHENER--CONESTOGA,11,0,49,9,35,1,0,"Kitchener",197, ,1,0,0,106,265,"Community Christian Reformed Church",20071010
+038,KITCHENER--CONESTOGA,3,0,25,19,24,0,0,"Kitchener",198, ,0,0,0,71,240,"Community Christian Reformed Church",20071010
+038,KITCHENER--CONESTOGA,12,0,37,6,59,0,1,"Kitchener",199, ,6,0,0,121,338,"Brigadoon Public School",20071010
+038,KITCHENER--CONESTOGA,32,0,95,21,117,2,1,"Kitchener",200, ,1,2,0,271,459,"Brigadoon Public School",20071010
+038,KITCHENER--CONESTOGA,15,0,103,21,95,3,1,"Kitchener",201, ,0,0,0,238,463,"Brigadoon Public School",20071010
+038,KITCHENER--CONESTOGA,7,0,57,8,55,3,2,"Kitchener",202, ,1,0,1,134,363,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,17,0,91,8,62,0,2,"Kitchener",203, ,0,3,0,183,459,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,6,0,62,8,60,3,0,"Kitchener",204, ,1,1,0,141,343,"St. Timothy Separate School",20071010
+038,KITCHENER--CONESTOGA,5,0,35,9,28,0,0,"Kitchener",205, ,0,0,0,77,252,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,17,1,81,15,82,1,1,"Kitchener",206, ,0,0,0,198,395,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,8,0,33,5,49,0,0,"Kitchener",207, ,2,0,0,97,223,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,10,0,46,10,62,0,1,"Kitchener",208, ,1,0,0,130,244,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,7,0,109,17,134,1,0,"Kitchener",209, ,0,0,0,268,471,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,12,2,109,12,97,0,1,"Kitchener",210, ,0,0,0,233,440,"Doon Public School",20071010
+038,KITCHENER--CONESTOGA,15,0,95,7,62,0,1,"New Hamburg",211, ,0,0,0,180,359,"Hillcrest Mennonite Church",20071010
+038,KITCHENER--CONESTOGA,15,0,77,19,91,4,3,"New Hamburg",212, ,1,0,0,210,410,"Grandview Public School",20071010
+038,KITCHENER--CONESTOGA,17,0,58,8,49,2,1,"New Hamburg",213, ,0,0,0,135,296,"Grandview Public School",20071010
+038,KITCHENER--CONESTOGA,28,1,57,21,79,0,0,"New Hamburg",214, ,0,1,0,187,382,"New Hamburg Arena and Community Centre",20071010
+038,KITCHENER--CONESTOGA,26,1,49,22,64,0,3,"New Hamburg",215, ,1,1,0,167,416,"New Hamburg Arena and Community Centre",20071010
+038,KITCHENER--CONESTOGA,9,1,44,4,34,3,1,"New Hamburg",216s, ,0,0,0,96,243,"Nithview Home",20071010
+038,KITCHENER--CONESTOGA,10,0,74,7,108,1,1,"New Hamburg",217, ,0,0,0,201,286,"Morningside Retirement Village",20071010
+038,KITCHENER--CONESTOGA,14,0,70,3,79,4,0,"New Hamburg",218, ,2,0,0,172,236,"Morningside Retirement Village",20071010
+038,KITCHENER--CONESTOGA,25,0,95,11,90,8,2,"New Hamburg",219, ,2,2,0,235,431,"New Hamburg Arena and Community Centre",20071010
+038,KITCHENER--CONESTOGA,19,0,135,11,78,1,0,"New Dundee",220, ,2,1,0,247,395,"New Dundee Community Centre",20071010
+038,KITCHENER--CONESTOGA,7,0,25,9,28,1,0,"Kitchener",221, ,0,0,0,70,154,"Brigadoon Public School",20071010
+038,KITCHENER--CONESTOGA,7,0,84,10,91,1,1,"New Hamburg",222, ,3,0,0,197,231,"Stonecroft Recreation Centre",20071010
+038,KITCHENER--CONESTOGA,23,2,62,21,109,0,0,"New Dundee",223, ,0,0,1,218,350,"New Dundee Community Centre",20071010
+038,KITCHENER--CONESTOGA,18,1,116,19,124,8,0,"New Hamburg",224, ,4,0,1,291,551,"Haysville Community Centre",20071010
+038,KITCHENER--CONESTOGA,18,1,95,21,87,5,0,"New Dundee",225, ,2,0,0,229,386,"New Dundee Community Centre",20071010
+038,KITCHENER--CONESTOGA,15,0,11,2,27,0,1,"Kitchener",400, ,0,0,0,56,155,"The Boniface Apartment",20071010
+038,KITCHENER--CONESTOGA,20,0,16,4,40,0,2,"Kitchener",401, ,0,1,0,83,139,"Somerset Apartments",20071010
+038,KITCHENER--CONESTOGA,7,1,13,6,31,0,1,"Kitchener",402, ,2,0,0,61,139,"Ridgeway Apartments",20071010
+038,KITCHENER--CONESTOGA,27,1,14,7,24,2,0,"Kitchener",403, ,2,0,0,77,154,"Laurentian Park Towers Apartments",20071010
+038,KITCHENER--CONESTOGA,9,0,7,5,10,1,0,"Kitchener",404, ,1,0,0,33,64,"Alpine Public School",20071010
+038,KITCHENER--CONESTOGA,10,0,9,3,22,2,0,"Kitchener",405, ,2,2,0,50,135,"Cypriot Homes Phase II",20071010
+038,KITCHENER--CONESTOGA,12,0,16,6,24,1,0,"Kitchener",406, ,0,0,0,59,127,"The Boniface Apartment",20071010
+038,KITCHENER--CONESTOGA,27,0,23,2,45,0,1,"Kitchener",407, ,1,1,0,100,162,"Courtland Terrace",20071010
+038,KITCHENER--CONESTOGA,29,3,63,11,64,3,2,"Kitchener",408, ,0,0,1,176,382,"Wilson Park Place",20071010
+038,KITCHENER--CONESTOGA,17,0,33,7,50,1,0,"Kitchener",409, ,1,0,0,109,259,"Wilson Park Place",20071010
+038,KITCHENER--CONESTOGA,17,1,17,2,21,0,1,"Kitchener",410, ,0,0,0,59,116,"Parkway Towers Apartments",20071010
+038,KITCHENER--CONESTOGA,30,0,46,14,55,0,2,"Kitchener",411, ,3,0,0,150,303,"Gresham Place II",20071010
+038,KITCHENER--CONESTOGA,29,1,22,18,39,1,2,"Kitchener",412, ,2,1,0,115,316,"Gresham Place I",20071010
+038,KITCHENER--CONESTOGA,24,0,21,11,45,2,1,"Kitchener",413, ,1,0,0,105,187,"Cedarwoods Tower",20071010
+038,KITCHENER--CONESTOGA,34,1,22,13,58,3,1,"Kitchener",414, ,5,1,0,138,298,"Highpoint Apartments",20071010
+038,KITCHENER--CONESTOGA,13,0,29,4,35,1,2,"Kitchener",415, ,0,1,0,85,109,"Country Hill Place",20071010
+038,KITCHENER--CONESTOGA,30,0,50,6,86,1,3,"Kitchener",416, ,1,0,0,177,266,"The Centrum/Country Hills Estates",20071010
+038,KITCHENER--CONESTOGA,32,0,47,13,53,1,1,"Kitchener",417, ,0,0,0,147,278,"Green Valley Place",20071010
+038,KITCHENER--CONESTOGA,28,1,43,15,80,3,2,"Kitchener",418, ,2,0,0,174,293,"The Westview",20071010
+038,KITCHENER--CONESTOGA,8,1,19,8,30,0,1,"Kitchener",419, ,2,0,0,69,111,"Green Valley Tower",20071010
+038,KITCHENER--CONESTOGA,15,0,14,8,13,0,0,"Kitchener",420, ,0,0,0,50,124,"Doon Pioneer Park Community Centre",20071010
+038,KITCHENER--CONESTOGA,91,3,338,47,365,9,2,"Kitchener",Advanced Polls /  ADV001, ,2,3,0,860,0,"Returning Office / Bureau du directeur du scrutin",20071010
+038,KITCHENER--CONESTOGA,19,1,146,19,161,4,1,"Elmira",Advanced Polls /  ADV002, ,0,0,0,351,0,"Satellite Office / Bureau satellite",20071010
+038,KITCHENER--CONESTOGA,31,2,104,16,89,5,2,"Kitchener",Advanced Polls /  ADV003, ,0,1,0,250,0,"St. Philip's Lutheran Church",20071010
+038,KITCHENER--CONESTOGA,21,1,87,20,89,1,0,"Kitchener",Advanced Polls /  ADV004, ,0,1,1,221,0,"Conestoga College Residence",20071010
+038,KITCHENER--CONESTOGA,6,2,85,10,56,2,1,"Baden",Advanced Polls /  ADV005, ,0,0,0,162,0,"Centennial Building (Recreation Centre)",20071010
+038,KITCHENER--CONESTOGA,32,1,147,15,117,3,2,"New Hamburg",Advanced Polls /  ADV006, ,0,0,0,317,0,"New Hamburg Arena and Community Centre",20071010
+038,KITCHENER--CONESTOGA,5,0,42,7,66,3,1,"Wellesley",Advanced Polls /  ADV007, ,0,0,0,124,0,"Fellowship Hall",20071010
+038,KITCHENER--CONESTOGA,6,1,41,3,49,1,0,"St. Clements",Advanced Polls /  ADV008, ,0,1,0,102,0,"St. Clements Community Centre",20071010
+038,KITCHENER--CONESTOGA,8,0,44,2,34,0,1,"Breslau",Advanced Polls /  ADV009, ,0,0,0,89,0,"Breslau Mennonite Church",20071010
+TOTALS:, ,4545,145,14450,2805,16315,510,246, , , , , , , , , , 

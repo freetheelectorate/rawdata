@@ -1,0 +1,259 @@
+ED_CODE,ED_NAME,CAUCHI,COLLE,GELMON,JAMES,MORRA,TANZ,WIENS,YOUNG,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+020,EGLINTON--LAWRENCE,0,115,1,14,2,125,14,0,"Toronto",001, ,0,2,0,273,496,"Armour Heights Public School",20071010
+020,EGLINTON--LAWRENCE,0,41,1,7,0,34,11,0,"Toronto",002, ,2,0,0,96,217,"Armour Heights Public School",20071010
+020,EGLINTON--LAWRENCE,0,28,1,7,0,16,14,0,"Toronto",004, ,0,0,1,67,198,"Armour Heights Public School",20071010
+020,EGLINTON--LAWRENCE,1,38,0,17,1,63,13,1,"Toronto",005, ,0,0,0,134,227,"Armour Heights Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,0,64,1,7,0,80,9,0,"Toronto",006A, ,0,0,0,161,246,"Loretto Abbey Convent",20071010
+020,EGLINTON--LAWRENCE,0,69,1,8,2,65,7,0,"Toronto",006B, ,0,0,0,152,249,"Loretto Abbey Convent",20071010
+020,EGLINTON--LAWRENCE,1,8,1,1,1,11,4,0,"Toronto",007s, ,1,1,0,29,58,"Terrace Garden Retirement Residence",20071010
+020,EGLINTON--LAWRENCE,0,50,0,11,0,83,19,0,"Toronto",008, ,1,0,0,164,336,"St. Margaret Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,35,2,14,0,44,14,1,"Toronto",009, ,0,0,1,111,221,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,2,53,1,8,0,75,17,0,"Toronto",010, ,0,1,0,157,286,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,73,1,17,0,42,14,0,"Toronto",011, ,0,0,0,147,287,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,59,1,18,0,74,8,0,"Toronto",012, ,0,0,1,161,324,"Armour Heights Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,0,82,0,13,0,105,6,0,"Toronto",013, ,1,1,0,208,372,"Loretto Abbey Convent",20071010
+020,EGLINTON--LAWRENCE,0,118,0,32,1,97,20,0,"Toronto",014, ,0,0,0,268,435,"Anglican Church of St. Timothy",20071010
+020,EGLINTON--LAWRENCE,0,63,0,18,3,69,13,0,"Toronto",015, ,1,1,0,168,313,"Loretto Abbey Convent",20071010
+020,EGLINTON--LAWRENCE,1,19,1,1,1,25,4,0,"Toronto",016, ,0,0,0,52,169,"Empress House",20071010
+020,EGLINTON--LAWRENCE,1,40,1,3,0,42,13,0,"Toronto",017, ,1,0,0,101,227,"Reuben Cipin Healthy Living Centre",20071010
+020,EGLINTON--LAWRENCE,0,42,1,3,0,61,6,0,"Toronto",018, ,0,0,0,113,268,"St. Margaret Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,36,1,4,1,54,5,0,"Toronto",019, ,0,0,0,101,202,"St. Margaret Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,73,0,9,0,107,13,0,"Toronto",020, ,1,0,0,203,429,"St. Margaret Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,60,0,10,1,76,12,0,"Toronto",021, ,0,0,0,159,313,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,73,1,10,0,52,14,1,"Toronto",022, ,0,0,0,151,311,"Melrose Community Church",20071010
+020,EGLINTON--LAWRENCE,0,80,0,21,0,76,12,0,"Toronto",023, ,0,0,0,189,330,"Armour Heights Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,0,98,0,26,2,89,11,0,"Toronto",024, ,0,0,0,226,420,"Anglican Church of St. Timothy",20071010
+020,EGLINTON--LAWRENCE,1,92,1,22,0,57,41,0,"Toronto",025, ,0,1,0,215,363,"Anglican Church of St. Timothy",20071010
+020,EGLINTON--LAWRENCE,1,76,1,23,2,68,18,0,"Toronto",026, ,1,0,0,190,334,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,0,77,0,24,1,56,9,0,"Toronto",027, ,0,0,0,167,264,"Fairlawn Avenue United Church",20071010
+020,EGLINTON--LAWRENCE,0,34,0,3,1,18,16,0,"Toronto",028, ,1,0,0,73,234,"Terraces of Baycrest - Wagman Centre",20071010
+020,EGLINTON--LAWRENCE,0,38,0,7,0,27,9,0,"Toronto",029, ,1,0,0,82,257,"Empress House",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",030s, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,38,1,0,0,33,11,0,"Toronto",031, ,0,0,0,83,187,"Reuben Cipin Healthy Living Centre",20071010
+020,EGLINTON--LAWRENCE,0,44,5,4,0,48,14,0,"Toronto",032s, ,2,0,0,117,625,"Apotex Centre - Baycrest Hospital",20071010
+020,EGLINTON--LAWRENCE,1,40,0,1,0,52,12,0,"Toronto",033s, ,2,0,0,108,131,"Reuben Cipin Healthy Living Centre",20071010
+020,EGLINTON--LAWRENCE,0,24,0,0,0,30,2,0,"Toronto",034, ,76,0,0,132,340,"St. Margaret Catholic School",20071010
+020,EGLINTON--LAWRENCE,1,78,2,14,1,122,12,0,"Toronto",035, ,1,0,0,231,390,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,66,0,5,0,115,12,0,"Toronto",036, ,0,0,0,198,412,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,1,87,0,14,1,84,13,0,"Toronto",037, ,1,0,0,201,364,"Melrose Community Church",20071010
+020,EGLINTON--LAWRENCE,0,97,0,22,0,97,18,2,"Toronto",038, ,1,0,0,237,369,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,0,111,0,23,1,65,19,0,"Toronto",039, ,1,0,0,220,360,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,0,111,0,26,0,86,22,0,"Toronto",040, ,0,0,0,245,375,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,0,76,0,14,1,50,22,1,"Toronto",041, ,0,0,0,164,290,"Fairlawn Avenue United Church",20071010
+020,EGLINTON--LAWRENCE,2,85,1,17,0,67,30,1,"Toronto",042, ,0,0,0,203,383,"Sir Sandford Fleming Academy",20071010
+020,EGLINTON--LAWRENCE,1,54,0,2,0,48,23,0,"Toronto",043s, ,3,2,0,133,187,"Terraces of Baycrest - Wagman Centre",20071010
+020,EGLINTON--LAWRENCE,0,79,0,4,3,78,10,0,"Toronto",044, ,2,0,1,177,375,"Terraces of Baycrest - Wagman Centre",20071010
+020,EGLINTON--LAWRENCE,0,49,0,9,0,77,16,0,"Toronto",045, ,0,0,0,151,281,"Sir Sandford Fleming Academy",20071010
+020,EGLINTON--LAWRENCE,0,63,2,18,0,123,15,1,"Toronto",046, ,2,0,0,224,378,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,48,1,10,0,66,7,0,"Toronto",047, ,0,0,0,132,281,"Melrose Community Church",20071010
+020,EGLINTON--LAWRENCE,0,94,0,17,1,68,21,0,"Toronto",048, ,1,2,0,204,364,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,1,97,3,30,0,76,19,0,"Toronto",049, ,1,1,0,228,396,"John Wanless Public School",20071010
+020,EGLINTON--LAWRENCE,1,138,0,27,1,116,25,0,"Toronto",050, ,0,0,0,308,490,"Blessed Sacrament Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,103,1,23,1,64,22,0,"Toronto",051, ,0,0,0,214,398,"Blessed Sacrament Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,67,1,23,2,40,25,0,"Toronto",052, ,0,0,0,158,282,"Blessed Sacrament Catholic School",20071010
+020,EGLINTON--LAWRENCE,1,67,0,30,1,33,25,0,"Toronto",053, ,0,1,1,159,288,"Blessed Sacrament Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,39,2,11,6,24,15,1,"Toronto",054, ,0,0,0,98,173,"Blessed Sacrament Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,74,0,8,1,96,24,1,"Toronto",055, ,4,0,0,208,379,"Sir Sandford Fleming Academy",20071010
+020,EGLINTON--LAWRENCE,0,67,1,11,1,139,13,0,"Toronto",056, ,0,0,0,232,452,"Bais Yaakov Elementary School",20071010
+020,EGLINTON--LAWRENCE,0,42,0,5,0,54,11,0,"Toronto",057, ,0,0,0,112,248,"Beth Jacob School",20071010
+020,EGLINTON--LAWRENCE,2,62,0,13,0,111,15,0,"Toronto",058, ,0,0,0,203,363,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,61,1,12,1,101,8,1,"Toronto",059, ,0,0,0,185,413,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,55,0,6,0,71,21,0,"Toronto",060, ,0,0,0,153,278,"St. Ansgar Church Foyer",20071010
+020,EGLINTON--LAWRENCE,1,65,0,19,0,71,20,0,"Toronto",061, ,1,0,1,178,307,"Bedford Glen",20071010
+020,EGLINTON--LAWRENCE,0,64,0,24,0,47,29,0,"Toronto",062, ,0,1,0,165,339,"Lawrence Park Collegiate Institute",20071010
+020,EGLINTON--LAWRENCE,0,73,0,6,0,60,20,0,"Toronto",063, ,0,0,0,159,275,"Lawrence Park Collegiate Institute",20071010
+020,EGLINTON--LAWRENCE,1,108,0,28,0,80,19,0,"Toronto",064, ,0,1,0,237,379,"Lawrence Park Collegiate Institute",20071010
+020,EGLINTON--LAWRENCE,0,46,1,18,3,18,19,0,"Toronto",065, ,0,0,0,105,215,"Glenview Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,1,137,0,11,4,34,26,0,"Toronto",066, ,2,0,0,215,401,"Yorkdale Adult Learning Centre",20071010
+020,EGLINTON--LAWRENCE,3,74,0,0,0,3,8,0,"Toronto",067, ,0,0,0,88,277,"Flemington Public School",20071010
+020,EGLINTON--LAWRENCE,0,99,2,3,2,8,14,0,"Toronto",068, ,1,1,0,130,423,"Flemington Public School",20071010
+020,EGLINTON--LAWRENCE,1,100,1,4,0,11,10,1,"Toronto",069, ,1,0,0,129,329,"Lawrence Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,44,0,4,1,67,12,0,"Toronto",070, ,0,0,0,128,271,"Bais Yaakov Elementary School",20071010
+020,EGLINTON--LAWRENCE,1,34,1,5,0,34,22,1,"Toronto",071, ,0,2,0,100,195,"Bais Yaakov Elementary School",20071010
+020,EGLINTON--LAWRENCE,0,49,3,1,1,34,14,2,"Toronto",072s, ,0,5,0,109,188,"Saranac Seniors Apartments",20071010
+020,EGLINTON--LAWRENCE,0,22,0,4,0,76,9,0,"Toronto",073, ,0,0,0,111,270,"Beth Jacob School",20071010
+020,EGLINTON--LAWRENCE,0,40,0,11,0,91,10,0,"Toronto",074, ,0,0,0,152,347,"Beth Jacob School",20071010
+020,EGLINTON--LAWRENCE,0,62,0,9,1,96,13,0,"Toronto",076, ,2,1,14,198,358,"Beth Jacob School",20071010
+020,EGLINTON--LAWRENCE,1,43,1,13,0,117,15,0,"Toronto",077, ,0,0,3,193,390,"Yeshiva Yesodei Hatorah School",20071010
+020,EGLINTON--LAWRENCE,0,38,0,13,0,62,9,0,"Toronto",078, ,1,1,0,124,262,"St. Ansgar Church Foyer",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",079, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,32,1,9,0,17,6,0,"Toronto",080, ,0,0,0,65,140,"John Ross Robertson Public School",20071010
+020,EGLINTON--LAWRENCE,0,72,0,16,1,60,14,0,"Toronto",081, ,0,2,0,165,260,"Lawrence Park Condominiums",20071010
+020,EGLINTON--LAWRENCE,0,73,1,27,0,106,23,0,"Toronto",082, ,2,0,0,232,369,"Lawrence Park Collegiate Institute",20071010
+020,EGLINTON--LAWRENCE,0,94,0,21,0,130,13,0,"Toronto",083, ,1,0,0,259,445,"John Ross Robertson Public School",20071010
+020,EGLINTON--LAWRENCE,2,83,0,21,0,66,19,0,"Toronto",084, ,1,0,0,192,344,"Glenview Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,0,126,1,10,3,29,14,0,"Toronto",085, ,0,2,1,186,377,"Yorkdale Adult Learning Centre",20071010
+020,EGLINTON--LAWRENCE,2,105,0,4,1,34,12,0,"Toronto",086, ,3,0,0,161,338,"Yorkdale Adult Learning Centre",20071010
+020,EGLINTON--LAWRENCE,0,67,0,1,0,8,10,0,"Toronto",087, ,0,1,0,87,278,"Lawrence Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,30,0,3,0,6,9,0,"Toronto",088s, ,2,0,0,50,105,"Flemington Public School",20071010
+020,EGLINTON--LAWRENCE,0,47,0,0,1,2,10,0,"Toronto",089, ,0,4,0,64,205,"Lawrence Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,54,3,1,0,6,13,0,"Toronto",091, ,2,2,0,81,222,"Lawrence Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,52,1,11,0,45,12,0,"Toronto",092, ,2,0,0,123,281,"Bais Yaakov Elementary School",20071010
+020,EGLINTON--LAWRENCE,1,62,1,7,0,78,15,0,"Toronto",093, ,1,0,1,166,408,"Our Lady of Assumption Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,61,1,5,0,28,28,0,"Toronto",094, ,0,0,0,123,264,"Bais Yaakov Elementary School",20071010
+020,EGLINTON--LAWRENCE,0,53,3,4,4,45,8,1,"Toronto",095s, ,1,2,0,121,175,"Bathurst Place",20071010
+020,EGLINTON--LAWRENCE,0,23,1,9,0,133,3,0,"Toronto",096, ,1,1,0,171,401,"Yeshiva Yesodei Hatorah School",20071010
+020,EGLINTON--LAWRENCE,2,41,0,11,0,149,12,0,"Toronto",097, ,0,1,0,216,382,"Yeshiva Yesodei Hatorah School",20071010
+020,EGLINTON--LAWRENCE,0,95,1,18,2,94,12,0,"Toronto",098, ,1,0,0,223,482,"St. Ansgar Church Foyer",20071010
+020,EGLINTON--LAWRENCE,0,106,1,30,1,92,24,0,"Toronto",099, ,0,0,0,254,411,"John Ross Robertson Public School",20071010
+020,EGLINTON--LAWRENCE,0,86,0,18,0,62,13,0,"Toronto",100, ,0,0,0,179,338,"John Ross Robertson Public School",20071010
+020,EGLINTON--LAWRENCE,0,58,0,19,2,41,19,1,"Toronto",101, ,0,1,0,141,265,"Eglinton St. George's United Church",20071010
+020,EGLINTON--LAWRENCE,2,95,1,6,2,21,9,0,"Toronto",102, ,2,1,0,139,301,"Yorkdale Adult Learning Centre",20071010
+020,EGLINTON--LAWRENCE,0,55,0,5,0,46,16,0,"Toronto",103, ,2,1,0,125,288,"Glen Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,25,2,9,0,99,18,0,"Toronto",104, ,0,0,0,153,312,"Glen Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,29,3,2,1,127,4,0,"Toronto",105, ,2,0,0,168,372,"Our Lady of Assumption Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,24,4,5,0,94,4,0,"Toronto",107, ,1,2,0,134,317,"Shaarei Shomayim Hall",20071010
+020,EGLINTON--LAWRENCE,0,67,0,16,0,136,11,0,"Toronto",108, ,0,1,1,232,448,"Shaarei Shomayim Hall",20071010
+020,EGLINTON--LAWRENCE,2,81,2,19,1,116,6,0,"Toronto",109, ,1,2,1,231,438,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,0,70,1,35,0,95,14,0,"Toronto",110, ,0,0,0,215,404,"Eglinton St. George's United Church",20071010
+020,EGLINTON--LAWRENCE,1,96,1,24,0,89,27,0,"Toronto",111, ,2,0,0,240,396,"Eglinton St. George's United Church",20071010
+020,EGLINTON--LAWRENCE,0,87,1,33,0,68,20,0,"Toronto",112, ,0,1,0,210,355,"Anglican Church of St. Clement - Eglinton",20071010
+020,EGLINTON--LAWRENCE,2,113,3,3,4,38,15,0,"Toronto",113, ,0,0,0,178,357,"Joyce Public School",20071010
+020,EGLINTON--LAWRENCE,0,97,2,3,1,5,5,2,"Toronto",114s, ,3,1,0,119,418,"Villa Colombo",20071010
+020,EGLINTON--LAWRENCE,4,115,2,6,1,18,12,2,"Toronto",115s, ,4,4,0,168,224,"Casa Del Zotto Senior Apartments",20071010
+020,EGLINTON--LAWRENCE,0,128,8,4,2,13,12,1,"Toronto",116s, ,1,1,0,170,276,"Caboto Terrace",20071010
+020,EGLINTON--LAWRENCE,0,83,0,5,0,21,15,1,"Toronto",117, ,0,2,0,127,239,"St. Charles Catholic School",20071010
+020,EGLINTON--LAWRENCE,2,96,1,9,2,50,18,1,"Toronto",118, ,0,2,0,181,290,"St. Charles Catholic School",20071010
+020,EGLINTON--LAWRENCE,2,93,0,17,1,51,20,0,"Toronto",119, ,0,2,0,186,380,"St. Charles Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,51,3,7,2,12,16,0,"Toronto",120, ,1,0,0,92,224,"St. Charles Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,39,1,11,1,45,15,0,"Toronto",121, ,0,1,0,113,259,"Glen Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,80,0,3,1,101,26,1,"Toronto",122, ,3,0,0,215,435,"Glen Park Public School",20071010
+020,EGLINTON--LAWRENCE,1,67,1,11,1,108,10,1,"Toronto",123, ,0,1,0,201,349,"Glen Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,28,1,6,0,130,10,0,"Toronto",124, ,0,1,0,176,286,"Bialik Hebrew Day School Gym",20071010
+020,EGLINTON--LAWRENCE,0,40,0,5,1,170,6,0,"Toronto",125, ,0,0,0,222,390,"Bialik Hebrew Day School Gym",20071010
+020,EGLINTON--LAWRENCE,0,25,0,4,1,139,4,0,"Toronto",126, ,0,0,0,173,341,"Shaarei Shomayim Hall",20071010
+020,EGLINTON--LAWRENCE,0,84,0,20,0,159,19,0,"Toronto",127, ,1,0,0,283,501,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,0,83,0,19,0,84,21,0,"Toronto",128, ,0,0,0,207,348,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,0,91,1,19,0,74,15,0,"Toronto",129, ,0,1,0,201,342,"Anglican Church of St. Clement - Eglinton",20071010
+020,EGLINTON--LAWRENCE,0,67,1,23,0,46,20,0,"Toronto",130, ,0,0,0,157,349,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,1,75,0,30,0,61,20,0,"Toronto",131, ,0,2,0,189,377,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,0,63,1,26,3,68,11,0,"Toronto",132, ,0,0,1,173,318,"Anglican Church of St. Clement - Eglinton",20071010
+020,EGLINTON--LAWRENCE,1,49,1,20,2,28,19,0,"Toronto",133, ,0,0,0,120,279,"Northern District Library",20071010
+020,EGLINTON--LAWRENCE,0,109,1,3,2,26,17,1,"Toronto",134, ,0,0,0,159,343,"Joyce Public School",20071010
+020,EGLINTON--LAWRENCE,1,141,1,6,2,41,18,2,"Toronto",135, ,5,0,0,217,414,"Glen Long Community Centre",20071010
+020,EGLINTON--LAWRENCE,2,144,1,14,2,30,26,0,"Toronto",136, ,1,3,0,223,408,"Beth Torah Congregation",20071010
+020,EGLINTON--LAWRENCE,1,66,0,10,2,18,22,2,"Toronto",137, ,1,0,0,122,311,"Beth Torah Congregation",20071010
+020,EGLINTON--LAWRENCE,0,17,1,3,0,87,3,0,"Toronto",138A, ,0,1,0,112,240,"Bialik Hebrew Day School Gym",20071010
+020,EGLINTON--LAWRENCE,0,32,0,4,0,93,1,0,"Toronto",138B, ,0,0,0,130,279,"Bialik Hebrew Day School Gym",20071010
+020,EGLINTON--LAWRENCE,0,25,0,6,0,12,11,0,"Toronto",139, ,0,2,0,56,164,"Our Lady of Assumption Church - Rectory",20071010
+020,EGLINTON--LAWRENCE,0,51,0,17,0,129,9,0,"Toronto",140, ,0,0,0,206,373,"Shaarei Shomayim Hall",20071010
+020,EGLINTON--LAWRENCE,1,78,1,12,0,109,13,0,"Toronto",141, ,2,0,0,216,386,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,1,62,0,24,0,70,16,0,"Toronto",142, ,0,1,0,174,321,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,0,84,0,33,1,89,40,2,"Toronto",143, ,0,0,0,249,410,"Allenby Public School",20071010
+020,EGLINTON--LAWRENCE,1,84,2,24,0,71,12,1,"Toronto",144, ,0,0,0,195,342,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,0,95,1,17,1,87,21,0,"Toronto",145, ,1,0,0,223,420,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,0,54,1,19,1,36,17,0,"Toronto",146, ,2,0,0,130,277,"North Toronto Memorial Community Centre",20071010
+020,EGLINTON--LAWRENCE,0,77,0,20,2,50,16,0,"Toronto",147, ,0,0,0,165,363,"North Toronto Memorial Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,125,3,14,3,33,20,1,"Toronto",149, ,1,0,0,201,353,"Joyce Public School",20071010
+020,EGLINTON--LAWRENCE,1,92,2,6,1,30,22,1,"Toronto",150, ,1,1,0,157,349,"Glen Long Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,136,3,9,4,41,24,0,"Toronto",151, ,1,0,0,219,365,"Sts. Cosmas and Damian Catholic School",20071010
+020,EGLINTON--LAWRENCE,1,123,2,8,0,35,20,1,"Toronto",152, ,2,3,0,195,397,"Sts. Cosmas and Damian Catholic School",20071010
+020,EGLINTON--LAWRENCE,1,84,2,14,0,25,23,2,"Toronto",153, ,1,0,0,152,341,"Sts. Cosmas and Damian Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,34,1,4,0,121,6,0,"Toronto",154A, ,0,0,1,167,303,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,37,0,3,0,143,9,0,"Toronto",154B, ,0,0,0,192,347,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,49,0,10,1,124,10,1,"Toronto",156, ,0,0,0,195,347,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,55,0,12,2,81,22,0,"Toronto",157, ,0,0,0,172,318,"Our Lady of Assumption Church - Rectory",20071010
+020,EGLINTON--LAWRENCE,0,83,1,10,0,40,30,0,"Toronto",158, ,0,0,0,164,365,"Our Lady of Assumption Church - Rectory",20071010
+020,EGLINTON--LAWRENCE,0,35,0,1,0,33,8,0,"Toronto",159s, ,0,3,1,81,127,"Forest Hill Place",20071010
+020,EGLINTON--LAWRENCE,0,43,2,4,0,33,22,0,"Toronto",160s, ,0,1,0,105,145,"Dorothy Klein Seniors Residence",20071010
+020,EGLINTON--LAWRENCE,0,62,0,10,0,69,9,0,"Toronto",161, ,1,0,0,151,297,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,36,0,2,1,45,6,0,"Toronto",162, ,0,0,0,90,174,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,52,1,10,0,61,11,0,"Toronto",163, ,1,1,0,137,287,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,77,0,14,3,50,21,0,"Toronto",164, ,0,0,0,165,342,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,0,55,2,22,0,60,21,0,"Toronto",165, ,0,0,0,160,343,"Marshall McLuhan Catholic Secondary School",20071010
+020,EGLINTON--LAWRENCE,2,63,1,4,4,22,5,0,"Toronto",166, ,1,1,0,103,296,"Glen Long Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,84,1,12,1,25,15,0,"Toronto",167, ,0,0,0,139,281,"Briar Hill Public School",20071010
+020,EGLINTON--LAWRENCE,4,91,1,7,0,20,13,0,"Toronto",168, ,1,0,0,137,323,"Briar Hill Public School",20071010
+020,EGLINTON--LAWRENCE,2,90,2,10,0,42,24,0,"Toronto",169, ,1,0,0,171,344,"Sts. Cosmas and Damian Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,59,2,15,1,21,27,0,"Toronto",170, ,1,1,0,127,334,"Elmridge Apartments",20071010
+020,EGLINTON--LAWRENCE,0,52,0,17,1,46,13,0,"Toronto",171, ,0,0,0,129,268,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,0,49,1,16,0,127,14,1,"Toronto",172, ,0,3,0,211,348,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,48,0,7,0,109,3,0,"Toronto",173, ,0,0,0,167,319,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,41,1,8,0,120,15,0,"Toronto",174, ,0,0,0,185,368,"West Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,1,55,0,12,1,34,9,0,"Toronto",175, ,0,0,0,112,235,"Forest Hill United Church Basement Hall",20071010
+020,EGLINTON--LAWRENCE,0,40,2,9,0,46,8,0,"Toronto",176, ,1,0,0,106,230,"Forest Hill United Church Basement Hall",20071010
+020,EGLINTON--LAWRENCE,0,29,0,4,0,33,13,1,"Toronto",177, ,1,0,0,81,191,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,0,42,1,17,0,29,24,0,"Toronto",178, ,0,0,0,113,225,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,1,94,0,7,1,20,9,2,"Toronto",179, ,0,0,0,134,372,"Royal Canadian Legion - Branch 75",20071010
+020,EGLINTON--LAWRENCE,0,62,1,3,1,14,14,1,"Toronto",180, ,0,3,0,99,278,"Briar Hill Public School",20071010
+020,EGLINTON--LAWRENCE,1,92,1,10,3,19,18,1,"Toronto",181, ,2,1,0,148,365,"Christ Church St. James",20071010
+020,EGLINTON--LAWRENCE,1,88,3,5,2,32,16,1,"Toronto",182, ,1,0,0,149,325,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,0,116,0,10,1,37,25,0,"Toronto",183, ,3,0,0,192,420,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,1,127,0,16,2,42,30,0,"Toronto",184, ,1,0,0,219,457,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,1,56,1,3,2,14,15,0,"Toronto",185, ,0,0,0,92,296,"Church of God Deliverance Centre",20071010
+020,EGLINTON--LAWRENCE,0,81,0,6,1,22,18,0,"Toronto",186, ,3,0,1,132,340,"Church of God Deliverance Centre",20071010
+020,EGLINTON--LAWRENCE,1,73,1,3,3,25,5,0,"Toronto",187, ,5,0,0,116,257,"Royal Canadian Legion - Branch 75",20071010
+020,EGLINTON--LAWRENCE,1,35,1,2,0,7,8,1,"Toronto",188, ,0,0,0,55,232,"Royal Canadian Legion - Branch 75",20071010
+020,EGLINTON--LAWRENCE,2,93,0,9,1,34,24,1,"Toronto",189, ,0,0,0,164,351,"Christ Church St. James",20071010
+020,EGLINTON--LAWRENCE,1,50,0,8,0,11,15,0,"Toronto",190, ,1,0,0,86,241,"Christ Church St. James",20071010
+020,EGLINTON--LAWRENCE,1,14,1,3,0,11,5,0,"Toronto",191, ,0,0,0,35,150,"Christ Church St. James",20071010
+020,EGLINTON--LAWRENCE,0,92,1,5,2,26,19,1,"Toronto",192, ,1,0,0,147,349,"Church of God Deliverance Centre",20071010
+020,EGLINTON--LAWRENCE,0,69,2,8,0,26,23,1,"Toronto",193, ,1,0,0,130,306,"Church of God Deliverance Centre",20071010
+020,EGLINTON--LAWRENCE,1,111,4,22,1,76,19,1,"Toronto",400, ,2,1,0,238,366,"The Four Thousand - East Tower",20071010
+020,EGLINTON--LAWRENCE,0,28,1,4,1,112,3,0,"Toronto",401, ,0,0,0,149,202,"York Mills Place",20071010
+020,EGLINTON--LAWRENCE,0,76,2,10,0,82,13,1,"Toronto",402, ,0,0,0,184,332,"271 Ridley Boulevard",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",403, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,64,3,9,4,83,16,0,"Toronto",404, ,0,0,0,179,313,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,2,30,3,4,1,17,9,2,"Toronto",405, ,0,3,0,71,151,"The Avenel",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",406, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,1,50,0,6,0,29,10,0,"Toronto",407, ,0,0,0,96,160,"Avenue Place",20071010
+020,EGLINTON--LAWRENCE,0,64,1,7,1,171,4,1,"Toronto",408, ,0,0,0,249,403,"Governor's Hill",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",409, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",410, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,56,0,5,0,72,21,0,"Toronto",411, ,2,2,0,158,283,"Empress House",20071010
+020,EGLINTON--LAWRENCE,0,34,2,7,0,62,20,0,"Toronto",412, ,4,0,0,129,217,"Sir Sandford Fleming Academy",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",413, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,53,1,1,1,11,7,0,"Toronto",414, ,1,3,0,78,188,"Sir Sandford Fleming Academy",20071010
+020,EGLINTON--LAWRENCE,2,55,1,9,1,38,16,1,"Toronto",415, ,1,0,0,124,227,"Neptune Towers",20071010
+020,EGLINTON--LAWRENCE,0,50,1,9,2,42,16,0,"Toronto",416, ,2,0,0,122,189,"National Council of Jewish Women",20071010
+020,EGLINTON--LAWRENCE,0,17,2,1,0,12,2,0,"Toronto",417, ,0,1,0,35,101,"Ledbury Park Public School",20071010
+020,EGLINTON--LAWRENCE,0,50,0,16,0,17,19,0,"Toronto",418, ,0,0,0,102,225,"Glenview Presbyterian Church",20071010
+020,EGLINTON--LAWRENCE,1,79,1,6,2,121,21,1,"Toronto",420, ,2,3,0,237,350,"Crystal Towers",20071010
+020,EGLINTON--LAWRENCE,1,72,3,17,2,37,37,2,"Toronto",421A, ,0,0,0,171,296,"Shermont Co-operative",20071010
+020,EGLINTON--LAWRENCE,1,83,0,12,1,48,34,1,"Toronto",421B, ,2,0,0,182,306,"Shermont Co-operative",20071010
+020,EGLINTON--LAWRENCE,1,25,2,1,1,38,16,0,"Toronto",422, ,1,0,0,85,161,"Bathurst Place",20071010
+020,EGLINTON--LAWRENCE,0,16,0,2,0,98,8,0,"Toronto",423, ,1,0,1,126,250,"Our Lady of Assumption Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,91,0,13,0,46,15,0,"Toronto",424, ,1,0,0,166,409,"St. Charles Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,10,0,6,0,61,7,0,"Toronto",425, ,0,0,0,84,209,"Our Lady of Assumption Catholic School",20071010
+020,EGLINTON--LAWRENCE,0,23,1,0,2,22,3,0,"Toronto",426, ,1,0,0,52,121,"Shaarei Shomayim Hall",20071010
+020,EGLINTON--LAWRENCE,0,37,0,8,1,10,9,0,"Toronto",427, ,0,0,0,65,112,"500 Duplex Avenue",20071010
+020,EGLINTON--LAWRENCE,0,105,0,31,2,68,27,0,"Toronto",428, ,1,2,0,236,390,"500 Duplex Avenue",20071010
+020,EGLINTON--LAWRENCE,1,89,0,14,5,40,36,1,"Toronto",430, ,0,0,0,186,323,"Pinedale Properties",20071010
+020,EGLINTON--LAWRENCE,0,20,1,7,0,15,8,0,"Toronto",431, ,0,0,0,51,151,"Bialik Hebrew Day School Gym",20071010
+020,EGLINTON--LAWRENCE,0,43,0,10,0,17,22,0,"Toronto",432, ,0,0,0,92,181,"North Toronto Memorial Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,70,2,21,0,33,26,1,"Toronto",433, ,1,0,0,155,464,"North Toronto Memorial Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,33,1,5,0,12,31,0,"Toronto",434, ,2,1,0,86,124,"Northern District Library",20071010
+020,EGLINTON--LAWRENCE,1,41,2,9,0,31,23,1,"Toronto",435, ,2,1,0,111,268,"Northern District Library",20071010
+020,EGLINTON--LAWRENCE,1,127,1,23,0,74,34,1,"Toronto",436, ,3,0,0,264,445,"Briar Hill Towers",20071010
+020,EGLINTON--LAWRENCE,2,67,0,8,2,23,22,0,"Toronto",437, ,0,1,0,125,267,"Ridley Towers",20071010
+020,EGLINTON--LAWRENCE,5,135,5,17,0,62,48,4,"Toronto",438, ,0,0,1,277,476,"The Allenway",20071010
+020,EGLINTON--LAWRENCE,0,11,1,6,0,10,5,0,"Toronto",439, ,1,0,0,34,119,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,41,0,6,0,32,9,0,"Toronto",440, ,0,0,0,88,223,"Forest Hill United Church Basement Hall",20071010
+020,EGLINTON--LAWRENCE,0,31,0,4,2,22,4,0,"Toronto",441, ,1,0,0,64,171,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,1,47,0,6,0,21,20,0,"Toronto",442, ,0,1,0,96,224,"Dorothy Klein Seniors Residence",20071010
+020,EGLINTON--LAWRENCE,..........................NO POLL HELD........................,,,,,,,,"Toronto",443, ,0,0,0,0,0,"",20071010
+020,EGLINTON--LAWRENCE,0,30,1,7,0,17,13,0,"Toronto",444, ,0,0,1,69,152,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,1,36,0,8,0,29,8,1,"Toronto",445, ,1,0,0,84,186,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,0,26,1,4,1,8,7,0,"Toronto",446, ,0,0,0,47,119,"North Preparatory Public School",20071010
+020,EGLINTON--LAWRENCE,0,28,0,7,0,24,14,0,"Toronto",447, ,0,0,0,73,143,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,1,37,0,1,1,7,6,1,"Toronto",448, ,0,0,0,54,220,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,1,106,2,20,1,50,44,1,"Toronto",449, ,0,0,0,225,421,"Fernwood Apartments",20071010
+020,EGLINTON--LAWRENCE,1,42,0,7,1,23,18,4,"Toronto",450, ,1,0,0,97,248,"The Ascot",20071010
+020,EGLINTON--LAWRENCE,2,82,1,10,1,21,33,1,"Toronto",451, ,0,1,0,152,266,"The Castlefield",20071010
+020,EGLINTON--LAWRENCE,0,74,2,11,1,31,18,0,"Toronto",452, ,1,0,0,138,258,"Elmridge Apartments",20071010
+020,EGLINTON--LAWRENCE,0,14,2,11,0,16,13,0,"Toronto",453, ,0,0,0,56,109,"Forest Hill Collegiate Gym",20071010
+020,EGLINTON--LAWRENCE,0,31,0,15,0,13,4,0,"Toronto",454, ,0,0,0,63,155,"Briar Hill Public School",20071010
+020,EGLINTON--LAWRENCE,0,44,1,2,11,2,0,0,"Toronto",455, ,0,0,0,60,152,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,0,39,0,1,2,16,14,1,"Toronto",456-1, ,0,0,0,73,111,"The Tower",20071010
+020,EGLINTON--LAWRENCE,1,45,1,10,1,17,18,0,"Toronto",457, ,0,1,0,94,162,"Lyon Court",20071010
+020,EGLINTON--LAWRENCE,3,91,2,3,2,18,11,3,"Toronto",458A, ,4,1,0,138,286,"Lotherton Pathway",20071010
+020,EGLINTON--LAWRENCE,0,73,5,4,0,12,11,4,"Toronto",458B, ,2,0,0,111,257,"Lotherton Pathway",20071010
+020,EGLINTON--LAWRENCE,0,94,0,2,0,17,7,1,"Toronto",459, ,1,1,0,123,265,"Lotherton Pathway",20071010
+020,EGLINTON--LAWRENCE,2,139,6,6,1,17,21,1,"Toronto",460, ,4,1,0,198,491,"Lotherton Pathway",20071010
+020,EGLINTON--LAWRENCE,0,435,3,68,7,547,81,1,"Toronto",Advanced Polls /  ADV001, ,5,0,1,1148,0,"Returning Office / Bureau du directeur du scrutin",20071010
+020,EGLINTON--LAWRENCE,0,309,3,47,6,362,39,0,"Toronto",Advanced Polls /  ADV002, ,2,2,0,770,0,"Armour Heights Community Centre",20071010
+020,EGLINTON--LAWRENCE,1,255,3,35,3,149,70,0,"Toronto",Advanced Polls /  ADV003, ,1,0,2,519,0,"North Toronto Memorial Community Centre",20071010
+020,EGLINTON--LAWRENCE,6,221,1,20,5,96,47,2,"Toronto",Advanced Polls /  ADV004, ,5,1,0,404,0,"855 Roselawn Apartments",20071010
+020,EGLINTON--LAWRENCE,1,257,3,43,1,512,64,0,"Toronto",Advanced Polls /  ADV005, ,1,0,1,883,0,"Barbara Frum Library",20071010
+020,EGLINTON--LAWRENCE,1,114,1,6,2,25,21,0,"Toronto",Advanced Polls /  ADV006, ,2,0,0,172,0,"Glen Long Community Centre",20071010
+TOTALS:, ,130,17402,235,2871,229,15257,4039,90, , , , , , , , , , 

@@ -1,0 +1,314 @@
+ED_CODE,ED_NAME,BENTLEY,BROWN,GRAHAM,GUPTA,JEZIERSKI,MCKEEVER,PIGHIN,REYNOLDS,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+045,LONDON WEST,73,13,41,1,0,0,19,1,"London",001, ,0,0,0,148,287,"West Park Baptist Church",20071010
+045,LONDON WEST,61,17,42,0,0,0,23,1,"London",002, ,0,0,0,144,321,"St. Marguerite d'Youville Catholic School",20071010
+045,LONDON WEST,83,18,37,0,2,0,30,1,"London",003A, ,0,0,0,171,278,"Emily Carr Public School",20071010
+045,LONDON WEST,71,22,39,0,0,0,16,3,"London",003B, ,0,0,0,151,269,"Emily Carr Public School",20071010
+045,LONDON WEST,111,25,43,0,0,2,20,0,"London",004, ,0,0,1,202,425,"Emily Carr Public School",20071010
+045,LONDON WEST,99,6,28,1,0,0,4,0,"London",005, ,0,0,0,138,303,"West Park Baptist Church",20071010
+045,LONDON WEST,102,20,38,0,3,3,24,0,"London",006, ,0,0,0,190,329,"St. Marguerite d'Youville Catholic School",20071010
+045,LONDON WEST,127,24,55,0,4,0,16,2,"London",007, ,0,2,0,230,420,"St. Marguerite d'Youville Catholic School",20071010
+045,LONDON WEST,113,30,61,0,6,0,19,2,"London",008, ,1,0,0,232,441,"Emily Carr Public School",20071010
+045,LONDON WEST,82,24,58,0,4,0,24,1,"London",009, ,0,0,0,193,372,"Emily Carr Public School",20071010
+045,LONDON WEST,118,23,53,0,3,2,30,1,"London",010, ,0,1,0,231,420,"Emily Carr Public School",20071010
+045,LONDON WEST,81,21,34,0,0,2,21,0,"London",011, ,1,0,0,160,344,"Emily Carr Public School",20071010
+045,LONDON WEST,117,23,55,0,0,1,9,3,"London",012, ,0,1,0,209,412,"St. Marguerite d'Youville Catholic School",20071010
+045,LONDON WEST,62,23,29,0,1,0,14,1,"London",013, ,0,0,0,130,308,"St. Marguerite d'Youville Catholic School",20071010
+045,LONDON WEST,72,16,55,1,1,0,21,1,"London",014, ,0,1,0,168,321,"Emily Carr Public School",20071010
+045,LONDON WEST,95,31,51,0,1,2,26,2,"London",015, ,0,1,0,209,372,"West Park Baptist Church",20071010
+045,LONDON WEST,14,4,2,0,0,0,10,0,"London",016, ,0,1,0,31,196,"West Park Baptist Church",20071010
+045,LONDON WEST,42,12,23,0,1,1,10,1,"London",017, ,0,0,1,91,254,"Trinity Place",20071010
+045,LONDON WEST,44,11,17,0,0,0,13,0,"London",019, ,0,0,0,85,116,"St. Ansgar Lutheran Church",20071010
+045,LONDON WEST,59,16,25,0,0,2,8,0,"London",020, ,1,1,0,112,226,"West Park Baptist Church",20071010
+045,LONDON WEST,47,19,25,0,1,1,15,1,"London",021, ,0,0,0,109,225,"West Park Baptist Church",20071010
+045,LONDON WEST,90,24,33,0,4,0,20,0,"London",022, ,0,0,0,171,360,"West Park Baptist Church",20071010
+045,LONDON WEST,82,24,37,0,0,0,17,2,"London",023, ,1,0,0,163,342,"Wilfred Jury Public School",20071010
+045,LONDON WEST,97,24,33,1,3,2,19,1,"London",024, ,0,0,0,180,348,"Wilfred Jury Public School",20071010
+045,LONDON WEST,61,15,25,0,1,0,25,1,"London",025, ,0,0,0,128,258,"St. Ansgar Lutheran Church",20071010
+045,LONDON WEST,136,19,48,1,0,2,31,0,"London",026, ,1,1,0,239,439,"St. Ansgar Lutheran Church",20071010
+045,LONDON WEST,52,9,57,0,2,0,9,1,"London",027, ,0,0,0,130,242,"Hyde Park United Church",20071010
+045,LONDON WEST,96,21,44,0,0,3,26,0,"London",028, ,2,0,1,193,393,"Wilfred Jury Public School",20071010
+045,LONDON WEST,114,26,45,0,2,2,17,3,"London",029, ,0,1,0,210,371,"Wilfred Jury Public School",20071010
+045,LONDON WEST,125,20,32,0,1,0,27,2,"London",030, ,1,0,0,208,421,"Wilfred Jury Public School",20071010
+045,LONDON WEST,89,9,43,0,2,2,23,2,"London",031, ,0,0,1,171,370,"Wilfred Jury Public School",20071010
+045,LONDON WEST,62,14,29,1,2,0,15,0,"London",032, ,1,0,0,124,282,"St. Ansgar Lutheran Church",20071010
+045,LONDON WEST,46,21,24,0,0,0,14,0,"London",033, ,0,0,0,105,227,"St. Ansgar Lutheran Church",20071010
+045,LONDON WEST,41,5,17,0,0,0,7,0,"London",034, ,0,1,0,71,155,"Hyde Park United Church",20071010
+045,LONDON WEST,50,11,16,0,0,0,3,0,"London",035, ,0,0,0,80,168,"Oakridge Secondary School",20071010
+045,LONDON WEST,63,17,29,0,3,0,8,0,"London",036, ,0,0,0,120,299,"Oakridge Secondary School",20071010
+045,LONDON WEST,37,3,18,0,0,0,2,0,"London",037s, ,1,0,0,61,115,"Chelsey Park Retirement Community",20071010
+045,LONDON WEST,33,3,19,2,0,0,13,3,"London",038s, ,0,1,0,74,238,"Chelsey Park Nursing Home",20071010
+045,LONDON WEST,34,6,7,0,0,0,12,1,"London",039s, ,0,1,0,61,93,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,48,21,23,0,0,2,17,2,"London",040, ,0,0,0,113,306,"Kinsmen Recreation Centre",20071010
+045,LONDON WEST,61,17,14,0,2,0,21,0,"London",041, ,0,0,0,115,275,"Kinsmen Recreation Centre",20071010
+045,LONDON WEST,44,15,22,0,1,0,15,0,"London",042, ,3,0,0,100,241,"Kinsmen Recreation Centre",20071010
+045,LONDON WEST,49,22,16,0,8,0,25,1,"London",043, ,0,0,0,121,254,"Kinsmen Recreation Centre",20071010
+045,LONDON WEST,116,18,66,0,2,0,10,0,"London",044, ,0,0,0,212,398,"Clara Brenton Public School",20071010
+045,LONDON WEST,143,27,58,0,1,0,17,0,"London",045, ,1,1,0,248,416,"Clara Brenton Public School",20071010
+045,LONDON WEST,114,24,51,0,0,1,19,0,"London",046, ,0,0,0,209,415,"Oakridge Presbyterian Church",20071010
+045,LONDON WEST,105,6,43,0,0,0,23,0,"London",047, ,0,0,0,177,424,"Oakridge Secondary School",20071010
+045,LONDON WEST,53,8,32,0,1,0,11,0,"London",048, ,0,0,0,105,277,"Oakridge Secondary School",20071010
+045,LONDON WEST,45,8,19,0,0,2,5,0,"London",049, ,0,0,0,79,144,"Oakridge Secondary School",20071010
+045,LONDON WEST,72,31,25,0,1,1,24,0,"London",050, ,0,0,0,154,341,"Proudfoot Place",20071010
+045,LONDON WEST,112,30,47,1,0,2,45,1,"London",051, ,1,3,1,243,503,"London Christian Academy",20071010
+045,LONDON WEST,38,9,27,0,0,0,13,2,"London",052, ,0,1,0,90,220,"London Christian Academy",20071010
+045,LONDON WEST,63,9,18,0,1,3,26,1,"London",053s, ,3,2,0,126,196,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,64,23,22,0,0,0,26,2,"London",054, ,0,0,0,137,307,"Kinsmen Recreation Centre",20071010
+045,LONDON WEST,124,18,98,0,0,0,4,1,"London",055, ,1,1,0,247,347,"Riverbend Clubhouse",20071010
+045,LONDON WEST,76,15,81,1,0,2,2,0,"London",056A, ,0,4,2,183,315,"Clara Brenton Public School",20071010
+045,LONDON WEST,64,14,81,0,0,0,4,0,"London",056B, ,0,1,0,164,306,"Clara Brenton Public School",20071010
+045,LONDON WEST,60,10,18,0,1,0,21,0,"London",057, ,1,0,0,111,281,"Clara Brenton Public School",20071010
+045,LONDON WEST,104,18,64,0,2,0,17,1,"London",058, ,2,0,0,208,350,"Clara Brenton Public School",20071010
+045,LONDON WEST,133,20,60,1,0,0,5,0,"London",059, ,0,0,0,219,374,"Clara Brenton Public School",20071010
+045,LONDON WEST,120,12,44,0,0,2,17,0,"London",060, ,0,1,0,196,350,"Oakridge Presbyterian Church",20071010
+045,LONDON WEST,122,20,48,2,0,0,10,1,"London",061, ,1,1,0,205,466,"Oakridge Presbyterian Church",20071010
+045,LONDON WEST,129,23,52,0,5,0,22,0,"London",062, ,0,0,0,231,429,"Holy Family Parish",20071010
+045,LONDON WEST,108,12,72,0,0,1,14,1,"London",063, ,1,0,0,209,431,"Holy Family Parish",20071010
+045,LONDON WEST,70,17,32,0,0,0,14,0,"London",064, ,0,0,0,133,273,"Riverside United Church",20071010
+045,LONDON WEST,36,8,16,0,1,1,10,0,"London",065, ,1,1,0,74,161,"London Christian Academy",20071010
+045,LONDON WEST,33,22,16,0,0,0,16,1,"London",066, ,0,0,0,88,198,"London Christian Academy",20071010
+045,LONDON WEST,17,10,2,0,0,1,10,0,"London",067, ,0,0,0,40,129,"London Christian Academy",20071010
+045,LONDON WEST,77,15,22,0,0,2,23,2,"London",068, ,0,0,0,141,261,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,14,15,11,1,0,2,13,0,"London",069, ,1,0,0,57,149,"London Christian Academy",20071010
+045,LONDON WEST,85,26,73,1,0,0,9,0,"London",070, ,1,0,0,195,300,"St. Aidan's Anglican Church",20071010
+045,LONDON WEST,102,19,76,0,1,0,14,0,"London",071, ,0,1,0,213,332,"St. Aidan's Anglican Church",20071010
+045,LONDON WEST,96,21,41,0,1,0,17,1,"London",072, ,0,0,0,177,314,"Clara Brenton Public School",20071010
+045,LONDON WEST,135,43,60,1,2,1,21,0,"London",073, ,0,4,0,267,431,"Oakridge Presbyterian Church",20071010
+045,LONDON WEST,112,31,58,0,0,0,22,0,"London",074, ,0,0,0,223,393,"Oakridge Presbyterian Church",20071010
+045,LONDON WEST,96,25,60,0,3,1,14,0,"London",075, ,1,1,0,201,350,"Holy Family Parish",20071010
+045,LONDON WEST,94,30,44,0,0,0,12,0,"London",076, ,0,0,1,181,326,"Riverside United Church",20071010
+045,LONDON WEST,70,19,25,0,0,5,24,1,"London",077, ,0,0,0,144,285,"St. Michael & All Angels Anglican Church",20071010
+045,LONDON WEST,46,9,32,0,0,2,16,1,"London",078, ,1,0,0,107,285,"St. Michael & All Angels Anglican Church",20071010
+045,LONDON WEST,51,10,11,0,2,2,21,1,"London",079, ,0,0,0,98,219,"St. Michael & All Angels Anglican Church",20071010
+045,LONDON WEST,41,22,9,0,0,0,25,0,"London",080, ,0,0,0,97,201,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,47,20,10,0,0,0,17,0,"London",081, ,0,0,0,94,175,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,66,16,22,0,1,1,15,1,"London",082, ,2,0,0,124,216,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,46,13,12,0,0,0,18,0,"London",083, ,1,0,0,90,167,"Landon Public Library",20071010
+045,LONDON WEST,32,24,13,0,0,0,20,0,"London",084, ,0,0,0,89,175,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,45,19,14,1,0,0,26,1,"London",085, ,0,0,0,106,212,"Landon Public Library",20071010
+045,LONDON WEST,76,17,17,1,0,2,21,0,"London",086, ,0,1,0,135,248,"Trafalgar Terrace",20071010
+045,LONDON WEST,15,3,17,0,1,0,1,0,"London",088s, ,0,0,0,37,50,"Waverley Mansion Retirement Residence",20071010
+045,LONDON WEST,25,8,4,0,1,1,10,0,"London",089, ,0,0,0,49,119,"Trafalgar Terrace",20071010
+045,LONDON WEST,56,14,30,0,0,1,22,4,"London",090, ,0,0,0,127,238,"South Secondary School",20071010
+045,LONDON WEST,38,6,11,0,0,0,11,0,"London",091, ,0,0,0,66,192,"South Secondary School",20071010
+045,LONDON WEST,40,9,25,1,0,1,4,0,"London",092s, ,0,0,0,80,124,"Grandwood Park Apartments & Retirement Residence",20071010
+045,LONDON WEST,20,8,7,0,0,0,17,1,"London",093, ,0,0,0,53,127,"Moose Lodge 1205",20071010
+045,LONDON WEST,59,22,17,0,2,1,22,0,"London",094, ,0,1,0,124,247,"Moose Lodge 1205",20071010
+045,LONDON WEST,92,10,63,0,3,0,12,0,"London",095, ,0,0,0,180,358,"St. Thomas Aquinas Catholic High School",20071010
+045,LONDON WEST,68,10,36,0,1,0,6,0,"London",096, ,0,0,0,121,231,"St. Thomas Aquinas Catholic High School",20071010
+045,LONDON WEST,126,19,61,0,0,2,10,1,"London",097, ,0,2,0,221,380,"St. Aidan's Anglican Church",20071010
+045,LONDON WEST,166,27,84,1,1,0,10,1,"London",098, ,0,0,0,290,495,"John Dearness Public School",20071010
+045,LONDON WEST,125,4,58,1,1,0,9,0,"London",099, ,1,0,0,199,301,"St. Aidan's Anglican Church",20071010
+045,LONDON WEST,136,38,55,0,1,0,17,2,"London",100, ,0,0,0,249,394,"Westdale Public School",20071010
+045,LONDON WEST,118,28,71,3,0,0,23,0,"London",101, ,1,1,0,245,384,"Westdale Public School",20071010
+045,LONDON WEST,93,20,40,1,0,0,29,0,"London",102, ,0,0,0,183,327,"Holy Family Parish",20071010
+045,LONDON WEST,101,30,43,0,1,3,17,1,"London",103, ,0,0,0,196,321,"St. Michael & All Angels Anglican Church",20071010
+045,LONDON WEST,49,14,23,1,0,2,27,1,"London",104, ,0,0,0,117,286,"Woodland Heights Public School",20071010
+045,LONDON WEST,48,24,29,1,1,0,21,1,"London",105, ,0,0,0,125,212,"Manor & Highland Park Public School",20071010
+045,LONDON WEST,62,16,20,0,0,1,32,0,"London",106, ,0,0,0,131,251,"Manor & Highland Park Public School",20071010
+045,LONDON WEST,22,3,7,1,1,1,1,1,"London",107s, ,0,1,2,40,77,"Elmwood Place",20071010
+045,LONDON WEST,62,22,13,1,2,2,21,0,"London",108, ,0,0,1,124,272,"St. James Westminster Anglican Church",20071010
+045,LONDON WEST,70,23,14,1,2,1,26,0,"London",109, ,1,1,0,139,262,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,61,22,19,0,0,0,29,2,"London",111, ,0,0,1,134,223,"Elmwood Avenue Presbyterian Church",20071010
+045,LONDON WEST,61,21,20,2,0,0,31,0,"London",112, ,0,1,1,137,282,"Elmwood Avenue Presbyterian Church",20071010
+045,LONDON WEST,72,20,30,0,2,0,23,2,"London",113, ,0,0,0,149,308,"Elmwood Avenue Presbyterian Church",20071010
+045,LONDON WEST,63,30,20,0,1,0,14,1,"London",114, ,1,0,0,130,214,"Landon Public Library",20071010
+045,LONDON WEST,105,32,37,0,0,1,20,2,"London",115, ,0,1,1,199,341,"Calvary United Church",20071010
+045,LONDON WEST,35,18,18,0,1,0,16,1,"London",116, ,0,0,0,89,172,"Calvary United Church",20071010
+045,LONDON WEST,78,24,19,0,0,0,24,1,"London",117, ,3,0,0,149,260,"South Secondary School",20071010
+045,LONDON WEST,124,39,27,0,1,1,30,0,"London",118, ,0,0,0,222,318,"Calvary United Church",20071010
+045,LONDON WEST,139,15,20,0,1,0,28,1,"London",119, ,0,0,0,204,314,"South Secondary School",20071010
+045,LONDON WEST,104,26,24,1,0,2,36,0,"London",120, ,0,0,0,193,330,"South Secondary School",20071010
+045,LONDON WEST,27,8,6,0,0,1,18,1,"London",121, ,0,0,0,61,197,"Redeemer Lutheran Church",20071010
+045,LONDON WEST,72,17,22,0,1,1,24,0,"London",122, ,0,0,0,137,264,"Redeemer Lutheran Church",20071010
+045,LONDON WEST,81,20,27,0,0,0,18,0,"London",123, ,0,0,0,146,260,"St. Andrew Memorial Church",20071010
+045,LONDON WEST,80,22,28,1,0,3,29,0,"London",124, ,0,0,0,163,292,"Moose Lodge 1205",20071010
+045,LONDON WEST,18,0,9,0,0,1,1,0,"London",125s, ,0,0,0,29,154,"McCormick Home",20071010
+045,LONDON WEST,198,24,91,0,1,0,21,1,"London",126, ,0,1,0,337,554,"St. Anne's Anglican Church",20071010
+045,LONDON WEST,71,28,40,0,2,0,11,0,"London",127, ,0,1,0,153,249,"St. George Catholic Church",20071010
+045,LONDON WEST,142,33,52,0,0,0,14,0,"London",128, ,1,0,0,242,382,"John Dearness Public School",20071010
+045,LONDON WEST,134,15,7,1,0,0,72,1,"London",129, ,0,1,0,231,424,"John Dearness Public School",20071010
+045,LONDON WEST,131,10,53,0,2,1,15,0,"London",130, ,3,3,0,218,397,"Westdale Public School",20071010
+045,LONDON WEST,125,19,76,0,0,18,2,0,"London",131, ,0,0,0,240,400,"Riverside United Church",20071010
+045,LONDON WEST,97,28,68,0,1,0,11,0,"London",132, ,0,0,0,205,389,"Riverside United Church",20071010
+045,LONDON WEST,40,4,16,1,1,0,14,1,"London",133, ,0,1,0,78,179,"The Berkshire Club",20071010
+045,LONDON WEST,34,11,12,0,1,1,13,1,"London",134, ,0,0,0,73,226,"The Berkshire Club",20071010
+045,LONDON WEST,51,13,23,0,0,0,24,0,"London",135, ,0,0,0,111,270,"The Berkshire Club",20071010
+045,LONDON WEST,45,17,24,0,0,4,24,1,"London",136, ,0,0,0,115,244,"Woodland Heights Public School",20071010
+045,LONDON WEST,155,18,68,0,3,4,41,1,"London",137, ,0,0,0,290,471,"Mount Zion United Church",20071010
+045,LONDON WEST,23,8,10,0,0,0,21,1,"London",138, ,0,0,0,63,231,"St. John the Divine Catholic Church",20071010
+045,LONDON WEST,68,9,33,1,1,4,34,2,"London",139, ,0,0,0,152,390,"Manor & Highland Park Public School",20071010
+045,LONDON WEST,45,19,21,0,0,0,23,2,"London",140, ,0,1,0,111,275,"Manor & Highland Park Public School",20071010
+045,LONDON WEST,27,16,17,0,0,0,23,1,"London",141, ,0,0,2,86,203,"Manor & Highland Park Public School",20071010
+045,LONDON WEST,81,23,26,0,2,1,34,1,"London",142, ,1,0,0,169,369,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,73,10,12,0,0,0,20,1,"London",143, ,0,0,0,116,231,"Wortley Baptist Church",20071010
+045,LONDON WEST,80,24,14,0,1,3,33,0,"London",144, ,0,0,0,155,274,"Calvary United Church",20071010
+045,LONDON WEST,127,27,49,0,0,1,18,0,"London",145, ,0,1,0,223,340,"Wortley Baptist Church",20071010
+045,LONDON WEST,95,35,20,0,1,1,27,2,"London",146, ,0,1,1,183,298,"Calvary United Church",20071010
+045,LONDON WEST,82,15,19,0,0,0,14,0,"London",147, ,1,0,0,131,223,"Mountsfield Public School",20071010
+045,LONDON WEST,95,22,31,1,0,0,23,0,"London",148, ,2,0,0,174,286,"Calvary United Church",20071010
+045,LONDON WEST,132,30,42,0,0,0,27,1,"London",149, ,0,0,0,232,410,"Immanuel Reformed Church",20071010
+045,LONDON WEST,78,15,27,32,1,0,0,0,"London",150, ,0,0,0,153,279,"Immanuel Reformed Church",20071010
+045,LONDON WEST,80,24,22,0,1,0,27,0,"London",151, ,1,0,0,155,282,"Immanuel Reformed Church",20071010
+045,LONDON WEST,40,11,23,0,0,1,28,0,"London",152, ,0,1,0,104,236,"St. Andrew Memorial Church",20071010
+045,LONDON WEST,87,23,32,0,0,1,33,1,"London",153, ,0,0,0,177,408,"St. Andrew Memorial Church",20071010
+045,LONDON WEST,31,3,13,0,0,0,20,0,"London",154, ,1,0,0,68,276,"St. Andrew Memorial Church",20071010
+045,LONDON WEST,152,23,84,1,0,0,15,1,"London",155, ,0,1,1,278,481,"St. Anne's Anglican Church",20071010
+045,LONDON WEST,82,25,51,0,0,2,13,1,"London",156, ,1,0,0,175,321,"St. Anne's Anglican Church",20071010
+045,LONDON WEST,65,8,29,0,0,0,18,0,"London",157, ,0,0,0,120,240,"St. George Catholic Church",20071010
+045,LONDON WEST,133,21,74,0,1,0,7,0,"London",158, ,0,2,0,238,435,"John Dearness Public School",20071010
+045,LONDON WEST,63,9,31,0,1,0,10,0,"London",159, ,0,0,0,114,204,"St. George Catholic Church",20071010
+045,LONDON WEST,53,14,23,0,0,0,10,1,"London",160, ,0,0,0,101,258,"Civic Garden Complex",20071010
+045,LONDON WEST,92,15,41,0,0,0,21,1,"London",161, ,0,0,0,170,339,"Brick Street Public School",20071010
+045,LONDON WEST,80,18,32,0,0,0,14,0,"London",162, ,0,0,0,144,267,"Brick Street Public School",20071010
+045,LONDON WEST,..........................NO POLL HELD........................,,,,,,,,"London",163, ,0,0,0,0,0,"",20071010
+045,LONDON WEST,114,22,38,0,1,2,37,1,"London",164, ,2,0,1,218,441,"St. John the Divine Catholic Church",20071010
+045,LONDON WEST,104,11,55,1,0,1,19,0,"London",165, ,0,1,1,193,327,"St. John the Divine Catholic Church",20071010
+045,LONDON WEST,50,14,38,1,1,0,20,1,"London",166, ,0,0,0,125,285,"St. John the Divine Catholic Church",20071010
+045,LONDON WEST,29,5,9,0,1,1,7,0,"London",167, ,2,0,1,55,141,"London Gospel Temple",20071010
+045,LONDON WEST,55,8,19,1,1,1,8,0,"London",168, ,0,0,0,93,231,"London Gospel Temple",20071010
+045,LONDON WEST,68,16,24,1,1,0,28,0,"London",169, ,0,1,1,140,256,"Cheshire Homes III",20071010
+045,LONDON WEST,62,8,29,0,0,0,20,0,"London",170, ,0,1,0,120,291,"Cheshire Homes III",20071010
+045,LONDON WEST,42,7,21,0,0,1,15,0,"London",171, ,0,0,0,86,232,"St. John the Divine Catholic Church",20071010
+045,LONDON WEST,68,9,22,2,0,2,17,0,"London",172s, ,2,2,0,124,207,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,155,40,39,0,0,0,36,1,"London",173, ,0,0,0,271,486,"Wortley Baptist Church",20071010
+045,LONDON WEST,78,9,30,0,0,1,13,1,"London",174, ,0,1,0,133,313,"Wortley Baptist Church",20071010
+045,LONDON WEST,97,22,57,0,0,1,6,0,"London",175, ,0,2,0,185,322,"Wortley Baptist Church",20071010
+045,LONDON WEST,112,18,40,0,0,0,11,0,"London",176, ,1,1,0,183,305,"Mountsfield Public School",20071010
+045,LONDON WEST,118,12,70,0,0,1,12,0,"London",177, ,0,0,0,213,391,"St. Anne's Anglican Church",20071010
+045,LONDON WEST,159,16,79,0,2,3,16,0,"London",178, ,0,0,0,275,434,"Byron Recreation Centre",20071010
+045,LONDON WEST,117,16,49,0,2,2,32,1,"London",179, ,0,0,0,219,356,"Byron Recreation Centre",20071010
+045,LONDON WEST,105,35,76,0,2,0,25,2,"London",180, ,0,0,0,245,391,"Byron Recreation Centre",20071010
+045,LONDON WEST,93,30,50,0,1,0,17,1,"London",181, ,0,0,0,192,338,"Byron Community Church",20071010
+045,LONDON WEST,48,11,17,0,0,0,11,0,"London",182s, ,0,0,0,87,118,"Adult and Senior Citizens Apartment Building",20071010
+045,LONDON WEST,109,19,44,0,0,1,31,1,"London",183, ,0,0,1,206,330,"Byron Community Church",20071010
+045,LONDON WEST,79,12,51,0,0,0,3,0,"London",184, ,0,0,0,145,330,"Civic Garden Complex",20071010
+045,LONDON WEST,112,17,68,0,0,0,14,0,"London",185, ,2,0,0,213,414,"Civic Garden Complex",20071010
+045,LONDON WEST,114,21,80,0,0,0,9,0,"London",186, ,1,2,0,227,423,"Civic Garden Complex",20071010
+045,LONDON WEST,61,9,28,0,0,2,12,0,"London",187, ,0,0,0,112,250,"W. Sherwood Fox Public School",20071010
+045,LONDON WEST,74,17,30,0,3,0,16,1,"London",188A, ,2,1,0,144,275,"Brick Street Public School",20071010
+045,LONDON WEST,74,20,42,0,1,0,19,1,"London",188B, ,0,0,1,158,279,"Brick Street Public School",20071010
+045,LONDON WEST,113,26,68,0,1,1,23,4,"London",189, ,0,3,1,240,430,"W. Sherwood Fox Public School",20071010
+045,LONDON WEST,80,10,22,0,1,0,19,0,"London",190, ,1,0,0,133,259,"Brick Street Public School",20071010
+045,LONDON WEST,136,19,58,0,1,3,21,4,"London",191, ,2,0,0,244,446,"W. Sherwood Fox Public School",20071010
+045,LONDON WEST,40,2,25,0,1,2,9,0,"London",192, ,0,0,0,79,217,"Andover Gardens Seniors Apartments",20071010
+045,LONDON WEST,109,14,54,0,3,0,14,1,"London",193, ,0,0,0,195,381,"London Gospel Temple",20071010
+045,LONDON WEST,81,18,46,0,0,0,24,0,"London",194, ,0,1,0,170,359,"London Gospel Temple",20071010
+045,LONDON WEST,34,5,9,0,0,0,12,1,"London",195, ,2,0,0,63,198,"London Gospel Temple",20071010
+045,LONDON WEST,80,16,42,0,2,1,27,0,"London",196, ,3,0,0,171,291,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,150,22,75,0,0,0,27,1,"London",197, ,0,2,0,277,436,"Byron United Church",20071010
+045,LONDON WEST,118,19,75,0,0,0,17,0,"London",198, ,0,0,0,229,386,"St. Theresa Catholic School",20071010
+045,LONDON WEST,100,21,44,0,0,1,20,0,"London",199, ,3,1,0,190,350,"St. Theresa Catholic School",20071010
+045,LONDON WEST,154,35,68,0,1,1,23,2,"London",200, ,0,0,0,284,470,"Byron Southwood Public School",20071010
+045,LONDON WEST,158,32,74,0,4,2,15,0,"London",201, ,1,0,0,286,501,"Byron Somerset Public School",20071010
+045,LONDON WEST,115,20,71,0,0,0,21,1,"London",202, ,0,0,1,229,390,"Byron Somerset Public School",20071010
+045,LONDON WEST,80,22,23,0,1,0,20,0,"London",203, ,1,0,0,147,301,"St. George Catholic Church",20071010
+045,LONDON WEST,116,17,61,0,3,0,15,0,"London",204, ,0,0,0,212,415,"Jean Vanier Catholic School",20071010
+045,LONDON WEST,76,5,27,1,1,0,5,0,"London",205s, ,1,2,0,118,309,"Longworth Retirement Community",20071010
+045,LONDON WEST,59,6,50,2,0,0,9,0,"London",206, ,1,1,2,130,284,"Westmount Public School",20071010
+045,LONDON WEST,129,9,57,0,3,0,10,0,"London",207, ,1,0,0,209,367,"Westmount Presbyterian Church",20071010
+045,LONDON WEST,113,19,56,0,0,0,16,0,"London",208, ,2,0,0,206,378,"Westmount Presbyterian Church",20071010
+045,LONDON WEST,21,7,6,0,3,0,8,0,"London",209, ,0,0,0,45,182,"Westmount Presbyterian Church",20071010
+045,LONDON WEST,30,10,16,0,0,0,18,0,"London",210, ,1,1,0,76,225,"Westmount Presbyterian Church",20071010
+045,LONDON WEST,169,21,77,0,0,2,18,0,"London",211, ,0,0,0,287,522,"W. Sherwood Fox Public School",20071010
+045,LONDON WEST,119,26,54,0,1,1,26,0,"London",212, ,0,1,0,228,406,"W. Sherwood Fox Public School",20071010
+045,LONDON WEST,44,5,17,0,0,0,14,0,"London",213, ,1,1,0,82,226,"London Gospel Temple",20071010
+045,LONDON WEST,96,24,36,0,3,0,26,1,"London",214, ,1,1,0,188,344,"St. Jude Separate School",20071010
+045,LONDON WEST,64,17,39,0,2,0,49,4,"London",215, ,0,0,0,175,442,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,168,27,81,0,0,2,14,0,"London",216, ,1,0,0,293,517,"Byron United Church",20071010
+045,LONDON WEST,106,19,39,0,3,0,15,4,"London",217A, ,0,0,0,186,329,"St. Theresa Catholic School",20071010
+045,LONDON WEST,94,28,53,0,0,0,12,0,"London",217B, ,1,1,2,191,321,"St. Theresa Catholic School",20071010
+045,LONDON WEST,140,27,63,0,2,2,25,0,"London",218, ,0,0,0,259,459,"St. Theresa Catholic School",20071010
+045,LONDON WEST,103,20,62,0,2,3,9,0,"London",219, ,2,0,0,201,357,"Byron Somerset Public School",20071010
+045,LONDON WEST,166,15,80,0,1,0,10,1,"London",220, ,0,2,0,275,503,"Jean Vanier Catholic School",20071010
+045,LONDON WEST,139,25,46,1,0,1,13,2,"London",221, ,1,1,0,229,470,"Jean Vanier Catholic School",20071010
+045,LONDON WEST,121,16,54,1,3,4,20,1,"London",222, ,2,0,0,222,406,"Westmount Public School",20071010
+045,LONDON WEST,128,27,55,0,1,2,15,0,"London",223, ,0,1,0,229,423,"Westmount Public School",20071010
+045,LONDON WEST,49,6,11,0,0,0,6,1,"London",224, ,0,1,0,74,277,"Westmount Public School",20071010
+045,LONDON WEST,25,2,5,0,0,0,8,0,"London",225, ,0,0,0,40,166,"Westmount Public School",20071010
+045,LONDON WEST,127,16,52,2,2,1,7,0,"London",226, ,2,1,1,211,381,"Westview Baptist Church",20071010
+045,LONDON WEST,169,19,62,0,0,2,25,0,"London",227, ,2,0,1,280,505,"Westview Baptist Church",20071010
+045,LONDON WEST,109,6,38,0,1,0,25,1,"London",228, ,0,0,0,180,441,"St. Jude Separate School",20071010
+045,LONDON WEST,132,13,54,0,1,0,18,0,"London",229, ,0,1,0,219,440,"Westview Baptist Church",20071010
+045,LONDON WEST,125,26,66,0,1,0,25,1,"London",230, ,2,1,0,247,420,"St. Jude Separate School",20071010
+045,LONDON WEST,125,20,26,2,1,0,20,0,"London",231, ,3,0,0,197,400,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,73,11,27,0,1,0,12,0,"London",232, ,0,0,2,126,319,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,68,16,33,1,3,1,13,0,"London",233A, ,0,0,0,135,316,"Byron United Church",20071010
+045,LONDON WEST,84,15,39,1,0,1,9,1,"London",233B, ,1,0,0,151,297,"Byron United Church",20071010
+045,LONDON WEST,139,16,56,0,0,0,21,0,"London",234, ,0,0,0,232,411,"St. Theresa Catholic School",20071010
+045,LONDON WEST,77,9,33,0,1,0,14,0,"London",235A, ,0,0,1,135,269,"Byron United Church",20071010
+045,LONDON WEST,95,14,37,0,1,0,8,1,"London",235B, ,1,0,0,157,297,"Byron United Church",20071010
+045,LONDON WEST,166,24,70,0,1,1,16,2,"London",236, ,0,1,0,281,491,"Byron Somerset Public School",20071010
+045,LONDON WEST,75,3,37,0,0,2,4,1,"London",237, ,0,0,0,122,260,"Southwest Optimist Park",20071010
+045,LONDON WEST,110,19,49,1,1,0,2,0,"London",238, ,1,1,0,184,386,"Southwest Optimist Park",20071010
+045,LONDON WEST,106,9,59,0,1,0,9,0,"London",239, ,1,0,0,185,419,"Southwest Optimist Park",20071010
+045,LONDON WEST,105,15,54,0,0,2,18,0,"London",240, ,0,0,1,195,391,"Westmount Public School",20071010
+045,LONDON WEST,69,11,30,0,0,0,18,0,"London",241, ,3,0,0,131,289,"Westview Baptist Church",20071010
+045,LONDON WEST,75,16,41,1,0,0,18,0,"London",242, ,2,0,0,153,395,"Westview Baptist Church",20071010
+045,LONDON WEST,114,21,88,0,0,0,7,0,"London",243, ,2,1,0,233,375,"Westview Baptist Church",20071010
+045,LONDON WEST,120,21,43,0,2,0,25,1,"London",244, ,0,1,0,213,371,"St. Jude Separate School",20071010
+045,LONDON WEST,19,8,21,0,1,0,15,1,"London",245, ,0,0,0,65,192,"St. Jude Separate School",20071010
+045,LONDON WEST,68,9,31,0,1,0,12,0,"London",246, ,2,0,0,123,253,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,53,10,30,0,4,0,8,0,"London",247, ,0,1,0,106,239,"Byron United Church",20071010
+045,LONDON WEST,43,15,13,0,0,1,8,0,"London",400, ,0,0,0,80,164,"Sherwood Gate Apartments",20071010
+045,LONDON WEST,52,4,21,0,2,0,20,1,"London",401, ,0,1,0,101,151,"Beaverbrook Towers",20071010
+045,LONDON WEST,..........................NO POLL HELD........................,,,,,,,,"London",402, ,0,0,0,0,0,"",20071010
+045,LONDON WEST,45,6,23,0,2,0,7,1,"London",403, ,0,0,0,84,100,"Beaverbrook Towers",20071010
+045,LONDON WEST,41,9,14,0,0,0,7,0,"London",404, ,5,0,0,76,145,"720 Wonderland Road North",20071010
+045,LONDON WEST,36,10,12,0,0,0,17,0,"London",405, ,0,0,0,75,126,"730 Wonderland Road North",20071010
+045,LONDON WEST,30,0,19,0,0,1,16,1,"London",406, ,0,0,4,71,115,"710 Wonderland Road North",20071010
+045,LONDON WEST,23,4,15,0,2,3,19,1,"London",407, ,0,0,0,67,100,"Oxford Park Towers",20071010
+045,LONDON WEST,58,10,35,0,0,0,15,0,"London",408, ,1,0,0,119,203,"Chelsey Park (Oxford) Retirement Community",20071010
+045,LONDON WEST,43,15,13,1,1,0,14,2,"London",409, ,2,0,0,91,138,"Trillium Towers III",20071010
+045,LONDON WEST,30,8,10,0,0,1,9,0,"London",410, ,2,0,0,60,110,"Trillium Towers II",20071010
+045,LONDON WEST,25,6,10,0,0,0,15,1,"London",411, ,0,0,0,57,118,"Trillium Towers",20071010
+045,LONDON WEST,65,25,27,0,1,0,32,0,"London",412, ,0,0,1,151,243,"605 Proudfoot Lane",20071010
+045,LONDON WEST,39,13,18,0,0,0,22,0,"London",413, ,1,1,1,95,155,"600 Proudfoot Lane",20071010
+045,LONDON WEST,67,12,15,0,0,1,29,0,"London",414, ,0,0,1,125,245,"575 Proudfoot Lane",20071010
+045,LONDON WEST,72,20,39,0,2,0,35,0,"London",415, ,2,0,0,170,245,"Forrest Hill Apartments",20071010
+045,LONDON WEST,35,5,12,0,0,0,9,0,"London",416, ,0,0,0,61,91,"Proudfoot Place II",20071010
+045,LONDON WEST,53,16,20,0,0,0,15,0,"London",417, ,0,0,0,104,155,"Proudfoot Place",20071010
+045,LONDON WEST,55,7,23,0,0,0,11,0,"London",418, ,1,0,0,97,158,"500 Proudfoot Lane",20071010
+045,LONDON WEST,47,7,21,0,0,0,5,0,"London",419, ,1,2,1,84,104,"Riverside Retirement Residence",20071010
+045,LONDON WEST,92,13,20,0,1,0,34,0,"London",420, ,0,0,0,160,251,"595 Proudfoot Lane",20071010
+045,LONDON WEST,19,5,7,1,1,0,2,0,"London",421, ,1,0,0,36,130,"Fiddlers Green Apartments",20071010
+045,LONDON WEST,35,9,14,0,0,4,10,0,"London",422, ,12,0,0,84,137,"Fiddlers Green Apartments",20071010
+045,LONDON WEST,48,12,16,0,0,0,9,0,"London",423, ,0,0,0,85,157,"Fiddlers Green Apartments",20071010
+045,LONDON WEST,59,8,38,0,0,0,11,0,"London",424, ,0,0,0,116,148,"Gartshore Apartments",20071010
+045,LONDON WEST,48,17,18,0,0,0,24,1,"London",425, ,1,3,0,112,171,"Ridout Towers Apartments",20071010
+045,LONDON WEST,59,13,38,0,2,0,14,0,"London",426, ,0,0,0,126,151,"Gartshore Apartments",20071010
+045,LONDON WEST,60,17,10,0,0,1,17,3,"London",427, ,0,0,0,108,153,"Park Towers Apartment Building",20071010
+045,LONDON WEST,64,20,47,0,0,0,15,1,"London",428, ,0,0,0,147,216,"The Riverview",20071010
+045,LONDON WEST,52,16,22,0,1,2,18,0,"London",429, ,0,0,0,111,208,"500 Springbank Drive",20071010
+045,LONDON WEST,32,8,9,1,0,1,7,0,"London",430, ,0,0,0,58,132,"Springbank Manor Apartments",20071010
+045,LONDON WEST,78,5,26,0,2,0,17,0,"London",431, ,0,0,0,128,173,"Five After Five Apartments",20071010
+045,LONDON WEST,65,9,49,0,0,0,5,1,"London",432, ,0,1,0,130,188,"Rosecliffe Gardens",20071010
+045,LONDON WEST,54,6,23,0,0,1,13,1,"London",433, ,0,0,0,98,150,"550 Berkshire Drive",20071010
+045,LONDON WEST,39,8,17,0,0,0,21,2,"London",434, ,1,0,0,88,157,"301 Baseline Road West",20071010
+045,LONDON WEST,34,9,11,0,0,1,24,1,"London",435, ,3,1,0,84,132,"297 Baseline Road West",20071010
+045,LONDON WEST,37,12,11,0,0,2,13,0,"London",436, ,2,0,0,77,119,"Woodbury Towers",20071010
+045,LONDON WEST,59,19,28,0,3,1,26,1,"London",437, ,0,0,0,137,264,"Landmark Towers",20071010
+045,LONDON WEST,31,3,11,0,0,0,12,0,"London",438, ,1,1,0,59,112,"Highland Park Apartments",20071010
+045,LONDON WEST,33,6,17,2,0,0,13,1,"London",439, ,0,0,0,72,121,"Roseland Park Place",20071010
+045,LONDON WEST,26,11,22,0,0,0,18,0,"London",440, ,1,0,0,78,131,"Roseland Park II",20071010
+045,LONDON WEST,36,4,14,0,1,2,5,2,"London",441, ,8,1,0,73,125,"Brownstone Apartments",20071010
+045,LONDON WEST,41,10,6,0,1,0,12,2,"London",442, ,4,0,0,76,126,"Emerald Towers Apartments",20071010
+045,LONDON WEST,25,11,12,1,3,2,7,2,"London",443, ,1,0,0,64,108,"Canterbury Towers Apartments",20071010
+045,LONDON WEST,34,6,13,0,0,0,6,0,"London",444, ,1,1,0,61,116,"Tiffany Apartments",20071010
+045,LONDON WEST,64,7,26,0,0,0,14,0,"London",445, ,1,0,0,112,182,"Westmount Gate Apartments",20071010
+045,LONDON WEST,47,5,20,0,2,2,13,1,"London",446, ,0,1,0,91,174,"750 Wonderland Road South",20071010
+045,LONDON WEST,40,2,5,0,0,0,10,0,"London",447, ,0,1,0,58,127,"Sir Isaac Brock Public School",20071010
+045,LONDON WEST,41,16,22,2,1,2,26,2,"London",448, ,3,0,0,115,188,"Wonderland Towers Apartments",20071010
+045,LONDON WEST,57,13,23,0,0,0,15,1,"London",449, ,0,1,0,110,169,"Westmount Place",20071010
+045,LONDON WEST,51,12,28,0,3,0,27,2,"London",450, ,0,0,0,123,237,"924 Wonderland Road South",20071010
+045,LONDON WEST,54,11,22,0,0,0,21,1,"London",451, ,1,1,0,111,165,"Solarus Apartments",20071010
+045,LONDON WEST,10,1,4,0,0,0,6,0,"London",452, ,0,0,0,21,92,"Westmount Square Apartments",20071010
+045,LONDON WEST,31,17,12,0,0,1,11,0,"London",453, ,0,0,0,72,110,"Westmount Square Apartments",20071010
+045,LONDON WEST,21,6,3,1,1,0,10,0,"London",454, ,6,1,0,49,115,"Westmount Square Apartments",20071010
+045,LONDON WEST,28,4,5,0,2,1,12,0,"London",455, ,0,0,0,52,117,"Westmount Square Apartments",20071010
+045,LONDON WEST,46,9,17,0,0,0,14,0,"London",456, ,0,0,0,86,138,"Maple View Estate",20071010
+045,LONDON WEST,1204,134,671,4,13,8,176,7,"London",Advanced Polls /  ADV001, ,9,3,1,2230,0,"Returning Office / Bureau du directeur du scrutin",20071010
+045,LONDON WEST,214,41,135,2,1,1,24,1,"London",Advanced Polls /  ADV002, ,0,1,0,420,0,"Southwest Optimist Park",20071010
+045,LONDON WEST,229,40,185,1,3,2,34,3,"London",Advanced Polls /  ADV003, ,1,2,0,500,0,"Andover Gardens Seniors Apartments",20071010
+045,LONDON WEST,452,65,248,0,3,2,62,4,"London",Advanced Polls /  ADV004, ,0,4,0,840,0,"Riverside United Church",20071010
+045,LONDON WEST,303,33,242,0,3,3,38,1,"London",Advanced Polls /  ADV005, ,0,2,0,625,0,"Hyde Park United Church",20071010
+TOTALS:, ,25967,5184,12011,106,267,234,5562,201, , , , , , , , , , 

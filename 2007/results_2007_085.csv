@@ -1,0 +1,311 @@
+ED_CODE,ED_NAME,AUSTIN,BENDER,ELLIS,FERGUSON,FISHMAN,TAYLOR,WILSON,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+085,SIMCOE--GREY,37,2,24,0,64,3,60,"Elmvale",001, ,0,0,0,190,400,"Elmvale District High School",20071010
+085,SIMCOE--GREY,18,3,18,3,33,1,56,"Hillsdale",002, ,0,1,0,133,281,"Hillsdale Elementary School",20071010
+085,SIMCOE--GREY,17,2,23,2,55,2,95,"Hillsdale",003, ,3,0,0,199,395,"Hillsdale Elementary School",20071010
+085,SIMCOE--GREY,30,0,12,1,24,0,62,"Elmvale",004, ,0,0,0,129,302,"Elmvale District High School",20071010
+085,SIMCOE--GREY,25,2,17,0,51,2,65,"Elmvale",005, ,0,0,0,162,319,"Elmvale District High School",20071010
+085,SIMCOE--GREY,27,5,9,0,39,1,83,"Elmvale",006, ,2,1,0,167,380,"Elmvale District High School",20071010
+085,SIMCOE--GREY,4,2,1,2,12,0,12,"Elmvale",007s, ,0,0,0,33,67,"Sara Vista Long Term Care Facility",20071010
+085,SIMCOE--GREY,35,0,12,0,61,1,114,"Elmvale",008, ,2,3,0,228,431,"Elmvale District High School",20071010
+085,SIMCOE--GREY,15,6,37,2,96,0,123,"Hillsdale",009, ,0,0,0,279,439,"Hillsdale Elementary School",20071010
+085,SIMCOE--GREY,14,9,33,1,44,3,78,"Hillsdale",010, ,1,0,0,183,367,"Hillsdale Elementary School",20071010
+085,SIMCOE--GREY,8,1,27,0,31,0,57,"Thornbury",011, ,0,1,0,125,138,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,7,1,23,1,26,0,43,"Thornbury",012, ,0,0,0,101,189,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,16,3,10,0,24,0,64,"Wasaga Beach",013, ,2,1,0,120,223,"Stars Arena",20071010
+085,SIMCOE--GREY,22,4,32,1,63,3,116,"Elmvale",014, ,4,0,0,245,458,"Elmvale District High School",20071010
+085,SIMCOE--GREY,17,0,13,1,27,0,72,"Hillsdale",015, ,0,0,0,130,193,"Hillsdale Elementary School",20071010
+085,SIMCOE--GREY,9,1,16,0,33,1,29,"Thornbury",016, ,0,0,0,89,159,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,17,5,38,0,85,1,80,"Thornbury",017, ,0,0,0,226,374,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,11,5,35,1,48,1,56,"Thornbury",018, ,0,0,0,157,261,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,22,1,43,2,45,0,72,"Thornbury",019, ,0,0,0,185,287,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,1,2,1,1,12,1,15,"Thornbury",020s, ,0,0,1,34,83,"Errinrug Nursing & Retirement Home",20071010
+085,SIMCOE--GREY,19,0,22,0,29,0,38,"Thornbury",021, ,0,0,0,108,205,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,20,1,54,1,50,3,85,"Thornbury",022, ,2,0,2,218,338,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,21,1,15,1,39,0,79,"Wasaga Beach",023, ,0,0,0,156,321,"Stars Arena",20071010
+085,SIMCOE--GREY,13,1,8,0,27,0,47,"Wasaga Beach",024, ,0,0,0,96,210,"Stars Arena",20071010
+085,SIMCOE--GREY,12,2,20,1,38,0,70,"Phelpston",025, ,1,0,0,144,286,"Phelpston Rink Building",20071010
+085,SIMCOE--GREY,10,0,44,0,30,1,52,"Thornbury",026, ,0,0,0,137,252,"Beaver Valley Community Centre",20071010
+085,SIMCOE--GREY,2,0,11,0,23,0,31,"Thornbury",027, ,0,0,0,67,129,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,5,3,8,1,18,0,32,"Collingwood",028, ,0,0,0,67,104,"Toronto Ski Club",20071010
+085,SIMCOE--GREY,9,3,26,0,47,0,70,"Collingwood",029, ,0,0,0,155,250,"Toronto Ski Club",20071010
+085,SIMCOE--GREY,4,3,10,0,26,0,82,"Collingwood",030, ,0,0,0,125,290,"Toronto Ski Club",20071010
+085,SIMCOE--GREY,5,0,5,0,36,0,53,"Collingwood",031, ,0,0,0,99,167,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,3,0,6,0,24,0,26,"Collingwood",032, ,0,0,0,59,84,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,3,0,7,0,21,0,34,"Collingwood",033, ,0,0,0,65,121,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,2,0,6,0,14,0,26,"Collingwood",034, ,0,0,0,48,127,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,7,0,14,0,14,0,14,"Collingwood",035, ,0,0,0,49,111,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,4,2,7,0,10,0,18,"Collingwood",036, ,0,0,0,41,86,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,5,4,11,1,52,0,66,"Collingwood",037, ,0,0,0,139,200,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,19,1,7,0,23,0,49,"Wasaga Beach",038, ,4,1,0,104,271,"RecPlex",20071010
+085,SIMCOE--GREY,17,1,12,0,51,0,84,"Wasaga Beach",039, ,0,1,0,166,336,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,20,3,9,1,64,0,97,"Wasaga Beach",040, ,1,1,0,196,353,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,21,3,24,4,65,2,71,"Wasaga Beach",041, ,0,0,0,190,365,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,11,1,11,0,31,0,61,"Wasaga Beach",042, ,0,1,0,116,332,"Stars Arena",20071010
+085,SIMCOE--GREY,13,2,7,2,30,0,58,"Wasaga Beach",043, ,0,0,1,113,202,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,20,1,13,1,61,0,97,"Wasaga Beach",044, ,0,0,0,193,383,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,16,3,15,0,52,0,86,"Wasaga Beach",045, ,0,2,0,174,276,"Birchview Dunes Public School",20071010
+085,SIMCOE--GREY,18,0,19,1,22,0,56,"Wasaga Beach",046, ,0,0,1,117,310,"Stars Arena",20071010
+085,SIMCOE--GREY,19,2,13,2,33,0,56,"Wasaga Beach",047, ,0,1,0,126,327,"Stars Arena",20071010
+085,SIMCOE--GREY,20,1,18,1,62,0,101,"Wasaga Beach",048, ,0,0,0,203,354,"Stars Arena",20071010
+085,SIMCOE--GREY,35,3,18,0,61,1,149,"Wasaga Beach",049, ,2,0,0,269,394,"Stars Arena",20071010
+085,SIMCOE--GREY,20,5,18,0,85,1,63,"Phelpston",050, ,1,0,0,193,338,"Phelpston Rink Building",20071010
+085,SIMCOE--GREY,10,1,40,1,19,3,61,"Thornbury",051, ,0,1,0,136,189,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,7,1,27,1,41,0,77,"Thornbury",052, ,0,0,0,154,221,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,5,0,10,0,27,0,46,"Thornbury",053, ,0,0,0,88,183,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,6,3,9,1,40,0,53,"Collingwood",054, ,4,0,0,116,204,"Collingwood Christian Reformed Church",20071010
+085,SIMCOE--GREY,8,0,8,0,16,0,51,"Collingwood",055, ,0,0,0,83,187,"Collingwood Christian Reformed Church",20071010
+085,SIMCOE--GREY,1,0,16,0,20,3,50,"Collingwood",056, ,0,0,0,90,152,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,1,1,3,0,13,0,14,"Collingwood",057, ,0,0,0,32,88,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,2,0,3,0,9,0,23,"Collingwood",058, ,0,0,0,37,65,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,15,6,26,2,86,0,99,"Collingwood",059, ,2,0,0,236,410,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,3,0,2,0,3,0,3,"Collingwood",060, ,0,0,0,11,25,"Cranberry Resort Ballroom",20071010
+085,SIMCOE--GREY,0,0,1,0,5,0,14,"Thornbury",061, ,0,0,0,20,114,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,14,3,19,1,44,1,64,"Collingwood",062, ,1,1,0,148,287,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,15,3,28,1,40,3,67,"Collingwood",063, ,0,0,0,157,362,"Mountain View Elementary School",20071010
+085,SIMCOE--GREY,18,2,22,0,31,1,65,"Collingwood",064, ,0,0,0,139,345,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,14,2,14,1,27,0,52,"Collingwood",065, ,0,0,0,110,256,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,10,3,10,1,31,2,51,"Collingwood",066, ,0,0,0,108,295,"Trinity United Church",20071010
+085,SIMCOE--GREY,20,2,15,2,49,0,77,"Collingwood",067, ,1,0,0,166,374,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,13,2,15,1,29,1,84,"Collingwood",068, ,2,0,0,147,314,"Trinity United Church",20071010
+085,SIMCOE--GREY,15,3,14,0,40,0,77,"Collingwood",069, ,0,0,0,149,294,"Trinity United Church",20071010
+085,SIMCOE--GREY,8,2,5,0,43,2,48,"Collingwood",070, ,1,0,0,109,218,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,15,1,17,0,45,3,44,"Collingwood",071, ,0,0,0,125,308,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,14,0,19,0,35,0,59,"Collingwood",072, ,0,2,0,129,262,"Cameron Street Public School",20071010
+085,SIMCOE--GREY,24,5,31,1,46,1,98,"Collingwood",073, ,0,0,5,211,406,"Trinity United Church",20071010
+085,SIMCOE--GREY,......................COMBINED WITH POLL 073 ....................,,,,,,,"Collingwood",074s, ,,,,,,"Pine Villa Nursing Home",20071010
+085,SIMCOE--GREY,9,1,19,2,35,1,63,"Collingwood",075, ,0,0,0,130,276,"Collingwood Collegiate Institute",20071010
+085,SIMCOE--GREY,15,1,15,1,40,2,60,"Collingwood",076, ,7,1,0,142,345,"Collingwood Collegiate Institute",20071010
+085,SIMCOE--GREY,10,2,14,0,32,2,42,"Collingwood",077, ,1,0,0,103,303,"Connaught Public School",20071010
+085,SIMCOE--GREY,12,1,26,1,29,5,84,"Collingwood",078, ,2,0,0,160,311,"Connaught Public School",20071010
+085,SIMCOE--GREY,15,1,20,0,37,1,71,"Collingwood",079, ,0,1,0,146,275,"Connaught Public School",20071010
+085,SIMCOE--GREY,21,2,20,2,51,2,82,"Collingwood",080, ,1,2,0,183,346,"Collingwood Learning Centre",20071010
+085,SIMCOE--GREY,10,2,17,1,56,0,97,"Collingwood",081, ,1,0,0,184,386,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,14,1,18,0,42,0,60,"Collingwood",082, ,0,1,0,136,302,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,16,2,21,4,50,1,70,"Collingwood",083, ,2,0,0,166,406,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,13,0,23,1,38,1,77,"Collingwood",084, ,0,0,0,153,334,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,19,2,27,1,48,2,94,"Collingwood",085, ,1,0,0,194,364,"Connaught Public School",20071010
+085,SIMCOE--GREY,0,0,0,0,0,0,0,"Collingwood",086s, ,0,0,0,0,10,"Collingwood General & Marine Hospital",20071010
+085,SIMCOE--GREY,6,1,1,0,15,0,38,"Collingwood",087s, ,1,0,0,62,194,"Sunset Manor",20071010
+085,SIMCOE--GREY,14,5,19,0,39,3,77,"Collingwood",088, ,0,3,0,160,388,"Collingwood Learning Centre",20071010
+085,SIMCOE--GREY,7,0,1,0,9,2,27,"Collingwood",089s, ,1,0,0,47,104,"Bay Haven Senior Care Community",20071010
+085,SIMCOE--GREY,6,8,20,2,55,0,99,"Collingwood",090, ,0,0,0,190,312,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,14,1,13,0,26,0,58,"Collingwood",091, ,0,0,0,112,228,"Admiral Collingwood Public School",20071010
+085,SIMCOE--GREY,11,2,17,2,46,0,86,"Collingwood",092, ,0,1,0,165,289,"Royal Canadian Legion Branch 63",20071010
+085,SIMCOE--GREY,6,1,18,0,38,0,72,"Collingwood",093, ,0,0,0,135,266,"Royal Canadian Legion Branch 63",20071010
+085,SIMCOE--GREY,8,2,14,1,22,0,51,"Collingwood",094, ,0,0,0,98,226,"Christ Our Hope Lutheran Church",20071010
+085,SIMCOE--GREY,9,0,9,0,19,1,37,"Wasaga Beach",095, ,0,0,0,75,162,"RecPlex",20071010
+085,SIMCOE--GREY,7,1,3,1,22,0,37,"Wasaga Beach",096, ,0,0,0,71,141,"RecPlex",20071010
+085,SIMCOE--GREY,0,0,0,0,2,0,7,"Wasaga Beach",097s, ,0,0,0,9,20,"Wasaga Beach Seniors Residence",20071010
+085,SIMCOE--GREY,8,1,8,1,23,1,39,"Wasaga Beach",098, ,1,0,0,82,186,"RecPlex",20071010
+085,SIMCOE--GREY,10,7,11,1,52,0,85,"Wasaga Beach",099, ,1,0,0,167,335,"Faith Evangelical Missionary Church",20071010
+085,SIMCOE--GREY,19,2,15,0,43,3,96,"Wasaga Beach",100, ,0,1,0,179,416,"Faith Evangelical Missionary Church",20071010
+085,SIMCOE--GREY,23,1,9,0,47,0,58,"Wasaga Beach",101, ,1,0,0,139,309,"Faith Evangelical Missionary Church",20071010
+085,SIMCOE--GREY,12,2,9,0,21,0,45,"Wasaga Beach",102, ,0,0,0,89,234,"Faith Evangelical Missionary Church",20071010
+085,SIMCOE--GREY,13,0,8,1,53,2,79,"Wasaga Beach",103, ,1,1,0,158,316,"Faith Evangelical Missionary Church",20071010
+085,SIMCOE--GREY,18,2,8,2,66,1,89,"Wasaga Beach",104, ,0,0,0,186,386,"Stars Arena",20071010
+085,SIMCOE--GREY,16,3,8,0,55,0,58,"Wasaga Beach",105, ,0,1,0,141,303,"Stars Arena",20071010
+085,SIMCOE--GREY,7,2,5,0,24,0,37,"Wasaga Beach",106, ,0,0,0,75,161,"Stars Arena",20071010
+085,SIMCOE--GREY,7,1,14,0,33,0,79,"Minesing",107, ,0,0,0,134,308,"Minesing Central Public School",20071010
+085,SIMCOE--GREY,21,5,20,1,41,1,110,"Anten Mills",108, ,0,0,0,199,381,"Anten Mills Community Center",20071010
+085,SIMCOE--GREY,17,2,17,1,71,0,132,"Anten Mills",109, ,0,0,0,240,442,"Anten Mills Community Center",20071010
+085,SIMCOE--GREY,6,2,14,1,34,1,50,"Anten Mills",110, ,0,1,0,109,297,"Anten Mills Community Center",20071010
+085,SIMCOE--GREY,11,0,14,0,16,3,66,"Collingwood",111, ,0,0,0,110,167,"Collingwood Christian Reformed Church",20071010
+085,SIMCOE--GREY,8,2,10,1,25,0,67,"Collingwood",112, ,1,0,0,114,170,"Collingwood Christian Reformed Church",20071010
+085,SIMCOE--GREY,2,0,2,1,6,3,15,"Collingwood",113s, ,0,6,0,35,59,"Collingwood Nursing Home",20071010
+085,SIMCOE--GREY,24,1,18,0,50,2,74,"Collingwood",114, ,0,1,0,170,365,"St. Mary's School",20071010
+085,SIMCOE--GREY,3,1,11,1,36,3,42,"Collingwood",115, ,0,0,0,97,208,"St. Mary's School",20071010
+085,SIMCOE--GREY,16,6,25,2,54,0,96,"Collingwood",116, ,1,0,0,200,415,"St. Mary's School",20071010
+085,SIMCOE--GREY,10,1,6,0,20,0,48,"Collingwood",117, ,0,0,0,85,163,"Christ Our Hope Lutheran Church",20071010
+085,SIMCOE--GREY,6,1,1,0,13,0,51,"Collingwood",118, ,0,0,0,72,124,"Christ Our Hope Lutheran Church",20071010
+085,SIMCOE--GREY,11,1,5,0,18,4,33,"Collingwood",119, ,0,0,0,72,206,"Christ Our Hope Lutheran Church",20071010
+085,SIMCOE--GREY,11,2,4,1,19,1,50,"Wasaga Beach",120, ,0,0,0,88,221,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,1,0,3,0,21,1,25,"Wasaga Beach",121, ,0,0,0,51,115,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,14,1,4,0,27,0,35,"Wasaga Beach",122, ,0,0,0,81,178,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,19,4,7,0,55,2,71,"Wasaga Beach",123, ,0,0,0,158,316,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,17,1,14,1,29,2,68,"Wasaga Beach",124, ,1,0,0,133,213,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,32,2,20,1,70,0,76,"Wasaga Beach",125, ,1,0,0,202,403,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,12,3,8,2,38,1,51,"Wasaga Beach",126, ,1,0,0,116,284,"St. Noel Chabanel",20071010
+085,SIMCOE--GREY,13,2,4,0,36,1,43,"Wasaga Beach",127A, ,0,0,0,99,269,"Worsley Public School",20071010
+085,SIMCOE--GREY,15,1,10,0,22,0,50,"Wasaga Beach",127B, ,1,1,0,100,240,"Worsley Public School",20071010
+085,SIMCOE--GREY,14,0,13,0,30,2,83,"Wasaga Beach",128, ,2,0,0,144,324,"Worsley Public School",20071010
+085,SIMCOE--GREY,13,1,14,1,42,2,56,"Wasaga Beach",129, ,0,0,1,130,303,"Worsley Public School",20071010
+085,SIMCOE--GREY,16,4,19,0,35,0,74,"Wasaga Beach",130, ,2,0,0,150,321,"Worsley Public School",20071010
+085,SIMCOE--GREY,12,1,21,0,55,1,98,"Wasaga Beach",131, ,0,0,0,188,322,"The Lighthouse Christian Assembly",20071010
+085,SIMCOE--GREY,17,4,17,0,42,1,116,"Wasaga Beach",132, ,1,0,1,199,398,"Worsley Public School",20071010
+085,SIMCOE--GREY,8,3,17,2,41,0,51,"Wasaga Beach",133, ,0,1,0,123,282,"RecPlex",20071010
+085,SIMCOE--GREY,8,3,9,0,22,1,57,"Wasaga Beach",134, ,2,1,0,103,156,"The Lighthouse Christian Assembly",20071010
+085,SIMCOE--GREY,16,1,12,0,18,0,58,"Wasaga Beach",135, ,0,0,0,105,243,"The Lighthouse Christian Assembly",20071010
+085,SIMCOE--GREY,15,0,28,4,51,1,75,"Minesing",136, ,0,0,0,174,366,"Minesing Central Public School",20071010
+085,SIMCOE--GREY,9,1,13,0,44,0,61,"Midhurst",137, ,0,0,0,128,292,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,12,1,27,1,87,1,83,"Midhurst",138, ,0,0,0,212,461,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,23,3,17,0,65,0,66,"Midhurst",139, ,0,1,0,175,343,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,16,2,25,0,66,1,105,"Midhurst",140, ,1,0,0,216,421,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,6,1,10,0,24,0,35,"Midhurst",141, ,2,0,0,78,334,"Barrie Soccer Club Development Centre",20071010
+085,SIMCOE--GREY,8,1,22,0,32,2,92,"Collingwood",142, ,1,0,0,158,375,"Collingwood Christian Reformed Church",20071010
+085,SIMCOE--GREY,24,4,15,1,37,0,105,"Nottawa",143, ,0,0,0,186,233,"Nottawa Public School",20071010
+085,SIMCOE--GREY,17,1,18,0,48,0,114,"Nottawa",144, ,0,0,0,198,383,"Nottawa Public School",20071010
+085,SIMCOE--GREY,16,2,25,1,47,2,90,"Nottawa",145, ,3,0,0,186,313,"Nottawa Public School",20071010
+085,SIMCOE--GREY,7,1,9,0,24,0,53,"Stayner",146, ,0,0,0,94,269,"Stayner Arena Hall",20071010
+085,SIMCOE--GREY,15,6,20,1,54,1,92,"Minesing",147, ,1,0,0,190,331,"Minesing Central Public School",20071010
+085,SIMCOE--GREY,20,0,19,0,43,0,93,"Minesing",148, ,1,0,0,176,353,"Minesing Central Public School",20071010
+085,SIMCOE--GREY,14,3,16,1,48,0,56,"Midhurst",149, ,0,0,0,138,321,"Barrie Soccer Club Development Centre",20071010
+085,SIMCOE--GREY,12,3,23,0,80,0,77,"Midhurst",150, ,1,0,0,196,435,"Barrie Soccer Club Development Centre",20071010
+085,SIMCOE--GREY,17,5,15,1,108,0,100,"Midhurst",151, ,1,0,0,247,541,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,2,2,15,0,42,1,76,"Midhurst",152, ,1,0,0,139,333,"Barrie Soccer Club Development Centre",20071010
+085,SIMCOE--GREY,15,2,22,2,79,2,73,"Midhurst",153, ,0,1,1,197,376,"Forest Hill Public School",20071010
+085,SIMCOE--GREY,26,2,39,0,36,5,91,"Thornbury",154, ,0,1,1,201,329,"Marsh Street Community Centre",20071010
+085,SIMCOE--GREY,11,3,11,0,28,2,69,"Duntroon",155, ,1,0,0,125,217,"Duntroon Central Public School",20071010
+085,SIMCOE--GREY,21,2,13,1,60,3,79,"Stayner",156, ,1,0,0,180,279,"Stayner Arena Hall",20071010
+085,SIMCOE--GREY,13,2,18,1,62,1,108,"Stayner",157, ,1,1,0,207,408,"Stayner Arena Hall",20071010
+085,SIMCOE--GREY,15,4,21,0,26,2,89,"Stayner",158, ,2,1,0,160,325,"Byng Public School",20071010
+085,SIMCOE--GREY,2,0,3,0,2,1,12,"Stayner",159s, ,0,0,1,21,46,"Stayner Nursing Home",20071010
+085,SIMCOE--GREY,0,0,0,0,0,0,7,"Stayner",160s, ,0,0,0,7,8,"Leimgardt Retirement Home",20071010
+085,SIMCOE--GREY,13,1,14,1,20,2,78,"Stayner",161, ,0,0,0,129,283,"Good Shepherd Church Stayner",20071010
+085,SIMCOE--GREY,25,7,19,2,68,2,148,"Stayner",162, ,0,0,0,271,513,"Byng Public School",20071010
+085,SIMCOE--GREY,3,0,0,0,4,0,8,"Stayner",163s, ,0,0,0,15,20,"Huronia Guest Home",20071010
+085,SIMCOE--GREY,4,0,1,0,4,2,18,"Stayner",164, ,1,0,0,30,43,"Byng Public School",20071010
+085,SIMCOE--GREY,13,3,11,0,34,1,102,"Stayner",165, ,0,0,0,164,315,"Good Shepherd Church Stayner",20071010
+085,SIMCOE--GREY,1,0,3,1,1,1,20,"Stayner",166s, ,0,1,0,28,48,"Blue Mountain Manor Retirement Residence",20071010
+085,SIMCOE--GREY,23,1,9,1,40,1,73,"Stayner",167, ,1,0,0,149,261,"Byng Public School",20071010
+085,SIMCOE--GREY,8,0,10,0,32,2,62,"Stayner",168, ,0,0,0,114,247,"Byng Public School",20071010
+085,SIMCOE--GREY,9,0,27,1,67,2,119,"Midhurst",169, ,0,0,0,225,524,"Barrie Soccer Club Development Centre",20071010
+085,SIMCOE--GREY,7,6,24,4,52,1,84,"Barrie",170, ,0,0,0,178,358,"Grenfel United Church",20071010
+085,SIMCOE--GREY,9,2,20,0,38,1,69,"Duntroon",171, ,0,0,0,139,251,"Duntroon Central Public School",20071010
+085,SIMCOE--GREY,6,0,6,0,28,0,59,"Stayner",172, ,0,0,0,99,213,"Stayner Arena Hall",20071010
+085,SIMCOE--GREY,8,4,13,1,41,2,117,"Stayner",173, ,0,0,0,186,372,"Byng Public School",20071010
+085,SIMCOE--GREY,17,2,22,2,39,1,103,"Barrie",174, ,0,0,0,186,372,"Grenfel United Church",20071010
+085,SIMCOE--GREY,16,2,7,0,47,1,72,"Barrie",175, ,0,0,0,145,297,"Grenfel United Church",20071010
+085,SIMCOE--GREY,11,1,15,0,30,2,68,"Creemore",176, ,1,0,0,128,267,"Nottawasaga and Creemore Public School",20071010
+085,SIMCOE--GREY,21,2,22,2,43,2,102,"New Lowell",177, ,0,1,0,195,376,"New Lowell Public School",20071010
+085,SIMCOE--GREY,10,1,15,0,55,4,87,"New Lowell",178, ,1,0,2,175,356,"New Lowell Public School",20071010
+085,SIMCOE--GREY,12,4,26,2,32,1,96,"New Lowell",179, ,0,0,0,173,319,"New Lowell Public School",20071010
+085,SIMCOE--GREY,12,3,13,1,31,1,50,"New Lowell",180, ,0,0,1,112,299,"New Lowell Public School",20071010
+085,SIMCOE--GREY,0,0,2,0,5,0,8,"Singhampton",181, ,0,0,0,15,15,"Singhampton Community Centre",20071010
+085,SIMCOE--GREY,15,4,9,0,41,2,64,"New Lowell",182, ,1,0,0,136,285,"New Lowell Public School",20071010
+085,SIMCOE--GREY,13,2,20,3,51,1,93,"New Lowell",183, ,1,0,0,184,390,"New Lowell Public School",20071010
+085,SIMCOE--GREY,14,4,10,0,31,1,71,"Angus",184, ,0,0,0,131,293,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,15,5,22,1,29,1,63,"Angus",185, ,1,0,0,137,334,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,18,2,22,0,46,2,57,"Angus",186, ,0,0,0,147,361,"Angus Lions Hall",20071010
+085,SIMCOE--GREY,19,2,15,2,32,3,70,"Angus",187, ,1,1,0,145,393,"Angus Morrison Elementary School",20071010
+085,SIMCOE--GREY,19,3,15,0,44,2,95,"Angus",188, ,0,2,0,180,402,"Angus Morrison Elementary School",20071010
+085,SIMCOE--GREY,12,7,13,0,27,2,40,"Angus",189, ,0,0,1,102,278,"Angus Morrison Elementary School",20071010
+085,SIMCOE--GREY,14,4,38,2,53,1,82,"Angus",190, ,0,0,0,194,408,"Angus Morrison Elementary School",20071010
+085,SIMCOE--GREY,6,4,18,1,55,0,79,"Angus",191, ,1,0,1,165,460,"Angus Morrison Elementary School",20071010
+085,SIMCOE--GREY,8,4,19,1,27,0,80,"Singhampton",192, ,0,0,0,139,217,"Singhampton Community Centre",20071010
+085,SIMCOE--GREY,15,2,30,2,31,1,85,"Creemore",193, ,1,1,0,168,289,"Nottawasaga and Creemore Public School",20071010
+085,SIMCOE--GREY,11,1,31,1,31,1,84,"Creemore",194, ,4,0,0,164,332,"Nottawasaga and Creemore Public School",20071010
+085,SIMCOE--GREY,3,6,2,4,8,0,27,"Creemore",195s, ,1,0,0,51,90,"Leisureworld Caregiving Centre",20071010
+085,SIMCOE--GREY,7,0,34,1,46,0,87,"Creemore",196, ,2,1,0,178,322,"Nottawasaga and Creemore Public School",20071010
+085,SIMCOE--GREY,14,3,14,2,32,0,86,"Creemore",197, ,1,0,0,152,241,"Nottawasaga and Creemore Public School",20071010
+085,SIMCOE--GREY,18,3,16,0,41,0,69,"Angus",198, ,0,0,0,147,337,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,21,4,18,4,63,4,109,"Angus",199, ,1,0,1,225,486,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,17,5,5,0,26,1,40,"Angus",200, ,0,0,0,94,294,"Angus Lions Hall",20071010
+085,SIMCOE--GREY,7,2,16,0,23,2,50,"Angus",201, ,0,1,0,101,300,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,9,2,11,1,25,0,59,"Angus",202, ,0,0,0,107,303,"Pine River Elementary School",20071010
+085,SIMCOE--GREY,17,1,23,2,37,0,68,"Angus",203, ,0,0,0,148,295,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,17,1,12,0,16,0,22,"Angus",204, ,0,0,0,68,161,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,14,3,10,0,24,0,41,"Angus",205, ,0,0,0,92,266,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,7,3,14,1,35,1,63,"Angus",206, ,0,0,0,124,283,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,17,2,17,1,14,2,41,"Singhampton",207, ,0,0,0,94,190,"Singhampton Community Centre",20071010
+085,SIMCOE--GREY,9,1,26,0,21,1,74,"Lisle",208, ,0,0,2,134,232,"Lisle Community Hall Centre",20071010
+085,SIMCOE--GREY,18,8,19,3,29,0,79,"CFB Borden",209A, ,0,0,0,156,465,"Frederick Campbell Elementary School",20071010
+085,SIMCOE--GREY,18,3,8,1,36,2,63,"CFB Borden",209B, ,1,0,0,132,385,"Frederick Campbell Elementary School",20071010
+085,SIMCOE--GREY,15,3,21,1,32,4,76,"Angus",210, ,1,1,0,154,407,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,3,1,19,4,24,1,84,"Angus",211, ,1,0,0,137,342,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,18,6,24,2,51,0,77,"Thornton",212, ,0,1,0,179,274,"Thornton Library",20071010
+085,SIMCOE--GREY,22,3,14,2,55,1,106,"Thornton",213, ,1,0,0,204,388,"Thornton Library",20071010
+085,SIMCOE--GREY,37,3,21,5,30,0,87,"Lisle",214, ,0,0,0,183,388,"Lisle Community Hall Centre",20071010
+085,SIMCOE--GREY,16,0,27,2,30,0,52,"Angus",215, ,0,0,0,127,284,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,14,2,21,2,57,3,120,"Egbert",216, ,1,1,1,222,388,"Baxter Central Public School",20071010
+085,SIMCOE--GREY,18,6,19,1,65,2,88,"Thornton",217, ,3,0,0,202,372,"Thornton Library",20071010
+085,SIMCOE--GREY,11,2,16,0,32,6,92,"Lisle",218, ,2,0,0,161,258,"Lisle Community Hall Centre",20071010
+085,SIMCOE--GREY,20,3,16,3,47,6,85,"Egbert",219, ,0,0,0,180,313,"Baxter Central Public School",20071010
+085,SIMCOE--GREY,12,3,27,0,62,2,96,"Egbert",220, ,2,0,0,204,410,"Baxter Central Public School",20071010
+085,SIMCOE--GREY,18,2,27,1,64,3,118,"Everett",221, ,0,0,0,233,459,"Tosorontio Central Public School",20071010
+085,SIMCOE--GREY,13,4,20,1,24,2,91,"Egbert",222, ,0,0,0,155,271,"Baxter Central Public School",20071010
+085,SIMCOE--GREY,10,2,14,0,18,2,65,"Egbert",223, ,0,1,0,112,233,"Baxter Central Public School",20071010
+085,SIMCOE--GREY,17,1,26,0,31,1,73,"Everett",224, ,2,0,0,151,296,"Everett Legion",20071010
+085,SIMCOE--GREY,15,9,18,1,35,0,107,"Everett",225, ,0,0,0,185,375,"Everett Legion",20071010
+085,SIMCOE--GREY,20,4,10,0,39,1,101,"Everett",226, ,0,0,0,175,357,"Everett Legion",20071010
+085,SIMCOE--GREY,15,2,14,1,49,1,70,"Everett",227, ,0,0,0,152,340,"Everett Legion",20071010
+085,SIMCOE--GREY,16,3,12,2,59,2,117,"Everett",228, ,1,1,0,213,423,"Everett Legion",20071010
+085,SIMCOE--GREY,8,1,19,0,27,1,60,"New Tecumseth",229, ,0,0,0,116,221,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,20,0,19,1,36,3,94,"Alliston",230, ,0,0,0,173,414,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,16,1,16,0,44,2,98,"Alliston",231, ,1,0,1,179,394,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,5,1,10,1,26,1,66,"Alliston",232, ,0,0,0,110,268,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,11,2,6,1,26,1,94,"Alliston",233, ,0,1,0,142,319,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,17,0,10,0,23,0,54,"Alliston",234, ,1,0,0,105,300,"Millpond Centre",20071010
+085,SIMCOE--GREY,1,1,0,1,0,0,6,"Alliston",235s, ,0,1,0,10,17,"Stevenson Memorial Hospital",20071010
+085,SIMCOE--GREY,10,3,22,2,34,0,46,"Alliston",236, ,0,0,0,117,312,"Millpond Centre",20071010
+085,SIMCOE--GREY,8,4,23,1,35,3,89,"Alliston",237, ,0,0,0,163,339,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,11,0,8,0,47,3,83,"Alliston",238, ,0,0,0,152,369,"St. Paul's Elementary School",20071010
+085,SIMCOE--GREY,5,1,3,1,14,1,22,"Alliston",239s, ,1,1,1,50,92,"Riverwood Retirement Home",20071010
+085,SIMCOE--GREY,23,2,25,3,46,1,110,"Alliston",240, ,0,1,0,211,408,"Alliston Memorial Arena & Community Centre",20071010
+085,SIMCOE--GREY,15,0,13,0,24,0,66,"Alliston",241, ,0,0,0,118,306,"St. Paul's Elementary School",20071010
+085,SIMCOE--GREY,7,1,13,1,21,1,57,"Alliston",242, ,0,1,0,102,299,"St. Paul's Elementary School",20071010
+085,SIMCOE--GREY,10,1,13,1,26,0,75,"New Tecumseth",243, ,0,0,0,126,319,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,10,3,13,3,24,0,70,"New Tecumseth",244, ,1,0,0,124,335,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,9,1,14,0,14,2,46,"New Tecumseth",245, ,1,0,0,87,252,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,14,2,14,0,31,1,42,"New Tecumseth",246, ,1,0,0,105,251,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,1,3,0,1,8,0,23,"Alliston",247s, ,1,4,3,44,89,"Good Samaritan Nursing Home Limited",20071010
+085,SIMCOE--GREY,10,2,13,0,27,0,105,"New Tecumseth",248, ,1,0,0,158,334,"Banting Memorial High School",20071010
+085,SIMCOE--GREY,18,10,30,2,115,0,215,"Alliston",250, ,0,0,2,392,598,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,8,3,19,0,66,0,109,"Alliston",252, ,2,0,0,207,330,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,10,3,9,0,40,0,95,"Alliston",254, ,0,0,0,157,231,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,15,3,13,2,55,1,97,"Alliston",257, ,0,0,0,186,320,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,1,1,12,0,19,1,58,"Alliston",259, ,0,0,0,92,137,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,12,2,36,1,75,0,169,"Alliston",264, ,1,0,0,296,457,"Nottawasaga Inn Banquet Room",20071010
+085,SIMCOE--GREY,12,4,30,2,27,0,130,"Cookstown",265, ,2,0,0,207,354,"Tecumseth North Elementary School",20071010
+085,SIMCOE--GREY,7,3,12,0,23,4,65,"Alliston",266, ,0,0,0,114,261,"Millpond Centre",20071010
+085,SIMCOE--GREY,5,2,14,0,26,1,72,"Alliston",267, ,4,0,0,124,304,"Ernest Cumberland Elementary School",20071010
+085,SIMCOE--GREY,19,4,13,1,27,3,59,"Alliston",268, ,0,0,0,126,246,"Ernest Cumberland Elementary School",20071010
+085,SIMCOE--GREY,18,1,22,2,31,2,103,"Alliston",269, ,0,1,0,180,392,"Holy Family School",20071010
+085,SIMCOE--GREY,21,3,22,4,46,2,95,"Alliston",270, ,0,1,0,194,382,"Holy Family School",20071010
+085,SIMCOE--GREY,17,1,17,0,43,2,91,"Alliston",271, ,0,1,0,172,392,"Holy Family School",20071010
+085,SIMCOE--GREY,24,2,21,1,41,5,97,"Alliston",272, ,0,1,0,192,468,"Holy Family School",20071010
+085,SIMCOE--GREY,4,0,18,1,16,0,45,"Alliston",273, ,1,1,0,86,271,"Ernest Cumberland Elementary School",20071010
+085,SIMCOE--GREY,8,1,16,0,16,2,60,"Alliston",274, ,4,2,0,109,288,"Ernest Cumberland Elementary School",20071010
+085,SIMCOE--GREY,9,1,24,1,33,1,78,"Cookstown",275, ,2,1,0,150,261,"Tecumseth North Elementary School",20071010
+085,SIMCOE--GREY,13,1,22,0,33,5,101,"Loretto",276, ,0,1,0,176,348,"Adjala Central Public School",20071010
+085,SIMCOE--GREY,14,0,17,3,26,1,85,"Beeton",277, ,0,0,0,146,245,"Monsignor Ronan Elementary School",20071010
+085,SIMCOE--GREY,19,3,15,1,35,2,101,"Beeton",278, ,1,0,0,177,336,"Monsignor Ronan Elementary School",20071010
+085,SIMCOE--GREY,28,1,23,3,29,2,79,"Beeton",279, ,0,0,0,165,317,"Monsignor Ronan Elementary School",20071010
+085,SIMCOE--GREY,19,2,21,0,22,1,60,"Beeton",280, ,2,0,0,127,247,"Tecumseth Beeton Public School",20071010
+085,SIMCOE--GREY,22,2,28,2,28,0,106,"Beeton",281, ,0,0,0,188,362,"Monsignor Ronan Elementary School",20071010
+085,SIMCOE--GREY,32,6,26,0,29,1,123,"Beeton",282, ,1,0,0,218,400,"Monsignor Ronan Elementary School",20071010
+085,SIMCOE--GREY,18,0,19,2,22,2,79,"Beeton",283, ,0,0,0,142,265,"Tecumseth Beeton Public School",20071010
+085,SIMCOE--GREY,18,0,30,0,40,0,116,"Beeton",284, ,1,0,0,205,409,"Tecumseth Beeton Public School",20071010
+085,SIMCOE--GREY,4,1,2,0,17,2,43,"Beeton",285s, ,0,2,0,71,150,"Simcoe Manor Nursing Home",20071010
+085,SIMCOE--GREY,21,1,23,0,37,1,119,"Beeton",286, ,1,0,0,203,372,"Tecumseth Beeton Public School",20071010
+085,SIMCOE--GREY,23,3,35,0,37,3,88,"Loretto",287, ,0,1,0,190,330,"Adjala Central Public School",20071010
+085,SIMCOE--GREY,15,0,19,2,27,1,46,"Beeton",288, ,0,0,0,110,204,"Tecumseth Beeton Public School",20071010
+085,SIMCOE--GREY,8,2,18,0,31,1,87,"Tottenham",289, ,0,1,0,148,307,"St. Thomas Aquinas Catholic Secondary School",20071010
+085,SIMCOE--GREY,13,3,29,1,46,1,80,"Tottenham",290, ,0,1,0,174,312,"Tecumseth South Public School",20071010
+085,SIMCOE--GREY,23,3,30,1,45,0,91,"Tottenham",291, ,1,1,0,195,377,"Tecumseth South Public School",20071010
+085,SIMCOE--GREY,13,1,15,1,31,3,59,"Loretto",292, ,0,0,0,123,302,"Adjala Central Public School",20071010
+085,SIMCOE--GREY,22,1,24,0,39,2,99,"Adjala-Tosorontio",293, ,1,0,0,188,366,"St. James Elementary School",20071010
+085,SIMCOE--GREY,19,1,18,1,24,2,78,"Tottenham",294, ,0,0,0,143,221,"St. Thomas Aquinas Catholic Secondary School",20071010
+085,SIMCOE--GREY,18,2,21,0,32,0,64,"Tottenham",295, ,0,0,0,137,323,"St. Thomas Aquinas Catholic Secondary School",20071010
+085,SIMCOE--GREY,24,5,28,3,25,0,91,"Tottenham",296, ,0,1,0,177,371,"Tottenham Community Centre",20071010
+085,SIMCOE--GREY,18,1,25,0,32,2,66,"Tottenham",297, ,0,0,0,144,372,"Tottenham Community Centre",20071010
+085,SIMCOE--GREY,19,5,26,1,40,0,100,"Tottenham",298, ,0,0,1,192,412,"St. Thomas Aquinas Catholic Secondary School",20071010
+085,SIMCOE--GREY,13,4,15,0,34,0,65,"Tottenham",299, ,0,0,0,131,314,"Tottenham Community Centre",20071010
+085,SIMCOE--GREY,23,1,28,0,30,0,89,"Tottenham",300, ,0,0,0,171,375,"Tottenham Public School",20071010
+085,SIMCOE--GREY,9,6,18,0,43,1,68,"Tottenham",301, ,0,0,0,145,236,"Tecumseth South Public School",20071010
+085,SIMCOE--GREY,12,5,27,0,46,0,66,"Loretto",302, ,1,1,0,158,312,"Adjala Central Public School",20071010
+085,SIMCOE--GREY,12,2,31,2,54,7,88,"Adjala-Tosorontio",303, ,3,1,0,200,370,"St. James Elementary School",20071010
+085,SIMCOE--GREY,18,2,24,1,35,1,87,"Tottenham",304, ,1,1,0,170,334,"Tottenham Public School",20071010
+085,SIMCOE--GREY,11,1,18,0,35,3,75,"Tottenham",305, ,0,0,0,143,341,"Tottenham Public School",20071010
+085,SIMCOE--GREY,32,3,25,1,51,3,88,"Tottenham",306, ,1,1,1,206,408,"Tottenham Public School",20071010
+085,SIMCOE--GREY,17,5,20,0,36,3,49,"Tottenham",307, ,0,1,0,131,248,"Tottenham Public School",20071010
+085,SIMCOE--GREY,7,1,19,0,33,0,67,"Tottenham",308, ,0,1,0,128,263,"Tecumseth South Public School",20071010
+085,SIMCOE--GREY,22,5,19,1,54,2,97,"Loretto",309, ,0,0,0,200,444,"Adjala Central Public School",20071010
+085,SIMCOE--GREY,29,5,31,2,53,5,94,"Adjala-Tosorontio",310, ,0,1,0,220,493,"St. James Elementary School",20071010
+085,SIMCOE--GREY,11,2,5,0,25,0,57,"Tottenham",311, ,0,0,0,100,245,"Tottenham Public School",20071010
+085,SIMCOE--GREY,......................COMBINED WITH POLL 088 ....................,,,,,,,"Collingwood",400, ,,,,,,"",20071010
+085,SIMCOE--GREY,82,25,143,8,326,14,762,"Tottenham",Advanced Polls /  ADV001, ,5,1,1,1367,0,"Returning Office / Bureau du directeur du scrutin",20071010
+085,SIMCOE--GREY,131,24,135,7,509,5,1078,"Collingwood",Advanced Polls /  ADV002, ,9,7,0,1905,0,"Satellite Office / Bureau satellite",20071010
+085,SIMCOE--GREY,59,6,52,4,150,2,468,"Alliston",Advanced Polls /  ADV003, ,5,1,0,747,0,"Adjala Tosorontio Municipal Office",20071010
+085,SIMCOE--GREY,42,7,44,5,130,3,228,"Angus",Advanced Polls /  ADV004, ,4,0,0,463,0,"Essa Recreation Centre",20071010
+085,SIMCOE--GREY,48,11,77,6,258,5,369,"Midhurst",Advanced Polls /  ADV005, ,0,3,0,777,0,"Midhurst Public Library",20071010
+TOTALS:, ,4417,724,5428,273,12447,361,24270, , , , , , , , , , 

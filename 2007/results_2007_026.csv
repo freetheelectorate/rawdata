@@ -1,0 +1,261 @@
+ED_CODE,ED_NAME,BLANCHETTE,GUNN,LALONDE,PICKETT,POMMAINVILLE,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+026,GLENGARRY--PRESCOTT--RUSSELL,14,0,102,5,15,"L'Orignal",001, ,0,1,0,137,299,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,1,100,6,22,"L'Orignal",002, ,2,1,0,137,293,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,1,98,6,22,"L'Orignal",003, ,1,0,0,142,292,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,27,2,136,10,28,"L'Orignal",004, ,1,0,0,204,408,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,15,0,4,"Champlain",005s, ,0,0,0,19,61,"Résidence Champlain",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,1,101,20,28,"L'Orignal",006, ,2,1,0,163,413,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,0,75,4,25,"Hawkesbury",007, ,0,0,0,109,234,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,0,48,0,6,"Hawkesbury",008, ,0,0,0,58,187,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,0,94,5,10,"Hawkesbury",009, ,2,0,0,116,345,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,46,0,6,"Hawkesbury",010s, ,0,0,0,52,72,"McGill Manor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,0,29,4,10,"Hawkesbury",011, ,1,1,0,50,193,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,0,37,1,11,"Hawkesbury",012, ,1,0,0,59,239,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,18,0,0,"Hawkesbury",013s, ,0,0,0,19,23,"Place Rideau",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,0,52,2,4,"Hawkesbury",014, ,1,0,0,62,244,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,2,57,4,9,"Hawkesbury",015, ,3,0,0,78,283,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,82,7,20,"Hawkesbury",016, ,0,0,0,122,343,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,53,3,14,"Hawkesbury",017, ,0,0,0,80,252,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,73,2,23,"Hawkesbury",018, ,0,0,0,110,286,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,1,79,1,10,"Hawkesbury",019, ,2,1,0,101,305,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,1,73,5,9,"Hawkesbury",020, ,0,0,0,100,265,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,1,88,3,17,"Hawkesbury",021, ,1,0,0,120,298,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,15,1,129,8,39,"Lefaivre",022, ,0,0,2,194,321,"Centre communautaire de Lefaivre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,0,109,10,36,"Lefaivre",023, ,1,2,0,167,483,"Centre communautaire de Lefaivre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,..........................NO POLL HELD........................,,,,,"Lefaivre",023-1s, ,0,0,0,0,0,"",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,1,106,10,32,"L'Orignal",024, ,1,0,0,162,359,"École Saint-Jean-Baptiste",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,1,110,7,52,"L'Orignal",025, ,0,0,0,187,416,"Cassburn Church Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,84,9,21,"Hawkesbury",026, ,2,1,0,130,356,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,1,83,5,25,"Hawkesbury",027, ,0,0,0,121,402,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,99,6,17,"Hawkesbury",028, ,1,0,0,136,327,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,15,0,86,13,24,"Hawkesbury",029, ,1,1,0,140,296,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,2,43,6,8,"Hawkesbury",030, ,2,0,0,67,204,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,0,60,4,8,"Hawkesbury",031, ,0,0,0,77,338,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,1,58,2,19,"Hawkesbury",032, ,0,0,0,86,250,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,67,3,9,"Hawkesbury",033s, ,1,0,0,81,93,"Place Mont Roc",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,1,33,2,7,"Hawkesbury",034s, ,1,1,0,45,144,"Prescott & Russell Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,0,49,1,10,"Hawkesbury",035, ,0,0,0,68,219,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,0,47,5,11,"Hawkesbury",036, ,0,0,0,67,238,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,56,3,15,"Hawkesbury",037, ,0,0,0,81,276,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,100,6,18,"Hawkesbury",038, ,0,0,0,134,315,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,1,120,14,31,"Hawkesbury",039, ,2,2,0,187,413,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,1,105,7,32,"Hawkesbury",040, ,0,0,0,152,297,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,..........................NO POLL HELD........................,,,,,"Hawkesbury",041s, ,0,0,0,0,0,"",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,115,11,27,"Hawkesbury",042, ,0,1,0,166,339,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,108,3,24,"Hawkesbury",043, ,0,0,0,142,314,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,72,6,34,"Hawkesbury",044, ,0,0,0,119,286,"École secondaire Le Sommet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,1,114,3,11,"Hawkesbury",045, ,2,1,0,144,348,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,3,121,15,48,"Hawkesbury",046, ,0,0,0,194,379,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,1,94,17,38,"Chute-à-Blondeau",047, ,0,0,0,156,332,"Centre récréatif de Chute-à-Blondeau",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,1,103,15,37,"Chute-à-Blondeau",048, ,0,0,0,163,319,"Centre récréatif de Chute-à-Blondeau",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,0,168,8,32,"Treadwell",049, ,1,0,0,220,446,"Centre communautaire Treadwell",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,1,69,2,27,"Treadwell",050, ,0,1,0,110,342,"Centre communautaire Treadwell",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,0,46,8,21,"Hawkesbury",051, ,2,0,0,83,194,"École secondaire de Hawkesbury",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,66,8,42,"Hawkesbury",052, ,0,1,0,130,272,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,27,2,88,9,39,"Hawkesbury",053, ,0,0,0,165,399,"École St-Jean Bosco",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,2,187,16,29,"Wendover",054, ,0,0,0,246,447,"Centre communautaire de Wendover Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,3,94,7,22,"Alfred",055, ,2,0,0,134,263,"École élémentaire catholique Saint-Victor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,2,144,6,20,"Alfred",056, ,0,0,0,176,302,"École élémentaire catholique Saint-Victor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,1,113,8,19,"Alfred",057, ,1,0,0,147,259,"École élémentaire catholique Saint-Victor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,2,28,0,7,"Alfred",058s, ,0,1,0,38,48,"Auberge Plein Soleil",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,16,1,2,"Alfred",059s, ,0,2,0,22,35,"Pension du Bonheur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,0,129,7,10,"Alfred",060, ,0,0,0,155,264,"École élémentaire catholique Saint-Victor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,63,9,21,"L'Orignal",061, ,0,0,0,103,263,"Cassburn Church Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,2,60,12,46,"Vankleek Hill",062, ,0,0,0,127,301,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,3,74,9,56,"Vankleek Hill",063, ,1,0,0,154,372,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,50,8,48,"Vankleek Hill",064, ,0,0,0,113,264,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,0,52,11,78,"Vankleek Hill",065, ,0,0,0,147,248,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,16,2,98,15,42,"St. Eugene",066, ,0,0,0,173,277,"Community Hall St. Eugene",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,123,14,46,"St. Eugene",067, ,1,1,0,195,401,"Community Hall St. Eugene",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,3,169,13,47,"Rockland",068, ,0,0,0,238,463,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,97,0,9,"Rockland",069, ,0,0,0,115,306,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,2,84,4,16,"Rockland",070, ,0,0,0,118,293,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,2,116,4,23,"Rockland",071, ,1,0,0,153,380,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,2,115,4,29,"Rockland",072, ,0,0,0,157,421,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,1,156,12,35,"Rockland",073, ,1,0,0,211,457,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,128,13,35,"Rockland",074, ,4,0,0,189,341,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,0,116,2,41,"Rockland",075, ,0,0,0,162,356,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,114,13,44,"Rockland",076, ,0,0,0,178,371,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,169,12,43,"Rockland",077, ,0,0,0,236,521,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,3,114,8,34,"Rockland",078, ,2,0,0,169,376,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,0,80,14,42,"Wendover",079, ,0,0,0,150,333,"Centre communautaire de Wendover Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,0,138,24,48,"Wendover",080, ,0,0,0,218,391,"Centre communautaire de Wendover Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,1,134,10,48,"Plantagenet",081, ,0,0,0,207,453,"Salle municipale de Plantagenet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,1,25,1,2,"Plantagenet",082s, ,0,1,0,31,61,"Pinecrest Nursing Home Limited",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,15,2,104,9,46,"Plantagenet",083, ,1,0,0,177,437,"Salle municipale de Plantagenet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,2,89,4,25,"Plantagenet",084, ,0,0,0,128,359,"Salle municipale de Plantagenet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,2,145,11,31,"Alfred",085, ,0,0,0,203,483,"École élémentaire catholique Saint-Victor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,2,101,14,73,"Vankleek Hill",086, ,0,0,0,207,387,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,2,28,3,16,"Champlain",087s, ,1,0,0,54,70,"Heritage Lodge",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,68,10,21,"Vankleek Hill",088, ,0,0,0,106,249,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,1,4,0,4,"Vankleek Hill",089s, ,0,0,0,9,15,"McDonald Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,62,16,38,"Vankleek Hill",090, ,0,0,0,128,295,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,2,35,13,35,"Dalkeith",091, ,0,0,0,99,461,"St. Paul Parish Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,36,8,6,"Rockland",092, ,0,0,0,51,126,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,1,48,2,7,"Rockland",093s, ,4,0,0,66,87,"Résidence Jardins Bellerive Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,2,70,2,16,"Rockland",094, ,1,0,0,94,256,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,1,133,13,32,"Rockland",095, ,1,0,0,186,440,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,2,146,6,20,"Rockland",096, ,0,0,0,180,377,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,13,0,1,"Rockland",097s, ,1,0,0,16,18,"Pavillon Laurier",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,134,6,46,"Rockland",098, ,0,1,0,200,436,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,80,3,15,"Rockland",099, ,1,0,0,109,283,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,5,138,8,38,"Rockland",100, ,5,0,0,207,401,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,27,0,3,"Rockland",101s, ,0,0,0,31,34,"Résidence Simon Incorporated",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,4,134,16,44,"Rockland",102, ,1,0,0,201,406,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,2,96,1,14,"Rockland",103, ,0,0,0,117,326,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,0,81,10,12,"Rockland",104, ,0,0,0,109,222,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,81,7,45,"Rockland",105, ,1,0,0,143,277,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,3,208,13,39,"Clarence Creek",106, ,1,0,0,274,537,"Arena Clarence Creek Arena",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,146,18,44,"Clarence Creek",107, ,0,0,0,220,464,"Arena Clarence Creek Arena",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,1,76,9,23,"Plantagenet",108, ,0,0,0,116,211,"Salle municipale de Plantagenet",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,29,0,5,"Plantagenet",109s, ,0,0,0,36,47,"Résidence Quatre Saisons",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,2,39,7,29,"St. Bernadin",110, ,0,0,0,80,175,"Centre communautaire Caledonia",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,3,74,19,66,"Vankleek Hill",111, ,0,1,0,168,341,"Vankleek Hill Collegiate Institute",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,3,88,5,28,"Ste-Anne-de-Prescott",112, ,1,0,0,138,280,"Centre d'action Ste-Anne",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,4,91,20,59,"Orléans",113, ,0,0,0,185,420,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,19,1,90,22,79,"Cumberland",114, ,2,0,0,213,416,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,0,171,13,133,"Cumberland",115, ,2,0,0,336,617,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,18,1,9,"Cumberland",116s, ,0,0,0,29,63,"Cumberland Lodge",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,100,15,106,"Cumberland",117, ,0,0,0,231,585,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,2,99,19,74,"Cumberland",118, ,1,0,0,203,384,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,0,117,17,79,"Rockland",119, ,0,0,0,224,556,"Rockland District High School",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,3,153,14,82,"Clarence Creek",120, ,0,1,0,259,566,"Arena Clarence Creek Arena",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,3,183,17,38,"Clarence Creek",121, ,1,2,0,258,539,"Arena Clarence Creek Arena",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,1,34,0,1,"Clarence Creek",122s, ,0,0,0,37,104,"Centre d'accueil Roger Séguin",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,10,1,1,"St-Pascal-Baylon",123s, ,0,0,0,14,33,"St. Pascal Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,18,2,90,7,29,"St-Pascal-Baylon",124, ,2,2,0,150,316,"Centre récréatif St-Pascal",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,28,0,4,"Curran",125s, ,0,0,0,32,51,"Villa St-Luc",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,38,3,174,12,58,"Curran",126, ,1,0,0,286,444,"Centre communautaire de Curran",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,64,9,33,"Orléans",127, ,0,0,0,115,217,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,2,124,13,59,"Orléans",128, ,0,0,0,210,418,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,4,68,1,39,"Orléans",129, ,0,1,0,124,293,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,80,10,55,"Orléans",130, ,0,0,0,155,369,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,5,131,21,68,"Orléans",131, ,5,0,0,241,484,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,0,28,6,26,"Orléans",132, ,0,0,0,64,110,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,3,34,6,20,"Orléans",133, ,0,0,0,67,130,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,161,18,108,"Cumberland",134, ,4,0,0,304,547,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,3,166,19,82,"Sarsfield",135, ,0,0,0,282,540,"Multiservices Centre Corporation",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,2,150,14,73,"Hammond",136, ,6,0,0,262,534,"Centre communautaire Hammond Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,5,103,14,44,"St-Pascal-Baylon",137, ,0,1,0,180,405,"Centre récréatif St-Pascal",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,55,21,42,"St. Bernadin",138, ,1,2,0,131,372,"Centre communautaire Caledonia",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,0,76,19,101,"Dalkeith",139, ,1,0,0,208,361,"St. Paul Parish Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,5,47,24,44,"Glen Robertson",140, ,1,0,0,124,399,"Glen Robertson Recreation Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,2,149,20,109,"Sarsfield",141, ,1,1,0,294,590,"Multiservices Centre Corporation",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,8,1,2,"Sarsfield",142s, ,0,0,0,11,45,"Sarsfield Colonial Home",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,152,17,103,"Hammond",143, ,5,1,0,288,538,"Centre communautaire Hammond Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,25,0,8,"Hammond",144s, ,0,0,0,34,39,"Résidence St-Mathieu",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,139,6,44,"Bourget",145, ,4,0,4,206,462,"Centre communautaire Bourget",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,9,0,2,"Bourget",146s, ,0,3,0,16,45,"Caressant Care Bourget Nursing Home",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,2,77,17,56,"Bourget",147, ,1,0,0,163,307,"Centre communautaire Bourget",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,0,88,15,48,"St. Isidore",148, ,2,0,0,162,379,"Club d'âge d'or Renaissance",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,114,13,44,"St. Bernadin",149, ,2,0,0,186,310,"Centre communautaire Caledonia",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,3,61,9,47,"Glen Robertson",150, ,1,0,0,138,286,"Glen Robertson Recreation Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,3,144,18,64,"Navan",151, ,3,0,0,240,508,"St. Mary's Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,16,3,101,12,63,"Navan",152, ,0,0,0,195,403,"St. Mary's Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,1,131,15,95,"Navan",153, ,0,0,0,256,412,"St. Mary's Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,18,1,159,29,140,"Navan",154, ,2,0,0,349,578,"St. Mary's Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,6,131,21,113,"Bearbrook",155, ,1,0,2,281,549,"Centre communautaire Bearbrook Centennial",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,16,1,150,21,112,"Cheney",156, ,0,0,0,300,652,"Government Surplus and Computer Store",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,4,121,11,57,"Cheney",157, ,2,0,0,206,501,"Government Surplus and Computer Store",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,189,12,66,"Bourget",158, ,4,2,0,282,614,"Centre communautaire Bourget",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,145,17,42,"St. Isidore",159, ,2,0,0,215,344,"Club d'âge d'or Renaissance",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,13,0,2,"St. Isidore",160s, ,0,0,0,16,41,"Centre d'Accueil Lise Ménard",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,2,108,4,38,"St. Isidore",161, ,0,0,0,162,367,"Club d'âge d'or Renaissance",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,2,38,25,51,"Maxville",162, ,0,0,0,121,311,"Maxville & District Sports Complex",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,1,59,4,62,"North Glengarry",163, ,0,0,0,129,313,"Paroisse St-Alexander Church",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,2,57,7,41,"Glen Robertson",164, ,0,0,0,115,254,"Glen Robertson Recreation Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,87,14,64,"Bearbrook",165, ,0,0,0,177,424,"Centre communautaire Bearbrook Centennial",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,1,103,10,96,"Bearbrook",166, ,1,0,0,224,529,"Centre communautaire Bearbrook Centennial",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,4,71,10,79,"Limoges",167, ,0,0,0,173,328,"École catholique Saint-Viateur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,5,105,7,47,"Casselman",168, ,3,0,0,178,338,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,0,107,6,43,"St. Isidore",169, ,1,0,0,165,484,"Club d'âge d'or Renaissance",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,0,59,7,23,"Alexandria",170, ,0,0,0,94,239,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,94,5,40,"Alexandria",171, ,3,1,0,156,358,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,70,9,19,"Alexandria",172, ,0,0,0,99,235,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,1,75,10,28,"Glen Robertson",173, ,0,0,0,119,326,"Glen Robertson Recreation Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,2,87,13,66,"Vars",174, ,0,0,0,182,334,"École élémentaire catholique Saint-Guillaume",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,0,11,0,7,"Vars",175s, ,2,0,0,23,30,"Résidence Ste-Marie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,1,8,0,9,"Vars",176s, ,0,0,0,22,28,"Résidence Pine Rest Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,1,7,1,16,"Vars",177s, ,0,0,2,28,30,"Champagne Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,0,86,11,72,"Bearbrook",178, ,0,0,0,177,394,"Centre communautaire Bearbrook Centennial",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,11,4,6,"Limoges",179s, ,0,0,0,23,31,"Résidence Limoges Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,4,89,18,88,"Limoges",180, ,0,0,0,211,393,"École catholique Saint-Viateur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,38,5,45,"Limoges",181, ,0,0,0,89,212,"École catholique Saint-Viateur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,47,12,79,"Maxville",182, ,0,2,0,152,338,"Maxville & District Sports Complex",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,1,57,8,38,"Alexandria",183, ,0,0,0,115,208,"Bonnie Glen Pavilion",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,52,6,28,"Alexandria",184, ,0,0,0,88,320,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,..........................NO POLL HELD........................,,,,,"North Glengarry",185s, ,0,0,0,0,0,"",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,0,56,4,16,"Alexandria",186, ,2,1,0,81,250,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,0,45,3,14,"Alexandria",187, ,0,0,0,68,216,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,......................COMBINED WITH POLL 171 ....................,,,,,"Alexandria",188s, ,,,,,,"The Palace",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,2,30,1,4,"Alexandria",189s, ,0,0,0,37,44,"Château Glengarry",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,1,42,6,12,"Alexandria",190, ,0,0,0,64,220,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,2,112,2,37,"Alexandria",191, ,0,1,0,164,367,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,0,60,3,21,"Alexandria",192, ,0,1,0,96,299,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,86,3,36,"Alexandria",193, ,0,0,0,134,349,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,74,16,69,"Vars",194, ,0,0,0,169,336,"École élémentaire catholique Saint-Guillaume",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,83,4,76,"Limoges",195, ,2,0,0,175,326,"École catholique Saint-Viateur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,9,0,5,"Limoges",196s, ,1,0,0,16,22,"Residence L'Érablière Residence",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,19,1,119,20,113,"Limoges",197, ,1,0,0,273,437,"École catholique Saint-Viateur",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,79,4,26,"Casselman",198, ,1,0,0,117,271,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,1,84,17,45,"Casselman",199, ,0,0,0,158,341,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,0,132,6,50,"Casselman",200, ,1,0,0,198,344,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,102,6,36,"Casselman",201, ,0,0,0,154,263,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,1,49,0,14,"Casselman",202s, ,2,2,0,68,81,"Résidence St-Francois",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,127,2,20,"Casselman",203, ,0,0,0,156,329,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,2,83,2,27,"Casselman",204, ,3,1,0,125,304,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,1,19,4,3,"Casselman",205s, ,1,0,0,29,29,"Résidence Mon Chez Nous",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,12,0,188,12,56,"Casselman",206, ,0,0,0,268,500,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,6,3,134,11,38,"Casselman",207, ,1,0,0,193,426,"Académie de La Seigneurie",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,1,64,7,105,"Maxville",208, ,0,0,0,186,387,"Maxville & District Sports Complex",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,20,3,18,"North Glengarry",209s, ,0,0,1,43,117,"Maxville Manor",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,60,14,75,"Maxville",210, ,0,0,0,162,309,"Maxville & District Sports Complex",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,1,90,9,53,"Alexandria",211, ,0,0,0,167,430,"École secondaire catholique Le Relais",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,6,51,21,98,"Russell",212, ,0,0,0,193,445,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,2,130,14,72,"Embrun",213, ,1,0,0,229,384,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,0,151,16,81,"Embrun",214, ,0,0,0,255,510,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,30,0,19,"Limoges",215s, ,1,1,0,51,119,"St. Viateur Nursing Home",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,5,64,28,74,"Embrun",216, ,1,0,0,181,373,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,2,89,12,47,"Embrun",217, ,1,0,0,165,433,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,14,2,108,10,46,"St. Albert",218, ,0,1,0,181,346,"Centre communautaire St-Albert",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,2,164,5,46,"St. Albert",219, ,0,0,0,228,360,"Centre communautaire St-Albert",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,0,59,15,47,"Apple Hill",220, ,2,0,0,131,303,"Apple Hill Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,1,30,6,16,"Alexandria",221, ,0,0,0,55,136,"Bonnie Glen Pavilion",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,7,78,18,82,"Russell",222, ,0,1,0,199,403,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,16,2,83,19,112,"Russell",223, ,0,0,0,232,458,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,8,1,37,14,60,"Russell",224, ,1,0,0,121,267,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,81,15,99,"Russell",225, ,0,1,0,206,358,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,81,10,81,"Russell",226, ,0,0,1,186,381,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,117,9,84,"Embrun",227, ,0,0,0,223,398,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,1,114,5,60,"Embrun",228, ,2,0,0,187,416,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,16,1,129,10,49,"Embrun",229, ,0,0,1,206,416,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,13,1,5,"Embrun",230s, ,0,0,0,20,56,"Foyer St-Jacques Nursing Home",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,2,63,6,24,"Embrun",231, ,0,0,0,100,254,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,0,103,13,57,"Embrun",232, ,1,2,0,186,370,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,1,0,144,8,37,"Embrun",233, ,1,0,0,191,410,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,6,133,6,66,"Embrun",234, ,0,0,0,220,384,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,61,0,4,"Russell",235s, ,2,1,0,68,75,"Le Pavillon",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,5,4,116,3,54,"Embrun",236, ,0,0,0,182,407,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,0,158,8,54,"Embrun",237, ,1,0,0,232,485,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,0,105,5,50,"Embrun",238, ,0,1,0,174,398,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,2,141,10,56,"St. Albert",239, ,0,1,0,220,321,"Centre communautaire St-Albert",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,0,0,32,0,5,"St. Albert",240s, ,0,0,0,37,39,"Villa St-Albert",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,3,92,15,65,"Apple Hill",241, ,0,0,0,186,469,"Apple Hill Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,9,5,114,23,68,"Russell",242, ,0,1,0,220,414,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,4,97,16,65,"Russell",243, ,0,0,0,193,368,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,1,93,9,102,"Russell",244, ,0,0,0,215,410,"Russell Fire Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,2,1,49,7,34,"Marionville",245, ,0,0,0,93,330,"Marionville Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,13,2,105,16,105,"Marionville",246, ,1,0,0,242,493,"Marionville Community Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,38,7,864,33,165,"Rockland",Advanced Polls /  ADV001, ,4,0,0,1111,0,"Returning Office / Bureau du directeur du scrutin",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,3,4,117,6,69,"Orléans",Advanced Polls /  ADV002, ,0,0,0,199,0,"École publique Gisèle-Lalonde",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,1,83,16,77,"Russell",Advanced Polls /  ADV003, ,0,0,0,187,0,"Russell Youth Center",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,4,0,152,6,55,"St. Isidore",Advanced Polls /  ADV004, ,1,0,0,218,0,"Club d'âge d'or Renaissance",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,11,1,119,20,114,"Vankleek Hill",Advanced Polls /  ADV005, ,1,0,0,266,0,"Vankleek Hill Arena",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,21,3,282,26,146,"Alexandria",Advanced Polls /  ADV006, ,2,2,0,482,0,"Centre culturel "Les trois p'tits points..."",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,67,2,632,34,154,"Hawkesbury",Advanced Polls /  ADV007, ,6,1,0,896,0,"Hawkesbury Centre",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,7,5,153,19,156,"Cumberland",Advanced Polls /  ADV008, ,0,1,2,343,0,"Maple Hall",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,25,2,270,8,94,"Casselman",Advanced Polls /  ADV009, ,1,1,0,401,0,"Club 60",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,17,0,259,21,114,"Embrun",Advanced Polls /  ADV010, ,4,1,0,416,0,"Chevaliers de Colomb d'Embrun",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,10,4,89,3,44,"Bourget",Advanced Polls /  ADV011, ,0,1,0,151,0,"Bibliothèque publique de Clarence-Rockland",20071010
+026,GLENGARRY--PRESCOTT--RUSSELL,21,2,223,13,47,"Plantagenet",Advanced Polls /  ADV012, ,1,0,0,307,0,"Local Scout",20071010
+TOTALS:, ,2281,337,24345,2344,10927, , , , , , , , , , 

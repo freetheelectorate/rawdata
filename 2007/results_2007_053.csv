@@ -1,0 +1,247 @@
+ED_CODE,ED_NAME,BISANZ,BRUDZINSKI,HODGINS,KLEES,MCROGERS,SEAWARD,PLACE_NAME,POLL_NUMBER,RURAL_INDICATOR,REJECTED,UNMARKED,DECLINED,VOTER_TURNOUT,ELECTORS,POLL_LOCATION,POLL_DATE
+053,NEWMARKET--AURORA,106,1,3,115,18,13,"Newmarket",001, ,1,1,0,258,487,"Seton Parish Hall",20071010
+053,NEWMARKET--AURORA,140,1,3,133,30,23,"Newmarket",002, ,2,0,1,333,547,"Denne Public School",20071010
+053,NEWMARKET--AURORA,105,3,0,139,27,17,"Newmarket",003, ,0,0,0,291,480,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,72,4,1,86,26,26,"Newmarket",004, ,0,0,0,215,397,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,102,0,1,118,16,21,"Newmarket",005, ,2,0,0,260,467,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,72,2,2,87,31,20,"Newmarket",006, ,1,0,2,217,430,"Seton Parish Hall",20071010
+053,NEWMARKET--AURORA,38,0,0,83,9,9,"Newmarket",007A, ,0,1,0,140,258,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,50,1,0,76,14,10,"Newmarket",007B, ,0,0,0,151,301,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,92,0,3,92,22,26,"Newmarket",008, ,3,1,0,239,502,"Dr. John M. Denison Secondary School",20071010
+053,NEWMARKET--AURORA,98,7,5,84,16,22,"Newmarket",009, ,6,0,0,238,462,"Dr. John M. Denison Secondary School",20071010
+053,NEWMARKET--AURORA,118,0,1,104,31,26,"Newmarket",010, ,0,0,0,280,539,"Dr. John M. Denison Secondary School",20071010
+053,NEWMARKET--AURORA,104,1,1,116,17,24,"Newmarket",011, ,0,0,0,263,452,"Canadian Martyrs Catholic School",20071010
+053,NEWMARKET--AURORA,104,1,0,112,24,13,"Newmarket",012, ,0,0,0,254,426,"Denne Public School",20071010
+053,NEWMARKET--AURORA,109,1,1,105,29,18,"Newmarket",013, ,0,0,2,265,495,"Denne Public School",20071010
+053,NEWMARKET--AURORA,88,1,1,94,28,17,"Newmarket",014, ,3,0,0,232,430,"Denne Public School",20071010
+053,NEWMARKET--AURORA,53,1,2,70,27,18,"Newmarket",015, ,1,0,0,172,363,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,40,2,1,55,12,14,"Newmarket",016, ,1,0,0,125,339,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,59,0,3,66,19,28,"Newmarket",017, ,0,0,0,175,347,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",018, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,107,1,3,124,30,16,"Newmarket",019, ,0,2,0,283,507,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,55,2,1,87,13,28,"Newmarket",020, ,0,0,0,186,358,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",021, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,74,1,2,46,8,9,"Newmarket",022, ,0,0,0,140,344,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,67,0,0,45,21,6,"Newmarket",023, ,3,1,0,143,366,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,74,1,1,73,11,10,"Newmarket",024, ,0,0,0,170,382,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,65,0,0,56,12,15,"Newmarket",025, ,2,1,0,151,343,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,74,2,3,113,21,18,"Newmarket",026, ,0,0,0,231,427,"Canadian Martyrs Catholic School",20071010
+053,NEWMARKET--AURORA,112,0,7,123,36,19,"Newmarket",027, ,3,0,0,300,482,"Dr. John M. Denison Secondary School",20071010
+053,NEWMARKET--AURORA,87,2,0,87,22,13,"Newmarket",028, ,0,0,0,211,412,"Canadian Martyrs Catholic School",20071010
+053,NEWMARKET--AURORA,78,0,2,101,27,21,"Newmarket",029, ,1,0,0,230,406,"Canadian Martyrs Catholic School",20071010
+053,NEWMARKET--AURORA,36,2,0,49,20,17,"Newmarket",030, ,1,0,0,125,303,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,43,1,1,68,14,18,"Newmarket",031, ,2,1,0,148,298,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,52,1,0,59,10,17,"Newmarket",032, ,3,2,0,144,359,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,59,0,0,76,23,25,"Newmarket",033, ,0,1,0,184,381,"St. Elizabeth Seton Catholic School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",034s, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,18,0,1,8,1,13,"Newmarket",035s, ,1,1,0,43,190,"Southlake Residential Care Village",20071010
+053,NEWMARKET--AURORA,60,2,0,66,11,15,"Newmarket",036, ,1,0,0,155,357,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,48,1,0,72,14,14,"Newmarket",037, ,0,0,0,149,330,"Glen Cedar Public School",20071010
+053,NEWMARKET--AURORA,103,2,1,117,32,18,"Newmarket",038, ,0,0,2,275,527,"Mazo de la Roche Public School",20071010
+053,NEWMARKET--AURORA,42,1,1,34,3,13,"Newmarket",039s, ,2,0,0,96,129,"Cedarview Lodge",20071010
+053,NEWMARKET--AURORA,93,5,0,127,14,16,"Newmarket",040, ,1,1,0,257,460,"Mazo de la Roche Public School",20071010
+053,NEWMARKET--AURORA,23,0,1,25,3,3,"Newmarket",041s, ,1,0,0,56,97,"Barton Retirement Residence",20071010
+053,NEWMARKET--AURORA,65,0,1,106,27,12,"Newmarket",042, ,1,0,0,212,374,"Mazo de la Roche Public School",20071010
+053,NEWMARKET--AURORA,55,1,1,40,4,9,"Newmarket",043, ,0,0,0,110,273,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,86,0,3,76,15,20,"Newmarket",044, ,0,1,0,201,406,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,70,2,1,51,8,11,"Newmarket",045, ,2,0,0,145,384,"Poplar Bank Public School",20071010
+053,NEWMARKET--AURORA,7,1,0,9,0,4,"Newmarket",046s, ,3,0,0,24,77,"MacKenzie Place",20071010
+053,NEWMARKET--AURORA,34,1,0,43,13,16,"Newmarket",047, ,0,0,0,107,325,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,36,0,1,43,17,16,"Newmarket",048, ,0,0,0,113,359,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,55,0,1,55,40,21,"Newmarket",049, ,0,1,0,173,345,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,31,0,1,46,24,18,"Newmarket",050, ,0,0,0,120,323,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,35,1,2,32,8,6,"Newmarket",051, ,0,0,0,84,192,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,54,1,3,48,25,19,"Newmarket",052, ,0,0,0,150,326,"Maple Leaf Public School",20071010
+053,NEWMARKET--AURORA,42,2,0,38,33,12,"Newmarket",053, ,1,1,1,130,277,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,7,0,0,13,1,0,"Newmarket",054s, ,1,0,0,22,26,"Clock Tower Inn Retirement Residence",20071010
+053,NEWMARKET--AURORA,41,2,1,38,21,10,"Newmarket",055, ,0,0,1,114,314,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,15,0,1,34,3,1,"Newmarket",056s, ,0,3,1,58,73,"Alexander Muir Retirement Residence",20071010
+053,NEWMARKET--AURORA,45,0,0,54,21,18,"Newmarket",057, ,0,0,0,138,350,"Mazo de la Roche Public School",20071010
+053,NEWMARKET--AURORA,55,1,0,53,17,10,"Newmarket",058, ,2,0,0,138,364,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,52,1,1,76,18,18,"Newmarket",059, ,2,1,0,169,371,"Cedarview Community Church",20071010
+053,NEWMARKET--AURORA,74,5,0,80,15,20,"Newmarket",060, ,1,0,0,195,366,"Mazo de la Roche Public School",20071010
+053,NEWMARKET--AURORA,34,0,0,39,8,4,"Newmarket",061s, ,2,0,0,87,105,"Amica at Newmarket",20071010
+053,NEWMARKET--AURORA,101,1,1,110,18,22,"Newmarket",062, ,0,2,2,257,434,"Cedarview Community Church",20071010
+053,NEWMARKET--AURORA,92,0,4,89,14,20,"Newmarket",063, ,0,0,0,219,403,"Cedarview Community Church",20071010
+053,NEWMARKET--AURORA,58,1,0,62,11,15,"Newmarket",064, ,0,0,0,147,292,"Cedarview Community Church",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",065, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,113,1,1,103,22,11,"Newmarket",066, ,1,0,0,252,448,"Ray Twinney Recreation Complex",20071010
+053,NEWMARKET--AURORA,61,0,0,79,28,14,"Newmarket",067, ,2,0,0,184,407,"Ray Twinney Recreation Complex",20071010
+053,NEWMARKET--AURORA,73,2,1,68,10,11,"Newmarket",068, ,0,0,0,165,320,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,82,2,1,79,41,14,"Newmarket",069, ,0,0,0,219,385,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,87,0,3,81,19,16,"Newmarket",070, ,0,0,0,206,370,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,8,0,1,7,1,4,"Newmarket",071s, ,0,0,0,21,39,"Eagle Terrace",20071010
+053,NEWMARKET--AURORA,86,1,0,57,40,17,"Newmarket",072, ,0,1,0,202,381,"J. L. R. Bell Public School",20071010
+053,NEWMARKET--AURORA,63,0,1,50,26,14,"Newmarket",073, ,0,0,0,154,308,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,25,2,1,27,15,14,"Newmarket",074, ,0,0,0,84,248,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",075, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,50,0,3,61,16,7,"Newmarket",076, ,0,0,0,137,196,"Fairy Lake Gardens",20071010
+053,NEWMARKET--AURORA,105,0,0,88,20,18,"Newmarket",077, ,0,0,0,231,422,"Bogart Public School",20071010
+053,NEWMARKET--AURORA,102,5,2,87,37,22,"Newmarket",078, ,2,0,0,257,462,"Cedarview Community Church",20071010
+053,NEWMARKET--AURORA,109,3,1,83,21,17,"Newmarket",079, ,0,0,0,234,459,"Bogart Public School",20071010
+053,NEWMARKET--AURORA,79,1,0,79,13,11,"Newmarket",080, ,1,0,0,184,358,"Bogart Public School",20071010
+053,NEWMARKET--AURORA,119,0,0,95,11,11,"Newmarket",081, ,1,0,0,237,439,"Crossland Public School",20071010
+053,NEWMARKET--AURORA,134,0,1,116,13,7,"Newmarket",082, ,1,0,0,272,521,"Crossland Public School",20071010
+053,NEWMARKET--AURORA,102,0,0,127,15,12,"Newmarket",083, ,0,0,0,256,462,"Ray Twinney Recreation Complex",20071010
+053,NEWMARKET--AURORA,68,0,0,78,18,21,"Newmarket",084, ,1,0,0,186,365,"Rogers Public School",20071010
+053,NEWMARKET--AURORA,100,0,1,75,35,25,"Newmarket",085, ,1,0,0,237,414,"St. Paul Catholic School",20071010
+053,NEWMARKET--AURORA,29,0,2,27,4,9,"Newmarket",086s, ,1,1,1,74,156,"Newmarket Health Centre",20071010
+053,NEWMARKET--AURORA,76,3,0,97,34,28,"Newmarket",087, ,0,0,0,238,438,"Rogers Public School",20071010
+053,NEWMARKET--AURORA,72,3,1,62,27,17,"Newmarket",088, ,2,1,0,185,341,"Rogers Public School",20071010
+053,NEWMARKET--AURORA,105,1,2,96,20,12,"Newmarket",089, ,1,0,0,237,395,"Rogers Public School",20071010
+053,NEWMARKET--AURORA,83,1,1,89,26,26,"Newmarket",090, ,2,0,0,228,518,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,54,3,0,58,19,10,"Newmarket",092, ,0,2,0,146,311,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,102,2,1,93,15,13,"Newmarket",093, ,0,0,0,226,420,"Bogart Public School",20071010
+053,NEWMARKET--AURORA,100,1,0,109,25,23,"Newmarket",094, ,0,2,0,260,483,"Bogart Public School",20071010
+053,NEWMARKET--AURORA,70,2,1,108,21,5,"Newmarket",095, ,0,0,0,207,354,"Notre Dame Catholic School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",095-1, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,69,0,3,106,9,2,"Newmarket",096, ,2,0,0,191,343,"Notre Dame Catholic School",20071010
+053,NEWMARKET--AURORA,96,0,1,145,30,6,"Newmarket",097, ,0,0,0,278,485,"St. Nicholas Catholic School",20071010
+053,NEWMARKET--AURORA,91,2,1,84,15,11,"Newmarket",098, ,0,1,0,205,395,"St. Nicholas Catholic School",20071010
+053,NEWMARKET--AURORA,128,1,0,122,24,20,"Newmarket",099, ,2,0,0,297,546,"Crossland Public School",20071010
+053,NEWMARKET--AURORA,97,2,0,95,24,7,"Newmarket",100, ,3,0,0,228,414,"St. Nicholas Catholic School",20071010
+053,NEWMARKET--AURORA,74,0,1,61,8,8,"Newmarket",101, ,1,0,0,153,326,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,89,1,4,73,15,10,"Newmarket",102, ,1,0,0,193,438,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,87,0,1,99,20,20,"Newmarket",103, ,1,0,0,228,477,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,97,2,1,49,13,15,"Newmarket",104, ,0,0,0,177,392,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,55,1,1,55,21,14,"Newmarket",105, ,2,0,0,149,306,"St. Paul Catholic School",20071010
+053,NEWMARKET--AURORA,114,5,1,82,28,17,"Newmarket",106, ,0,0,0,247,397,"St. Paul Catholic School",20071010
+053,NEWMARKET--AURORA,120,3,2,75,23,30,"Newmarket",107, ,0,2,0,255,529,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,69,1,1,79,19,28,"Newmarket",108, ,1,0,1,199,414,"St. Paul Catholic School",20071010
+053,NEWMARKET--AURORA,88,1,1,87,15,15,"Newmarket",109, ,0,0,0,207,466,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,88,0,0,103,12,8,"Newmarket",110, ,1,0,0,212,508,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,71,0,0,83,10,14,"Newmarket",111, ,0,0,0,178,431,"Newmarket Theatre",20071010
+053,NEWMARKET--AURORA,49,3,0,65,21,11,"Newmarket",112, ,1,0,0,150,397,"Newmarket Theatre",20071010
+053,NEWMARKET--AURORA,112,2,4,84,10,14,"Newmarket",113, ,0,2,0,228,483,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,98,0,1,130,17,6,"Newmarket",114, ,2,3,0,257,489,"Notre Dame Catholic School",20071010
+053,NEWMARKET--AURORA,77,2,0,123,10,0,"Newmarket",115, ,0,0,0,212,420,"Notre Dame Catholic School",20071010
+053,NEWMARKET--AURORA,102,2,0,97,12,9,"Newmarket",116, ,0,0,0,222,473,"Notre Dame Catholic School",20071010
+053,NEWMARKET--AURORA,92,1,2,80,18,17,"Newmarket",117, ,0,1,1,212,435,"St. Nicholas Catholic School",20071010
+053,NEWMARKET--AURORA,79,0,0,79,11,12,"Newmarket",118, ,1,0,0,182,386,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,105,1,3,79,14,9,"Newmarket",119, ,1,0,0,212,433,"Sir William Mulock Secondary School",20071010
+053,NEWMARKET--AURORA,80,2,0,79,11,10,"Newmarket",120, ,2,2,0,186,367,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,78,1,2,58,12,14,"Newmarket",121, ,0,0,0,165,395,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,75,1,0,63,22,10,"Newmarket",122, ,2,0,0,173,395,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,87,2,1,74,20,15,"Newmarket",123, ,0,0,0,199,396,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,120,3,3,81,14,15,"Newmarket",124, ,0,0,0,236,496,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,116,3,7,98,19,17,"Newmarket",125, ,0,0,1,261,546,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,52,0,0,125,13,3,"Newmarket",126, ,1,1,0,195,327,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,80,2,1,95,10,20,"Newmarket",127, ,1,0,0,209,427,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,98,1,1,77,8,6,"Newmarket",128, ,1,0,0,192,377,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,68,0,0,74,7,6,"Newmarket",129, ,0,0,0,155,346,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,109,0,0,139,23,5,"Newmarket",130, ,0,0,0,276,542,"Stonehaven Elementary School",20071010
+053,NEWMARKET--AURORA,92,1,0,89,20,11,"Newmarket",131, ,0,2,0,215,419,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,92,1,2,83,9,12,"Newmarket",132, ,6,0,0,205,460,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",133, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,108,1,2,76,10,19,"Newmarket",134, ,1,1,0,218,405,"Armitage Village Public School",20071010
+053,NEWMARKET--AURORA,87,1,0,80,13,8,"Aurora",135, ,0,0,0,189,398,"Northern Lights Public School",20071010
+053,NEWMARKET--AURORA,86,0,1,67,5,13,"Aurora",136, ,1,0,0,173,445,"Hartman Public School",20071010
+053,NEWMARKET--AURORA,70,0,0,62,15,11,"Newmarket",137, ,0,0,0,158,379,"Terry Fox Public School",20071010
+053,NEWMARKET--AURORA,24,1,1,26,5,11,"Aurora",138, ,0,0,0,68,86,"Hadley Grange",20071010
+053,NEWMARKET--AURORA,60,0,1,70,12,14,"Aurora",139, ,0,1,0,158,333,"Northern Lights Public School",20071010
+053,NEWMARKET--AURORA,71,1,1,79,12,11,"Aurora",140, ,0,0,0,175,384,"Northern Lights Public School",20071010
+053,NEWMARKET--AURORA,71,0,2,65,11,11,"Aurora",141, ,0,0,0,160,347,"Northern Lights Public School",20071010
+053,NEWMARKET--AURORA,80,1,0,84,11,17,"Aurora",142, ,2,0,0,195,405,"Northern Lights Public School",20071010
+053,NEWMARKET--AURORA,65,0,3,53,19,9,"Aurora",143, ,1,0,0,150,349,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,52,2,2,59,18,7,"Aurora",144, ,0,0,0,140,338,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,74,2,0,133,13,3,"Aurora",145, ,0,0,0,225,440,"St. Andrew's College",20071010
+053,NEWMARKET--AURORA,104,1,0,126,14,5,"Aurora",146, ,0,2,0,252,456,"St. Andrew's College",20071010
+053,NEWMARKET--AURORA,66,0,2,72,21,8,"Aurora",147A, ,0,1,0,170,332,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,66,0,0,57,22,28,"Aurora",147B, ,1,0,0,174,316,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,87,0,3,107,26,15,"Aurora",148, ,0,0,0,238,451,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,76,0,0,57,16,13,"Aurora",149, ,0,0,0,162,369,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,67,1,0,45,14,11,"Aurora",150, ,1,0,1,140,317,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,52,2,4,48,21,17,"Aurora",151, ,1,2,0,147,334,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,82,0,1,73,18,10,"Aurora",152, ,2,0,0,186,417,"Hartman Public School",20071010
+053,NEWMARKET--AURORA,73,0,2,50,16,5,"Aurora",153, ,1,2,0,149,349,"Hartman Public School",20071010
+053,NEWMARKET--AURORA,87,3,2,78,12,17,"Aurora",154, ,0,1,0,200,391,"Hartman Public School",20071010
+053,NEWMARKET--AURORA,92,0,0,123,23,9,"Aurora",155, ,0,2,0,249,448,"Devins Drive Public School",20071010
+053,NEWMARKET--AURORA,134,0,1,128,37,20,"Aurora",156, ,0,0,0,320,518,"Devins Drive Public School",20071010
+053,NEWMARKET--AURORA,120,2,4,111,17,12,"Aurora",157, ,0,0,0,266,449,"Devins Drive Public School",20071010
+053,NEWMARKET--AURORA,115,3,2,61,37,20,"Aurora",158, ,1,0,0,239,443,"St. Andrew's College",20071010
+053,NEWMARKET--AURORA,72,1,2,71,13,19,"Aurora",159, ,0,1,0,179,317,"Aurora Heights Public School",20071010
+053,NEWMARKET--AURORA,67,1,0,77,21,17,"Aurora",160, ,0,1,0,184,387,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,100,2,2,102,27,22,"Aurora",161, ,1,0,0,256,447,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,86,0,1,110,31,8,"Aurora",162, ,2,1,0,239,432,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,50,2,1,57,15,8,"Aurora",163A, ,0,0,0,133,289,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,51,1,0,48,15,5,"Aurora",163B, ,0,0,0,120,280,"Aurora Seniors Centre",20071010
+053,NEWMARKET--AURORA,97,2,0,86,21,17,"Aurora",164, ,1,2,0,226,551,"Hartman Public School",20071010
+053,NEWMARKET--AURORA,118,1,4,133,28,13,"Aurora",165, ,0,1,0,298,477,"Devins Drive Public School",20071010
+053,NEWMARKET--AURORA,97,1,0,96,31,16,"Aurora",166, ,0,1,0,242,436,"Our Lady of Grace Catholic School",20071010
+053,NEWMARKET--AURORA,67,0,2,89,21,19,"Aurora",167, ,0,0,0,198,425,"Our Lady of Grace Catholic School",20071010
+053,NEWMARKET--AURORA,88,1,3,95,27,17,"Aurora",168, ,0,0,1,232,390,"Our Lady of Grace Catholic School",20071010
+053,NEWMARKET--AURORA,68,0,2,95,13,19,"Aurora",169, ,0,1,1,199,348,"Aurora Heights Public School",20071010
+053,NEWMARKET--AURORA,66,1,1,61,31,22,"Aurora",170, ,0,1,0,183,373,"Aurora Heights Public School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Aurora",171, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Aurora",172, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,47,0,0,53,24,3,"Aurora",173, ,0,0,0,127,289,"Lester B. Pearson Public School",20071010
+053,NEWMARKET--AURORA,57,0,2,55,34,11,"Aurora",174, ,0,0,0,159,318,"Aurora Public Library",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Aurora",175, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,63,1,1,54,8,12,"Aurora",176A, ,0,0,0,139,310,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,60,1,0,48,11,9,"Aurora",176B, ,0,0,0,129,289,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Aurora",177, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Aurora",177-1, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,110,0,2,150,22,11,"Aurora",178, ,1,0,0,296,528,"Our Lady of Grace Catholic School",20071010
+053,NEWMARKET--AURORA,120,0,0,127,22,15,"Aurora",179, ,0,0,0,284,461,"Our Lady of Grace Catholic School",20071010
+053,NEWMARKET--AURORA,102,1,0,127,20,13,"Aurora",180, ,0,1,0,264,489,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,50,3,1,54,19,24,"Aurora",181, ,0,0,0,151,362,"Aurora Heights Public School",20071010
+053,NEWMARKET--AURORA,30,2,1,29,8,9,"Aurora",182, ,0,0,0,79,277,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,77,0,1,89,24,7,"Aurora",183, ,0,2,0,200,392,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,68,1,0,84,15,16,"Aurora",184, ,1,1,0,186,400,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,20,0,3,26,6,4,"Aurora",185s, ,2,6,2,69,187,"Aurora Resthaven",20071010
+053,NEWMARKET--AURORA,69,0,0,77,25,23,"Aurora",186, ,1,0,0,195,388,"Aurora Public Library",20071010
+053,NEWMARKET--AURORA,51,2,1,85,28,17,"Aurora",188, ,0,0,0,184,378,"Aurora Public Library",20071010
+053,NEWMARKET--AURORA,87,2,0,99,12,8,"Aurora",190, ,0,0,0,208,366,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,90,1,1,85,17,11,"Aurora",191, ,0,1,0,206,361,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,86,2,0,78,17,11,"Aurora",192, ,1,0,0,195,390,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,105,0,1,111,22,14,"Aurora",193, ,0,1,1,255,500,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,114,0,0,116,15,8,"Aurora",194, ,1,0,0,254,496,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,93,2,0,96,11,9,"Aurora",195, ,0,0,1,212,409,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,99,1,1,81,26,28,"Aurora",196, ,1,1,1,239,415,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,100,0,0,135,23,17,"Aurora",197, ,0,2,0,277,457,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,55,0,0,60,11,17,"Aurora",198, ,0,0,0,143,320,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,3,0,1,21,1,2,"Aurora",199s, ,0,0,0,28,74,"Sunrise Living Aurora",20071010
+053,NEWMARKET--AURORA,67,1,0,92,29,11,"Aurora",200, ,1,2,1,204,400,"Aurora Public Library",20071010
+053,NEWMARKET--AURORA,47,0,3,123,14,6,"Aurora",201, ,0,0,0,193,441,"Aurora Public Library",20071010
+053,NEWMARKET--AURORA,81,0,1,130,22,9,"Aurora",202, ,0,0,0,243,490,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,70,0,0,95,29,11,"Aurora",203, ,1,0,0,206,368,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,60,1,0,66,23,25,"Aurora",204, ,1,0,0,176,343,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,71,2,2,101,21,29,"Aurora",205, ,3,0,0,229,400,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,10,0,1,12,0,4,"Aurora",206s, ,1,1,0,29,43,"Aurora Retirement Centre",20071010
+053,NEWMARKET--AURORA,66,0,1,69,18,18,"Aurora",207, ,0,0,0,172,411,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,64,2,4,67,14,9,"Aurora",208-1, ,2,0,0,162,253,"Highview Public School",20071010
+053,NEWMARKET--AURORA,60,0,0,56,12,18,"Aurora",209, ,1,0,0,147,373,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,48,1,0,37,14,22,"Aurora",210, ,0,0,0,122,344,"Regency Acres Public School",20071010
+053,NEWMARKET--AURORA,66,0,1,125,10,3,"Aurora",211, ,0,0,0,205,508,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,66,1,0,110,16,7,"Aurora",212, ,1,3,0,204,427,"St. Joseph's Catholic School",20071010
+053,NEWMARKET--AURORA,93,0,2,115,29,9,"Aurora",213, ,0,1,0,249,458,"Highview Public School",20071010
+053,NEWMARKET--AURORA,101,0,3,106,15,27,"Aurora",214, ,0,0,0,252,450,"Highview Public School",20071010
+053,NEWMARKET--AURORA,50,0,0,146,14,8,"Aurora",215, ,0,0,0,218,499,"Holy Spirit Catholic School",20071010
+053,NEWMARKET--AURORA,69,0,1,71,14,9,"Aurora",216, ,0,0,0,164,357,"Light of Christ Catholic School",20071010
+053,NEWMARKET--AURORA,93,0,2,99,28,12,"Aurora",217, ,0,2,0,236,409,"Light of Christ Catholic School",20071010
+053,NEWMARKET--AURORA,87,1,0,91,13,11,"Aurora",218, ,0,0,0,203,396,"Light of Christ Catholic School",20071010
+053,NEWMARKET--AURORA,103,3,0,102,18,14,"Aurora",219, ,1,0,0,241,427,"Highview Public School",20071010
+053,NEWMARKET--AURORA,39,0,1,58,8,2,"Aurora",220, ,0,0,0,108,260,"Highview Public School",20071010
+053,NEWMARKET--AURORA,102,1,1,108,9,6,"Aurora",221, ,0,1,0,228,431,"Light of Christ Catholic School",20071010
+053,NEWMARKET--AURORA,11,0,1,17,1,2,"Aurora",222s, ,0,0,0,32,51,"The Willows Estate Nursing Home",20071010
+053,NEWMARKET--AURORA,45,0,1,53,9,6,"Newmarket",400, ,0,1,0,115,172,"Heritage North Condominiums",20071010
+053,NEWMARKET--AURORA,47,1,0,40,4,8,"Newmarket",401, ,1,1,0,102,137,"Atwood Apartment",20071010
+053,NEWMARKET--AURORA,47,1,1,31,15,12,"Newmarket",402, ,0,0,0,107,164,"Grandview Condominiums",20071010
+053,NEWMARKET--AURORA,54,2,2,54,10,11,"Newmarket",403, ,0,0,0,133,204,"The Kingscrest",20071010
+053,NEWMARKET--AURORA,27,3,1,18,3,10,"Newmarket",404, ,0,0,0,62,95,"Carpenter's Local 27 Housing Corporation",20071010
+053,NEWMARKET--AURORA,26,1,1,36,7,17,"Newmarket",405, ,2,1,0,91,159,"Heritage East",20071010
+053,NEWMARKET--AURORA,20,1,1,37,4,10,"Newmarket",406, ,0,0,2,75,118,"Manor Green",20071010
+053,NEWMARKET--AURORA,29,1,2,14,4,16,"Newmarket",407, ,0,1,0,67,102,"Founders Place",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",408, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,..........................NO POLL HELD........................,,,,,,"Newmarket",409, ,0,0,0,0,0,"",20071010
+053,NEWMARKET--AURORA,92,2,2,85,6,23,"Newmarket",410, ,0,0,0,210,277,"20 William Roe Boulevard",20071010
+053,NEWMARKET--AURORA,28,0,2,25,7,18,"Newmarket",411, ,1,0,0,81,157,"German-Canadian Housing",20071010
+053,NEWMARKET--AURORA,31,1,1,22,15,4,"Aurora",412, ,0,0,0,74,302,"Aurora Senior Public School",20071010
+053,NEWMARKET--AURORA,46,0,0,79,6,4,"Aurora",413, ,2,1,0,138,194,"Highland Green",20071010
+053,NEWMARKET--AURORA,40,0,0,31,4,15,"Aurora",414, ,0,0,0,90,174,"Aurora Village Housing Co-operative",20071010
+053,NEWMARKET--AURORA,20,1,1,25,1,4,"Aurora",415, ,1,0,0,53,87,"Park Place Manor",20071010
+053,NEWMARKET--AURORA,516,6,12,636,83,67,"Newmarket",Advanced Polls /  ADV001, ,2,1,0,1323,0,"Returning Office / Bureau du directeur du scrutin",20071010
+053,NEWMARKET--AURORA,359,3,2,410,61,58,"Newmarket",Advanced Polls /  ADV002, ,2,1,2,898,0,"Newmarket Community Centre",20071010
+053,NEWMARKET--AURORA,327,2,2,366,64,27,"Aurora",Advanced Polls /  ADV003, ,2,0,1,791,0,"Aurora Town Hall",20071010
+053,NEWMARKET--AURORA,360,8,2,477,73,56,"Aurora",Advanced Polls /  ADV004, ,2,1,0,979,0,"Aurora Public Library",20071010
+TOTALS:, ,18105,249,269,19460,4182,3290, , , , , , , , , , 
